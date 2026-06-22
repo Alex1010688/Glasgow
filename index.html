@@ -5,7 +5,10 @@
 
   <title>Rail Map Viewer</title>
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+  />
 
   <link
     rel="stylesheet"
@@ -13,7 +16,8 @@
   />
 
   <style>
-    html, body {
+    html,
+    body {
       height: 100%;
       margin: 0;
       font-family: Arial, sans-serif;
@@ -93,14 +97,37 @@
     }
 
     .leaflet-popup-content {
+      max-width: 320px;
       font-size: 16px;
       line-height: 1.4;
+      overflow-wrap: break-word;
+    }
+
+    .leaflet-popup-content a {
+      word-break: break-word;
     }
 
     .popup-title {
       font-weight: bold;
       font-size: 18px;
       margin-bottom: 6px;
+    }
+
+    .popup-row {
+      margin-top: 4px;
+    }
+
+    .popup-description {
+      margin-top: 6px;
+    }
+
+    .popup-description img,
+    .popup-photo {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin-top: 8px;
+      border-radius: 4px;
     }
 
     .popup-link {
@@ -118,6 +145,10 @@
       .top-panel button {
         font-size: 14px;
         padding: 7px;
+      }
+
+      .leaflet-control-layers {
+        font-size: 13px;
       }
     }
   </style>
@@ -138,73 +169,104 @@
       />
       <div id="suggestions"></div>
     </div>
+
     <button onclick="searchFeature()">Find</button>
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
   <script>
+    /*
+      MAIN SETTINGS
+      Change these if you want the map to open somewhere else.
+    */
     const DEFAULT_LAT = 55.853540195666056;
     const DEFAULT_LNG = -4.259548672153644;
     const DEFAULT_ZOOM = 18;
     const MAX_MAP_ZOOM = 19;
 
-    const map = L.map('map', {
+    /*
+      GEOJSON LAYERS
+      These filenames assume all .geojson files are in the same folder as index.html.
+    */
+    const LAYER_CONFIGS = [
+      {
+        name: "Access",
+        file: "access.geojson",
+        colour: "#ff9900",
+        showOnLoad: true
+      },
+      {
+        name: "Chromium",
+        file: "chromium.geojson",
+        colour: "#ff00ff",
+        showOnLoad: true
+      },
+      {
+        name: "Locs",
+        file: "locs.geojson",
+        colour: "#00ffff",
+        showOnLoad: false
+      },
+      {
+        name: "Points",
+        file: "points.geojson",
+        colour: "#ffff00",
+        showOnLoad: true
+      },
+      {
+        name: "Signals",
+        file: "signals.geojson",
+        colour: "#ff0000",
+        showOnLoad: true
+      },
+      {
+        name: "Tracks",
+        file: "tracks.geojson",
+        colour: "#0080ff",
+        showOnLoad: false
+      }
+    ];
+
+    const map = L.map("map", {
       zoomControl: false,
       maxZoom: MAX_MAP_ZOOM
     }).setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
 
     L.control.zoom({
-      position: 'bottomright'
+      position: "bottomright"
     }).addTo(map);
 
+    /*
+      BASE MAPS
+    */
     const satellite = L.tileLayer(
-      'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+      "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
       {
         maxZoom: MAX_MAP_ZOOM,
-        maxNativeZoom: MAX_MAP_ZOOM,
-        attribution: 'Tiles &copy; Esri'
+        maxNativeZoom: 19,
+        attribution: "Tiles &copy; Esri"
       }
     );
 
     const street = L.tileLayer(
-      'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+      "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
       {
         maxZoom: MAX_MAP_ZOOM,
         maxNativeZoom: 19,
-        attribution: '&copy; OpenStreetMap contributors'
+        attribution: "&copy; OpenStreetMap contributors"
       }
     );
-
-    satellite.addTo(map);
 
     const baseMaps = {
       "Satellite": satellite,
       "Street map": street
     };
 
+    satellite.addTo(map);
+
     const overlayMaps = {};
     const allFeatures = [];
-    let geojsonLayer;
-
-    function getColour(feature) {
-      const p = feature.properties || {};
-
-      if (p.stroke) return p.stroke;
-      if (p["stroke"]) return p["stroke"];
-      if (p.colour) return p.colour;
-      if (p.color) return p.color;
-
-      return "#ffff00";
-    }
-
-    function styleFeature(feature) {
-      return {
-        color: getColour(feature),
-        weight: 5,
-        opacity: 0.95
-      };
-    }
 
     function getFeatureName(feature) {
       const p = feature.properties || {};
@@ -216,41 +278,113 @@
         p.Title ||
         p.asset_id ||
         p.AssetID ||
-        p.description ||
-        p.Description ||
+        p.code ||
+        p.Code ||
+        p.id ||
+        p.ID ||
         "Unnamed feature"
       );
     }
 
-    function popupContent(feature) {
+    function getFeatureColour(feature, layerConfig) {
       const p = feature.properties || {};
 
+      return (
+        p.colour ||
+        p.color ||
+        p.stroke ||
+        p["stroke"] ||
+        layerConfig.colour ||
+        "#ffff00"
+      );
+    }
+
+    function styleFeature(feature, layerConfig) {
+      const colour = getFeatureColour(feature, layerConfig);
+
+      return {
+        color: colour,
+        weight: 4,
+        opacity: 0.95,
+        fillColor: colour,
+        fillOpacity: 0.25
+      };
+    }
+
+    function popupContent(feature, layerName) {
+      const p = feature.properties || {};
       const name = getFeatureName(feature);
 
+      const code = p.code || p.Code || "";
+      const type = p.type || p.Type || layerName || "";
+      const notes = p.notes || p.Notes || "";
+
+      /*
+        source_description is used by the tidied Google My Maps exports.
+        description / Description are kept as fallbacks.
+      */
       const description =
         p.description ||
         p.Description ||
-        p.notes ||
-        p.Notes ||
+        p.source_description ||
         "";
 
-      const drawingUrl =
-        p.drawing_url ||
-        p.DrawingURL ||
+      const photoUrl =
         p.photo_url ||
         p.PhotoURL ||
+        "";
+
+      const mediaLinks =
+        p.photo_urls ||
+        p.gx_media_links ||
+        p.source_gx_media_links ||
+        "";
+
+      const linkUrl =
+        p.link_url ||
+        p.LinkURL ||
+        p.drawing_url ||
+        p.DrawingURL ||
         p.link ||
         p.Link ||
         "";
 
       let html = `<div class="popup-title">${name}</div>`;
 
-      if (description && description !== name) {
-        html += `<div>${description}</div>`;
+      if (type) {
+        html += `<div class="popup-row"><strong>Layer:</strong> ${type}</div>`;
       }
 
-      if (drawingUrl) {
-        html += `<a class="popup-link" href="${drawingUrl}" target="_blank">Open link</a>`;
+      if (code) {
+        html += `<div class="popup-row"><strong>Code:</strong> ${code}</div>`;
+      }
+
+      if (notes) {
+        html += `<div class="popup-row">${notes}</div>`;
+      }
+
+      if (description && description !== notes) {
+        html += `<div class="popup-description">${description}</div>`;
+      }
+
+      if (photoUrl && !description.includes(photoUrl)) {
+        html += `<img class="popup-photo" src="${photoUrl}" alt="${name}" />`;
+      }
+
+      if (mediaLinks && typeof mediaLinks === "string" && mediaLinks.startsWith("http")) {
+        const links = mediaLinks
+          .split(/[,\s]+/)
+          .filter(link => link.startsWith("http"));
+
+        links.forEach((url, index) => {
+          if (!description.includes(url) && url !== photoUrl) {
+            html += `<a class="popup-link" href="${url}" target="_blank" rel="noopener noreferrer">Open photo ${index + 1}</a>`;
+          }
+        });
+      }
+
+      if (linkUrl) {
+        html += `<a class="popup-link" href="${linkUrl}" target="_blank" rel="noopener noreferrer">Open link</a>`;
       }
 
       return html;
@@ -270,8 +404,13 @@
     }
 
     function updateSuggestions() {
-      const searchText = document.getElementById('searchBox').value.trim().toLowerCase();
-      const suggestionsBox = document.getElementById('suggestions');
+      const searchText = document
+        .getElementById("searchBox")
+        .value
+        .trim()
+        .toLowerCase();
+
+      const suggestionsBox = document.getElementById("suggestions");
 
       suggestionsBox.innerHTML = "";
 
@@ -283,10 +422,11 @@
       const matches = allFeatures
         .filter(item => {
           const p = item.feature.properties || {};
-          const searchable = JSON.stringify(p).toLowerCase();
+          const searchable = `${item.layerName} ${JSON.stringify(p)}`.toLowerCase();
+
           return searchable.includes(searchText);
         })
-        .slice(0, 8);
+        .slice(0, 10);
 
       if (matches.length === 0) {
         suggestionsBox.style.display = "none";
@@ -294,12 +434,13 @@
       }
 
       matches.forEach(item => {
-        const div = document.createElement('div');
-        div.className = 'suggestion-item';
-        div.textContent = getFeatureName(item.feature);
+        const div = document.createElement("div");
+
+        div.className = "suggestion-item";
+        div.textContent = `${getFeatureName(item.feature)} — ${item.layerName}`;
 
         div.onclick = function() {
-          document.getElementById('searchBox').value = getFeatureName(item.feature);
+          document.getElementById("searchBox").value = getFeatureName(item.feature);
           suggestionsBox.style.display = "none";
           zoomToLayer(item.layer);
         };
@@ -312,72 +453,30 @@
 
     function handleSearchKey(event) {
       if (event.key === "Enter") {
-        document.getElementById('suggestions').style.display = "none";
+        document.getElementById("suggestions").style.display = "none";
         searchFeature();
       }
 
       if (event.key === "Escape") {
-        document.getElementById('suggestions').style.display = "none";
+        document.getElementById("suggestions").style.display = "none";
       }
     }
 
-    document.addEventListener('click', function(event) {
-      const searchPanel = document.querySelector('.top-panel');
-
-      if (!searchPanel.contains(event.target)) {
-        document.getElementById('suggestions').style.display = "none";
-      }
-    });
-
-    fetch('access.geojson')
-      .then(response => {
-        if (!response.ok) {
-          throw new Error(`Could not load access.geojson. HTTP status: ${response.status}`);
-        }
-        return response.json();
-      })
-      .then(data => {
-        geojsonLayer = L.geoJSON(data, {
-          style: styleFeature,
-
-          pointToLayer: function(feature, latlng) {
-            return L.circleMarker(latlng, {
-              radius: 7,
-              color: getColour(feature),
-              weight: 3,
-              fillOpacity: 0.9
-            });
-          },
-
-          onEachFeature: function(feature, layer) {
-            layer.bindPopup(popupContent(feature));
-            allFeatures.push({ feature, layer });
-          }
-        }).addTo(map);
-
-        overlayMaps["Access points"] = geojsonLayer;
-
-        L.control.layers(baseMaps, overlayMaps, {
-          collapsed: false
-        }).addTo(map);
-
-        // Fixed default load position.
-        // This deliberately does NOT fit to all points.
-        map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
-      })
-      .catch(error => {
-        console.error(error);
-        alert(error.message);
-      });
-
     function searchFeature() {
-      const searchText = document.getElementById('searchBox').value.trim().toLowerCase();
+      const searchText = document
+        .getElementById("searchBox")
+        .value
+        .trim()
+        .toLowerCase();
 
-      if (!searchText) return;
+      if (!searchText) {
+        return;
+      }
 
       const found = allFeatures.find(item => {
         const p = item.feature.properties || {};
-        const searchable = JSON.stringify(p).toLowerCase();
+        const searchable = `${item.layerName} ${JSON.stringify(p)}`.toLowerCase();
+
         return searchable.includes(searchText);
       });
 
@@ -388,6 +487,99 @@
 
       zoomToLayer(found.layer);
     }
+
+    document.addEventListener("click", function(event) {
+      const searchPanel = document.querySelector(".top-panel");
+
+      if (!searchPanel.contains(event.target)) {
+        document.getElementById("suggestions").style.display = "none";
+      }
+    });
+
+    async function loadLayer(layerConfig) {
+      const response = await fetch(layerConfig.file);
+
+      if (!response.ok) {
+        throw new Error(`Could not load ${layerConfig.file}. HTTP status: ${response.status}`);
+      }
+
+      const data = await response.json();
+
+      const layer = L.geoJSON(data, {
+        style: function(feature) {
+          return styleFeature(feature, layerConfig);
+        },
+
+        pointToLayer: function(feature, latlng) {
+          const colour = getFeatureColour(feature, layerConfig);
+
+          return L.circleMarker(latlng, {
+            radius: 7,
+            color: colour,
+            weight: 3,
+            fillColor: colour,
+            fillOpacity: 0.85
+          });
+        },
+
+        onEachFeature: function(feature, leafletLayer) {
+          leafletLayer.bindPopup(popupContent(feature, layerConfig.name));
+
+          allFeatures.push({
+            feature: feature,
+            layer: leafletLayer,
+            layerName: layerConfig.name
+          });
+        }
+      });
+
+      overlayMaps[layerConfig.name] = layer;
+
+      if (layerConfig.showOnLoad) {
+        layer.addTo(map);
+      }
+
+      return layer;
+    }
+
+    async function loadAllLayers() {
+      try {
+        const loadedLayers = [];
+
+        for (const layerConfig of LAYER_CONFIGS) {
+          const layer = await loadLayer(layerConfig);
+          loadedLayers.push(layer);
+        }
+
+        L.control.layers(baseMaps, overlayMaps, {
+          collapsed: false
+        }).addTo(map);
+
+        const allBounds = L.latLngBounds();
+
+        loadedLayers.forEach(layer => {
+          const layerBounds = layer.getBounds();
+
+          if (layerBounds.isValid()) {
+            allBounds.extend(layerBounds);
+          }
+        });
+
+        if (allBounds.isValid()) {
+          map.fitBounds(allBounds, {
+            padding: [30, 30],
+            maxZoom: MAX_MAP_ZOOM
+          });
+        } else {
+          map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
+        }
+      } catch (error) {
+        console.error(error);
+        alert(error.message);
+      }
+    }
+
+    loadAllLayers();
   </script>
 </body>
 </html>
