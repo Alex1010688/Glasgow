@@ -205,6 +205,7 @@
     /*
       GEOJSON LAYERS
       These filenames assume all .geojson files are in the same folder as index.html.
+      Layer order below controls the order in the layer box.
     */
     const LAYER_CONFIGS = [
       {
@@ -315,6 +316,7 @@
       return (
         p.colour ||
         p.color ||
+        p.line_colour ||
         p.stroke ||
         p["stroke"] ||
         layerConfig.colour ||
@@ -322,12 +324,23 @@
       );
     }
 
+    function getFeatureLineWidth(feature) {
+      const p = feature.properties || {};
+      const width = Number(p.line_width || p["stroke-width"]);
+
+      if (Number.isFinite(width) && width > 0) {
+        return width;
+      }
+
+      return 4;
+    }
+
     function styleFeature(feature, layerConfig) {
       const colour = getFeatureColour(feature, layerConfig);
 
       return {
         color: colour,
-        weight: 4,
+        weight: getFeatureLineWidth(feature),
         opacity: 0.95,
         fillColor: colour,
         fillOpacity: 0.25
@@ -342,10 +355,6 @@
       const type = p.type || p.Type || layerName || "";
       const notes = p.notes || p.Notes || "";
 
-      /*
-        source_description is used by the tidied Google My Maps exports.
-        description / Description are kept as fallbacks.
-      */
       const description =
         p.description ||
         p.Description ||
@@ -539,7 +548,7 @@
           return L.circleMarker(latlng, {
             radius: 3.5,
             color: colour,
-            weight: 3,
+            weight: 2,
             fillColor: colour,
             fillOpacity: 0.85
           });
@@ -578,11 +587,6 @@
       const loadedLayers = [];
       const loadErrors = [];
 
-      /*
-        Load each layer independently.
-        If one GeoJSON file fails, the layer control still appears
-        and the other layers still load.
-      */
       for (const layerConfig of LAYER_CONFIGS) {
         try {
           const layer = await loadLayer(layerConfig);
@@ -593,20 +597,10 @@
         }
       }
 
-      /*
-        Add the layer box even if one or more layers failed.
-        Overlay order follows LAYER_CONFIGS.
-      */
       L.control.layers(baseMaps, overlayMaps, {
         collapsed: false
       }).addTo(map);
 
-      /*
-        Initial view:
-        zoom to the bounding box of all successfully loaded GeoJSON layers.
-        This includes layers that are hidden on load, so the opening view
-        covers the full available dataset.
-      */
       const allBounds = L.latLngBounds();
 
       loadedLayers.forEach(layer => {
@@ -628,11 +622,8 @@
 
       if (loadErrors.length > 0) {
         alert(
-          "Some layers could not be loaded:
-
-" +
-          loadErrors.join("
-")
+          "Some layers could not be loaded:\n\n" +
+          loadErrors.join("\n")
         );
       }
     }
