@@ -201,6 +201,7 @@
     const DEFAULT_LNG = -4.259548672153644;
     const DEFAULT_ZOOM = 18;
     const MAX_MAP_ZOOM = 19;
+    const LABEL_MIN_ZOOM = 18;
 
     /*
       GEOJSON LAYERS
@@ -291,6 +292,7 @@
 
     const overlayMaps = {};
     const allFeatures = [];
+    const labelledFeatures = [];
 
     function getFeatureName(feature) {
       const p = feature.properties || {};
@@ -528,6 +530,22 @@
       }
     });
 
+    function updateLabelVisibility() {
+      const labelsShouldShow = map.getZoom() >= LABEL_MIN_ZOOM;
+
+      labelledFeatures.forEach(item => {
+        const featureIsVisible = map.hasLayer(item.layer);
+
+        if (labelsShouldShow && featureIsVisible) {
+          item.layer.openTooltip();
+        } else {
+          item.layer.closeTooltip();
+        }
+      });
+    }
+
+    map.on("zoomend overlayadd overlayremove", updateLabelVisibility);
+
     async function loadLayer(layerConfig) {
       const response = await fetch(layerConfig.file);
 
@@ -559,10 +577,17 @@
 
           if (layerConfig.showLabels) {
             leafletLayer.bindTooltip(getFeatureName(feature), {
-              permanent: true,
+              permanent: false,
               direction: "top",
               offset: [0, -8],
-              className: "feature-label"
+              className: "feature-label",
+              opacity: 1
+            });
+
+            labelledFeatures.push({
+              feature: feature,
+              layer: leafletLayer,
+              layerName: layerConfig.name
             });
           }
 
@@ -619,6 +644,8 @@
       } else {
         map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
       }
+
+      updateLabelVisibility();
 
       if (loadErrors.length > 0) {
         alert(
