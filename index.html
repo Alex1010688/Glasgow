@@ -257,7 +257,6 @@
       {
         name: "Tracks",
         file: "tracks.geojson",
-        colour: "#0080ff",
         showOnLoad: true,
         showLabels: false
       },
@@ -373,6 +372,64 @@
       };
     }
 
+
+    function getPointLatLng(feature) {
+      if (
+        !feature.geometry ||
+        feature.geometry.type !== "Point" ||
+        !Array.isArray(feature.geometry.coordinates)
+      ) {
+        return null;
+      }
+
+      const lng = feature.geometry.coordinates[0];
+      const lat = feature.geometry.coordinates[1];
+
+      if (!Number.isFinite(lat) || !Number.isFinite(lng)) {
+        return null;
+      }
+
+      return {
+        lat: lat,
+        lng: lng
+      };
+    }
+
+    function navigationLinks(feature, layerName) {
+      if (layerName !== "Access") {
+        return "";
+      }
+
+      const point = getPointLatLng(feature);
+
+      if (!point) {
+        return "";
+      }
+
+      const lat = encodeURIComponent(point.lat);
+      const lng = encodeURIComponent(point.lng);
+      const destination = `${lat},${lng}`;
+
+      return `
+        <a
+          class="popup-link"
+          href="https://www.google.com/maps/dir/?api=1&destination=${destination}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Navigate with Google Maps
+        </a>
+        <a
+          class="popup-link"
+          href="https://maps.apple.com/?daddr=${destination}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Navigate with Apple Maps
+        </a>
+      `;
+    }
+
     function popupContent(feature, layerName) {
       const p = feature.properties || {};
       const name = getFeatureName(feature);
@@ -445,6 +502,8 @@
         html += `<a class="popup-link" href="${linkUrl}" target="_blank" rel="noopener noreferrer">Open link</a>`;
       }
 
+      html += navigationLinks(feature, layerName);
+
       return html;
     }
 
@@ -476,8 +535,6 @@
           fillColor: "#0055ff",
           fillOpacity: 0.85
         }).addTo(map);
-
-        userLocationMarker.bindPopup("You are here");
       }
 
       if (userAccuracyCircle) {
