@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "Access points",
+"name": "Access Points",
 "features": [
 { "type": "Feature", "properties": { "Name": "Under Central", "description": "Gateline code: 1066", "gx_media_links": null, "Code": null }, "geometry": { "type": "Point", "coordinates": [ -4.2590511, 55.8590202, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Clyde Place", "description": null, "gx_media_links": null, "Code": null }, "geometry": { "type": "Point", "coordinates": [ -4.2587834, 55.854529, 0.0 ] } },
