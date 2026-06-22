@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "name": "Chromium",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chromium-contamination",
+        "name": "Chromium contamination",
+        "type": "Chromium",
+        "colour": "#ff5252",
+        "line_colour": "#ff5252",
+        "fill_colour": "#ff5252",
+        "line_width": 3.401,
+        "source_layer": "Chromium",
+        "source_name": "Chromium contamination",
+        "source_styleUrl": "#poly-FF5252-3401-79-nodesc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.2228216,
+              55.8308731
+            ],
+            [
+              -4.2234009,
+              55.8309319
+            ],
+            [
+              -4.2240822,
+              55.8310343
+            ],
+            [
+              -4.2249513,
+              55.8311789
+            ],
+            [
+              -4.225713,
+              55.8313235
+            ],
+            [
+              -4.2265177,
+              55.8315073
+            ],
+            [
+              -4.2274216,
+              55.8317333
+            ],
+            [
+              -4.2275852,
+              55.8315269
+            ],
+            [
+              -4.2273652,
+              55.8314681
+            ],
+            [
+              -4.2263353,
+              55.8312331
+            ],
+            [
+              -4.2253911,
+              55.8310388
+            ],
+            [
+              -4.2248869,
+              55.8309469
+            ],
+            [
+              -4.2242217,
+              55.8308475
+            ],
+            [
+              -4.2229128,
+              55.8306577
+            ],
+            [
+              -4.2228216,
+              55.8308731
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
