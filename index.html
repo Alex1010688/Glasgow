@@ -152,6 +152,23 @@
       display: none;
     }
 
+    .locate-button {
+      background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      cursor: pointer;
+      width: 42px;
+      height: 42px;
+      font-size: 22px;
+      line-height: 38px;
+      text-align: center;
+      box-shadow: none;
+    }
+
+    .locate-button:hover {
+      background: #f4f4f4;
+    }
+
     @media (max-width: 600px) {
       .top-panel {
         max-width: 270px;
@@ -212,28 +229,28 @@
       {
         name: "Access",
         file: "access.geojson",
-        colour: "#ff9900",
+        colour: "#00ffff",
         showOnLoad: true,
         showLabels: true
       },
       {
         name: "Points",
         file: "points.geojson",
-        colour: "#ffff00",
+        colour: "#ff00ff",
         showOnLoad: true,
         showLabels: true
       },
       {
         name: "Signals",
         file: "signals.geojson",
-        colour: "#ff0000",
+        colour: "#ff9900",
         showOnLoad: true,
         showLabels: false
       },
       {
         name: "Locs",
         file: "locs.geojson",
-        colour: "#00ffff",
+        colour: "#000000",
         showOnLoad: true,
         showLabels: false
       },
@@ -247,7 +264,7 @@
       {
         name: "Chromium",
         file: "chromium.geojson",
-        colour: "#ff00ff",
+        colour: "#ff0000",
         showOnLoad: true,
         showLabels: false
       }
@@ -294,6 +311,9 @@
     const allFeatures = [];
     const labelledFeatures = [];
 
+    let userLocationMarker = null;
+    let userAccuracyCircle = null;
+
     function getFeatureName(feature) {
       const p = feature.properties || {};
 
@@ -315,13 +335,17 @@
     function getFeatureColour(feature, layerConfig) {
       const p = feature.properties || {};
 
+      /*
+        Marker/line colour is controlled from LAYER_CONFIGS first.
+        This keeps the map styling easy to amend without editing GeoJSON.
+      */
       return (
+        layerConfig.colour ||
         p.colour ||
         p.color ||
         p.line_colour ||
         p.stroke ||
         p["stroke"] ||
-        layerConfig.colour ||
         "#ffff00"
       );
     }
@@ -436,6 +460,78 @@
 
       layer.openPopup();
     }
+
+
+    function showUserLocation(event) {
+      const latlng = event.latlng;
+      const accuracy = event.accuracy || 0;
+
+      if (userLocationMarker) {
+        userLocationMarker.setLatLng(latlng);
+      } else {
+        userLocationMarker = L.circleMarker(latlng, {
+          radius: 7,
+          color: "#0055ff",
+          weight: 3,
+          fillColor: "#0055ff",
+          fillOpacity: 0.85
+        }).addTo(map);
+
+        userLocationMarker.bindPopup("You are here");
+      }
+
+      if (userAccuracyCircle) {
+        userAccuracyCircle.setLatLng(latlng);
+        userAccuracyCircle.setRadius(accuracy);
+      } else {
+        userAccuracyCircle = L.circle(latlng, {
+          radius: accuracy,
+          color: "#0055ff",
+          weight: 1,
+          fillColor: "#0055ff",
+          fillOpacity: 0.12
+        }).addTo(map);
+      }
+
+      userLocationMarker.openPopup();
+    }
+
+    function handleLocationError(error) {
+      alert("Could not get your location: " + error.message);
+    }
+
+    function locateUser() {
+      map.locate({
+        setView: true,
+        maxZoom: 18,
+        enableHighAccuracy: true,
+        watch: false
+      });
+    }
+
+    map.on("locationfound", showUserLocation);
+    map.on("locationerror", handleLocationError);
+
+    const locateControl = L.control({
+      position: "bottomleft"
+    });
+
+    locateControl.onAdd = function() {
+      const button = L.DomUtil.create("button", "locate-button");
+      button.type = "button";
+      button.title = "Show my location";
+      button.innerHTML = "⌖";
+
+      L.DomEvent.disableClickPropagation(button);
+      L.DomEvent.on(button, "click", function(event) {
+        L.DomEvent.preventDefault(event);
+        locateUser();
+      });
+
+      return button;
+    };
+
+    locateControl.addTo(map);
 
     function updateSuggestions() {
       const searchText = document
