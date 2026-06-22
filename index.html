@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+
+  <title>Rail Map Viewer</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    #map {
+      height: 100%;
+      width: 100%;
+    }
+
+    .top-panel {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      right: 10px;
+      z-index: 1000;
+      display: flex;
+      gap: 8px;
+      pointer-events: none;
+    }
+
+    .top-panel input,
+    .top-panel button {
+      pointer-events: auto;
+      font-size: 18px;
+      padding: 10px;
+      border: 1px solid #555;
+      border-radius: 6px;
+      background: white;
+    }
+
+    .top-panel input {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .leaflet-popup-content {
+      font-size: 16px;
+      line-height: 1.4;
+    }
+
+    .popup-title {
+      font-weight: bold;
+      font-size: 18px;
+      margin-bottom: 6px;
+    }
+
+    .popup-link {
+      display: block;
+      margin-top: 6px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="map"></div>
+
+  <div class="top-panel">
+    <input id="searchBox" type="text" placeholder="Search 355A, Gantry E, 357..." />
+    <button onclick="searchFeature()">Find</button>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <script>
+    const map = L.map('map', {
+      zoomControl: false
+    }).setView([55.855, -4.255], 18);
+
+    L.control.zoom({
+      position: 'bottomright'
+    }).addTo(map);
+
+    const satellite = L.tileLayer(
+      'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+      {
+        maxZoom: 20,
+        attribution: 'Tiles &copy; Esri'
+      }
+    );
+
+    const street = L.tileLayer(
+      'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+      {
+        maxZoom: 19,
+        attribution: '&copy; OpenStreetMap contributors'
+      }
+    );
+
+    satellite.addTo(map);
+
+    const baseMaps = {
+      "Satellite": satellite,
+      "Street map": street
+    };
+
+    const overlayMaps = {};
+    const allFeatures = [];
+    let geojsonLayer;
+
+    function getColour(feature) {
+      const p = feature.properties || {};
+
+      // Try to preserve colour exported from Google/My Maps/GeoJSON
+      if (p.stroke) return p.stroke;
+      if (p["stroke"]) return p["stroke"];
+      if (p.colour) return p.colour;
+      if (p.color) return p.color;
+
+      // Fallback colour
+      return "#ffff00";
+    }
+
+    function styleFeature(feature) {
+      return {
+        color: getColour(feature),
+        weight: 5,
+        opacity: 0.95
+      };
+    }
+
+    function popupContent(feature) {
+      const p = feature.properties || {};
+
+      const name =
+        p.name ||
+        p.Name ||
+        p.title ||
+        p.Title ||
+        "Unnamed feature";
+
+      const description =
+        p.description ||
+        p.Description ||
+        p.notes ||
+        p.Notes ||
+        "";
+
+      const drawingUrl =
+        p.drawing_url ||
+        p.DrawingURL ||
+        p.link ||
+        p.Link ||
+        "";
+
+      let html = `<div class="popup-title">${name}</div>`;
+
+      if (description) {
+        html += `<div>${description}</div>`;
+      }
+
+      if (drawingUrl) {
+        html += `<a class="popup-link" href="${drawingUrl}" target="_blank">Open link</a>`;
+      }
+
+      return html;
+    }
+
+    fetch('map.geojson')
+      .then(response => response.json())
+      .then(data => {
+        geojsonLayer = L.geoJSON(data, {
+          style: styleFeature,
+
+          pointToLayer: function(feature, latlng) {
+            return L.circleMarker(latlng, {
+              radius: 7,
+              color: getColour(feature),
+              weight: 3,
+              fillOpacity: 0.9
+            });
+          },
+
+          onEachFeature: function(feature, layer) {
+            layer.bindPopup(popupContent(feature));
+            allFeatures.push({ feature, layer });
+          }
+        }).addTo(map);
+
+        overlayMaps["Map data"] = geojsonLayer;
+
+        L.control.layers(baseMaps, overlayMaps, {
+          collapsed: false
+        }).addTo(map);
+
+        map.fitBounds(geojsonLayer.getBounds(), {
+          padding: [20, 20]
+        });
+      });
+
+    function searchFeature() {
+      const searchText = document.getElementById('searchBox').value.trim().toLowerCase();
+
+      if (!searchText) return;
+
+      const found = allFeatures.find(item => {
+        const p = item.feature.properties || {};
+        const searchable = JSON.stringify(p).toLowerCase();
+        return searchable.includes(searchText);
+      });
+
+      if (!found) {
+        alert("No matching item found");
+        return;
+      }
+
+      const layer = found.layer;
+
+      if (layer.getBounds) {
+        map.fitBounds(layer.getBounds(), {
+          padding: [50, 50],
+          maxZoom: 20
+        });
+      } else if (layer.getLatLng) {
+        map.setView(layer.getLatLng(), 20);
+      }
+
+      layer.openPopup();
+    }
+  </script>
+</body>
+</html>
