@@ -230,6 +230,8 @@
         name: "Access",
         file: "access.geojson",
         colour: "#00ffff",
+        pane: "accessPane",
+        zIndex: 650,
         showOnLoad: true,
         showLabels: true
       },
@@ -237,6 +239,8 @@
         name: "Points",
         file: "points.geojson",
         colour: "#ff00ff",
+        pane: "pointsPane",
+        zIndex: 640,
         showOnLoad: true,
         showLabels: true
       },
@@ -244,6 +248,8 @@
         name: "Signals",
         file: "signals.geojson",
         colour: "#ff9900",
+        pane: "signalsPane",
+        zIndex: 630,
         showOnLoad: true,
         showLabels: false
       },
@@ -251,12 +257,16 @@
         name: "Locs",
         file: "locs.geojson",
         colour: "#000000",
+        pane: "locsPane",
+        zIndex: 620,
         showOnLoad: true,
         showLabels: false
       },
       {
         name: "Tracks",
         file: "tracks.geojson",
+        pane: "tracksPane",
+        zIndex: 610,
         showOnLoad: true,
         showLabels: false
       },
@@ -264,6 +274,8 @@
         name: "Chromium",
         file: "chromium.geojson",
         colour: "#ff0000",
+        pane: "chromiumPane",
+        zIndex: 600,
         showOnLoad: true,
         showLabels: false
       }
@@ -273,6 +285,34 @@
       zoomControl: false,
       maxZoom: MAX_MAP_ZOOM
     }).setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
+
+    /*
+      ACTUAL VISUAL LAYER ORDER
+      Higher zIndex draws above lower zIndex.
+
+      Top to bottom:
+        Access
+        Points
+        Signals
+        Locs
+        Tracks
+        Chromium
+    */
+    function createLayerPanes() {
+      LAYER_CONFIGS.forEach(layerConfig => {
+        if (!layerConfig.pane || map.getPane(layerConfig.pane)) {
+          return;
+        }
+
+        map.createPane(layerConfig.pane);
+        map.getPane(layerConfig.pane).style.zIndex = layerConfig.zIndex;
+      });
+    }
+
+    createLayerPanes();
+
+    map.createPane("userLocationPane");
+    map.getPane("userLocationPane").style.zIndex = 700;
 
     L.control.zoom({
       position: "bottomright"
@@ -364,6 +404,7 @@
       const colour = getFeatureColour(feature, layerConfig);
 
       return {
+        pane: layerConfig.pane,
         color: colour,
         weight: getFeatureLineWidth(feature),
         opacity: 0.95,
@@ -517,6 +558,7 @@
         userLocationMarker.setLatLng(latlng);
       } else {
         userLocationMarker = L.circleMarker(latlng, {
+          pane: "userLocationPane",
           radius: 7,
           color: "#0055ff",
           weight: 3,
@@ -530,6 +572,7 @@
         userAccuracyCircle.setRadius(accuracy);
       } else {
         userAccuracyCircle = L.circle(latlng, {
+          pane: "userLocationPane",
           radius: accuracy,
           color: "#0055ff",
           weight: 1,
@@ -697,6 +740,8 @@
       const data = await response.json();
 
       const layer = L.geoJSON(data, {
+        pane: layerConfig.pane,
+
         style: function(feature) {
           return styleFeature(feature, layerConfig);
         },
@@ -705,6 +750,7 @@
           const colour = getFeatureColour(feature, layerConfig);
 
           return L.circleMarker(latlng, {
+            pane: layerConfig.pane,
             radius: 3.5,
             color: colour,
             weight: 2,
