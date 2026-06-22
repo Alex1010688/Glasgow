@@ -28,18 +28,19 @@
       position: absolute;
       top: 10px;
       left: 10px;
-      right: 10px;
       z-index: 1000;
       display: flex;
-      gap: 8px;
+      gap: 6px;
       pointer-events: none;
+      max-width: 360px;
+      width: calc(100% - 150px);
     }
 
     .top-panel input,
     .top-panel button {
       pointer-events: auto;
-      font-size: 18px;
-      padding: 10px;
+      font-size: 15px;
+      padding: 8px;
       border: 1px solid #555;
       border-radius: 6px;
       background: white;
@@ -48,6 +49,47 @@
     .top-panel input {
       flex: 1;
       min-width: 0;
+    }
+
+    .top-panel button {
+      white-space: nowrap;
+    }
+
+    .search-wrapper {
+      position: relative;
+      flex: 1;
+      min-width: 0;
+    }
+
+    #searchBox {
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    #suggestions {
+      display: none;
+      position: absolute;
+      top: 39px;
+      left: 0;
+      right: 0;
+      max-height: 220px;
+      overflow-y: auto;
+      background: white;
+      border: 1px solid #666;
+      border-radius: 6px;
+      z-index: 1200;
+      pointer-events: auto;
+      font-size: 15px;
+    }
+
+    .suggestion-item {
+      padding: 8px;
+      cursor: pointer;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .suggestion-item:hover {
+      background: #eee;
     }
 
     .leaflet-popup-content {
@@ -65,6 +107,19 @@
       display: block;
       margin-top: 6px;
     }
+
+    @media (max-width: 600px) {
+      .top-panel {
+        max-width: 270px;
+        width: calc(100% - 115px);
+      }
+
+      .top-panel input,
+      .top-panel button {
+        font-size: 14px;
+        padding: 7px;
+      }
+    }
   </style>
 </head>
 
@@ -72,16 +127,32 @@
   <div id="map"></div>
 
   <div class="top-panel">
-    <input id="searchBox" type="text" placeholder="Search 355A, Gantry E, 357..." />
+    <div class="search-wrapper">
+      <input
+        id="searchBox"
+        type="text"
+        placeholder="Search..."
+        autocomplete="off"
+        oninput="updateSuggestions()"
+        onkeydown="handleSearchKey(event)"
+      />
+      <div id="suggestions"></div>
+    </div>
     <button onclick="searchFeature()">Find</button>
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
   <script>
+    const DEFAULT_LAT = 55.853540195666056;
+    const DEFAULT_LNG = -4.259548672153644;
+    const DEFAULT_ZOOM = 18;
+    const MAX_MAP_ZOOM = 19;
+
     const map = L.map('map', {
-      zoomControl: false
-    }).setView([55.855, -4.255], 18);
+      zoomControl: false,
+      maxZoom: MAX_MAP_ZOOM
+    }).setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
 
     L.control.zoom({
       position: 'bottomright'
@@ -90,7 +161,8 @@
     const satellite = L.tileLayer(
       'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
       {
-        maxZoom: 20,
+        maxZoom: MAX_MAP_ZOOM,
+        maxNativeZoom: MAX_MAP_ZOOM,
         attribution: 'Tiles &copy; Esri'
       }
     );
@@ -98,7 +170,8 @@
     const street = L.tileLayer(
       'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
       {
-        maxZoom: 19,
+        maxZoom: MAX_MAP_ZOOM,
+        maxNativeZoom: 19,
         attribution: '&copy; OpenStreetMap contributors'
       }
     );
@@ -117,13 +190,11 @@
     function getColour(feature) {
       const p = feature.properties || {};
 
-      // Try to preserve colour exported from Google/My Maps/GeoJSON
       if (p.stroke) return p.stroke;
       if (p["stroke"]) return p["stroke"];
       if (p.colour) return p.colour;
       if (p.color) return p.color;
 
-      // Fallback colour
       return "#ffff00";
     }
 
@@ -135,15 +206,26 @@
       };
     }
 
-    function popupContent(feature) {
+    function getFeatureName(feature) {
       const p = feature.properties || {};
 
-      const name =
+      return (
         p.name ||
         p.Name ||
         p.title ||
         p.Title ||
-        "Unnamed feature";
+        p.asset_id ||
+        p.AssetID ||
+        p.description ||
+        p.Description ||
+        "Unnamed feature"
+      );
+    }
+
+    function popupContent(feature) {
+      const p = feature.properties || {};
+
+      const name = getFeatureName(feature);
 
       const description =
         p.description ||
@@ -155,13 +237,15 @@
       const drawingUrl =
         p.drawing_url ||
         p.DrawingURL ||
+        p.photo_url ||
+        p.PhotoURL ||
         p.link ||
         p.Link ||
         "";
 
       let html = `<div class="popup-title">${name}</div>`;
 
-      if (description) {
+      if (description && description !== name) {
         html += `<div>${description}</div>`;
       }
 
@@ -172,8 +256,86 @@
       return html;
     }
 
+    function zoomToLayer(layer) {
+      if (layer.getBounds) {
+        map.fitBounds(layer.getBounds(), {
+          padding: [50, 50],
+          maxZoom: MAX_MAP_ZOOM
+        });
+      } else if (layer.getLatLng) {
+        map.setView(layer.getLatLng(), MAX_MAP_ZOOM);
+      }
+
+      layer.openPopup();
+    }
+
+    function updateSuggestions() {
+      const searchText = document.getElementById('searchBox').value.trim().toLowerCase();
+      const suggestionsBox = document.getElementById('suggestions');
+
+      suggestionsBox.innerHTML = "";
+
+      if (!searchText) {
+        suggestionsBox.style.display = "none";
+        return;
+      }
+
+      const matches = allFeatures
+        .filter(item => {
+          const p = item.feature.properties || {};
+          const searchable = JSON.stringify(p).toLowerCase();
+          return searchable.includes(searchText);
+        })
+        .slice(0, 8);
+
+      if (matches.length === 0) {
+        suggestionsBox.style.display = "none";
+        return;
+      }
+
+      matches.forEach(item => {
+        const div = document.createElement('div');
+        div.className = 'suggestion-item';
+        div.textContent = getFeatureName(item.feature);
+
+        div.onclick = function() {
+          document.getElementById('searchBox').value = getFeatureName(item.feature);
+          suggestionsBox.style.display = "none";
+          zoomToLayer(item.layer);
+        };
+
+        suggestionsBox.appendChild(div);
+      });
+
+      suggestionsBox.style.display = "block";
+    }
+
+    function handleSearchKey(event) {
+      if (event.key === "Enter") {
+        document.getElementById('suggestions').style.display = "none";
+        searchFeature();
+      }
+
+      if (event.key === "Escape") {
+        document.getElementById('suggestions').style.display = "none";
+      }
+    }
+
+    document.addEventListener('click', function(event) {
+      const searchPanel = document.querySelector('.top-panel');
+
+      if (!searchPanel.contains(event.target)) {
+        document.getElementById('suggestions').style.display = "none";
+      }
+    });
+
     fetch('access.geojson')
-      .then(response => response.json())
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`Could not load access.geojson. HTTP status: ${response.status}`);
+        }
+        return response.json();
+      })
       .then(data => {
         geojsonLayer = L.geoJSON(data, {
           style: styleFeature,
@@ -193,15 +355,19 @@
           }
         }).addTo(map);
 
-        overlayMaps["Map data"] = geojsonLayer;
+        overlayMaps["Access points"] = geojsonLayer;
 
         L.control.layers(baseMaps, overlayMaps, {
           collapsed: false
         }).addTo(map);
 
-        map.fitBounds(geojsonLayer.getBounds(), {
-          padding: [20, 20]
-        });
+        // Fixed default load position.
+        // This deliberately does NOT fit to all points.
+        map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
+      })
+      .catch(error => {
+        console.error(error);
+        alert(error.message);
       });
 
     function searchFeature() {
@@ -220,18 +386,7 @@
         return;
       }
 
-      const layer = found.layer;
-
-      if (layer.getBounds) {
-        map.fitBounds(layer.getBounds(), {
-          padding: [50, 50],
-          maxZoom: 20
-        });
-      } else if (layer.getLatLng) {
-        map.setView(layer.getLatLng(), 20);
-      }
-
-      layer.openPopup();
+      zoomToLayer(found.layer);
     }
   </script>
 </body>
