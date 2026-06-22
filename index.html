@@ -419,14 +419,6 @@
         >
           Navigate with Google Maps
         </a>
-        <a
-          class="popup-link"
-          href="https://maps.apple.com/?daddr=${destination}"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Navigate with Apple Maps
-        </a>
       `;
     }
 
@@ -465,10 +457,6 @@
         "";
 
       let html = `<div class="popup-title">${name}</div>`;
-
-      if (type) {
-        html += `<div class="popup-row"><strong>Layer:</strong> ${type}</div>`;
-      }
 
       if (code) {
         html += `<div class="popup-row"><strong>Code:</strong> ${code}</div>`;
