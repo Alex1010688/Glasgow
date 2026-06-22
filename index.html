@@ -135,6 +135,23 @@
       margin-top: 6px;
     }
 
+    .feature-label {
+      background: rgba(255, 255, 255, 0.85);
+      border: 1px solid #555;
+      border-radius: 4px;
+      box-shadow: none;
+      color: #111;
+      font-size: 11px;
+      font-weight: bold;
+      line-height: 1.1;
+      padding: 2px 4px;
+      white-space: nowrap;
+    }
+
+    .feature-label::before {
+      display: none;
+    }
+
     @media (max-width: 600px) {
       .top-panel {
         max-width: 270px;
@@ -194,37 +211,43 @@
         name: "Access",
         file: "access.geojson",
         colour: "#ff9900",
-        showOnLoad: true
-      },
-      {
-        name: "Chromium",
-        file: "chromium.geojson",
-        colour: "#ff00ff",
-        showOnLoad: true
-      },
-      {
-        name: "Locs",
-        file: "locs.geojson",
-        colour: "#00ffff",
-        showOnLoad: false
+        showOnLoad: true,
+        showLabels: true
       },
       {
         name: "Points",
         file: "points.geojson",
         colour: "#ffff00",
-        showOnLoad: true
+        showOnLoad: true,
+        showLabels: true
       },
       {
         name: "Signals",
         file: "signals.geojson",
         colour: "#ff0000",
-        showOnLoad: true
+        showOnLoad: true,
+        showLabels: false
+      },
+      {
+        name: "Locs",
+        file: "locs.geojson",
+        colour: "#00ffff",
+        showOnLoad: true,
+        showLabels: false
       },
       {
         name: "Tracks",
         file: "tracks.geojson",
         colour: "#0080ff",
-        showOnLoad: false
+        showOnLoad: true,
+        showLabels: false
+      },
+      {
+        name: "Chromium",
+        file: "chromium.geojson",
+        colour: "#ff00ff",
+        showOnLoad: true,
+        showLabels: false
       }
     ];
 
@@ -514,7 +537,7 @@
           const colour = getFeatureColour(feature, layerConfig);
 
           return L.circleMarker(latlng, {
-            radius: 7,
+            radius: 3.5,
             color: colour,
             weight: 3,
             fillColor: colour,
@@ -524,6 +547,15 @@
 
         onEachFeature: function(feature, leafletLayer) {
           leafletLayer.bindPopup(popupContent(feature, layerConfig.name));
+
+          if (layerConfig.showLabels) {
+            leafletLayer.bindTooltip(getFeatureName(feature), {
+              permanent: true,
+              direction: "top",
+              offset: [0, -8],
+              className: "feature-label"
+            });
+          }
 
           allFeatures.push({
             feature: feature,
@@ -543,39 +575,65 @@
     }
 
     async function loadAllLayers() {
-      try {
-        const loadedLayers = [];
+      const loadedLayers = [];
+      const loadErrors = [];
 
-        for (const layerConfig of LAYER_CONFIGS) {
+      /*
+        Load each layer independently.
+        If one GeoJSON file fails, the layer control still appears
+        and the other layers still load.
+      */
+      for (const layerConfig of LAYER_CONFIGS) {
+        try {
           const layer = await loadLayer(layerConfig);
           loadedLayers.push(layer);
+        } catch (error) {
+          console.error(error);
+          loadErrors.push(`${layerConfig.name}: ${error.message}`);
         }
+      }
 
-        L.control.layers(baseMaps, overlayMaps, {
-          collapsed: false
-        }).addTo(map);
+      /*
+        Add the layer box even if one or more layers failed.
+        Overlay order follows LAYER_CONFIGS.
+      */
+      L.control.layers(baseMaps, overlayMaps, {
+        collapsed: false
+      }).addTo(map);
 
-        const allBounds = L.latLngBounds();
+      /*
+        Initial view:
+        zoom to the bounding box of all successfully loaded GeoJSON layers.
+        This includes layers that are hidden on load, so the opening view
+        covers the full available dataset.
+      */
+      const allBounds = L.latLngBounds();
 
-        loadedLayers.forEach(layer => {
-          const layerBounds = layer.getBounds();
+      loadedLayers.forEach(layer => {
+        const layerBounds = layer.getBounds();
 
-          if (layerBounds.isValid()) {
-            allBounds.extend(layerBounds);
-          }
+        if (layerBounds.isValid()) {
+          allBounds.extend(layerBounds);
+        }
+      });
+
+      if (allBounds.isValid()) {
+        map.fitBounds(allBounds, {
+          padding: [30, 30],
+          maxZoom: MAX_MAP_ZOOM
         });
+      } else {
+        map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
+      }
 
-        if (allBounds.isValid()) {
-          map.fitBounds(allBounds, {
-            padding: [30, 30],
-            maxZoom: MAX_MAP_ZOOM
-          });
-        } else {
-          map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
-        }
-      } catch (error) {
-        console.error(error);
-        alert(error.message);
+      if (loadErrors.length > 0) {
+        alert(
+          "Some layers could not be loaded:
+
+" +
+          loadErrors.join("
+")
+        );
       }
     }
 
