@@ -1,17 +1,12 @@
 {
   "type": "FeatureCollection",
-  "name": "Signals",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5125",
         "name": "GB5125",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5125",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -24,13 +19,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5128",
         "name": "GB5128",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5128",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -43,13 +34,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5129",
         "name": "GB5129",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5129",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -62,13 +49,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5130",
         "name": "GB5130",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5130",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -81,13 +64,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5131",
         "name": "GB5131",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5131",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -100,13 +79,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5135",
         "name": "GB5135",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5135",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -119,13 +94,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5137",
         "name": "GB5137",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5137",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -138,13 +109,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5138",
         "name": "GB5138",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5138",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -157,13 +124,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5139",
         "name": "GB5139",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5139",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -176,13 +139,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5141",
         "name": "GB5141",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5141",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -195,13 +154,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5140",
         "name": "GB5140",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5140",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -214,13 +169,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5142",
         "name": "GB5142",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5142",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -233,13 +184,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5144",
         "name": "GB5144",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5144",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -252,13 +199,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5145",
         "name": "GB5145",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5145",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -271,13 +214,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5147",
         "name": "GB5147",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5147",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -290,13 +229,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5148",
         "name": "GB5148",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5148",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -309,13 +244,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5149",
         "name": "GB5149",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5149",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -328,13 +259,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5151",
         "name": "GB5151",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5151",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -347,13 +274,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5163",
         "name": "GB5163",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5163",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -366,13 +289,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5170",
         "name": "GB5170",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5170",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -385,13 +304,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5169",
         "name": "GB5169",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5169",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -404,13 +319,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5168",
         "name": "GB5168",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5168",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -423,13 +334,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5167",
         "name": "GB5167",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5167",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -442,13 +349,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5162",
         "name": "GB5162",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5162",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -461,13 +364,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5164",
         "name": "GB5164",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5164",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -480,13 +379,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5165",
         "name": "GB5165",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5165",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -499,13 +394,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5166",
         "name": "GB5166",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5166",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -518,13 +409,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5171",
         "name": "GB5171",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5171",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -537,13 +424,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5174",
         "name": "GB5174",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5174",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -556,13 +439,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5173",
         "name": "GB5173",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5173",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -575,13 +454,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5175",
         "name": "GB5175",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5175",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -594,13 +469,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5176",
         "name": "GB5176",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5176",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -613,13 +484,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5177",
         "name": "GB5177",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5177",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -632,13 +499,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5181",
         "name": "GB5181",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5181",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -651,13 +514,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5183",
         "name": "GB5183",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5183",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -670,13 +529,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5185",
         "name": "GB5185",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5185",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -689,13 +544,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5180",
         "name": "GB5180",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5180",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -708,13 +559,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5180br",
         "name": "GB5180BR",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5180BR",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -727,13 +574,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5186",
         "name": "GB5186",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5186",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -746,13 +589,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5184",
         "name": "GB5184",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5184",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -765,13 +604,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5908",
         "name": "GS5908",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5908",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -784,13 +619,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5907",
         "name": "GS5907",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5907",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -803,13 +634,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5906",
         "name": "GS5906",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5906",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -822,17 +649,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-a",
         "name": "Gantry A",
         "type": "Signals",
-        "notes": "GG5520 GG5522 GG5524 GG5526 GG5528 GG5530 GG5532 GG5533 GG5531 GG5539 GG5527 GG5525 GG5523 GG5521",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry A",
-        "source_description": "GG5520<br>GG5522<br>GG5524<br>GG5526<br>GG5528<br>GG5530<br>GG5532<br>GG5533<br>GG5531<br>GG5539<br>GG5527<br>GG5525<br>GG5523<br>GG5521",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5520 GG5522 GG5524 GG5526 GG5528 GG5530 GG5532 GG5533 GG5531 GG5539 GG5527 GG5525 GG5523 GG5521"
       },
       "geometry": {
         "type": "LineString",
@@ -851,17 +670,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-b",
         "name": "Gantry B",
         "type": "Signals",
-        "notes": "GG5484 GG5486 GG5489 GG5487",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry B",
-        "source_description": "GG5484<br>GG5486<br>GG5489<br>GG5487",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5484 GG5486 GG5489 GG5487"
       },
       "geometry": {
         "type": "LineString",
@@ -880,17 +691,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-c",
         "name": "Gantry C",
         "type": "Signals",
-        "notes": "GG5284 GG5288 GG5290 GG5285 GG5283 GG5281",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry C",
-        "source_description": "GG5284<br>GG5288<br>GG5290<br>GG5285<br>GG5283<br>GG5281",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5284 GG5288 GG5290 GG5285 GG5283 GG5281"
       },
       "geometry": {
         "type": "LineString",
@@ -909,17 +712,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-d",
         "name": "Gantry D",
         "type": "Signals",
-        "notes": "GG5490 GG5483 GG5481",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry D",
-        "source_description": "GG5490<br>GG5483<br>GG5481",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5490 GG5483 GG5481"
       },
       "geometry": {
         "type": "LineString",
@@ -938,17 +733,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-e",
         "name": "Gantry E",
         "type": "Signals",
-        "notes": "GG5464 GG5466 GG5470 GG5469 GG5467",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry E",
-        "source_description": "GG5464<br>GG5466<br>GG5470<br>GG5469<br>GG5467",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5464 GG5466 GG5470 GG5469 GG5467"
       },
       "geometry": {
         "type": "LineString",
@@ -967,17 +754,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-f",
         "name": "Gantry F",
         "type": "Signals",
-        "notes": "GG5264 GG5268 GG5270 GG5265 GG5263 GG5261",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry F",
-        "source_description": "GG5264<br>GG5268<br>GG5270<br>GG5265<br>GG5263<br>GG5261",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5264 GG5268 GG5270 GG5265 GG5263 GG5261"
       },
       "geometry": {
         "type": "LineString",
@@ -996,17 +775,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-g",
         "name": "Gantry G",
         "type": "Signals",
-        "notes": "GG5244 GG5248 GG5250 GG5249 GG5245 GG5243 GG5241",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry G",
-        "source_description": "GG5244<br>GG5248<br>GG5250<br>GG5249<br>GG5245<br>GG5243<br>GG5241",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5244 GG5248 GG5250 GG5249 GG5245 GG5243 GG5241"
       },
       "geometry": {
         "type": "LineString",
@@ -1025,17 +796,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-h",
         "name": "Gantry H",
         "type": "Signals",
-        "notes": "GG5229 GG5225 GG5223 GG5221",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry H",
-        "source_description": "GG5229<br>GG5225<br>GG5223<br>GG5221",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5229 GG5225 GG5223 GG5221"
       },
       "geometry": {
         "type": "LineString",
@@ -1054,17 +817,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-i",
         "name": "Gantry I",
         "type": "Signals",
-        "notes": "GG5224 GG5228",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry I",
-        "source_description": "GG5224<br>GG5228",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5224 GG5228"
       },
       "geometry": {
         "type": "LineString",
@@ -1083,13 +838,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr879",
         "name": "GR879",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR879",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1102,13 +853,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gmn128",
         "name": "GMN128",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GMN128",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1121,13 +868,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr877",
         "name": "GR877",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR877",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1140,13 +883,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr873",
         "name": "GR873",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR873",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1159,13 +898,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr874",
         "name": "GR874",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR874",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1178,13 +913,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr872",
         "name": "GR872",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR872",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1197,13 +928,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr871",
         "name": "GR871",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR871",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1216,13 +943,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr865",
         "name": "GR865",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR865",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1235,13 +958,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr864",
         "name": "GR864",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR864",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1254,17 +973,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry",
         "name": "Gantry",
         "type": "Signals",
-        "notes": "GR865 GR860 GR862",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry",
-        "source_description": "GR865<br>GR860<br>GR862",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GR865 GR860 GR862"
       },
       "geometry": {
         "type": "LineString",
@@ -1283,17 +994,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry",
         "name": "Gantry",
         "type": "Signals",
-        "notes": "GR851 GR853 GR855",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry",
-        "source_description": "GR851<br>GR853<br>GR855",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GR851 GR853 GR855"
       },
       "geometry": {
         "type": "LineString",
@@ -1312,13 +1015,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr834",
         "name": "GR834",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR834",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1331,17 +1030,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "cantilever",
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR828 GR832",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Cantilever",
-        "source_description": "GR828<br>GR832",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GR828 GR832"
       },
       "geometry": {
         "type": "LineString",
@@ -1360,17 +1051,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "cantilever",
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR844 GR846",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Cantilever",
-        "source_description": "GR844<br>GR846",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GR844 GR846"
       },
       "geometry": {
         "type": "LineString",
@@ -1389,13 +1072,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr848",
         "name": "GR848",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR848",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1408,13 +1087,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr831",
         "name": "GR831",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR831",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1427,13 +1102,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr833",
         "name": "GR833",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR833",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1446,13 +1117,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr835",
         "name": "GR835",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR835",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1465,13 +1132,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr836",
         "name": "GR836",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR836",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1484,13 +1147,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr827",
         "name": "GR827",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR827",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1503,13 +1162,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr823",
         "name": "GR823",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR823",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1522,13 +1177,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr818",
         "name": "GR818",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR818",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1541,17 +1192,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "cantilever",
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR811 GR813",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Cantilever",
-        "source_description": "GR811<br>GR813",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GR811 GR813"
       },
       "geometry": {
         "type": "LineString",
@@ -1570,13 +1213,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr815",
         "name": "GR815",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR815",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1589,13 +1228,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr802",
         "name": "GR802",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR802",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1608,13 +1243,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr804",
         "name": "GR804",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR804",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1627,13 +1258,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr806",
         "name": "GR806",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR806",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1646,13 +1273,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr808",
         "name": "GR808",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR808",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1665,13 +1288,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr800",
         "name": "GR800",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR800",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1684,13 +1303,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr798",
         "name": "GR798",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR798",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1703,13 +1318,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr794",
         "name": "GR794",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR794",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1722,17 +1333,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "cantilever",
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR781 GR783",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Cantilever",
-        "source_description": "GR781<br>GR783",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GR781 GR783"
       },
       "geometry": {
         "type": "LineString",
@@ -1751,13 +1354,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr785",
         "name": "GR785",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR785",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1770,13 +1369,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr789",
         "name": "GR789",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR789",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1789,13 +1384,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr787",
         "name": "GR787",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR787",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1808,13 +1399,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr779",
         "name": "GR779",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR779",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1827,13 +1414,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr791",
         "name": "GR791",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR791",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1846,13 +1429,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr788",
         "name": "GR788",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR788",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1865,13 +1444,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr782",
         "name": "GR782",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR782",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1884,13 +1459,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr784",
         "name": "GR784",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR784",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1903,13 +1474,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr786",
         "name": "GR786",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR786",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1922,13 +1489,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr775",
         "name": "GR775",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR775",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1941,13 +1504,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr774",
         "name": "GR774",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR774",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1960,13 +1519,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr768",
         "name": "GR768",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR768",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1979,13 +1534,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr766",
         "name": "GR766",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR766",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1998,17 +1549,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "cantilever",
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR755 GR757",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Cantilever",
-        "source_description": "GR755<br>GR757",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GR755 GR757"
       },
       "geometry": {
         "type": "LineString",
@@ -2027,13 +1570,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr759",
         "name": "GR759",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR759",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2046,13 +1585,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr761",
         "name": "GR761",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR761",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2065,13 +1600,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr752",
         "name": "GR752",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR752",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2084,13 +1615,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr756",
         "name": "GR756",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR756",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2103,13 +1630,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr758",
         "name": "GR758",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR758",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2122,13 +1645,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr736",
         "name": "GR736",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR736",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2141,13 +1660,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr738",
         "name": "GR738",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR738",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2160,13 +1675,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr742",
         "name": "GR742",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR742",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2179,13 +1690,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr735",
         "name": "GR735",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR735",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2198,17 +1705,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "cantilever",
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GG5205 GG5203",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Cantilever",
-        "source_description": "GG5205<br>GG5203",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5205 GG5203"
       },
       "geometry": {
         "type": "LineString",
@@ -2227,13 +1726,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5201",
         "name": "GG5201",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5201",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2246,13 +1741,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr722",
         "name": "GR722",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR722",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2265,13 +1756,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr721",
         "name": "GR721",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR721",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2284,13 +1771,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5218",
         "name": "GG5218",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5218",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2303,13 +1786,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5214",
         "name": "GG5214",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5214",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2322,13 +1801,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr852",
         "name": "GR852",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR852",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2341,13 +1816,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr842",
         "name": "GR842",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR842",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2360,13 +1831,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr840",
         "name": "GR840",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR840",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2379,13 +1846,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr895",
         "name": "GR895",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR895",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2398,13 +1861,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr892",
         "name": "GR892",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR892",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2417,13 +1876,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr894",
         "name": "GR894",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR894",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2436,13 +1891,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr885",
         "name": "GR885",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR885",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2455,13 +1906,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr889",
         "name": "GR889",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR889",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2474,13 +1921,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr886",
         "name": "GR886",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR886",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2493,13 +1936,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr883",
         "name": "GR883",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR883",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2512,13 +1951,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr893",
         "name": "GR893",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR893",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2531,13 +1966,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr890",
         "name": "GR890",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR890",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2550,13 +1981,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr884",
         "name": "GR884",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR884",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2569,13 +1996,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr882",
         "name": "GR882",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR882",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2588,13 +2011,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5601",
         "name": "GG5601",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5601",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2607,13 +2026,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5602",
         "name": "GG5602",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5602",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2626,13 +2041,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5604",
         "name": "GG5604",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5604",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2645,13 +2056,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5603",
         "name": "GG5603",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5603",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2664,13 +2071,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5605",
         "name": "GG5605",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5605",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2683,13 +2086,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5606",
         "name": "GG5606",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5606",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2702,13 +2101,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5607",
         "name": "GG5607",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5607",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2721,13 +2116,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5608",
         "name": "GG5608",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5608",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2740,13 +2131,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5609",
         "name": "GG5609",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5609",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2759,13 +2146,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5610",
         "name": "GG5610",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5610",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2778,13 +2161,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5710",
         "name": "GG5710",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5710",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2797,13 +2176,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5711",
         "name": "GG5711",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5711",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2816,13 +2191,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5612",
         "name": "GG5612",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5612",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2835,13 +2206,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5811",
         "name": "GG5811",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5811",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2854,13 +2221,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5613",
         "name": "GG5613",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5613",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2873,13 +2236,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5615",
         "name": "GG5615",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5615",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2892,13 +2251,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5614",
         "name": "GG5614",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5614",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2911,13 +2266,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5611",
         "name": "GG5611",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5611",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2930,13 +2281,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5485",
         "name": "GG5485",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5485",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2949,13 +2296,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5267",
         "name": "GG5267",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5267",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2968,13 +2311,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5269",
         "name": "GG5269",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5269",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2987,13 +2326,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5462",
         "name": "GG5462",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5462",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3006,13 +2341,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5468",
         "name": "GG5468",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5468",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3025,13 +2356,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5260",
         "name": "GG5260",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5260",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3044,13 +2371,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5262",
         "name": "GG5262",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5262",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3063,17 +2386,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry",
         "name": "Gantry",
         "type": "Signals",
-        "notes": "GG5215 GG5213",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry",
-        "source_description": "GG5215<br>GG5213",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5215 GG5213"
       },
       "geometry": {
         "type": "LineString",
@@ -3092,13 +2407,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5211",
         "name": "GG5211",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5211",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3111,13 +2422,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5190",
         "name": "GG5190",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5190",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3130,13 +2437,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5191",
         "name": "GG5191",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5191",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3149,17 +2452,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-m",
         "name": "Gantry M",
         "type": "Signals",
-        "notes": "GS5855 GS5857 GS5852 GS5850",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry M",
-        "source_description": "GS5855 GS5857 GS5852 GS5850",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GS5855 GS5857 GS5852 GS5850"
       },
       "geometry": {
         "type": "LineString",
@@ -3178,17 +2473,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-j",
         "name": "Gantry J",
         "type": "Signals",
-        "notes": "GG5831 GG5833",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry J",
-        "source_description": "GG5831<br>GG5833",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5831 GG5833"
       },
       "geometry": {
         "type": "LineString",
@@ -3207,17 +2494,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-f",
         "name": "Gantry F",
         "type": "Signals",
-        "notes": "GG5832 GG5830",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry F",
-        "source_description": "GG5832<br>GG5830",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5832 GG5830"
       },
       "geometry": {
         "type": "LineString",
@@ -3236,17 +2515,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-l",
         "name": "Gantry L",
         "type": "Signals",
-        "notes": "GG5835 GG5837",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry L",
-        "source_description": "GG5835<br>GG5837",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5835 GG5837"
       },
       "geometry": {
         "type": "LineString",
@@ -3265,13 +2536,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5834",
         "name": "GG5834",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5834",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3284,13 +2551,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5844",
         "name": "GG5844",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5844",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3303,13 +2566,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5842",
         "name": "GG5842",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5842",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3322,13 +2581,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5843",
         "name": "GG5843",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5843",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3341,13 +2596,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5845",
         "name": "GG5845",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5845",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3360,13 +2611,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5847",
         "name": "GG5847",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5847",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3379,13 +2626,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5849",
         "name": "GG5849",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5849",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3398,13 +2641,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5846",
         "name": "GG5846",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5846",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3417,13 +2656,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5848",
         "name": "GG5848",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5848",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3436,13 +2671,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5851",
         "name": "GG5851",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5851",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3455,13 +2686,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5853",
         "name": "GG5853",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5853",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3474,17 +2701,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-1",
         "name": "Gantry 1",
         "type": "Signals",
-        "notes": "GS5860 GS5862 GS5864 GS5861 GS5863 GS5865",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry 1",
-        "source_description": "GS5860<br>GS5862<br>GS5864<br>GS5861<br>GS5863<br>GS5865",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GS5860 GS5862 GS5864 GS5861 GS5863 GS5865"
       },
       "geometry": {
         "type": "LineString",
@@ -3503,17 +2722,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-2a",
         "name": "Gantry 2A",
         "type": "Signals",
-        "notes": "GS5871 GS5873 GS5875",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry 2A",
-        "source_description": "GS5871<br>GS5873<br>GS5875",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GS5871 GS5873 GS5875"
       },
       "geometry": {
         "type": "LineString",
@@ -3532,17 +2743,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-2b",
         "name": "Gantry 2B",
         "type": "Signals",
-        "notes": "GS5870 GS5872 GS5874",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry 2B",
-        "source_description": "GS5870<br>GS5872<br>GS5874",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GS5870 GS5872 GS5874"
       },
       "geometry": {
         "type": "LineString",
@@ -3561,17 +2764,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-3a",
         "name": "Gantry 3A",
         "type": "Signals",
-        "notes": "GS5881 GS5883 GS5885",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry 3A",
-        "source_description": "GS5881<br>GS5883<br>GS5885",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GS5881 GS5883 GS5885"
       },
       "geometry": {
         "type": "LineString",
@@ -3590,17 +2785,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-3b",
         "name": "Gantry 3B",
         "type": "Signals",
-        "notes": "GS5880 GS5882 GS5884",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry 3B",
-        "source_description": "GS5880<br>GS5882<br>GS5884",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GS5880 GS5882 GS5884"
       },
       "geometry": {
         "type": "LineString",
@@ -3619,17 +2806,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-4a",
         "name": "Gantry 4A",
         "type": "Signals",
-        "notes": "GS5891 GS5893 GS5895",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry 4A",
-        "source_description": "GS5891<br>GS5893<br>GS5895",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GS5891 GS5893 GS5895"
       },
       "geometry": {
         "type": "LineString",
@@ -3648,17 +2827,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-4b",
         "name": "Gantry 4B",
         "type": "Signals",
-        "notes": "GS5890 GS5892 GS5894",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry 4B",
-        "source_description": "GS5890<br>GS5892<br>GS5894",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GS5890 GS5892 GS5894"
       },
       "geometry": {
         "type": "LineString",
@@ -3677,17 +2848,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-5",
         "name": "Gantry 5",
         "type": "Signals",
-        "notes": "GS5900 GS5902 GS5904",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry 5",
-        "source_description": "GS5900<br>GS5902<br>GS5904",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GS5900 GS5902 GS5904"
       },
       "geometry": {
         "type": "LineString",
@@ -3706,13 +2869,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5901",
         "name": "GS5901",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5901",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3725,13 +2884,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5903",
         "name": "GS5903",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5903",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3744,13 +2899,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5905",
         "name": "GS5905",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5905",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3763,17 +2914,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-7",
         "name": "Gantry 7",
         "type": "Signals",
-        "notes": "GS5910 GS5912 GS5914 GS5911 GS5913 GS5915",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry 7",
-        "source_description": "GS5910<br>GS5912<br>GS5914<br>GS5911<br>GS5913<br>GS5915",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GS5910 GS5912 GS5914 GS5911 GS5913 GS5915"
       },
       "geometry": {
         "type": "LineString",
@@ -3792,17 +2935,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gantry-8",
         "name": "Gantry 8",
         "type": "Signals",
-        "notes": "GG5921 GG5923 GG5925 GG5920 GG5922 GG5924",
-        "colour": "#f57c00",
-        "line_colour": "#f57c00",
-        "line_width": 4.681,
-        "source_layer": "Signals",
-        "source_name": "Gantry 8",
-        "source_description": "GG5921 <br>GG5923<br>GG5925<br>GG5920<br>GG5922<br>GG5924",
-        "source_styleUrl": "#line-F57C00-4681"
+        "notes": "GG5921 GG5923 GG5925 GG5920 GG5922 GG5924"
       },
       "geometry": {
         "type": "LineString",
@@ -3821,13 +2956,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5937",
         "name": "GS5937",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5937",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3840,13 +2971,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5936",
         "name": "GS5936",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5936",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3859,13 +2986,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5997",
         "name": "GS5997",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5997",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3878,13 +3001,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5996",
         "name": "GS5996",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5996",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3897,13 +3016,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5994",
         "name": "GS5994",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5994",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3916,13 +3031,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5995",
         "name": "GS5995",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5995",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3935,13 +3046,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5993",
         "name": "GS5993",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5993",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3954,13 +3061,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5991",
         "name": "GS5991",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5991",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3973,13 +3076,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5941",
         "name": "GS5941",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5941",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3992,13 +3091,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5939",
         "name": "GS5939",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5939",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4011,13 +3106,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5938",
         "name": "GS5938",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5938",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4030,13 +3121,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5934",
         "name": "GS5934",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5934",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4049,13 +3136,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5931",
         "name": "GS5931",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5931",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4068,13 +3151,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5933",
         "name": "GS5933",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5933",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4087,13 +3166,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5182",
         "name": "GB5182",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5182",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4106,13 +3181,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr726",
         "name": "GR726",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR726",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4125,13 +3196,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5179",
         "name": "GB5179",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5179",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4144,13 +3211,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5178",
         "name": "GB5178",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5178",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4163,13 +3226,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5943",
         "name": "GS5943",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5943",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4182,13 +3241,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5945",
         "name": "GS5945",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5945",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4201,13 +3256,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5947",
         "name": "GS5947",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5947",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4220,13 +3271,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5944",
         "name": "GS5944",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5944",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4239,13 +3286,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5948",
         "name": "GS5948",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5948",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4258,13 +3301,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5946",
         "name": "GS5946",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5946",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4277,13 +3316,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5951",
         "name": "GS5951",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5951",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4296,13 +3331,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5952",
         "name": "GS5952",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5952",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4315,13 +3346,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5954",
         "name": "GS5954",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5954",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4334,13 +3361,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5956",
         "name": "GS5956",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5956",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4353,13 +3376,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5958",
         "name": "GS5958",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5958",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4372,13 +3391,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5959",
         "name": "GS5959",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5959",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4391,13 +3406,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g593",
         "name": "G593",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G593",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4410,13 +3421,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g597r",
         "name": "G597R",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G597R",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4429,13 +3436,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g594",
         "name": "G594",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G594",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4448,13 +3451,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g595",
         "name": "G595",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G595",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4467,13 +3466,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g597",
         "name": "G597",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G597",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4486,13 +3481,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g596",
         "name": "G596",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G596",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4505,13 +3496,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "s1",
         "name": "S1",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "S1",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4524,13 +3511,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g599",
         "name": "G599",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G599",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4543,13 +3526,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g598",
         "name": "G598",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G598",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4562,13 +3541,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g900",
         "name": "G900",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G900",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4581,13 +3556,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g900r",
         "name": "G900R",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G900R",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4600,13 +3571,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g901",
         "name": "G901",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G901",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4619,13 +3586,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g902",
         "name": "G902",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G902",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4638,13 +3601,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g903",
         "name": "G903",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G903",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4657,13 +3616,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g905r",
         "name": "G905R",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G905R",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4676,13 +3631,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g904",
         "name": "G904",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G904",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4695,13 +3646,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g905",
         "name": "G905",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G905",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4714,13 +3661,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g906",
         "name": "G906",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G906",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4733,13 +3676,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "g906r",
         "name": "G906R",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "G906R",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4752,13 +3691,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5015",
         "name": "GC5015",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5015",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4771,13 +3706,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5017",
         "name": "GC5017",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5017",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4790,13 +3721,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5022",
         "name": "GC5022",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5022",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4809,13 +3736,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5019",
         "name": "GC5019",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5019",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4828,13 +3751,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5024",
         "name": "GC5024",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5024",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4847,13 +3766,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5023",
         "name": "GC5023",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5023",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4866,13 +3781,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5025",
         "name": "GC5025",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5025",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4885,13 +3796,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5028",
         "name": "GC5028",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5028",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4904,13 +3811,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5036",
         "name": "GC5036",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5036",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4923,13 +3826,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5037",
         "name": "GC5037",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5037",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4942,13 +3841,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5039",
         "name": "GC5039",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5039",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4961,13 +3856,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5040",
         "name": "GC5040",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5040",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4980,13 +3871,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5041",
         "name": "GC5041",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5041",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -4999,13 +3886,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5086",
         "name": "GC5086",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5086",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5018,13 +3901,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5089",
         "name": "GC5089",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5089",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5037,13 +3916,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5091",
         "name": "GC5091",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5091",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5056,13 +3931,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5092",
         "name": "GC5092",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5092",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5075,13 +3946,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5094",
         "name": "GC5094",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5094",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5094,13 +3961,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5095",
         "name": "GC5095",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5095",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5113,13 +3976,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5096",
         "name": "GC5096",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5096",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5132,13 +3991,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5098",
         "name": "GC5098",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5098",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5151,13 +4006,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5097",
         "name": "GC5097",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5097",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5170,13 +4021,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5099br",
         "name": "GC5099BR",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5099BR",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5189,13 +4036,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5093",
         "name": "GC5093",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5093",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5208,13 +4051,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5090",
         "name": "GC5090",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5090",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5227,13 +4066,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5088",
         "name": "GC5088",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5088",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5246,13 +4081,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5085",
         "name": "GC5085",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5085",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5265,13 +4096,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5087",
         "name": "GC5087",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5087",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5284,13 +4111,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5084",
         "name": "GC5084",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5084",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5303,13 +4126,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5069",
         "name": "GC5069",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5069",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5322,13 +4141,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5068",
         "name": "GC5068",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5068",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5341,13 +4156,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5067",
         "name": "GC5067",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5067",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5360,13 +4171,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5063",
         "name": "GC5063",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5063",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5379,13 +4186,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5065",
         "name": "GC5065",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5065",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5398,13 +4201,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5059",
         "name": "GC5059",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5059",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5417,13 +4216,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5061",
         "name": "GC5061",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5061",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5436,13 +4231,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5058",
         "name": "GC5058",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5058",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5455,13 +4246,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5055",
         "name": "GC5055",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5055",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5474,13 +4261,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5054",
         "name": "GC5054",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5054",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5493,13 +4276,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5053",
         "name": "GC5053",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5053",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5512,13 +4291,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5052",
         "name": "GC5052",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5052",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5531,13 +4306,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5051",
         "name": "GC5051",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5051",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5550,13 +4321,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5050",
         "name": "GC5050",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5050",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5569,13 +4336,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5049",
         "name": "GC5049",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5049",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5588,13 +4351,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5048",
         "name": "GC5048",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5048",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5607,13 +4366,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5046",
         "name": "GC5046",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5046",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5626,13 +4381,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5045",
         "name": "GC5045",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5045",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5645,13 +4396,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5043",
         "name": "GC5043",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5043",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5664,13 +4411,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5083",
         "name": "GC5083",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5083",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5683,13 +4426,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5082",
         "name": "GC5082",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5082",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5702,13 +4441,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5081",
         "name": "GC5081",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5081",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5721,13 +4456,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5080",
         "name": "GC5080",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5080",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5740,13 +4471,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5079",
         "name": "GC5079",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5079",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5759,13 +4486,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5078",
         "name": "GC5078",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5078",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5778,13 +4501,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5077",
         "name": "GC5077",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5077",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5797,13 +4516,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5076",
         "name": "GC5076",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5076",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5816,13 +4531,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5075",
         "name": "GC5075",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5075",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5835,13 +4546,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5074",
         "name": "GC5074",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5074",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5854,13 +4561,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5072",
         "name": "GC5072",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5072",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5873,13 +4576,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5071",
         "name": "GC5071",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5071",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5892,13 +4591,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5070",
         "name": "GB5070",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5070",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5911,13 +4606,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gs5930",
         "name": "GS5930",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GS5930",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5930,13 +4621,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr750",
         "name": "GR750",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR750",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5949,13 +4636,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5188",
         "name": "GB5188",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5188",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5968,13 +4651,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5189",
         "name": "GG5189",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5189",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -5987,13 +4666,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr829",
         "name": "GR829",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR829",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6006,13 +4681,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr888",
         "name": "GR888",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR888",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6025,13 +4696,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5103",
         "name": "GB5103",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5103",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6044,13 +4711,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5105",
         "name": "GB5105",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5105",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6063,13 +4726,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5100",
         "name": "GB5100",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5100",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6082,13 +4741,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5101",
         "name": "GB5101",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5101",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6101,13 +4756,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5187",
         "name": "GB5187",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5187",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6120,13 +4771,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5111",
         "name": "GB5111",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5111",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6139,13 +4786,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5044",
         "name": "GC5044",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5044",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6158,13 +4801,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5099",
         "name": "GC5099",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5099",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6177,13 +4816,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5057",
         "name": "GC5057",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5057",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6196,13 +4831,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gr878",
         "name": "GR878",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GR878",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6215,13 +4846,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5126",
         "name": "GB5126",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5126",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6234,13 +4861,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5120",
         "name": "GB5120",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5120",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6253,13 +4876,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5121",
         "name": "GB5121",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5121",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6272,13 +4891,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5122",
         "name": "GB5122",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5122",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6291,13 +4906,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5133",
         "name": "GB5133",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5133",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6310,13 +4921,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5123",
         "name": "GB5123",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5123",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6329,13 +4936,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5136",
         "name": "GB5136",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5136",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6348,13 +4951,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5134",
         "name": "GB5134",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5134",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6367,13 +4966,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5132",
         "name": "GB5132",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5132",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6386,13 +4981,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gb5150",
         "name": "GB5150",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GB5150",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6405,13 +4996,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5035",
         "name": "GC5035",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5035",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6424,13 +5011,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gg5460",
         "name": "GG5460",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GG5460",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6443,13 +5026,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5038",
         "name": "GC5038",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5038",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6462,13 +5041,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "gc5066",
         "name": "GC5066",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "GC5066",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -6481,13 +5056,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "fixed-distant-board",
         "name": "Fixed Distant board",
         "type": "Signals",
-        "icon_href": "images/icon-1.png",
-        "source_layer": "Signals",
-        "source_name": "Fixed Distant board",
-        "source_styleUrl": "#icon-1739-F57C00-labelson-nodesc"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
