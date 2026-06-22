@@ -172,7 +172,7 @@
       return html;
     }
 
-    fetch('map.geojson')
+    fetch('access.geojson')
       .then(response => response.json())
       .then(data => {
         geojsonLayer = L.geoJSON(data, {
