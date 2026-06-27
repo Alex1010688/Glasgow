@@ -401,23 +401,7 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cambuslang Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1729301,
-          55.8197581,
-          0.0
-        ]
-      }
-    },
-    {
+   {
       "type": "Feature",
       "properties": {
         "name": "Christie Place",
@@ -445,22 +429,6 @@
         "coordinates": [
           -4.1554057,
           55.8149076,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kirkhill Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1679209,
-          55.8142143,
           0.0
         ]
       }
@@ -516,22 +484,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Burnside Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2013253,
-          55.8168936,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Blairtum Drive",
         "type": "access_point",
         "notes": ""
@@ -541,38 +493,6 @@
         "coordinates": [
           -4.2064522,
           55.8167464,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Croftfoot Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2278661,
-          55.8183441,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Kings Park Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2443785,
-          55.8193776,
           0.0
         ]
       }
@@ -644,22 +564,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cathcart Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.261311,
-          55.817533,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Beechings",
         "type": "access_point",
         "notes": ""
@@ -724,22 +628,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Williamwood Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2899339,
-          55.7932987,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Ailsa Drive",
         "type": "access_point",
         "notes": ""
@@ -749,38 +637,6 @@
         "coordinates": [
           -4.3000375,
           55.7916551,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Whitecraigs Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.310081,
-          55.7904588,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Patterton Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3340133,
-          55.7909323,
           0.0
         ]
       }
@@ -868,38 +724,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Neilston Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.4266959,
-          55.783024,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "East Kilbride Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1819837,
-          55.7657088,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Kittoch Park",
         "type": "access_point",
         "notes": ""
@@ -932,22 +756,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Thorntonhall Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2511678,
-          55.7688264,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Electricity substation",
         "type": "access_point",
         "notes": ""
@@ -957,22 +765,6 @@
         "coordinates": [
           -4.2609669,
           55.7746518,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Busby Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2620344,
-          55.7803163,
           0.0
         ]
       }
@@ -1012,38 +804,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Clarkston Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2757952,
-          55.7893768,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Giffnock Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2931027,
-          55.803992,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Burnfield Road",
         "type": "access_point",
         "notes": ""
@@ -1053,22 +813,6 @@
         "coordinates": [
           -4.2989382,
           55.8084901,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Thornliebank Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3117072,
-          55.8111831,
           0.0
         ]
       }
@@ -1140,22 +884,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kennishead Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3246557,
-          55.8132257,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Under M77",
         "type": "access_point",
         "notes": ""
@@ -1165,22 +893,6 @@
         "coordinates": [
           -4.3330773,
           55.8118727,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Priesthill & Darnley Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3425389,
-          55.8121403,
           0.0
         ]
       }
@@ -1220,22 +932,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nitshill Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3598938,
-          55.8124282,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Cemetery",
         "type": "access_point",
         "notes": ""
@@ -1261,22 +957,6 @@
         "coordinates": [
           -4.390789102810004,
           55.811709699385716,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Pollokshaws West Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3011638,
-          55.8238144,
           0.0
         ]
       }
@@ -1325,22 +1005,6 @@
         "coordinates": [
           -4.2925339,
           55.8303721,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crossmyloof Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2839756,
-          55.8341498,
           0.0
         ]
       }
@@ -1412,54 +1076,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pollokshields East Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2683917,
-          55.8413338,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Pollokshields West Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2762591,
-          55.8379423,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Maxwell Park Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2886761,
-          55.8374155,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Shawmoss Road",
         "type": "access_point",
         "notes": ""
@@ -1469,22 +1085,6 @@
         "coordinates": [
           -4.2936412,
           55.8317751,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Shawlands Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2930478,
-          55.8299491,
           0.0
         ]
       }
@@ -1732,22 +1332,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cardonald Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.340418,
-          55.8525688,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Cardonald flats",
         "type": "access_point",
         "notes": ""
@@ -1828,54 +1412,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hillington East Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3550191,
-          55.8543893,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Hillington West Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3720057,
-          55.856101,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dumbreck Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3013098,
-          55.8442539,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Motorway gate",
         "type": "access_point",
         "notes": ""
@@ -1908,70 +1444,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Corkerhill Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3347557,
-          55.8380913,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mosspark Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3478199,
-          55.8410871,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crookston Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3645804,
-          55.8419,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Hawkhead Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3989723,
-          55.8424016,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Linside Avenue",
         "type": "access_point",
         "notes": ""
@@ -1981,22 +1453,6 @@
         "coordinates": [
           -4.4035785,
           55.8418175,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Paisley Canal Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.4235364,
-          55.8401438,
           0.0
         ]
       }
@@ -2029,22 +1485,6 @@
         "coordinates": [
           -4.2169429,
           55.8384472,
-          0.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dalmarnock Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2173994,
-          55.8423316,
           0.0
         ]
       }
@@ -2102,22 +1542,6 @@
               0.0
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Carmyle Station",
-        "type": "access_point",
-        "notes": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1592832,
-          55.8342181,
-          0.0
         ]
       }
     },
