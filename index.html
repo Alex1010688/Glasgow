@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
 
-  <title>Rail Map Viewer - Ionicons</title>
+  <title>Rail Map Viewer</title>
 
   <meta
     name="viewport"
@@ -152,26 +152,6 @@
       display: none;
     }
 
-    .ion-map-icon {
-      width: 10px;
-      height: 10px;
-      /* margin-left: -11px;
-      margin-top: -11px; */
-      border-radius: 50%;
-      background: white;
-      border: 2px solid currentColor;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      box-sizing: border-box;
-    }
-
-    .ion-map-icon ion-icon {
-      font-size: 15px;
-      color: currentColor;
-    }
-
-
     .locate-button {
       background: white;
       border: 2px solid rgba(0, 0, 0, 0.2);
@@ -228,7 +208,6 @@
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.js"></script>
 
   <script>
     /*
@@ -251,7 +230,6 @@
         name: "Access",
         file: "access.geojson",
         colour: "#00ffff",
-        icon: "lock-open-outline",
         pane: "accessPane",
         zIndex: 650,
         showOnLoad: true,
@@ -261,7 +239,6 @@
         name: "Points",
         file: "points.geojson",
         colour: "#ff00ff",
-        icon: "trail-sign-outline",
         pane: "pointsPane",
         zIndex: 640,
         showOnLoad: true,
@@ -271,7 +248,6 @@
         name: "Signals",
         file: "signals.geojson",
         colour: "#ff9900",
-        icon: "bulb-outline",
         pane: "signalsPane",
         zIndex: 630,
         showOnLoad: true,
@@ -281,7 +257,6 @@
         name: "Locs",
         file: "locs.geojson",
         colour: "#000000",
-        icon: "home-outline",
         pane: "locsPane",
         zIndex: 620,
         showOnLoad: true,
@@ -755,24 +730,6 @@
 
     map.on("zoomend overlayadd overlayremove", updateLabelVisibility);
 
-    function makeIonIcon(layerConfig) {
-      const colour = layerConfig.colour || "#ffff00";
-      const iconName = layerConfig.icon || "ellipse-outline";
-
-      return L.divIcon({
-        className: "",
-        html: `
-          <div class="ion-map-icon" style="color:${colour};">
-            <ion-icon name="${iconName}"></ion-icon>
-          </div>
-        `,
-        iconSize: [22, 22],
-        iconAnchor: [11, 11],
-        popupAnchor: [0, -11],
-        tooltipAnchor: [0, -12]
-      });
-    }
-
     async function loadLayer(layerConfig) {
       const response = await fetch(layerConfig.file);
 
@@ -790,13 +747,6 @@
         },
 
         pointToLayer: function(feature, latlng) {
-          if (layerConfig.icon) {
-            return L.marker(latlng, {
-              pane: layerConfig.pane,
-              icon: makeIonIcon(layerConfig)
-            });
-          }
-
           const colour = getFeatureColour(feature, layerConfig);
 
           return L.circleMarker(latlng, {
