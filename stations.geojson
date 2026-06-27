@@ -1318,42 +1318,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7149950857",
-        "brand": "Scotland's Railway",
-        "brand:wikidata": "Q136406287",
-        "fare_zone": "SPT Zone 1",
-        "name": "Bridgeton",
-        "name:gd": "Baile na Drochaid",
-        "naptan:AtcoCode": "9100BRIDGTN",
-        "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/bdg/",
-        "network:wikidata": "Q26334",
-        "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/bdg",
-        "operator:wikidata": "Q18356161",
-        "owner": "Network Rail",
-        "owner:wikidata": "Q1501071",
-        "platforms": "2",
-        "public_transport": "station",
-        "public_transport:version": "2",
-        "railway": "station",
-        "ref:crs": "BDG",
-        "train": "yes",
-        "wikidata": "Q1878623",
-        "wikipedia": "en:Bridgeton railway station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2248178,
-          55.8483262
-        ]
-      },
-      "id": "node/7149950857"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/10189182795",
         "name": "Kirkhill",
         "name:gd": "Cnoc na Cille",
