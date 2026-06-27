@@ -918,63 +918,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/30736985",
-        "name": "Mount Vernon",
-        "naptan:AtcoCode": "9100MNTVRNN",
-        "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/mtv/",
-        "network:wikidata": "Q26334",
-        "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/mtv",
-        "operator:wikidata": "Q18356161",
-        "public_transport": "station",
-        "railway": "station",
-        "ref:crs": "MTV",
-        "source": "npe/landsat",
-        "train": "yes",
-        "wikidata": "Q4470479",
-        "wikipedia": "en:Mount Vernon railway station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1326839,
-          55.8404655
-        ]
-      },
-      "id": "node/30736985"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/30737102",
-        "name": "Baillieston",
-        "naptan:AtcoCode": "9100BALISTN",
-        "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/bio/",
-        "network:wikidata": "Q26334",
-        "note": "checked location, and fixed into right place",
-        "operator": "ScotRail",
-        "public_transport": "station",
-        "railway": "station",
-        "ref:crs": "BIO",
-        "source": "npe/survey",
-        "train": "yes",
-        "wikidata": "Q1878833",
-        "wikipedia": "en:Baillieston railway station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1137169,
-          55.8445129
-        ]
-      },
-      "id": "node/30737102"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/165098109",
         "name": "Priesthill & Darnley",
         "name:gd": "Cnoc an t-Sagairt ⁊ Darnley",
