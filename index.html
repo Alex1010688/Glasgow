@@ -98,7 +98,7 @@
 
     .leaflet-popup-content {
       max-width: 320px;
-      font-size: 12px;
+      font-size: 16px;
       line-height: 1.4;
       overflow-wrap: break-word;
     }
@@ -167,6 +167,33 @@
 
     .locate-button:hover {
       background: #f4f4f4;
+    }
+
+    .label-control {
+      background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      padding: 8px;
+      font-size: 13px;
+      line-height: 1.4;
+      max-height: 260px;
+      overflow-y: auto;
+    }
+
+    .label-control-title {
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+
+    .label-control-row {
+      display: block;
+      white-space: nowrap;
+      margin-top: 3px;
+    }
+
+    .label-control-row input {
+      margin-right: 5px;
+      vertical-align: middle;
     }
 
     @media (max-width: 600px) {
@@ -349,6 +376,11 @@
     const overlayMaps = {};
     const allFeatures = [];
     const labelledFeatures = [];
+    const labelSettings = {};
+
+    LAYER_CONFIGS.forEach(layerConfig => {
+      labelSettings[layerConfig.name] = !!layerConfig.showLabels;
+    });
 
     let userLocationMarker = null;
     let userAccuracyCircle = null;
@@ -822,13 +854,51 @@
 
       labelledFeatures.forEach(item => {
         const featureIsVisible = map.hasLayer(item.layer);
+        const layerLabelsEnabled = !!labelSettings[item.layerName];
 
-        if (labelsShouldShow && featureIsVisible) {
+        if (labelsShouldShow && featureIsVisible && layerLabelsEnabled) {
           item.layer.openTooltip();
         } else {
           item.layer.closeTooltip();
         }
       });
+    }
+
+    function addLabelControl() {
+      const labelControl = L.control({
+        position: "topright"
+      });
+
+      labelControl.onAdd = function() {
+        const div = L.DomUtil.create("div", "label-control");
+
+        div.innerHTML = '<div class="label-control-title">Labels</div>';
+
+        LAYER_CONFIGS.forEach(layerConfig => {
+          const row = document.createElement("label");
+          row.className = "label-control-row";
+
+          const checkbox = document.createElement("input");
+          checkbox.type = "checkbox";
+          checkbox.checked = !!labelSettings[layerConfig.name];
+
+          checkbox.onchange = function() {
+            labelSettings[layerConfig.name] = checkbox.checked;
+            updateLabelVisibility();
+          };
+
+          row.appendChild(checkbox);
+          row.appendChild(document.createTextNode(layerConfig.name));
+          div.appendChild(row);
+        });
+
+        L.DomEvent.disableClickPropagation(div);
+        L.DomEvent.disableScrollPropagation(div);
+
+        return div;
+      };
+
+      labelControl.addTo(map);
     }
 
     map.on("zoomend overlayadd overlayremove", updateLabelVisibility);
@@ -865,21 +935,19 @@
         onEachFeature: function(feature, leafletLayer) {
           leafletLayer.bindPopup(popupContent(feature, layerConfig.name));
 
-          if (layerConfig.showLabels) {
-            leafletLayer.bindTooltip(getFeatureName(feature), {
-              permanent: false,
-              direction: "top",
-              offset: [0, -8],
-              className: "feature-label",
-              opacity: 1
-            });
+          leafletLayer.bindTooltip(getFeatureName(feature), {
+            permanent: false,
+            direction: "top",
+            offset: [0, -8],
+            className: "feature-label",
+            opacity: 1
+          });
 
-            labelledFeatures.push({
-              feature: feature,
-              layer: leafletLayer,
-              layerName: layerConfig.name
-            });
-          }
+          labelledFeatures.push({
+            feature: feature,
+            layer: leafletLayer,
+            layerName: layerConfig.name
+          });
 
           allFeatures.push({
             feature: feature,
@@ -915,6 +983,8 @@
       L.control.layers(baseMaps, overlayMaps, {
         collapsed: false
       }).addTo(map);
+
+      addLabelControl();
 
       const allBounds = L.latLngBounds();
 
