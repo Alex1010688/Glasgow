@@ -119,6 +119,7 @@
 
     .popup-description {
       margin-top: 6px;
+      font-size: 14px;
     }
 
     .popup-description img,
@@ -141,7 +142,7 @@
     }
 
     .br-logo-marker {
-      width: 15px;
+      width: 30px;
       height: auto;
       display: block;
       filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.65));
@@ -181,7 +182,7 @@
       background: #f4f4f4;
     }
 
-    .label-control {
+   /* .label-control {
       background: white;
       border: 2px solid rgba(0, 0, 0, 0.2);
       border-radius: 4px;
@@ -207,6 +208,7 @@
       margin-right: 5px;
       vertical-align: middle;
     }
+    */
 
     @media (max-width: 600px) {
       .top-panel {
@@ -323,6 +325,7 @@
         name: "Chromium",
         file: "chromium.geojson",
         colour: "#ff0000",
+        pane: "chromiumPane",
         zIndex: 600,
         showOnLoad: true,
         showLabels: false
@@ -893,6 +896,10 @@
           item.layer.closeTooltip();
         }
       });
+    } else {
+          item.layer.closeTooltip();
+        }
+      });
     }
 
     function addLabelControl() {
@@ -906,6 +913,10 @@
         div.innerHTML = '<div class="label-control-title">Labels</div>';
 
         LAYER_CONFIGS.forEach(layerConfig => {
+          if (layerConfig.name === "Chromium") {
+            return;
+          }
+
           const row = document.createElement("label");
           row.className = "label-control-row";
 
@@ -962,11 +973,11 @@
 
           return L.circleMarker(latlng, {
             pane: layerConfig.pane,
-            radius: 3.5,
+            radius: 9,
             color: colour,
             weight: 2,
             fillColor: colour,
-            fillOpacity: 0.85
+            fillOpacity: 1
           });
         },
 
