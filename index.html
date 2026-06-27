@@ -119,7 +119,6 @@
 
     .popup-description {
       margin-top: 6px;
-      font-size: 14px;
     }
 
     .popup-description img,
@@ -181,34 +180,6 @@
     .locate-button:hover {
       background: #f4f4f4;
     }
-
-   /* .label-control {
-      background: white;
-      border: 2px solid rgba(0, 0, 0, 0.2);
-      border-radius: 4px;
-      padding: 8px;
-      font-size: 13px;
-      line-height: 1.4;
-      max-height: 260px;
-      overflow-y: auto;
-    }
-
-    .label-control-title {
-      font-weight: bold;
-      margin-bottom: 4px;
-    }
-
-    .label-control-row {
-      display: block;
-      white-space: nowrap;
-      margin-top: 3px;
-    }
-
-    .label-control-row input {
-      margin-right: 5px;
-      vertical-align: middle;
-    }
-    */
 
     @media (max-width: 600px) {
       .top-panel {
@@ -908,20 +879,29 @@
       });
 
       labelControl.onAdd = function() {
-        const div = L.DomUtil.create("div", "label-control");
+        const container = L.DomUtil.create(
+          "div",
+          "leaflet-control-layers leaflet-control-layers-expanded"
+        );
 
-        div.innerHTML = '<div class="label-control-title">Labels</div>';
+        const list = L.DomUtil.create("div", "leaflet-control-layers-list", container);
+
+        const title = L.DomUtil.create("div", "leaflet-control-layers-overlays", list);
+        title.innerHTML = '<strong>Labels</strong>';
+
+        const overlays = L.DomUtil.create("div", "leaflet-control-layers-overlays", list);
 
         LAYER_CONFIGS.forEach(layerConfig => {
           if (layerConfig.name === "Chromium") {
             return;
           }
 
-          const row = document.createElement("label");
-          row.className = "label-control-row";
+          const label = document.createElement("label");
+          const row = document.createElement("span");
 
           const checkbox = document.createElement("input");
           checkbox.type = "checkbox";
+          checkbox.className = "leaflet-control-layers-selector";
           checkbox.checked = !!labelSettings[layerConfig.name];
 
           checkbox.onchange = function() {
@@ -930,14 +910,15 @@
           };
 
           row.appendChild(checkbox);
-          row.appendChild(document.createTextNode(layerConfig.name));
-          div.appendChild(row);
+          row.appendChild(document.createTextNode(" " + layerConfig.name));
+          label.appendChild(row);
+          overlays.appendChild(label);
         });
 
-        L.DomEvent.disableClickPropagation(div);
-        L.DomEvent.disableScrollPropagation(div);
+        L.DomEvent.disableClickPropagation(container);
+        L.DomEvent.disableScrollPropagation(container);
 
-        return div;
+        return container;
       };
 
       labelControl.addTo(map);
