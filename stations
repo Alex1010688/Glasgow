@@ -1,0 +1,1442 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-27T17:54:27Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/22256341",
+        "name": "Cardonald",
+        "name:gd": "Cair Dhòmhnaill",
+        "naptan:AtcoCode": "9100CDNL",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/cdo/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/cdo",
+        "operator:wikidata": "Q18356161",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "CDO",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q2162235",
+        "wikipedia": "en:Cardonald railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3403698,
+          55.8527558
+        ]
+      },
+      "id": "node/22256341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27423935",
+        "name": "Hillington West",
+        "name:gd": "Hillington an Iar",
+        "naptan:AtcoCode": "9100HLNGTNW",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/hlw/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/hlw",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "HLW",
+        "train": "yes",
+        "wikidata": "Q2511692",
+        "wikipedia": "en:Hillington West railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3710945,
+          55.8558618
+        ]
+      },
+      "id": "node/27423935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27423937",
+        "name": "Hillington East",
+        "name:gd": "Hillington an Ear",
+        "naptan:AtcoCode": "9100HLNGTNE",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/hle/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/hle",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "HLE",
+        "train": "yes",
+        "wikidata": "Q2748339",
+        "wikipedia": "en:Hillington East railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3549043,
+          55.8542302
+        ]
+      },
+      "id": "node/27423937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27482876",
+        "name": "Paisley Canal",
+        "name:gd": "Canàl Phàislig",
+        "naptan:AtcoCode": "9100PSLYCAN",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/pcn/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/pcn",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "PCN",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2454734",
+        "wikipedia": "en:Paisley Canal railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4227595,
+          55.840182
+        ]
+      },
+      "id": "node/27482876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28783707",
+        "name": "Crossmyloof",
+        "name:gd": "Crois MoLiubha",
+        "naptan:AtcoCode": "9100CRSMYLF",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/cmy/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/cmy",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "CMY",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q3044898",
+        "wikipedia": "en:Crossmyloof railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.284793,
+          55.8337247
+        ]
+      },
+      "id": "node/28783707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28783722",
+        "name": "Shawlands",
+        "naptan:AtcoCode": "9100SHWLNDS",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/shl/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/shl",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "SHL",
+        "train": "yes",
+        "wikidata": "Q2261019",
+        "wikipedia": "en:Shawlands railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2923196,
+          55.8292992
+        ]
+      },
+      "id": "node/28783722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28843197",
+        "name": "Thorntonhall",
+        "naptan:AtcoCode": "9100THAL",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/tht/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/tht",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "THT",
+        "train": "yes",
+        "wikidata": "Q2144407",
+        "wikipedia": "en:Thorntonhall railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2505925,
+          55.7683101
+        ]
+      },
+      "id": "node/28843197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28843455",
+        "name": "Giffnock",
+        "name:gd": "Giofnag",
+        "naptan:AtcoCode": "9100GIFNOCK",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/gfn/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/gfn",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "GFN",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2231362",
+        "wikipedia": "en:Giffnock railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2929605,
+          55.8039361
+        ]
+      },
+      "id": "node/28843455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28843468",
+        "name": "Thornliebank",
+        "naptan:AtcoCode": "9100THLB",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/thb/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/thb",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "THB",
+        "train": "yes",
+        "wikidata": "Q2004756",
+        "wikipedia": "en:Thornliebank railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3117061,
+          55.8110927
+        ]
+      },
+      "id": "node/28843468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29078146",
+        "name": "Williamwood",
+        "name:gd": "Coille Uilleim",
+        "naptan:AtcoCode": "9100WMWD",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/wlm/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/wlm",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "WLM",
+        "train": "yes",
+        "wikidata": "Q1890117",
+        "wikipedia": "en:Williamwood railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2899228,
+          55.7940114
+        ]
+      },
+      "id": "node/29078146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29079310",
+        "name": "Cathcart",
+        "naptan:AtcoCode": "9100CCRT",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/cct/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/cct",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "CCT",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q2209530",
+        "wikipedia": "en:Cathcart railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2603903,
+          55.8177954
+        ]
+      },
+      "id": "node/29079310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29081468",
+        "name": "Patterton",
+        "naptan:AtcoCode": "9100PATERTN",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/ptt/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/ptt",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "PTT",
+        "train": "yes",
+        "wikidata": "Q2185506",
+        "wikipedia": "en:Patterton railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3352786,
+          55.7905841
+        ]
+      },
+      "id": "node/29081468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29081540",
+        "name": "Neilston",
+        "name:gd": "Baile Nèill",
+        "naptan:AtcoCode": "9100NEILSTN",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/nei/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/nei",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "NEI",
+        "train": "yes",
+        "wikidata": "Q2158891",
+        "wikipedia": "en:Neilston railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4272019,
+          55.7828151
+        ]
+      },
+      "id": "node/29081540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29108487",
+        "name": "Maxwell Park",
+        "name:gd": "Pàirc Maxwell",
+        "naptan:AtcoCode": "9100MAXWLPK",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/max/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/max",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "MAX",
+        "source": "npe/landsat",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q2482069",
+        "wikipedia": "en:Maxwell Park railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.288521,
+          55.8376638
+        ]
+      },
+      "id": "node/29108487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29108492",
+        "name": "Pollokshields West",
+        "name:en": "Pollokshields West",
+        "name:gd": "Pollokshields an Iar",
+        "naptan:AtcoCode": "9100PLKLHDW",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/plw/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/plw",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "PLW",
+        "source": "npe/landsat",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q4697612",
+        "wikipedia": "en:Pollokshields West railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2761545,
+          55.8376405
+        ]
+      },
+      "id": "node/29108492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29152311",
+        "name": "Crookston",
+        "naptan:AtcoCode": "9100CROKSTN",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/ckt/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/ckt",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "CKT",
+        "train": "yes",
+        "wikidata": "Q1973110",
+        "wikipedia": "en:Crookston railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3651014,
+          55.8422333
+        ]
+      },
+      "id": "node/29152311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29264486",
+        "name": "Hawkhead",
+        "naptan:AtcoCode": "9100HWKHEAD",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/hkh/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/hkh",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "HKH",
+        "train": "yes",
+        "wikidata": "Q2659628",
+        "wikipedia": "en:Hawkhead railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3995361,
+          55.8421016
+        ]
+      },
+      "id": "node/29264486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29264597",
+        "name": "Mount Florida",
+        "name:gd": "Cnoc Florida",
+        "naptan:AtcoCode": "9100MTFL",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/mfl/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/mfl",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "MFL",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2633187",
+        "wikipedia": "en:Mount Florida railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2611049,
+          55.8268033
+        ]
+      },
+      "id": "node/29264597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30004721",
+        "name": "Mosspark",
+        "name:gd": "Pàirc na Mòna",
+        "naptan:AtcoCode": "9100MSSPARK",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/mpk/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/mpk",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "MPK",
+        "train": "yes",
+        "wikidata": "Q1941822",
+        "wikipedia": "en:Mosspark railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3471881,
+          55.8406701
+        ]
+      },
+      "id": "node/30004721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30004722",
+        "name": "Corkerhill",
+        "naptan:AtcoCode": "9100CKHL",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/ckh/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/ckh",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "CKH",
+        "train": "yes",
+        "wikidata": "Q2408971",
+        "wikipedia": "en:Corkerhill railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3343276,
+          55.8374699
+        ]
+      },
+      "id": "node/30004722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30558629",
+        "name": "Cambuslang",
+        "name:gd": "Camas Long",
+        "naptan:AtcoCode": "9100CMBSLNG",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/cbl/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/cbl",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "CBL",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2282954",
+        "wikipedia": "en:Cambuslang railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1730177,
+          55.8194533
+        ]
+      },
+      "id": "node/30558629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30564102",
+        "name": "Burnside",
+        "name:gd": "Taobh an Uillt",
+        "naptan:AtcoCode": "9100BRSDE",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/bui/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/bui",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "BUI",
+        "source": "npe",
+        "train": "yes",
+        "wikidata": "Q5000163",
+        "wikipedia": "en:Burnside railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2031241,
+          55.8169392
+        ]
+      },
+      "id": "node/30564102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30564107",
+        "name": "Croftfoot",
+        "name:gd": "Bun na Croite",
+        "naptan:AtcoCode": "9100CFFT",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/cff/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/cff",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "CFF",
+        "source": "npe",
+        "train": "yes",
+        "wikidata": "Q5149191",
+        "wikipedia": "en:Croftfoot railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2282424,
+          55.8182468
+        ]
+      },
+      "id": "node/30564107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30564108",
+        "name": "Kings Park",
+        "name:gd": "Pàirc an Rìgh",
+        "naptan:AtcoCode": "9100KGPK",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/kgp/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/kgp",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "KGP",
+        "source": "landsat/npe",
+        "train": "yes",
+        "wikidata": "Q2464694",
+        "wikipedia": "en:King's Park railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2462819,
+          55.8195122
+        ]
+      },
+      "id": "node/30564108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30619273",
+        "name": "Kennishead",
+        "naptan:AtcoCode": "9100KENISHD",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/kns/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/kns",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "KNS",
+        "source": "npe/landsat",
+        "train": "yes",
+        "wikidata": "Q2582678",
+        "wikipedia": "en:Kennishead railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.324607,
+          55.8134577
+        ]
+      },
+      "id": "node/30619273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30619281",
+        "name": "Nitshill",
+        "naptan:AtcoCode": "9100NITSH",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/nit/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/nit",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "NIT",
+        "source": "npe/landsat",
+        "train": "yes",
+        "wikidata": "Q3012358",
+        "wikipedia": "en:Nitshill railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3604363,
+          55.8118935
+        ]
+      },
+      "id": "node/30619281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30669961",
+        "name": "Pollokshaws East",
+        "name:gd": "Pollokshaws An Ear",
+        "naptan:AtcoCode": "9100PLKSHWE",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/pwe/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/pwe",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "PWE",
+        "source": "npe/landsat",
+        "train": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q2766367",
+        "wikipedia": "en:Pollokshaws East railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2871464,
+          55.8248032
+        ]
+      },
+      "id": "node/30669961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30669973",
+        "name": "Langside",
+        "name:gd": "An Leathad Fada",
+        "naptan:AtcoCode": "9100LNSD",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/lgs/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/lgs",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "LGS",
+        "source": "npe/landsat",
+        "train": "yes",
+        "wikidata": "Q1815565",
+        "wikipedia": "en:Langside railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2763033,
+          55.8209593
+        ]
+      },
+      "id": "node/30669973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30669981",
+        "name": "Crosshill",
+        "name:gd": "Cnoc na Croise",
+        "naptan:AtcoCode": "9100CROSSHL",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/coi/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/coi",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "COI",
+        "train": "yes",
+        "wikidata": "Q3898599",
+        "wikipedia": "en:Crosshill railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2566597,
+          55.833259
+        ]
+      },
+      "id": "node/30669981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30669985",
+        "name": "Queens Park",
+        "name:gd": "Pàirc na Banrighinn",
+        "naptan:AtcoCode": "9100QUNPARK",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/qpk/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/qpk",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "QPK",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q3249726",
+        "wikipedia": "en:Queens Park railway station (Scotland)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2669649,
+          55.8353494
+        ]
+      },
+      "id": "node/30669985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30671368",
+        "name": "Dumbreck",
+        "name:gd": "An Dùn Breac",
+        "naptan:AtcoCode": "9100DUMBRCK",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/dum/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/dum",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "DUM",
+        "train": "yes",
+        "wikidata": "Q2783418",
+        "wikipedia": "en:Dumbreck railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3007989,
+          55.8449511
+        ]
+      },
+      "id": "node/30671368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30736985",
+        "name": "Mount Vernon",
+        "naptan:AtcoCode": "9100MNTVRNN",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/mtv/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/mtv",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "MTV",
+        "source": "npe/landsat",
+        "train": "yes",
+        "wikidata": "Q4470479",
+        "wikipedia": "en:Mount Vernon railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1326839,
+          55.8404655
+        ]
+      },
+      "id": "node/30736985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30737102",
+        "name": "Baillieston",
+        "naptan:AtcoCode": "9100BALISTN",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/bio/",
+        "network:wikidata": "Q26334",
+        "note": "checked location, and fixed into right place",
+        "operator": "ScotRail",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "BIO",
+        "source": "npe/survey",
+        "train": "yes",
+        "wikidata": "Q1878833",
+        "wikipedia": "en:Baillieston railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1137169,
+          55.8445129
+        ]
+      },
+      "id": "node/30737102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/165098109",
+        "name": "Priesthill & Darnley",
+        "name:gd": "Cnoc an t-Sagairt ⁊ Darnley",
+        "naptan:AtcoCode": "9100PHLD",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/ptl/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/ptl",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "PTL",
+        "train": "yes",
+        "wikidata": "Q7242899",
+        "wikipedia": "en:Priesthill & Darnley railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3429643,
+          55.8120349
+        ]
+      },
+      "id": "node/165098109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/168325631",
+        "name": "Whitecraigs",
+        "name:gd": "An Creagan Bàn",
+        "naptan:AtcoCode": "9100WTCR",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/wcr/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "WCR",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2450424",
+        "wikipedia": "en:Whitecraigs railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3103086,
+          55.7902824
+        ]
+      },
+      "id": "node/168325631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254354507",
+        "brand": "Scotland's Railway",
+        "brand:wikidata": "Q136406287",
+        "fare_zone": "SPT Zone 1",
+        "name": "Rutherglen",
+        "name:gd": "An Ruadh-Ghleann",
+        "naptan:AtcoCode": "9100RTHGLEN",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/rut/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/rut",
+        "operator:wikidata": "Q18356161",
+        "owner": "Network Rail",
+        "owner:wikidata": "Q1501071",
+        "platforms": "2",
+        "public_transport": "station",
+        "public_transport:version": "2",
+        "railway": "station",
+        "ref:crs": "RUT",
+        "train": "yes",
+        "wikidata": "Q950714",
+        "wikipedia": "en:Rutherglen railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2130369,
+          55.8307514
+        ]
+      },
+      "id": "node/254354507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/507661386",
+        "name": "Pollokshields East",
+        "name:gd": "Pollokshields an Ear",
+        "naptan:AtcoCode": "9100PLKLHDE",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/ple/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/ple",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "PLE",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q2144734",
+        "wikipedia": "en:Pollokshields East railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2689803,
+          55.8407278
+        ]
+      },
+      "id": "node/507661386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1662148585",
+        "brand": "Scotland's Railway",
+        "brand:wikidata": "Q136406287",
+        "fare_zone": "SPT Zone 1",
+        "name": "Dalmarnock",
+        "name:gd": "Dail Meàrnaig",
+        "naptan:AtcoCode": "9100DLMRNOK",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/dak/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/dak",
+        "operator:wikidata": "Q18356161",
+        "owner": "Network Rail",
+        "owner:wikidata": "Q1501071",
+        "platforms": "2",
+        "public_transport": "station",
+        "public_transport:version": "2",
+        "railway": "station",
+        "ref:crs": "DAK",
+        "train": "yes",
+        "wikidata": "Q2174513",
+        "wikipedia": "en:Dalmarnock railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2174709,
+          55.8421847
+        ]
+      },
+      "id": "node/1662148585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2979083135",
+        "name": "Carmyle",
+        "name:gd": "Cair Maol",
+        "naptan:AtcoCode": "9100CARMYLE",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/cml/",
+        "network:wikidata": "Q26334",
+        "note": "check location",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/cml",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "CML",
+        "source": "npe/guess",
+        "train": "yes",
+        "wikidata": "Q2709507",
+        "wikipedia": "en:Carmyle railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1580726,
+          55.8342637
+        ]
+      },
+      "id": "node/2979083135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3727609007",
+        "name": "Pollokshaws West",
+        "name:gd": "Pollokshaws an Iar",
+        "naptan:AtcoCode": "9100PLKSHWW",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/pww/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/pww",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "PWW",
+        "train": "yes",
+        "wheelchair": "no",
+        "wikidata": "Q7225728",
+        "wikipedia": "en:Pollokshaws West railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3014144,
+          55.8238539
+        ]
+      },
+      "id": "node/3727609007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3979339627",
+        "name": "East Kilbride",
+        "name:gd": "Cille Bhrìghde an Ear",
+        "naptan:AtcoCode": "9100EKILBRD",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/ekl/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/ekl",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "EKL",
+        "train": "yes",
+        "wikidata": "Q2275211",
+        "wikipedia": "en:East Kilbride railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1797164,
+          55.7660974
+        ]
+      },
+      "id": "node/3979339627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3979616711",
+        "access": "yes",
+        "name": "Hairmyres",
+        "naptan:AtcoCode": "9100HARMYRS",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/hmy/",
+        "network:wikidata": "Q26334",
+        "opening_date": "2025-05-19",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/hmy",
+        "operator:wikidata": "Q18356161",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "HMY",
+        "train": "yes",
+        "wikidata": "Q2325828",
+        "wikipedia": "en:Hairmyres railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2298945,
+          55.7618249
+        ]
+      },
+      "id": "node/3979616711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4016197294",
+        "name": "Busby",
+        "naptan:AtcoCode": "9100BUSBY",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/bus/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/bus",
+        "operator:wikidata": "Q18356161",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "BUS",
+        "train": "yes",
+        "wikidata": "Q2492034",
+        "wikipedia": "en:Busby railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2622278,
+          55.7803927
+        ]
+      },
+      "id": "node/4016197294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5149769842",
+        "name": "Clarkston",
+        "name:gd": "Baile Chlarc",
+        "naptan:AtcoCode": "9100CLRKSTN",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/cks/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/cks",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "CKS",
+        "train": "yes",
+        "wikidata": "Q2869792",
+        "wikipedia": "en:Clarkston railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2757616,
+          55.7894597
+        ]
+      },
+      "id": "node/5149769842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6099806145",
+        "fare_zone": "SPT Zone 1",
+        "name": "Glasgow Central",
+        "name:gd": "Glaschu Mheadhain",
+        "name:ko": "글래스고 중앙역",
+        "naptan:AtcoCode:High_Level": "9100GLGCLL",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/glasgow-central/",
+        "network:wikidata": "Q26334",
+        "operator": "Network Rail",
+        "operator:wikidata": "Q1501071",
+        "platforms": "17",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "GLC",
+        "toilets:wheelchair": "yes",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q800825",
+        "wikipedia": "en:Glasgow Central railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2584361,
+          55.8583132
+        ]
+      },
+      "id": "node/6099806145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7147294461",
+        "name": "Muirend",
+        "name:gd": "Ceann an t-Slèibh",
+        "naptan:AtcoCode": "9100MUIREND",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/mui/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/mui",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "MUI",
+        "train": "yes",
+        "wikidata": "Q2477580",
+        "wikipedia": "en:Muirend railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2738113,
+          55.8101131
+        ]
+      },
+      "id": "node/7147294461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7149950857",
+        "brand": "Scotland's Railway",
+        "brand:wikidata": "Q136406287",
+        "fare_zone": "SPT Zone 1",
+        "name": "Bridgeton",
+        "name:gd": "Baile na Drochaid",
+        "naptan:AtcoCode": "9100BRIDGTN",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/bdg/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/bdg",
+        "operator:wikidata": "Q18356161",
+        "owner": "Network Rail",
+        "owner:wikidata": "Q1501071",
+        "platforms": "2",
+        "public_transport": "station",
+        "public_transport:version": "2",
+        "railway": "station",
+        "ref:crs": "BDG",
+        "train": "yes",
+        "wikidata": "Q1878623",
+        "wikipedia": "en:Bridgeton railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2248178,
+          55.8483262
+        ]
+      },
+      "id": "node/7149950857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10189182795",
+        "name": "Kirkhill",
+        "name:gd": "Cnoc na Cille",
+        "naptan:AtcoCode": "9100KRKH",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/kkh/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/kkh",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "KKH",
+        "source": "npe",
+        "train": "yes",
+        "wikidata": "Q641964",
+        "wikipedia": "en:Kirkhill railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1679698,
+          55.8141497
+        ]
+      },
+      "id": "node/10189182795"
+    }
+  ]
+}
