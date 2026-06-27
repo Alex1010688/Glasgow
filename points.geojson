@@ -6,7 +6,8 @@
       "properties": {
         "name": "114",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765200"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "name": "115",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765199"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +38,8 @@
       "properties": {
         "name": "118",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765031"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +54,8 @@
       "properties": {
         "name": "119",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765003"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +70,8 @@
       "properties": {
         "name": "125",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765017"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +86,8 @@
       "properties": {
         "name": "126",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765020"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +102,8 @@
       "properties": {
         "name": "127",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765018"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +118,8 @@
       "properties": {
         "name": "128",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765019"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +134,8 @@
       "properties": {
         "name": "140",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765203"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +150,8 @@
       "properties": {
         "name": "306",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765404"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +166,8 @@
       "properties": {
         "name": "307",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "1953588"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +182,8 @@
       "properties": {
         "name": "308",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763291"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +198,8 @@
       "properties": {
         "name": "312",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "763716"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +214,8 @@
       "properties": {
         "name": "317",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763714"
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +230,8 @@
       "properties": {
         "name": "318",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763715"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +246,8 @@
       "properties": {
         "name": "321",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765415"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +262,8 @@
       "properties": {
         "name": "328",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "2828974"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +278,8 @@
       "properties": {
         "name": "330",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763713"
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +294,8 @@
       "properties": {
         "name": "334",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763696"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +310,8 @@
       "properties": {
         "name": "335",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763553"
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +326,8 @@
       "properties": {
         "name": "336",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763284"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +342,8 @@
       "properties": {
         "name": "339",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763692"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +358,8 @@
       "properties": {
         "name": "345",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763304"
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +374,8 @@
       "properties": {
         "name": "350",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763308"
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +390,8 @@
       "properties": {
         "name": "352",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763305"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +406,8 @@
       "properties": {
         "name": "356",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763310"
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +422,8 @@
       "properties": {
         "name": "357",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763718"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +438,8 @@
       "properties": {
         "name": "358",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763674"
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +454,8 @@
       "properties": {
         "name": "360",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763341"
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +470,8 @@
       "properties": {
         "name": "362",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763354"
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +486,8 @@
       "properties": {
         "name": "363",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763309"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +502,8 @@
       "properties": {
         "name": "364",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763340"
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +518,8 @@
       "properties": {
         "name": "365",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763338"
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +534,8 @@
       "properties": {
         "name": "367",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763296"
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +550,8 @@
       "properties": {
         "name": "368",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763293"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +566,8 @@
       "properties": {
         "name": "370",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763297"
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +582,8 @@
       "properties": {
         "name": "371",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765037"
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +598,8 @@
       "properties": {
         "name": "372",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765036"
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +614,8 @@
       "properties": {
         "name": "373",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763294"
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +630,8 @@
       "properties": {
         "name": "375",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763295"
       },
       "geometry": {
         "type": "Point",
@@ -606,7 +646,8 @@
       "properties": {
         "name": "377",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765035"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +662,8 @@
       "properties": {
         "name": "378",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765058"
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +678,8 @@
       "properties": {
         "name": "384",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763299"
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +694,8 @@
       "properties": {
         "name": "390",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "2642538"
       },
       "geometry": {
         "type": "Point",
@@ -666,7 +710,8 @@
       "properties": {
         "name": "401",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765061"
       },
       "geometry": {
         "type": "Point",
@@ -681,7 +726,8 @@
       "properties": {
         "name": "406",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765051"
       },
       "geometry": {
         "type": "Point",
@@ -696,7 +742,8 @@
       "properties": {
         "name": "449",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488532"
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +758,8 @@
       "properties": {
         "name": "451",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "761668"
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +774,8 @@
       "properties": {
         "name": "453",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488476"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +790,8 @@
       "properties": {
         "name": "454",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488499"
       },
       "geometry": {
         "type": "Point",
@@ -756,7 +806,8 @@
       "properties": {
         "name": "456",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488514"
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +822,8 @@
       "properties": {
         "name": "457",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488504"
       },
       "geometry": {
         "type": "Point",
@@ -786,7 +838,8 @@
       "properties": {
         "name": "459",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2522558"
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +854,8 @@
       "properties": {
         "name": "460",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488510"
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +870,8 @@
       "properties": {
         "name": "462",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488515"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +886,8 @@
       "properties": {
         "name": "471",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488516"
       },
       "geometry": {
         "type": "Point",
@@ -846,7 +902,8 @@
       "properties": {
         "name": "472",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488518"
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +918,8 @@
       "properties": {
         "name": "474",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488470"
       },
       "geometry": {
         "type": "Point",
@@ -876,7 +934,8 @@
       "properties": {
         "name": "479",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "1403694"
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +950,8 @@
       "properties": {
         "name": "487",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765093"
       },
       "geometry": {
         "type": "Point",
@@ -906,7 +966,8 @@
       "properties": {
         "name": "489",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765087"
       },
       "geometry": {
         "type": "Point",
@@ -921,7 +982,8 @@
       "properties": {
         "name": "490",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765096"
       },
       "geometry": {
         "type": "Point",
@@ -936,7 +998,8 @@
       "properties": {
         "name": "498",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "761616"
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +1014,8 @@
       "properties": {
         "name": "499",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "3178137"
       },
       "geometry": {
         "type": "Point",
@@ -966,7 +1030,8 @@
       "properties": {
         "name": "672",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762428"
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +1046,8 @@
       "properties": {
         "name": "673",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762427"
       },
       "geometry": {
         "type": "Point",
@@ -996,7 +1062,8 @@
       "properties": {
         "name": "676",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762429"
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1078,8 @@
       "properties": {
         "name": "679",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762547"
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1094,8 @@
       "properties": {
         "name": "681",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762133"
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1110,8 @@
       "properties": {
         "name": "682",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762540"
       },
       "geometry": {
         "type": "Point",
@@ -1056,7 +1126,8 @@
       "properties": {
         "name": "683",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762426"
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1142,8 @@
       "properties": {
         "name": "688",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "9254096"
       },
       "geometry": {
         "type": "Point",
@@ -1086,7 +1158,8 @@
       "properties": {
         "name": "689",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "19862371"
       },
       "geometry": {
         "type": "Point",
@@ -1101,7 +1174,8 @@
       "properties": {
         "name": "690",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "19862381"
       },
       "geometry": {
         "type": "Point",
@@ -1116,7 +1190,8 @@
       "properties": {
         "name": "691",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "19862442"
       },
       "geometry": {
         "type": "Point",
@@ -1131,7 +1206,8 @@
       "properties": {
         "name": "695",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "1217562"
       },
       "geometry": {
         "type": "Point",
@@ -1146,7 +1222,8 @@
       "properties": {
         "name": "696",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "19888544"
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1238,8 @@
       "properties": {
         "name": "697",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765028"
       },
       "geometry": {
         "type": "Point",
@@ -1176,7 +1254,8 @@
       "properties": {
         "name": "914",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762571"
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1270,8 @@
       "properties": {
         "name": "915",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762572"
       },
       "geometry": {
         "type": "Point",
@@ -1206,7 +1286,8 @@
       "properties": {
         "name": "924",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765053"
       },
       "geometry": {
         "type": "Point",
@@ -1221,7 +1302,8 @@
       "properties": {
         "name": "937",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "762398"
       },
       "geometry": {
         "type": "Point",
@@ -1236,7 +1318,8 @@
       "properties": {
         "name": "938",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762436"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1334,8 @@
       "properties": {
         "name": "943",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762405"
       },
       "geometry": {
         "type": "Point",
@@ -1266,7 +1350,8 @@
       "properties": {
         "name": "948",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762415"
       },
       "geometry": {
         "type": "Point",
@@ -1281,7 +1366,8 @@
       "properties": {
         "name": "951",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "761656"
       },
       "geometry": {
         "type": "Point",
@@ -1296,7 +1382,8 @@
       "properties": {
         "name": "952",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "761647"
       },
       "geometry": {
         "type": "Point",
@@ -1311,7 +1398,8 @@
       "properties": {
         "name": "953",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762438"
       },
       "geometry": {
         "type": "Point",
@@ -1326,7 +1414,8 @@
       "properties": {
         "name": "954",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762390"
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1430,8 @@
       "properties": {
         "name": "955",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762376"
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1446,8 @@
       "properties": {
         "name": "970",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879136"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1462,8 @@
       "properties": {
         "name": "971",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879138"
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1478,8 @@
       "properties": {
         "name": "989",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762333"
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1494,8 @@
       "properties": {
         "name": "993",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762339"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1510,8 @@
       "properties": {
         "name": "113A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765201"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1526,8 @@
       "properties": {
         "name": "113B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765202"
       },
       "geometry": {
         "type": "Point",
@@ -1446,7 +1542,8 @@
       "properties": {
         "name": "116A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765088"
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1558,8 @@
       "properties": {
         "name": "116B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765198"
       },
       "geometry": {
         "type": "Point",
@@ -1476,7 +1574,8 @@
       "properties": {
         "name": "122A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765016"
       },
       "geometry": {
         "type": "Point",
@@ -1491,7 +1590,8 @@
       "properties": {
         "name": "122B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "764987"
       },
       "geometry": {
         "type": "Point",
@@ -1506,7 +1606,8 @@
       "properties": {
         "name": "135A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "7895497"
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1622,8 @@
       "properties": {
         "name": "135B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "7895498"
       },
       "geometry": {
         "type": "Point",
@@ -1536,7 +1638,8 @@
       "properties": {
         "name": "304A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763289"
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1654,8 @@
       "properties": {
         "name": "304B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763690"
       },
       "geometry": {
         "type": "Point",
@@ -1566,7 +1670,8 @@
       "properties": {
         "name": "313A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763691"
       },
       "geometry": {
         "type": "Point",
@@ -1581,7 +1686,8 @@
       "properties": {
         "name": "313B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763709"
       },
       "geometry": {
         "type": "Point",
@@ -1596,7 +1702,8 @@
       "properties": {
         "name": "314A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765414"
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1718,8 @@
       "properties": {
         "name": "314B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765409"
       },
       "geometry": {
         "type": "Point",
@@ -1626,7 +1734,8 @@
       "properties": {
         "name": "315A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763717"
       },
       "geometry": {
         "type": "Point",
@@ -1641,7 +1750,8 @@
       "properties": {
         "name": "315B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763316"
       },
       "geometry": {
         "type": "Point",
@@ -1656,7 +1766,8 @@
       "properties": {
         "name": "316A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765425"
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +1782,8 @@
       "properties": {
         "name": "316B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765398"
       },
       "geometry": {
         "type": "Point",
@@ -1686,7 +1798,8 @@
       "properties": {
         "name": "319A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765456"
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1814,8 @@
       "properties": {
         "name": "319B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765455"
       },
       "geometry": {
         "type": "Point",
@@ -1716,7 +1830,8 @@
       "properties": {
         "name": "320A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765412"
       },
       "geometry": {
         "type": "Point",
@@ -1731,7 +1846,8 @@
       "properties": {
         "name": "320B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765413"
       },
       "geometry": {
         "type": "Point",
@@ -1746,7 +1862,8 @@
       "properties": {
         "name": "320C",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765408"
       },
       "geometry": {
         "type": "Point",
@@ -1761,7 +1878,8 @@
       "properties": {
         "name": "322A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765441"
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1894,8 @@
       "properties": {
         "name": "322B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765410"
       },
       "geometry": {
         "type": "Point",
@@ -1791,7 +1910,8 @@
       "properties": {
         "name": "322C",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765411"
       },
       "geometry": {
         "type": "Point",
@@ -1806,7 +1926,8 @@
       "properties": {
         "name": "323A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765454"
       },
       "geometry": {
         "type": "Point",
@@ -1821,7 +1942,8 @@
       "properties": {
         "name": "323B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765469"
       },
       "geometry": {
         "type": "Point",
@@ -1836,7 +1958,8 @@
       "properties": {
         "name": "324A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763313"
       },
       "geometry": {
         "type": "Point",
@@ -1851,7 +1974,8 @@
       "properties": {
         "name": "324B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763312"
       },
       "geometry": {
         "type": "Point",
@@ -1866,7 +1990,8 @@
       "properties": {
         "name": "325A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763315"
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +2006,8 @@
       "properties": {
         "name": "325B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763314"
       },
       "geometry": {
         "type": "Point",
@@ -1896,7 +2022,8 @@
       "properties": {
         "name": "329A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763317"
       },
       "geometry": {
         "type": "Point",
@@ -1911,7 +2038,8 @@
       "properties": {
         "name": "329B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763306"
       },
       "geometry": {
         "type": "Point",
@@ -1926,7 +2054,8 @@
       "properties": {
         "name": "331A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763711"
       },
       "geometry": {
         "type": "Point",
@@ -1941,7 +2070,8 @@
       "properties": {
         "name": "331B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763700"
       },
       "geometry": {
         "type": "Point",
@@ -1956,7 +2086,8 @@
       "properties": {
         "name": "332A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "763707"
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +2102,8 @@
       "properties": {
         "name": "332B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "763687"
       },
       "geometry": {
         "type": "Point",
@@ -1986,7 +2118,8 @@
       "properties": {
         "name": "332C",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763684"
       },
       "geometry": {
         "type": "Point",
@@ -2001,7 +2134,8 @@
       "properties": {
         "name": "333A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "763695"
       },
       "geometry": {
         "type": "Point",
@@ -2016,7 +2150,8 @@
       "properties": {
         "name": "333B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "763694"
       },
       "geometry": {
         "type": "Point",
@@ -2031,7 +2166,8 @@
       "properties": {
         "name": "333C",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763303"
       },
       "geometry": {
         "type": "Point",
@@ -2046,7 +2182,8 @@
       "properties": {
         "name": "338A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763708"
       },
       "geometry": {
         "type": "Point",
@@ -2061,7 +2198,8 @@
       "properties": {
         "name": "338B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "763683"
       },
       "geometry": {
         "type": "Point",
@@ -2076,7 +2214,8 @@
       "properties": {
         "name": "338C",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "763693"
       },
       "geometry": {
         "type": "Point",
@@ -2091,7 +2230,8 @@
       "properties": {
         "name": "340A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763706"
       },
       "geometry": {
         "type": "Point",
@@ -2106,7 +2246,8 @@
       "properties": {
         "name": "340B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "763686"
       },
       "geometry": {
         "type": "Point",
@@ -2121,7 +2262,8 @@
       "properties": {
         "name": "340C",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "763685"
       },
       "geometry": {
         "type": "Point",
@@ -2136,7 +2278,8 @@
       "properties": {
         "name": "342A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763704"
       },
       "geometry": {
         "type": "Point",
@@ -2151,7 +2294,8 @@
       "properties": {
         "name": "342B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763705"
       },
       "geometry": {
         "type": "Point",
@@ -2166,7 +2310,8 @@
       "properties": {
         "name": "343A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763719"
       },
       "geometry": {
         "type": "Point",
@@ -2181,7 +2326,8 @@
       "properties": {
         "name": "343B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763710"
       },
       "geometry": {
         "type": "Point",
@@ -2196,7 +2342,8 @@
       "properties": {
         "name": "346A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763703"
       },
       "geometry": {
         "type": "Point",
@@ -2211,7 +2358,8 @@
       "properties": {
         "name": "346B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763688"
       },
       "geometry": {
         "type": "Point",
@@ -2226,7 +2374,8 @@
       "properties": {
         "name": "347A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763302"
       },
       "geometry": {
         "type": "Point",
@@ -2241,7 +2390,8 @@
       "properties": {
         "name": "347B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763261"
       },
       "geometry": {
         "type": "Point",
@@ -2256,7 +2406,8 @@
       "properties": {
         "name": "351A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763712"
       },
       "geometry": {
         "type": "Point",
@@ -2271,7 +2422,8 @@
       "properties": {
         "name": "351B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763701"
       },
       "geometry": {
         "type": "Point",
@@ -2286,7 +2438,8 @@
       "properties": {
         "name": "353A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763698"
       },
       "geometry": {
         "type": "Point",
@@ -2301,7 +2454,8 @@
       "properties": {
         "name": "353B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763697"
       },
       "geometry": {
         "type": "Point",
@@ -2316,7 +2470,8 @@
       "properties": {
         "name": "355A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763483"
       },
       "geometry": {
         "type": "Point",
@@ -2331,7 +2486,8 @@
       "properties": {
         "name": "355B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763699"
       },
       "geometry": {
         "type": "Point",
@@ -2346,7 +2502,8 @@
       "properties": {
         "name": "359A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763339"
       },
       "geometry": {
         "type": "Point",
@@ -2361,7 +2518,8 @@
       "properties": {
         "name": "359B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763342"
       },
       "geometry": {
         "type": "Point",
@@ -2376,7 +2534,8 @@
       "properties": {
         "name": "361A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763298"
       },
       "geometry": {
         "type": "Point",
@@ -2391,7 +2550,8 @@
       "properties": {
         "name": "361B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763343"
       },
       "geometry": {
         "type": "Point",
@@ -2406,7 +2566,8 @@
       "properties": {
         "name": "369A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763282"
       },
       "geometry": {
         "type": "Point",
@@ -2421,7 +2582,8 @@
       "properties": {
         "name": "369B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763325"
       },
       "geometry": {
         "type": "Point",
@@ -2436,7 +2598,8 @@
       "properties": {
         "name": "376A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763290"
       },
       "geometry": {
         "type": "Point",
@@ -2451,7 +2614,8 @@
       "properties": {
         "name": "376B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763292"
       },
       "geometry": {
         "type": "Point",
@@ -2466,7 +2630,8 @@
       "properties": {
         "name": "379A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765040"
       },
       "geometry": {
         "type": "Point",
@@ -2481,7 +2646,8 @@
       "properties": {
         "name": "379B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765062"
       },
       "geometry": {
         "type": "Point",
@@ -2496,7 +2662,8 @@
       "properties": {
         "name": "380A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765042"
       },
       "geometry": {
         "type": "Point",
@@ -2511,7 +2678,8 @@
       "properties": {
         "name": "380B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765064"
       },
       "geometry": {
         "type": "Point",
@@ -2526,7 +2694,8 @@
       "properties": {
         "name": "381A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765063"
       },
       "geometry": {
         "type": "Point",
@@ -2541,7 +2710,8 @@
       "properties": {
         "name": "381B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765066"
       },
       "geometry": {
         "type": "Point",
@@ -2556,7 +2726,8 @@
       "properties": {
         "name": "382A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765065"
       },
       "geometry": {
         "type": "Point",
@@ -2571,7 +2742,8 @@
       "properties": {
         "name": "382B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765067"
       },
       "geometry": {
         "type": "Point",
@@ -2586,7 +2758,8 @@
       "properties": {
         "name": "383A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "763288"
       },
       "geometry": {
         "type": "Point",
@@ -2601,7 +2774,8 @@
       "properties": {
         "name": "383B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "763353"
       },
       "geometry": {
         "type": "Point",
@@ -2616,7 +2790,8 @@
       "properties": {
         "name": "386A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763285"
       },
       "geometry": {
         "type": "Point",
@@ -2631,7 +2806,8 @@
       "properties": {
         "name": "386B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763287"
       },
       "geometry": {
         "type": "Point",
@@ -2646,7 +2822,8 @@
       "properties": {
         "name": "388B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "1218726"
       },
       "geometry": {
         "type": "Point",
@@ -2661,7 +2838,8 @@
       "properties": {
         "name": "389A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "1403689"
       },
       "geometry": {
         "type": "Point",
@@ -2676,7 +2854,8 @@
       "properties": {
         "name": "389B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763663"
       },
       "geometry": {
         "type": "Point",
@@ -2691,7 +2870,8 @@
       "properties": {
         "name": "391A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "1786419"
       },
       "geometry": {
         "type": "Point",
@@ -2706,7 +2886,8 @@
       "properties": {
         "name": "391B",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "763351"
       },
       "geometry": {
         "type": "Point",
@@ -2721,7 +2902,8 @@
       "properties": {
         "name": "400A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765056"
       },
       "geometry": {
         "type": "Point",
@@ -2736,7 +2918,8 @@
       "properties": {
         "name": "400B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765057"
       },
       "geometry": {
         "type": "Point",
@@ -2751,7 +2934,8 @@
       "properties": {
         "name": "402A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765508"
       },
       "geometry": {
         "type": "Point",
@@ -2766,7 +2950,8 @@
       "properties": {
         "name": "402B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765068"
       },
       "geometry": {
         "type": "Point",
@@ -2781,7 +2966,8 @@
       "properties": {
         "name": "405A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765059"
       },
       "geometry": {
         "type": "Point",
@@ -2796,7 +2982,8 @@
       "properties": {
         "name": "405B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765055"
       },
       "geometry": {
         "type": "Point",
@@ -2811,7 +2998,8 @@
       "properties": {
         "name": "447A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762532"
       },
       "geometry": {
         "type": "Point",
@@ -2826,7 +3014,8 @@
       "properties": {
         "name": "447B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "765240"
       },
       "geometry": {
         "type": "Point",
@@ -2841,7 +3030,8 @@
       "properties": {
         "name": "448A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "765242"
       },
       "geometry": {
         "type": "Point",
@@ -2856,7 +3046,8 @@
       "properties": {
         "name": "448B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "765233"
       },
       "geometry": {
         "type": "Point",
@@ -2871,7 +3062,8 @@
       "properties": {
         "name": "452A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "761615"
       },
       "geometry": {
         "type": "Point",
@@ -2901,7 +3093,8 @@
       "properties": {
         "name": "455A",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488513"
       },
       "geometry": {
         "type": "Point",
@@ -2916,7 +3109,8 @@
       "properties": {
         "name": "455B",
         "type": "Points",
-        "notes": "HPSS"
+        "notes": "HPSS",
+        "equipment_number": "2488517"
       },
       "geometry": {
         "type": "Point",
@@ -2931,7 +3125,8 @@
       "properties": {
         "name": "473A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765498"
       },
       "geometry": {
         "type": "Point",
@@ -2946,7 +3141,8 @@
       "properties": {
         "name": "473B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765542"
       },
       "geometry": {
         "type": "Point",
@@ -2961,7 +3157,8 @@
       "properties": {
         "name": "475A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765060"
       },
       "geometry": {
         "type": "Point",
@@ -2976,7 +3173,8 @@
       "properties": {
         "name": "475B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765104"
       },
       "geometry": {
         "type": "Point",
@@ -2991,7 +3189,8 @@
       "properties": {
         "name": "476A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765459"
       },
       "geometry": {
         "type": "Point",
@@ -3006,7 +3205,8 @@
       "properties": {
         "name": "476B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765238"
       },
       "geometry": {
         "type": "Point",
@@ -3021,7 +3221,8 @@
       "properties": {
         "name": "477A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765049"
       },
       "geometry": {
         "type": "Point",
@@ -3036,7 +3237,8 @@
       "properties": {
         "name": "477B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765048"
       },
       "geometry": {
         "type": "Point",
@@ -3051,7 +3253,8 @@
       "properties": {
         "name": "481A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765089"
       },
       "geometry": {
         "type": "Point",
@@ -3066,7 +3269,8 @@
       "properties": {
         "name": "481B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765457"
       },
       "geometry": {
         "type": "Point",
@@ -3081,7 +3285,8 @@
       "properties": {
         "name": "482A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765458"
       },
       "geometry": {
         "type": "Point",
@@ -3096,7 +3301,8 @@
       "properties": {
         "name": "482B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765090"
       },
       "geometry": {
         "type": "Point",
@@ -3111,7 +3317,8 @@
       "properties": {
         "name": "483A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "3178125"
       },
       "geometry": {
         "type": "Point",
@@ -3126,7 +3333,8 @@
       "properties": {
         "name": "483B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "3178126"
       },
       "geometry": {
         "type": "Point",
@@ -3141,7 +3349,8 @@
       "properties": {
         "name": "485A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "3178127"
       },
       "geometry": {
         "type": "Point",
@@ -3156,7 +3365,8 @@
       "properties": {
         "name": "485B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "3178128"
       },
       "geometry": {
         "type": "Point",
@@ -3171,7 +3381,8 @@
       "properties": {
         "name": "486A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765105"
       },
       "geometry": {
         "type": "Point",
@@ -3186,7 +3397,8 @@
       "properties": {
         "name": "486B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765094"
       },
       "geometry": {
         "type": "Point",
@@ -3201,7 +3413,8 @@
       "properties": {
         "name": "488A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765092"
       },
       "geometry": {
         "type": "Point",
@@ -3216,7 +3429,8 @@
       "properties": {
         "name": "488B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765091"
       },
       "geometry": {
         "type": "Point",
@@ -3231,7 +3445,8 @@
       "properties": {
         "name": "492A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "2912215"
       },
       "geometry": {
         "type": "Point",
@@ -3246,7 +3461,8 @@
       "properties": {
         "name": "492B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "3178130"
       },
       "geometry": {
         "type": "Point",
@@ -3261,7 +3477,8 @@
       "properties": {
         "name": "493A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "3178131"
       },
       "geometry": {
         "type": "Point",
@@ -3276,7 +3493,8 @@
       "properties": {
         "name": "493B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "2912216"
       },
       "geometry": {
         "type": "Point",
@@ -3291,7 +3509,8 @@
       "properties": {
         "name": "494A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "3178133"
       },
       "geometry": {
         "type": "Point",
@@ -3306,7 +3525,8 @@
       "properties": {
         "name": "494B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "3178134"
       },
       "geometry": {
         "type": "Point",
@@ -3321,7 +3541,8 @@
       "properties": {
         "name": "496A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "3178135"
       },
       "geometry": {
         "type": "Point",
@@ -3336,7 +3557,8 @@
       "properties": {
         "name": "496B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "3178136"
       },
       "geometry": {
         "type": "Point",
@@ -3351,7 +3573,8 @@
       "properties": {
         "name": "497A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "761663"
       },
       "geometry": {
         "type": "Point",
@@ -3366,7 +3589,8 @@
       "properties": {
         "name": "497B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "761617"
       },
       "geometry": {
         "type": "Point",
@@ -3381,7 +3605,8 @@
       "properties": {
         "name": "671A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "7887639"
       },
       "geometry": {
         "type": "Point",
@@ -3411,7 +3636,8 @@
       "properties": {
         "name": "678A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762430"
       },
       "geometry": {
         "type": "Point",
@@ -3426,7 +3652,8 @@
       "properties": {
         "name": "678B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762441"
       },
       "geometry": {
         "type": "Point",
@@ -3441,7 +3668,8 @@
       "properties": {
         "name": "680A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "762607"
       },
       "geometry": {
         "type": "Point",
@@ -3456,7 +3684,8 @@
       "properties": {
         "name": "680B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "1443895"
       },
       "geometry": {
         "type": "Point",
@@ -3471,7 +3700,8 @@
       "properties": {
         "name": "684A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762502"
       },
       "geometry": {
         "type": "Point",
@@ -3486,7 +3716,8 @@
       "properties": {
         "name": "684B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762503"
       },
       "geometry": {
         "type": "Point",
@@ -3501,7 +3732,8 @@
       "properties": {
         "name": "693A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762501"
       },
       "geometry": {
         "type": "Point",
@@ -3516,7 +3748,8 @@
       "properties": {
         "name": "693B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762500"
       },
       "geometry": {
         "type": "Point",
@@ -3531,7 +3764,8 @@
       "properties": {
         "name": "913A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762573"
       },
       "geometry": {
         "type": "Point",
@@ -3546,7 +3780,8 @@
       "properties": {
         "name": "913B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762574"
       },
       "geometry": {
         "type": "Point",
@@ -3561,7 +3796,8 @@
       "properties": {
         "name": "921A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762498"
       },
       "geometry": {
         "type": "Point",
@@ -3576,7 +3812,8 @@
       "properties": {
         "name": "921B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762380"
       },
       "geometry": {
         "type": "Point",
@@ -3591,7 +3828,8 @@
       "properties": {
         "name": "922A",
         "type": "Points",
-        "notes": "Mk 3"
+        "notes": "Mk 3",
+        "equipment_number": "19783645"
       },
       "geometry": {
         "type": "Point",
@@ -3606,7 +3844,8 @@
       "properties": {
         "name": "922B",
         "type": "Points",
-        "notes": "Mk 3"
+        "notes": "Mk 3",
+        "equipment_number": "19783984"
       },
       "geometry": {
         "type": "Point",
@@ -3621,7 +3860,8 @@
       "properties": {
         "name": "923A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762382"
       },
       "geometry": {
         "type": "Point",
@@ -3636,7 +3876,8 @@
       "properties": {
         "name": "923B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762377"
       },
       "geometry": {
         "type": "Point",
@@ -3651,7 +3892,8 @@
       "properties": {
         "name": "925A",
         "type": "Points",
-        "notes": "Mk 3"
+        "notes": "Mk 3",
+        "equipment_number": "19784083"
       },
       "geometry": {
         "type": "Point",
@@ -3666,7 +3908,8 @@
       "properties": {
         "name": "925B",
         "type": "Points",
-        "notes": "Mk 3"
+        "notes": "Mk 3",
+        "equipment_number": "19785133"
       },
       "geometry": {
         "type": "Point",
@@ -3681,7 +3924,8 @@
       "properties": {
         "name": "926A",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765054"
       },
       "geometry": {
         "type": "Point",
@@ -3696,7 +3940,8 @@
       "properties": {
         "name": "926B",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
+        "equipment_number": "765304"
       },
       "geometry": {
         "type": "Point",
@@ -3711,7 +3956,8 @@
       "properties": {
         "name": "927A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762374"
       },
       "geometry": {
         "type": "Point",
@@ -3726,7 +3972,8 @@
       "properties": {
         "name": "927B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762372"
       },
       "geometry": {
         "type": "Point",
@@ -3741,7 +3988,8 @@
       "properties": {
         "name": "932A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762373"
       },
       "geometry": {
         "type": "Point",
@@ -3756,7 +4004,8 @@
       "properties": {
         "name": "932B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762395"
       },
       "geometry": {
         "type": "Point",
@@ -3771,7 +4020,8 @@
       "properties": {
         "name": "933A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762371"
       },
       "geometry": {
         "type": "Point",
@@ -3786,7 +4036,8 @@
       "properties": {
         "name": "933B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "762402"
       },
       "geometry": {
         "type": "Point",
@@ -3801,7 +4052,8 @@
       "properties": {
         "name": "934A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762370"
       },
       "geometry": {
         "type": "Point",
@@ -3816,7 +4068,8 @@
       "properties": {
         "name": "934B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762403"
       },
       "geometry": {
         "type": "Point",
@@ -3831,7 +4084,8 @@
       "properties": {
         "name": "935A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "762378"
       },
       "geometry": {
         "type": "Point",
@@ -3846,7 +4100,8 @@
       "properties": {
         "name": "935B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "762399"
       },
       "geometry": {
         "type": "Point",
@@ -3861,7 +4116,8 @@
       "properties": {
         "name": "936A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762397"
       },
       "geometry": {
         "type": "Point",
@@ -3876,7 +4132,8 @@
       "properties": {
         "name": "936B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762400"
       },
       "geometry": {
         "type": "Point",
@@ -3891,7 +4148,8 @@
       "properties": {
         "name": "939A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "762396"
       },
       "geometry": {
         "type": "Point",
@@ -3906,7 +4164,8 @@
       "properties": {
         "name": "939B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "762392"
       },
       "geometry": {
         "type": "Point",
@@ -3921,7 +4180,8 @@
       "properties": {
         "name": "941A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762387"
       },
       "geometry": {
         "type": "Point",
@@ -3936,7 +4196,8 @@
       "properties": {
         "name": "941B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762394"
       },
       "geometry": {
         "type": "Point",
@@ -3951,7 +4212,8 @@
       "properties": {
         "name": "949A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "765514"
       },
       "geometry": {
         "type": "Point",
@@ -3966,7 +4228,8 @@
       "properties": {
         "name": "949B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762393"
       },
       "geometry": {
         "type": "Point",
@@ -3981,7 +4244,8 @@
       "properties": {
         "name": "956A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762404"
       },
       "geometry": {
         "type": "Point",
@@ -3996,7 +4260,8 @@
       "properties": {
         "name": "956B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762360"
       },
       "geometry": {
         "type": "Point",
@@ -4011,7 +4276,8 @@
       "properties": {
         "name": "957A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762389"
       },
       "geometry": {
         "type": "Point",
@@ -4026,7 +4292,8 @@
       "properties": {
         "name": "957B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762065"
       },
       "geometry": {
         "type": "Point",
@@ -4041,7 +4308,8 @@
       "properties": {
         "name": "959A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762439"
       },
       "geometry": {
         "type": "Point",
@@ -4056,7 +4324,8 @@
       "properties": {
         "name": "959B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "761655"
       },
       "geometry": {
         "type": "Point",
@@ -4071,7 +4340,8 @@
       "properties": {
         "name": "961A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762076"
       },
       "geometry": {
         "type": "Point",
@@ -4086,7 +4356,8 @@
       "properties": {
         "name": "961B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762115"
       },
       "geometry": {
         "type": "Point",
@@ -4101,7 +4372,8 @@
       "properties": {
         "name": "962A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "762061"
       },
       "geometry": {
         "type": "Point",
@@ -4116,7 +4388,8 @@
       "properties": {
         "name": "962B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "762062"
       },
       "geometry": {
         "type": "Point",
@@ -4131,7 +4404,8 @@
       "properties": {
         "name": "963A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "762063"
       },
       "geometry": {
         "type": "Point",
@@ -4146,7 +4420,8 @@
       "properties": {
         "name": "963B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "762064"
       },
       "geometry": {
         "type": "Point",
@@ -4161,7 +4436,8 @@
       "properties": {
         "name": "965A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879149"
       },
       "geometry": {
         "type": "Point",
@@ -4176,7 +4452,8 @@
       "properties": {
         "name": "965B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762166"
       },
       "geometry": {
         "type": "Point",
@@ -4191,7 +4468,8 @@
       "properties": {
         "name": "966",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762096"
       },
       "geometry": {
         "type": "Point",
@@ -4206,7 +4484,8 @@
       "properties": {
         "name": "972A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762165"
       },
       "geometry": {
         "type": "Point",
@@ -4221,7 +4500,8 @@
       "properties": {
         "name": "972B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762161"
       },
       "geometry": {
         "type": "Point",
@@ -4236,7 +4516,8 @@
       "properties": {
         "name": "975A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879140"
       },
       "geometry": {
         "type": "Point",
@@ -4251,7 +4532,8 @@
       "properties": {
         "name": "975B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879142"
       },
       "geometry": {
         "type": "Point",
@@ -4266,7 +4548,8 @@
       "properties": {
         "name": "976A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879145"
       },
       "geometry": {
         "type": "Point",
@@ -4281,7 +4564,8 @@
       "properties": {
         "name": "976B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879146"
       },
       "geometry": {
         "type": "Point",
@@ -4296,7 +4580,8 @@
       "properties": {
         "name": "979A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879147"
       },
       "geometry": {
         "type": "Point",
@@ -4311,7 +4596,8 @@
       "properties": {
         "name": "979B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879128"
       },
       "geometry": {
         "type": "Point",
@@ -4326,7 +4612,8 @@
       "properties": {
         "name": "980A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879130"
       },
       "geometry": {
         "type": "Point",
@@ -4341,7 +4628,8 @@
       "properties": {
         "name": "980B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879132"
       },
       "geometry": {
         "type": "Point",
@@ -4356,7 +4644,8 @@
       "properties": {
         "name": "981A",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879148"
       },
       "geometry": {
         "type": "Point",
@@ -4371,7 +4660,8 @@
       "properties": {
         "name": "981B",
         "type": "Points",
-        "notes": "IBCL"
+        "notes": "IBCL",
+        "equipment_number": "18879134"
       },
       "geometry": {
         "type": "Point",
@@ -4386,7 +4676,8 @@
       "properties": {
         "name": "987A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762344"
       },
       "geometry": {
         "type": "Point",
@@ -4401,7 +4692,8 @@
       "properties": {
         "name": "987B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762364"
       },
       "geometry": {
         "type": "Point",
@@ -4416,7 +4708,8 @@
       "properties": {
         "name": "988A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762341"
       },
       "geometry": {
         "type": "Point",
@@ -4431,7 +4724,8 @@
       "properties": {
         "name": "988B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762343"
       },
       "geometry": {
         "type": "Point",
@@ -4446,7 +4740,8 @@
       "properties": {
         "name": "994A",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762417"
       },
       "geometry": {
         "type": "Point",
@@ -4461,7 +4756,8 @@
       "properties": {
         "name": "994B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "equipment_number": "762350"
       },
       "geometry": {
         "type": "Point",
@@ -4492,6 +4788,7 @@
         "name": "S101",
         "type": "Points",
         "notes": "RCPL"
+		"equipment_number": "1418222"
       },
       "geometry": {
         "type": "Point",
@@ -4507,6 +4804,7 @@
         "name": "S102",
         "type": "Points",
         "notes": "RCPL"
+		"equipment_number": "1418225"
       },
       "geometry": {
         "type": "Point",
@@ -4521,7 +4819,8 @@
       "properties": {
         "name": "388A",
         "type": "Points",
-        "notes": "EP"
+        "notes": "EP",
+        "equipment_number": "1218727"
       },
       "geometry": {
         "type": "Point",
