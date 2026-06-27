@@ -135,6 +135,27 @@
       margin-top: 6px;
     }
 
+    .br-station-icon {
+      background: transparent;
+      border: none;
+    }
+
+    .br-logo-marker {
+      width: 26px;
+      height: 18px;
+      background: #d71920;
+      color: white;
+      border: 2px solid white;
+      border-radius: 3px;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.55);
+      font-family: Arial, sans-serif;
+      font-size: 13px;
+      font-weight: bold;
+      line-height: 18px;
+      text-align: center;
+      letter-spacing: -1px;
+    }
+
     .feature-label {
       background: rgba(255, 255, 255, 0.85);
       border: 1px solid #555;
@@ -262,6 +283,16 @@
         showOnLoad: true,
         showLabels: true
       },
+      {
+        name: "Stations",
+        file: "stations.geojson",
+        pane: "stationsPane",
+        zIndex: 645,
+        showOnLoad: true,
+        showLabels: false,
+        iconType: "brLogo"
+      },
+
       {
         name: "Points",
         file: "points.geojson",
@@ -446,6 +477,16 @@
     }
 
 
+    function createBrStationIcon() {
+      return L.divIcon({
+        className: "br-station-icon",
+        html: '<div class="br-logo-marker">BR</div>',
+        iconSize: [30, 22],
+        iconAnchor: [15, 11],
+        popupAnchor: [0, -11]
+      });
+    }
+
     function getPointLatLng(feature) {
       if (
         !feature.geometry ||
@@ -601,7 +642,7 @@
       const p = feature.properties || {};
       const name = getFeatureName(feature);
 
-      const code = p.code || p.Code || "";
+      const code = p.code || p.Code || p["ref:crs"] || "";
       const type = p.type || p.Type || layerName || "";
       const notes = p.notes || p.Notes || "";
 
@@ -920,6 +961,13 @@
         },
 
         pointToLayer: function(feature, latlng) {
+          if (layerConfig.iconType === "brLogo") {
+            return L.marker(latlng, {
+              pane: layerConfig.pane,
+              icon: createBrStationIcon()
+            });
+          }
+
           const colour = getFeatureColour(feature, layerConfig);
 
           return L.circleMarker(latlng, {
