@@ -98,7 +98,7 @@
 
     .leaflet-popup-content {
       max-width: 320px;
-      font-size: 16px;
+      font-size: 12px;
       line-height: 1.4;
       overflow-wrap: break-word;
     }
@@ -481,10 +481,20 @@
   return digitsOnly;
 }
 
+    function normaliseAssetType(value) {
+      return String(value || "").trim().toLowerCase();
+    }
+
     function assetProfileLinks(feature, layerName) {
       var p = feature.properties || {};
       var equipmentNumbers = p.equipment_number;
       var entries = [];
+
+      /*
+        Use the feature type from the GeoJSON first.
+        Fall back to the layer name only if the GeoJSON has no type.
+      */
+      var assetType = normaliseAssetType(p.type || p.Type || layerName);
 
       if (Array.isArray(equipmentNumbers)) {
         entries = equipmentNumbers;
@@ -518,7 +528,7 @@
 
         var linkText = "Open MyIM asset profile";
 
-        if (layerName === "Axle counters") {
+        if (assetType === "axle counters" || assetType === "axle counter") {
           if (equipmentName) {
             linkText = "Open MyIM axle counter " + equipmentName + " head profile";
           } else if (entries.length > 1) {
@@ -526,7 +536,7 @@
           } else {
             linkText = "Open MyIM axle counter head profile";
           }
-        } else if (layerName === "Treadles" || layerName === "Treadle") {
+        } else if (assetType === "treadles" || assetType === "treadle") {
           if (equipmentName) {
             linkText = "Open MyIM treadle " + equipmentName + " profile";
           } else if (entries.length > 1) {
@@ -534,9 +544,9 @@
           } else {
             linkText = "Open MyIM treadle profile";
           }
-        } else if (layerName === "Tracks") {
+        } else if (assetType === "tracks" || assetType === "track") {
           linkText = "Open MyIM track profile";
-        } else if (layerName === "Points") {
+        } else if (assetType === "points" || assetType === "point") {
           linkText = "Open MyIM point profile";
         }
 
