@@ -6,7 +6,7 @@
       "properties": {
         "name": "ARG1/0/19",
         "type": "Locs",
-        "notes": "x: -4.2129455 y: 55.8309624"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +21,7 @@
       "properties": {
         "name": "ARG1/0/20",
         "type": "Locs",
-        "notes": "x: -4.2145978 y: 55.8318341"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@
       "properties": {
         "name": "ARG1/0/50",
         "type": "Locs",
-        "notes": "x: -4.2148511 y: 55.835364"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@
       "properties": {
         "name": "ARG2/0/68",
         "type": "Locs",
-        "notes": "x: -4.2162421 y: 55.8377094"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@
       "properties": {
         "name": "ARG2/0/98",
         "type": "Locs",
-        "notes": "x: -4.2173575 y: 55.8420405"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@
       "properties": {
         "name": "AYR001.085",
         "type": "Locs",
-        "notes": "x: -4.2970154 y: 55.848455"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@
       "properties": {
         "name": "AYR001.117",
         "type": "Locs",
-        "notes": "x: -4.3021436 y: 55.8489796"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@
       "properties": {
         "name": "AYR001.140",
         "type": "Locs",
-        "notes": "x: -4.3054213 y: 55.8493102"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +126,7 @@
       "properties": {
         "name": "AYR001.166",
         "type": "Locs",
-        "notes": "x: -4.3092702 y: 55.8497574"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +141,7 @@
       "properties": {
         "name": "AYR002.069",
         "type": "Locs",
-        "notes": "x: -4.3218379 y: 55.8509795"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +156,7 @@
       "properties": {
         "name": "AYR002.125",
         "type": "Locs",
-        "notes": "x: -4.3284885 y: 55.8516468"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@
       "properties": {
         "name": "AYR003.011",
         "type": "Locs",
-        "notes": "x: -4.3377924 y: 55.8525813"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@
       "properties": {
         "name": "AYR003.036",
         "type": "Locs",
-        "notes": "x: -4.3412109 y: 55.8529758"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@
       "properties": {
         "name": "AYR003.068",
         "type": "Locs",
-        "notes": "x: -4.3459102 y: 55.8534305"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +216,7 @@
       "properties": {
         "name": "AYR003.120",
         "type": "Locs",
-        "notes": "x: -4.3534043 y: 55.8541531"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +231,7 @@
       "properties": {
         "name": "AYR004.004",
         "type": "Locs",
-        "notes": "x: -4.3621865 y: 55.8550564"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +246,7 @@
       "properties": {
         "name": "CLY101.033",
         "type": "Locs",
-        "notes": "x: -4.2638833 y: 55.8449926"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +261,7 @@
       "properties": {
         "name": "CLY101.077",
         "type": "Locs",
-        "notes": "x: -4.26678 y: 55.8456772"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +276,7 @@
       "properties": {
         "name": "CLY101.092",
         "type": "Locs",
-        "notes": "x: -4.269883 y: 55.8459367"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +291,7 @@
       "properties": {
         "name": "CLY101.124",
         "type": "Locs",
-        "notes": "x: -4.2741217 y: 55.8468713"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +306,7 @@
       "properties": {
         "name": "CLY101.138",
         "type": "Locs",
-        "notes": "x: -4.2761387 y: 55.8473231"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +321,7 @@
       "properties": {
         "name": "CLY101.166",
         "type": "Locs",
-        "notes": "x: -4.2795654 y: 55.8472721"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +336,7 @@
       "properties": {
         "name": "CND000.076",
         "type": "Locs",
-        "notes": "x: -4.3527959 y: 55.8566822"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +351,7 @@
       "properties": {
         "name": "CND001.043",
         "type": "Locs",
-        "notes": "x: -4.36344 y: 55.8663793"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +366,7 @@
       "properties": {
         "name": "CNL 001.091",
         "type": "Locs",
-        "notes": "x: -4.2986625 y: 55.8461711"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +381,7 @@
       "properties": {
         "name": "CNL 73",
         "type": "Locs",
-        "notes": "x: -4.3014887 y: 55.844389"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +396,7 @@
       "properties": {
         "name": "CNL 74",
         "type": "Locs",
-        "notes": "x: -4.304052 y: 55.8429771"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +411,7 @@
       "properties": {
         "name": "CNL 75",
         "type": "Locs",
-        "notes": "x: -4.3081047 y: 55.8410785"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +426,7 @@
       "properties": {
         "name": "CNL 76",
         "type": "Locs",
-        "notes": "x: -4.3104668 y: 55.8403902"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +441,7 @@
       "properties": {
         "name": "CNL 77",
         "type": "Locs",
-        "notes": "x: -4.3144944 y: 55.8396381"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +456,7 @@
       "properties": {
         "name": "CNL 78A",
         "type": "Locs",
-        "notes": "x: -4.3213728 y: 55.8367666"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +471,7 @@
       "properties": {
         "name": "CNL 79",
         "type": "Locs",
-        "notes": "x: -4.318296 y: 55.8389327"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +486,7 @@
       "properties": {
         "name": "CNL 80",
         "type": "Locs",
-        "notes": "x: -4.3219002 y: 55.837557"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +501,7 @@
       "properties": {
         "name": "CNL 81",
         "type": "Locs",
-        "notes": "x: -4.3243005 y: 55.8366747"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +516,7 @@
       "properties": {
         "name": "CNL 82",
         "type": "Locs",
-        "notes": "x: -4.3353993 y: 55.8380914"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +531,7 @@
       "properties": {
         "name": "CNL 83",
         "type": "Locs",
-        "notes": "x: -4.3396666 y: 55.8392812"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +546,7 @@
       "properties": {
         "name": "CNL 84",
         "type": "Locs",
-        "notes": "x: -4.3424909 y: 55.8396309"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +561,7 @@
       "properties": {
         "name": "CNL 85",
         "type": "Locs",
-        "notes": "x: -4.3525094 y: 55.8419728"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +576,7 @@
       "properties": {
         "name": "CNL 86",
         "type": "Locs",
-        "notes": "x: -4.3560932 y: 55.843222"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +591,7 @@
       "properties": {
         "name": "CNL 87",
         "type": "Locs",
-        "notes": "x: -4.3574176 y: 55.8434009"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -606,7 +606,7 @@
       "properties": {
         "name": "CNL 88",
         "type": "Locs",
-        "notes": "x: -4.3636665 y: 55.8425399"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +621,7 @@
       "properties": {
         "name": "CNL 89",
         "type": "Locs",
-        "notes": "x: -4.369908 y: 55.8411573"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +636,7 @@
       "properties": {
         "name": "CNL 90",
         "type": "Locs",
-        "notes": "x: -4.3725774 y: 55.8402609"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +651,7 @@
       "properties": {
         "name": "CNL 91",
         "type": "Locs",
-        "notes": "x: -4.3852074 y: 55.8391873"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -666,7 +666,7 @@
       "properties": {
         "name": "CNL 92",
         "type": "Locs",
-        "notes": "x: -4.3876289 y: 55.8400723"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -681,7 +681,7 @@
       "properties": {
         "name": "CNL 93",
         "type": "Locs",
-        "notes": "x: -4.3927729 y: 55.8418673"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -696,7 +696,7 @@
       "properties": {
         "name": "CNL 94",
         "type": "Locs",
-        "notes": "x: -4.4073571 y: 55.8392378"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +711,7 @@
       "properties": {
         "name": "CNL 95",
         "type": "Locs",
-        "notes": "x: -4.4237492 y: 55.840149"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +726,7 @@
       "properties": {
         "name": "CTC 0/23",
         "type": "Locs",
-        "notes": "x: -4.2523562 y: 55.8199629"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +741,7 @@
       "properties": {
         "name": "CTC 0/36",
         "type": "Locs",
-        "notes": "x: -4.2524058 y: 55.8199667"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -756,7 +756,7 @@
       "properties": {
         "name": "CTC 0/51",
         "type": "Locs",
-        "notes": "x: -4.2685034 y: 55.8360741"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +771,7 @@
       "properties": {
         "name": "CTC 0/65 (DB)",
         "type": "Locs",
-        "notes": "x: -4.2616865 y: 55.8343773"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -786,7 +786,7 @@
       "properties": {
         "name": "CTC 0/93",
         "type": "Locs",
-        "notes": "x: -4.2576765 y: 55.8337065"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +801,7 @@
       "properties": {
         "name": "CTC 1/16",
         "type": "Locs",
-        "notes": "x: -4.2555873 y: 55.8310976"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +816,7 @@
       "properties": {
         "name": "CTC 1/45",
         "type": "Locs",
-        "notes": "x: -4.2608814 y: 55.827433"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +831,7 @@
       "properties": {
         "name": "CTC 1/60",
         "type": "Locs",
-        "notes": "x: -4.259856 y: 55.8240413"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -846,7 +846,7 @@
       "properties": {
         "name": "CTC 1/99",
         "type": "Locs",
-        "notes": "x: -4.2583798 y: 55.8208662"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +861,7 @@
       "properties": {
         "name": "CTC 2/12",
         "type": "Locs",
-        "notes": "x: -4.2592139 y: 55.818591"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -876,7 +876,7 @@
       "properties": {
         "name": "CTC 2/28",
         "type": "Locs",
-        "notes": "x: -4.2627178 y: 55.8169829"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +891,7 @@
       "properties": {
         "name": "CTC 2/35",
         "type": "Locs",
-        "notes": "x: -4.2636725 y: 55.8169015"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -906,7 +906,7 @@
       "properties": {
         "name": "CTC 2/48",
         "type": "Locs",
-        "notes": "x: -4.2671938 y: 55.817596"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -921,7 +921,7 @@
       "properties": {
         "name": "CTC 2/61",
         "type": "Locs",
-        "notes": "x: -4.2748402 y: 55.8204506"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -936,7 +936,7 @@
       "properties": {
         "name": "CTC 3/11",
         "type": "Locs",
-        "notes": "x: -4.2812405 y: 55.821957"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +951,7 @@
       "properties": {
         "name": "CTC 3/34",
         "type": "Locs",
-        "notes": "x: -4.2860018 y: 55.8241251"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -966,7 +966,7 @@
       "properties": {
         "name": "CTC 3/61",
         "type": "Locs",
-        "notes": "x: -4.2912355 y: 55.8273656"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +981,7 @@
       "properties": {
         "name": "CTC 3/96",
         "type": "Locs",
-        "notes": "x: -4.2935882 y: 55.831837"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -996,7 +996,7 @@
       "properties": {
         "name": "CTC 4/28",
         "type": "Locs",
-        "notes": "x: -4.2901595 y: 55.837328"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1011,7 @@
       "properties": {
         "name": "CTC 4/51",
         "type": "Locs",
-        "notes": "x: -4.2874558 y: 55.8377031"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1026,7 @@
       "properties": {
         "name": "CTC 4/89",
         "type": "Locs",
-        "notes": "x: -4.2775933 y: 55.8374877"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1041,7 @@
       "properties": {
         "name": "EKE 0/30",
         "type": "Locs",
-        "notes": "x: -4.3135706 y: 55.8155468"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1056,7 +1056,7 @@
       "properties": {
         "name": "EKE 0/61",
         "type": "Locs",
-        "notes": "x: -4.3118002 y: 55.8113127"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1071,7 @@
       "properties": {
         "name": "EKE 1/16",
         "type": "Locs",
-        "notes": "x: -4.2990708 y: 55.8084906"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1086,7 +1086,7 @@
       "properties": {
         "name": "EKE 1/30",
         "type": "Locs",
-        "notes": "x: -4.2957913 y: 55.807348"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1101,7 +1101,7 @@
       "properties": {
         "name": "EKE 1/51",
         "type": "Locs",
-        "notes": "x: -4.2931209 y: 55.8047718"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1116,7 +1116,7 @@
       "properties": {
         "name": "EKE 1/86",
         "type": "Locs",
-        "notes": "x: -4.290426 y: 55.7998227"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1131,7 +1131,7 @@
       "properties": {
         "name": "EKE 2/68",
         "type": "Locs",
-        "notes": "x: -4.2767222 y: 55.7902036"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1146,7 +1146,7 @@
       "properties": {
         "name": "EKE 3/06",
         "type": "Locs",
-        "notes": "x: -4.2703902 y: 55.7874041"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1161,7 @@
       "properties": {
         "name": "EKE 3/34",
         "type": "Locs",
-        "notes": "x: -4.2661777 y: 55.784405"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1176,7 +1176,7 @@
       "properties": {
         "name": "EKE 3/48",
         "type": "Locs",
-        "notes": "x: -4.263978 y: 55.7826642"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1191,7 @@
       "properties": {
         "name": "EKE 3/52",
         "type": "Locs",
-        "notes": "x: -4.2631867 y: 55.7819772"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1206,7 +1206,7 @@
       "properties": {
         "name": "EKE 4/09",
         "type": "Locs",
-        "notes": "x: -4.2607567 y: 55.7744386"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1221,7 +1221,7 @@
       "properties": {
         "name": "EKE 4/61",
         "type": "Locs",
-        "notes": "x: -4.2516243 y: 55.7689536"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1236,7 +1236,7 @@
       "properties": {
         "name": "EKE 5/76",
         "type": "Locs",
-        "notes": "x: -4.2303595 y: 55.7619073"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1271,7 +1271,7 @@
       "properties": {
         "name": "EKE 6/41",
         "type": "Locs",
-        "notes": "x: -4.2142963 y: 55.7632135"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1286,7 +1286,7 @@
       "properties": {
         "name": "EKE 6/59",
         "type": "Locs",
-        "notes": "x: -4.2096201 y: 55.764472"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1301,7 +1301,7 @@
       "properties": {
         "name": "EKE 6/81",
         "type": "Locs",
-        "notes": "x: -4.2045631 y: 55.7651286"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1316,7 +1316,7 @@
       "properties": {
         "name": "EKE 7/06",
         "type": "Locs",
-        "notes": "x: -4.1966891 y: 55.7654666"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1331,7 +1331,7 @@
       "properties": {
         "name": "EKE 7/22",
         "type": "Locs",
-        "notes": "x: -4.19411 y: 55.7653805"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1346,7 +1346,7 @@
       "properties": {
         "name": "EKE 7/66",
         "type": "Locs",
-        "notes": "x: -4.1817443 y: 55.7659391"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1361,7 +1361,7 @@
       "properties": {
         "name": "GBK 1/26",
         "type": "Locs",
-        "notes": "x: -4.2735679 y: 55.8377252"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1376,7 +1376,7 @@
       "properties": {
         "name": "GBK 1/45",
         "type": "Locs",
-        "notes": "x: -4.2785182 y: 55.8360285"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1391,7 +1391,7 @@
       "properties": {
         "name": "GBK 2/13",
         "type": "Locs",
-        "notes": "x: -4.2929472 y: 55.8307106"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1406,7 +1406,7 @@
       "properties": {
         "name": "GBK 2/36",
         "type": "Locs",
-        "notes": "x: -4.2966401 y: 55.8285261"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1421,7 +1421,7 @@
       "properties": {
         "name": "GBK 2/39",
         "type": "Locs",
-        "notes": "x: -4.2971239 y: 55.8281459"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1436,7 +1436,7 @@
       "properties": {
         "name": "GBK 3/03",
         "type": "Locs",
-        "notes": "x: -4.3054837 y: 55.8208115"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1451,7 +1451,7 @@
       "properties": {
         "name": "GBK 3/19",
         "type": "Locs",
-        "notes": "x: -4.3094907 y: 55.8191271"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1466,7 +1466,7 @@
       "properties": {
         "name": "GBK 3/40",
         "type": "Locs",
-        "notes": "x: -4.3141728 y: 55.8176581"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1481,7 +1481,7 @@
       "properties": {
         "name": "GBK 3/94",
         "type": "Locs",
-        "notes": "x: -4.3255567 y: 55.8132772"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1496,7 +1496,7 @@
       "properties": {
         "name": "GBK 4/25",
         "type": "Locs",
-        "notes": "x: -4.333104 y: 55.8119918"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1511,7 +1511,7 @@
       "properties": {
         "name": "GBK 4/67",
         "type": "Locs",
-        "notes": "x: -4.3439455 y: 55.8121184"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1526,7 +1526,7 @@
       "properties": {
         "name": "GBK 5/13",
         "type": "Locs",
-        "notes": "x: -4.355796 y: 55.8120973"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1541,7 +1541,7 @@
       "properties": {
         "name": "GBK 5/46",
         "type": "Locs",
-        "notes": "x: -4.3641708 y: 55.8121765"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1556,7 +1556,7 @@
       "properties": {
         "name": "GBK 5/72",
         "type": "Locs",
-        "notes": "x: -4.3710349 y: 55.8126423"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1571,7 +1571,7 @@
       "properties": {
         "name": "GBK 5/98",
         "type": "Locs",
-        "notes": "x: -4.3778981 y: 55.8121677"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1586,7 +1586,7 @@
       "properties": {
         "name": "GBK 6/26",
         "type": "Locs",
-        "notes": "x: -4.3831075 y: 55.8110375"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1601,7 +1601,7 @@
       "properties": {
         "name": "GBK 6/52",
         "type": "Locs",
-        "notes": "x: -4.3894048 y: 55.8084349"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1616,7 +1616,7 @@
       "properties": {
         "name": "HST001.054",
         "type": "Locs",
-        "notes": "x: -4.2566156 y: 55.8482682"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1631,7 +1631,7 @@
       "properties": {
         "name": "HST001.150",
         "type": "Locs",
-        "notes": "x: -4.2708509 y: 55.8478802"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1646,7 +1646,7 @@
       "properties": {
         "name": "HST002.034",
         "type": "Locs",
-        "notes": "x: -4.2797067 y: 55.8474043"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1661,7 +1661,7 @@
       "properties": {
         "name": "KHL 100/21",
         "type": "Locs",
-        "notes": "x: -4.2445002 y: 55.8193772"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1676,7 +1676,7 @@
       "properties": {
         "name": "KHL 100/35",
         "type": "Locs",
-        "notes": "x: -4.2480434 y: 55.8196258"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1691,7 +1691,7 @@
       "properties": {
         "name": "KHL 100/46",
         "type": "Locs",
-        "notes": "x: -4.2500656 y: 55.8198446"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1706,7 +1706,7 @@
       "properties": {
         "name": "KHL 100/77",
         "type": "Locs",
-        "notes": "x: -4.2582984 y: 55.8184047"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1721,7 +1721,7 @@
       "properties": {
         "name": "KHL 96/50",
         "type": "Locs",
-        "notes": "x: -4.1524523 y: 55.8163119"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1736,7 +1736,7 @@
       "properties": {
         "name": "KHL 97/100",
         "type": "Locs",
-        "notes": "x: -4.1671479 y: 55.8140341"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1751,7 +1751,7 @@
       "properties": {
         "name": "KHL 97/54",
         "type": "Locs",
-        "notes": "x: -4.1772043 y: 55.8149426"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1766,7 +1766,7 @@
       "properties": {
         "name": "KHL 98/31",
         "type": "Locs",
-        "notes": "x: -4.1977317 y: 55.8163184"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1781,7 +1781,7 @@
       "properties": {
         "name": "KHL 98/70",
         "type": "Locs",
-        "notes": "x: -4.2064487 y: 55.8167023"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1796,7 +1796,7 @@
       "properties": {
         "name": "KHL 99/26",
         "type": "Locs",
-        "notes": "x: -4.2200048 y: 55.8176551"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1811,7 +1811,7 @@
       "properties": {
         "name": "KHL 96/66",
         "type": "Locs",
-        "notes": "x: -4.1556439 y: 55.8145841"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1826,7 +1826,7 @@
       "properties": {
         "name": "KHL 99/85",
         "type": "Locs",
-        "notes": "x: -4.2397886 y: 55.8190896"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1841,7 +1841,7 @@
       "properties": {
         "name": "M000.60",
         "type": "Locs",
-        "notes": "x: -4.2632797 y: 55.8443231"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1856,7 +1856,7 @@
       "properties": {
         "name": "MEN2 0/02",
         "type": "Locs",
-        "notes": "x: -4.2725269 y: 55.8380868"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1871,7 +1871,7 @@
       "properties": {
         "name": "MEN2 0/09",
         "type": "Locs",
-        "notes": "x: -4.27233 y: 55.8381573"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1886,7 +1886,7 @@
       "properties": {
         "name": "MEN2 0/38",
         "type": "Locs",
-        "notes": "x: -4.2666717 y: 55.8422457"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1901,7 +1901,7 @@
       "properties": {
         "name": "MEN2 0/50",
         "type": "Locs",
-        "notes": "x: -4.264716 y: 55.8429918"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1916,7 +1916,7 @@
       "properties": {
         "name": "MEN2 0/62",
         "type": "Locs",
-        "notes": "x: -4.263041 y: 55.8447154"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1931,7 +1931,7 @@
       "properties": {
         "name": "NNH 101/10",
         "type": "Locs",
-        "notes": "x: -4.2658187 y: 55.8159689"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1946,7 +1946,7 @@
       "properties": {
         "name": "NNH 101/44",
         "type": "Locs",
-        "notes": "x: -4.2723925 y: 55.8117902"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1961,7 +1961,7 @@
       "properties": {
         "name": "NNH 101/67",
         "type": "Locs",
-        "notes": "x: -4.2745971 y: 55.8094378"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1976,7 +1976,7 @@
       "properties": {
         "name": "NNH 101/83",
         "type": "Locs",
-        "notes": "x: -4.2752281 y: 55.8083752"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -1991,7 +1991,7 @@
       "properties": {
         "name": "NNH 102/44",
         "type": "Locs",
-        "notes": "x: -4.2820501 y: 55.7989281"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2006,7 +2006,7 @@
       "properties": {
         "name": "NNH 103/18",
         "type": "Locs",
-        "notes": "x: -4.2955771 y: 55.7921974"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2021,7 +2021,7 @@
       "properties": {
         "name": "NNH 103/47",
         "type": "Locs",
-        "notes": "x: -4.3031699 y: 55.7914319"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2036,7 +2036,7 @@
       "properties": {
         "name": "NNH 103/85",
         "type": "Locs",
-        "notes": "x: -4.3122225 y: 55.7902497"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2051,7 +2051,7 @@
       "properties": {
         "name": "NNH 104/29",
         "type": "Locs",
-        "notes": "x: -4.3220147 y: 55.7911188"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2066,7 +2066,7 @@
       "properties": {
         "name": "NNH 105/94",
         "type": "Locs",
-        "notes": "x: -4.3665805 y: 55.7894972"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2081,7 +2081,7 @@
       "properties": {
         "name": "NNH 106/24",
         "type": "Locs",
-        "notes": "x: -4.3733408 y: 55.7895454"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2096,7 +2096,7 @@
       "properties": {
         "name": "NNH 106/68",
         "type": "Locs",
-        "notes": "x: -4.3827091 y: 55.7866372"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2111,7 +2111,7 @@
       "properties": {
         "name": "NNH 107/28",
         "type": "Locs",
-        "notes": "x: -4.3966307 y: 55.785711"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2126,7 +2126,7 @@
       "properties": {
         "name": "NNH 107/98",
         "type": "Locs",
-        "notes": "x: -4.4122246 y: 55.784391"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2141,7 +2141,7 @@
       "properties": {
         "name": "NNH 108/50",
         "type": "Locs",
-        "notes": "x: -4.4253118 y: 55.7831007"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2156,7 +2156,7 @@
       "properties": {
         "name": "NNH 108/62",
         "type": "Locs",
-        "notes": "x: -4.4286685 y: 55.7825185"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2171,7 +2171,7 @@
       "properties": {
         "name": "RCB 0/5",
         "type": "Locs",
-        "notes": "x: -4.1939369 y: 55.828358"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2186,7 +2186,7 @@
       "properties": {
         "name": "RCB 0/12",
         "type": "Locs",
-        "notes": "x: -4.1895654 y: 55.828626"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2201,7 +2201,7 @@
       "properties": {
         "name": "RCB 0/43",
         "type": "Locs",
-        "notes": "x: -4.1854704 y: 55.8296151"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2216,7 +2216,7 @@
       "properties": {
         "name": "RCB 0/90",
         "type": "Locs",
-        "notes": "x: -4.1735494 y: 55.8309781"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2231,7 +2231,7 @@
       "properties": {
         "name": "RCB1/14",
         "type": "Locs",
-        "notes": "x: -4.1675314 y: 55.8318936"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2246,7 +2246,7 @@
       "properties": {
         "name": "W101.19",
         "type": "Locs",
-        "notes": "x: -4.2609122 y: 55.843596"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2261,7 +2261,7 @@
       "properties": {
         "name": "WCM2 637/1",
         "type": "Locs",
-        "notes": "x: -4.1712705 y: 55.8190705"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2276,7 +2276,7 @@
       "properties": {
         "name": "WCM2 638/1",
         "type": "Locs",
-        "notes": "x: -4.1789886 y: 55.8224427"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2291,7 +2291,7 @@
       "properties": {
         "name": "WCM2/97/35",
         "type": "Locs",
-        "notes": "x: -4.1740563 y: 55.8198789"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2306,7 +2306,7 @@
       "properties": {
         "name": "WCM2/97/56",
         "type": "Locs",
-        "notes": "x: -4.1781845 y: 55.8218143"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2321,7 +2321,7 @@
       "properties": {
         "name": "WCM2/97/64",
         "type": "Locs",
-        "notes": "x: -4.1797053 y: 55.8226732"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2336,7 +2336,7 @@
       "properties": {
         "name": "WCM2/98/21",
         "type": "Locs",
-        "notes": "x: -4.1902448 y: 55.8275675"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2351,7 +2351,7 @@
       "properties": {
         "name": "WCM2/98/69(D)",
         "type": "Locs",
-        "notes": "x: -4.204348 y: 55.8292578"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2366,7 +2366,7 @@
       "properties": {
         "name": "WCM2/98/82(U)",
         "type": "Locs",
-        "notes": "x: -4.2060565 y: 55.8296721"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2381,7 +2381,7 @@
       "properties": {
         "name": "WCM2/98/90(D)",
         "type": "Locs",
-        "notes": "x: -4.2082774 y: 55.8296977"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2396,7 +2396,7 @@
       "properties": {
         "name": "WCM2/99/03(D)",
         "type": "Locs",
-        "notes": "x: -4.2119789 y: 55.8299455"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2411,7 +2411,7 @@
       "properties": {
         "name": "WCM2/99/06(U)",
         "type": "Locs",
-        "notes": "x: -4.2125566 y: 55.8302166"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2426,7 +2426,7 @@
       "properties": {
         "name": "WCM2/99/18(D)",
         "type": "Locs",
-        "notes": "x: -4.2159765 y: 55.8299597"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2441,7 +2441,7 @@
       "properties": {
         "name": "WCM2/99/27(U)",
         "type": "Locs",
-        "notes": "x: -4.2185836 y: 55.8304222"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2456,7 +2456,7 @@
       "properties": {
         "name": "WCM2/99/39(U)",
         "type": "Locs",
-        "notes": "x: -4.221137 y: 55.8306497"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2471,7 +2471,7 @@
       "properties": {
         "name": "WCM2/99/41(D)",
         "type": "Locs",
-        "notes": "x: -4.2219967 y: 55.8305427"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2486,7 +2486,7 @@
       "properties": {
         "name": "WCM2/99/49",
         "type": "Locs",
-        "notes": "x: -4.2252162 y: 55.8312487"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2501,7 +2501,7 @@
       "properties": {
         "name": "WCM2/99/67(U)",
         "type": "Locs",
-        "notes": "x: -4.2293096 y: 55.8323597"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2516,7 +2516,7 @@
       "properties": {
         "name": "WCM2/99/74(D)",
         "type": "Locs",
-        "notes": "x: -4.2298327 y: 55.832209"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2531,7 +2531,7 @@
       "properties": {
         "name": "WCM2/99/78(U)",
         "type": "Locs",
-        "notes": "x: -4.2303772 y: 55.8326384"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2546,7 +2546,7 @@
       "properties": {
         "name": "WCM2/100/14(U)",
         "type": "Locs",
-        "notes": "x: -4.238764 y: 55.8355686"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2561,7 +2561,7 @@
       "properties": {
         "name": "WCM2/100/24(U)",
         "type": "Locs",
-        "notes": "x: -4.2408964 y: 55.8362962"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2576,7 +2576,7 @@
       "properties": {
         "name": "WCM2/100/28(D)",
         "type": "Locs",
-        "notes": "x: -4.2419827 y: 55.8363308"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2591,7 +2591,7 @@
       "properties": {
         "name": "WCM2/100/35(D)",
         "type": "Locs",
-        "notes": "x: -4.2436694 y: 55.8369403"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2606,7 +2606,7 @@
       "properties": {
         "name": "WCM2/100/51(D)",
         "type": "Locs",
-        "notes": "x: -4.2470168 y: 55.8381407"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2621,7 +2621,7 @@
       "properties": {
         "name": "WCM2/100/57(U)",
         "type": "Locs",
-        "notes": "x: -4.2481084 y: 55.8388004"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2636,7 +2636,7 @@
       "properties": {
         "name": "WCM2/100/61(D)",
         "type": "Locs",
-        "notes": "x: -4.2490955 y: 55.8388561"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2651,7 +2651,7 @@
       "properties": {
         "name": "WCM2/100/71(D)",
         "type": "Locs",
-        "notes": "x: -4.2513977 y: 55.8396532"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2666,7 +2666,7 @@
       "properties": {
         "name": "WCM2/100/79(D)",
         "type": "Locs",
-        "notes": "x: -4.2531214 y: 55.840229"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2681,7 +2681,7 @@
       "properties": {
         "name": "WCM2/100/75(U)",
         "type": "Locs",
-        "notes": "x: -4.2518215 y: 55.8400892"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2696,7 +2696,7 @@
       "properties": {
         "name": "WCM2/100/97(U)",
         "type": "Locs",
-        "notes": "x: -4.2570219 y: 55.8418969"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2711,7 +2711,7 @@
       "properties": {
         "name": "WCM2/101/08(D) LARKFIELD REB",
         "type": "Locs",
-        "notes": "x: -4.2596142 y: 55.8424884"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2726,7 +2726,7 @@
       "properties": {
         "name": "ZZR100/1",
         "type": "Locs",
-        "notes": "x: -4.2355252 y: 55.8349586"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2741,7 +2741,7 @@
       "properties": {
         "name": "Station Middle",
         "type": "Locs",
-        "notes": "x: -4.2584086 y: 55.8583508"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -2756,7 +2756,7 @@
       "properties": {
         "name": "Clyde Place RR",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2791,7 +2791,7 @@
       "properties": {
         "name": "Station West RR",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2826,7 +2826,7 @@
       "properties": {
         "name": "Station Middle RR",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2861,7 +2861,7 @@
       "properties": {
         "name": "Station East",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2896,7 +2896,7 @@
       "properties": {
         "name": "Sidings North REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2931,7 +2931,7 @@
       "properties": {
         "name": "Sidings South REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2966,7 +2966,7 @@
       "properties": {
         "name": "Salkeld Street RR",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3009,7 +3009,7 @@
       "properties": {
         "name": "Powerhouse/Mezzanine",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3044,7 +3044,7 @@
       "properties": {
         "name": "Eglinton Street REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3079,7 +3079,7 @@
       "properties": {
         "name": "Eglinton Junction REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3114,7 +3114,7 @@
       "properties": {
         "name": "Cook Street REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3149,7 +3149,7 @@
       "properties": {
         "name": "Smithy Lye REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3184,7 +3184,7 @@
       "properties": {
         "name": "Shields Road REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3219,7 +3219,7 @@
       "properties": {
         "name": "Shields RR",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3254,7 +3254,7 @@
       "properties": {
         "name": "Shields New RR",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3289,7 +3289,7 @@
       "properties": {
         "name": "AYR001.002 SHIELDS EAST REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3324,7 +3324,7 @@
       "properties": {
         "name": "AYR001.044 SHIELDS WEST REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3359,7 +3359,7 @@
       "properties": {
         "name": "Corkerhill RR\n(Loc 78A)",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3374,7 +3374,7 @@
       "properties": {
         "name": "WCM2/98/92(U)",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3409,7 +3409,7 @@
       "properties": {
         "name": "RCB 1/47",
         "type": "Locs",
-        "notes": "x: -4.1621271 y: 55.8332215"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3424,7 +3424,7 @@
       "properties": {
         "name": "RCB 1/59",
         "type": "Locs",
-        "notes": "x: -4.1559501 y: 55.8347161"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3439,7 +3439,7 @@
       "properties": {
         "name": "Nitshill REB - GBK 5.16",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3474,7 +3474,7 @@
       "properties": {
         "name": "AYR002.032 IBROX REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3509,7 +3509,7 @@
       "properties": {
         "name": "WCM2/98/57(U) R'GLEN DEPOT REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3544,7 +3544,7 @@
       "properties": {
         "name": "WCM2/98/64(D) R'GLEN EAST JCN REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3579,7 +3579,7 @@
       "properties": {
         "name": "WCM2/99/90(D) SHAWFIELD REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3614,7 +3614,7 @@
       "properties": {
         "name": "Cathcart REB",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3649,7 +3649,7 @@
       "properties": {
         "name": "Busby Relay Room",
         "type": "Locs",
-        "notes": "x: y:"
+        "notes": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3684,7 +3684,7 @@
       "properties": {
         "name": "CNL 78B & C",
         "type": "Locs",
-        "notes": "x: -4.3168945 y: 55.8391727"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3699,7 +3699,7 @@
       "properties": {
         "name": "AYR004.045",
         "type": "Locs",
-        "notes": "x: -4.3678678 y: 55.8556222"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
@@ -3714,7 +3714,7 @@
       "properties": {
         "name": "EKE 5/05",
         "type": "Locs",
-        "notes": "x: -4.2451388 y: 55.7636871"
+        "notes": ""
       },
       "geometry": {
         "type": "Point",
