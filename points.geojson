@@ -4787,7 +4787,7 @@
       "properties": {
         "name": "S101",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
 		"equipment_number": "1418222"
       },
       "geometry": {
@@ -4803,7 +4803,7 @@
       "properties": {
         "name": "S102",
         "type": "Points",
-        "notes": "RCPL"
+        "notes": "RCPL",
 		"equipment_number": "1418225"
       },
       "geometry": {
