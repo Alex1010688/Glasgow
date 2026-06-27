@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -183,12 +183,11 @@
 
     .label-control {
       background: white;
-      border: 1px solid rgba(0, 0, 0, 0);
+      border: 2px solid rgba(0, 0, 0, 0.2);
       border-radius: 4px;
       padding: 8px;
       font-size: 13px;
-      color: #333;
-      line-height: 1;
+      line-height: 1.4;
       max-height: 260px;
       overflow-y: auto;
     }
@@ -219,6 +218,17 @@
       .top-panel button {
         font-size: 14px;
         padding: 7px;
+      }
+
+      .leaflet-control-layers {
+      background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      padding: 8px;
+      font-size: 13px;
+      line-height: 1.4;
+      max-height: 260px;
+      overflow-y: auto;
       }
     }
   </style>
@@ -420,6 +430,31 @@
         p.ID ||
         "Unnamed feature"
       );
+    }
+
+    function getSearchText(item) {
+      const p = item.feature.properties || {};
+
+      return [
+        item.layerName,
+        p.name,
+        p.Name,
+        p.code,
+        p.Code,
+        p["ref:crs"],
+        p.asset_id,
+        p.AssetID,
+        p.equipment_number,
+        p.type,
+        p.Type
+      ]
+        .filter(Boolean)
+        .join(" ")
+        .toLowerCase();
+    }
+
+    function getPrimarySearchName(item) {
+      return getFeatureName(item.feature).toLowerCase();
     }
 
     function getFeatureColour(feature, layerConfig) {
@@ -803,10 +838,13 @@
 
       const matches = allFeatures
         .filter(item => {
-          const p = item.feature.properties || {};
-          const searchable = `${item.layerName} ${JSON.stringify(p)}`.toLowerCase();
+          return getSearchText(item).includes(searchText);
+        })
+        .sort((a, b) => {
+          const aExact = getPrimarySearchName(a) === searchText ? 0 : 1;
+          const bExact = getPrimarySearchName(b) === searchText ? 0 : 1;
 
-          return searchable.includes(searchText);
+          return aExact - bExact;
         })
         .slice(0, 10);
 
@@ -855,12 +893,15 @@
         return;
       }
 
-      const found = allFeatures.find(item => {
-        const p = item.feature.properties || {};
-        const searchable = `${item.layerName} ${JSON.stringify(p)}`.toLowerCase();
-
-        return searchable.includes(searchText);
+      const exactMatch = allFeatures.find(item => {
+        return getPrimarySearchName(item) === searchText;
       });
+
+      const partialMatch = allFeatures.find(item => {
+        return getSearchText(item).includes(searchText);
+      });
+
+      const found = exactMatch || partialMatch;
 
       if (!found) {
         alert("No matching item found");
@@ -961,8 +1002,8 @@
           return L.circleMarker(latlng, {
             pane: layerConfig.pane,
             radius: 2,
-            color: "#fff",
-            weight: 1,
+            color: colour,
+            weight: 2,
             fillColor: colour,
             fillOpacity: 1
           });
