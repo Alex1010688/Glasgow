@@ -481,29 +481,79 @@
   return digitsOnly;
 }
 
-function pointAssetProfileLink(feature, layerName) {
-  if (layerName !== "Points") {
-    return "";
-  }
+    function assetProfileLinks(feature, layerName) {
+      var p = feature.properties || {};
+      var equipmentNumbers = p.equipment_number;
+      var entries = [];
 
-  var p = feature.properties || {};
-  var paddedEquipmentNumber = padEquipmentNumber(p.equipment_number);
+      if (Array.isArray(equipmentNumbers)) {
+        entries = equipmentNumbers;
+      } else if (equipmentNumbers) {
+        entries = [equipmentNumbers];
+      }
 
-  if (!paddedEquipmentNumber) {
-    return "";
-  }
+      if (entries.length === 0) {
+        return "";
+      }
 
-  return `
-    <a
-      class="popup-link"
-      href="https://myim.ii.networkrail.co.uk/assetProfileHistory/${paddedEquipmentNumber}"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Open MyIM asset profile
-    </a>
-  `;
-}
+      var html = "";
+
+      for (var i = 0; i < entries.length; i++) {
+        var entry = entries[i];
+        var equipmentNumber = "";
+        var equipmentName = "";
+
+        if (entry && typeof entry === "object") {
+          equipmentNumber = entry.number || entry.equipment_number || "";
+          equipmentName = entry.name || entry.label || "";
+        } else {
+          equipmentNumber = entry;
+        }
+
+        var paddedEquipmentNumber = padEquipmentNumber(equipmentNumber);
+
+        if (!paddedEquipmentNumber) {
+          continue;
+        }
+
+        var linkText = "Open MyIM asset profile";
+
+        if (layerName === "Axle counters") {
+          if (equipmentName) {
+            linkText = "Open MyIM axle counter " + equipmentName + " head profile";
+          } else if (entries.length > 1) {
+            linkText = "Open MyIM axle counter head profile " + (i + 1);
+          } else {
+            linkText = "Open MyIM axle counter head profile";
+          }
+        } else if (layerName === "Treadles" || layerName === "Treadle") {
+          if (equipmentName) {
+            linkText = "Open MyIM treadle " + equipmentName + " profile";
+          } else if (entries.length > 1) {
+            linkText = "Open MyIM treadle profile " + (i + 1);
+          } else {
+            linkText = "Open MyIM treadle profile";
+          }
+        } else if (layerName === "Tracks") {
+          linkText = "Open MyIM track profile";
+        } else if (layerName === "Points") {
+          linkText = "Open MyIM point profile";
+        }
+
+        html += `
+          <a
+            class="popup-link"
+            href="https://myim.ii.networkrail.co.uk/assetProfileHistory/${paddedEquipmentNumber}"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ${linkText}
+          </a>
+        `;
+      }
+
+      return html;
+    }
 
     function popupContent(feature, layerName) {
       const p = feature.properties || {};
@@ -573,8 +623,8 @@ function pointAssetProfileLink(feature, layerName) {
         html += `<a class="popup-link" href="${linkUrl}" target="_blank" rel="noopener noreferrer">Open link</a>`;
       }
 
+      html += assetProfileLinks(feature, layerName);
       html += navigationLinks(feature, layerName);
-      html += pointAssetProfileLink(feature, layerName);
 
       return html;
     }
