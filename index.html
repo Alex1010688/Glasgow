@@ -141,19 +141,10 @@
     }
 
     .br-logo-marker {
-      width: 26px;
-      height: 18px;
-      background: #d71920;
-      color: white;
-      border: 2px solid white;
-      border-radius: 3px;
-      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.55);
-      font-family: Arial, sans-serif;
-      font-size: 13px;
-      font-weight: bold;
-      line-height: 18px;
-      text-align: center;
-      letter-spacing: -1px;
+      width: 30px;
+      height: auto;
+      display: block;
+      filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.65));
     }
 
     .feature-label {
@@ -480,10 +471,10 @@
     function createBrStationIcon() {
       return L.divIcon({
         className: "br-station-icon",
-        html: '<div class="br-logo-marker">BR</div>',
-        iconSize: [30, 22],
-        iconAnchor: [15, 11],
-        popupAnchor: [0, -11]
+        html: '<img class="br-logo-marker" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/British_Rail_Emblem.png" alt="British Rail logo" />',
+        iconSize: [30, 20],
+        iconAnchor: [15, 10],
+        popupAnchor: [0, -10]
       });
     }
 
