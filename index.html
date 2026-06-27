@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
 
-  <title>Rail Map Viewer - Equipment Links</title>
+  <title>Rail Map Viewer</title>
 
   <meta
     name="viewport"
@@ -463,74 +463,47 @@
       `;
     }
 
-      return String(value)
-        .toUpperCase()
-        .replace(/^PTS[:\s-]*/i, "")
-        .replace(/\([^)]*\)/g, "")
-        .replace(/[^A-Z0-9]/g, "")
-        .trim();
-    }
-
-      return "";
-    }
-
-      const pointNumber = getPointNumberForAssetLookup(feature);
-
-      if (!pointNumber) {
-        return "";
-      }
-
-      const paddedAssetNumber = POINT_ASSET_LOOKUP[pointNumber];
-
-      return `
-        <a
-          class="popup-link"
-          href="https://myim.ii.networkrail.co.uk/assetProfileHistory/${paddedAssetNumber}"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Open asset profile ${pointNumber}
-        </a>
-      `;
-    }
-
     function padEquipmentNumber(value) {
-      if (value === null || value === undefined) {
-        return "";
-      }
+  if (value === null || value === undefined) {
+    return "";
+  }
 
-      const digitsOnly = String(value).replace(/\D/g, "");
+  var digitsOnly = String(value).replace(/\D/g, "");
 
-      if (!digitsOnly) {
-        return "";
-      }
+  if (!digitsOnly) {
+    return "";
+  }
 
-      return digitsOnly.padStart(12, "0");
-    }
+  while (digitsOnly.length < 12) {
+    digitsOnly = "0" + digitsOnly;
+  }
 
-    function pointAssetProfileLink(feature, layerName) {
-      if (layerName !== "Points") {
-        return "";
-      }
+  return digitsOnly;
+}
 
-      const p = feature.properties || {};
-      const paddedEquipmentNumber = padEquipmentNumber(p.equipment_number);
+function pointAssetProfileLink(feature, layerName) {
+  if (layerName !== "Points") {
+    return "";
+  }
 
-      if (!paddedEquipmentNumber) {
-        return "";
-      }
+  var p = feature.properties || {};
+  var paddedEquipmentNumber = padEquipmentNumber(p.equipment_number);
 
-      return `
-        <a
-          class="popup-link"
-          href="https://myim.ii.networkrail.co.uk/assetProfileHistory/${paddedEquipmentNumber}"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Open MyIM asset profile
-        </a>
-      `;
-    }
+  if (!paddedEquipmentNumber) {
+    return "";
+  }
+
+  return `
+    <a
+      class="popup-link"
+      href="https://myim.ii.networkrail.co.uk/assetProfileHistory/${paddedEquipmentNumber}"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Open MyIM asset profile
+    </a>
+  `;
+}
 
     function popupContent(feature, layerName) {
       const p = feature.properties || {};
@@ -600,8 +573,8 @@
         html += `<a class="popup-link" href="${linkUrl}" target="_blank" rel="noopener noreferrer">Open link</a>`;
       }
 
-      html += pointAssetProfileLink(feature, layerName);
       html += navigationLinks(feature, layerName);
+      html += pointAssetProfileLink(feature, layerName);
 
       return html;
     }
