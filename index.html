@@ -98,7 +98,7 @@
 
     .leaflet-popup-content {
       max-width: 320px;
-      font-size: 16px;
+      font-size: 14px;
       line-height: 1.4;
       overflow-wrap: break-word;
     }
@@ -109,7 +109,7 @@
 
     .popup-title {
       font-weight: bold;
-      font-size: 18px;
+      font-size: 16px;
       margin-bottom: 6px;
     }
 
@@ -141,7 +141,7 @@
     }
 
     .br-logo-marker {
-      width: 30px;
+      width: 15px;
       height: auto;
       display: block;
       filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.65));
@@ -200,43 +200,12 @@
     .label-control-row {
       display: block;
       white-space: nowrap;
-      margin-top: 3px;
+      margin-top: 2px;
     }
 
     .label-control-row input {
       margin-right: 5px;
       vertical-align: middle;
-    }
-
-    .leaflet-control-layers {
-      background: white;
-      border: 2px solid rgba(0, 0, 0, 0.2);
-      border-radius: 4px;
-      box-shadow: none;
-      padding: 8px;
-      font-size: 13px;
-      line-height: 1.4;
-      max-height: 260px;
-      overflow-y: auto;
-    }
-
-    .leaflet-control-layers-expanded {
-      padding: 8px;
-    }
-
-    .leaflet-control-layers label {
-      display: block;
-      white-space: nowrap;
-      margin-top: 3px;
-    }
-
-    .leaflet-control-layers input {
-      margin-right: 5px;
-      vertical-align: middle;
-    }
-
-    .leaflet-control-layers-separator {
-      margin: 5px -8px 5px -8px;
     }
 
     @media (max-width: 600px) {
@@ -252,7 +221,14 @@
       }
 
       .leaflet-control-layers {
-        font-size: 13px;
+      background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      padding: 8px;
+      font-size: 13px;
+      line-height: 1.4;
+      max-height: 260px;
+      overflow-y: auto;
       }
     }
   </style>
@@ -925,10 +901,6 @@
           item.layer.closeTooltip();
         }
       });
-    } else {
-          item.layer.closeTooltip();
-        }
-      });
     }
 
     function addLabelControl() {
@@ -942,10 +914,6 @@
         div.innerHTML = '<div class="label-control-title">Labels</div>';
 
         LAYER_CONFIGS.forEach(layerConfig => {
-          if (layerConfig.name === "Chromium") {
-            return;
-          }
-
           const row = document.createElement("label");
           row.className = "label-control-row";
 
@@ -1002,7 +970,7 @@
 
           return L.circleMarker(latlng, {
             pane: layerConfig.pane,
-            radius: 9,
+            radius: 2,
             color: colour,
             weight: 2,
             fillColor: colour,
