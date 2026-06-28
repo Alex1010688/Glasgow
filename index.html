@@ -456,6 +456,8 @@
     }
 
     createLayerPanes();
+    map.createPane("pointMarkerPane");
+    map.getPane("pointMarkerPane").style.zIndex = 690;
 
     map.createPane("userLocationPane");
     map.getPane("userLocationPane").style.zIndex = 700;
@@ -1247,10 +1249,11 @@
           const colour = getFeatureColour(feature, layerConfig);
 
           return L.circleMarker(latlng, {
-            pane: layerConfig.pane,
-            radius: 3,
+            pane: "pointMarkerPane",
+            radius: 4,
             color: "#ffffff",
-            weight: 1,
+            opacity: 1,
+            weight: 1.5,
             fillColor: colour,
             fillOpacity: 1
           });
