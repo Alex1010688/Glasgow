@@ -531,12 +531,7 @@
         item.layerName,
         p.name,
         p.Name,
-        p.code,
-        p.Code,
         p["ref:crs"],
-        p.asset_id,
-        p.AssetID,
-        p.equipment_number,
         p.type,
         p.Type
       ]
@@ -556,8 +551,7 @@
         "Signals": 3,
         "Locs": 4,
         "Tracks": 5,
-        "Stations": 6,
-        "Chromium": 7
+        "Stations": 6
       };
 
       return priorities[layerName] || 99;
@@ -895,7 +889,7 @@
       } else {
         userLocationMarker = L.circleMarker(latlng, {
           pane: "userLocationPane",
-          radius: 7,
+          radius: 3,
           color: "#0055ff",
           weight: 3,
           fillColor: "#0055ff",
@@ -1254,9 +1248,9 @@
 
           return L.circleMarker(latlng, {
             pane: layerConfig.pane,
-            radius: 9,
-            color: colour,
-            weight: 2,
+            radius: 3,
+            color: "#ffffff",
+            weight: 1,
             fillColor: colour,
             fillOpacity: 1
           });
