@@ -181,6 +181,78 @@
       background: #f4f4f4;
     }
 
+    .map-controls-panel {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 1300;
+      font-size: 13px;
+      line-height: 1.4;
+      pointer-events: auto;
+    }
+
+    .map-controls-button {
+      display: block;
+      margin-left: auto;
+      background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      cursor: pointer;
+      padding: 7px 9px;
+      font-size: 13px;
+      font-weight: bold;
+      line-height: 1.2;
+      box-shadow: none;
+    }
+
+    .map-controls-button:hover {
+      background: #f4f4f4;
+    }
+
+    .map-controls-button.open {
+      background: #e9f2ff;
+    }
+
+    .map-controls-content {
+      display: none;
+      margin-top: 6px;
+    }
+
+    .map-controls-content.open {
+      display: block;
+    }
+
+    .map-control-box {
+      background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      padding: 8px;
+      margin-top: 6px;
+      max-height: 260px;
+      overflow-y: auto;
+    }
+
+    .map-control-title {
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+
+    .map-control-row {
+      display: block;
+      white-space: nowrap;
+      margin-top: 2px;
+    }
+
+    .map-control-row input {
+      margin-right: 5px;
+      vertical-align: middle;
+    }
+
+    .map-control-separator {
+      border-top: 1px solid #ddd;
+      margin: 6px -8px 5px -8px;
+    }
+
     .label-control {
       background: white;
       border: 2px solid rgba(0, 0, 0, 0.2);
@@ -251,6 +323,24 @@
     </div>
 
     <button onclick="searchFeature()">Find</button>
+  </div>
+
+  <div class="map-controls-panel">
+    <button id="mapControlsButton" class="map-controls-button" type="button">Layers</button>
+
+    <div id="mapControlsContent" class="map-controls-content">
+      <div class="map-control-box">
+        <div class="map-control-title">Layers</div>
+        <div id="baseLayerControls"></div>
+        <div class="map-control-separator"></div>
+        <div id="overlayLayerControls"></div>
+      </div>
+
+      <div class="map-control-box">
+        <div class="map-control-title">Labels</div>
+        <div id="labelLayerControls"></div>
+      </div>
+    </div>
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -401,6 +491,8 @@
     };
 
     satellite.addTo(map);
+
+    let currentBaseLayer = satellite;
 
     const overlayMaps = {};
     const allFeatures = [];
@@ -807,7 +899,7 @@
           color: "#0055ff",
           weight: 3,
           fillColor: "#0055ff",
-          fillOpacity: 0.85
+          fillOpacity: 1
         }).addTo(map);
       }
 
@@ -970,6 +1062,116 @@
       }
     });
 
+    function toggleMapControls() {
+      const button = document.getElementById("mapControlsButton");
+      const content = document.getElementById("mapControlsContent");
+
+      if (!button || !content) {
+        return;
+      }
+
+      const isOpen = content.classList.toggle("open");
+      button.classList.toggle("open", isOpen);
+    }
+
+    function switchBaseLayer(baseLayerName) {
+      const selectedBaseLayer = baseMaps[baseLayerName];
+
+      if (!selectedBaseLayer || selectedBaseLayer === currentBaseLayer) {
+        return;
+      }
+
+      Object.keys(baseMaps).forEach(name => {
+        if (map.hasLayer(baseMaps[name])) {
+          map.removeLayer(baseMaps[name]);
+        }
+      });
+
+      selectedBaseLayer.addTo(map);
+      currentBaseLayer = selectedBaseLayer;
+    }
+
+    function createControlRow(input, text) {
+      const row = document.createElement("label");
+      row.className = "map-control-row";
+      row.appendChild(input);
+      row.appendChild(document.createTextNode(text));
+      return row;
+    }
+
+    function buildMapControlPanel() {
+      const button = document.getElementById("mapControlsButton");
+      const baseContainer = document.getElementById("baseLayerControls");
+      const overlayContainer = document.getElementById("overlayLayerControls");
+      const labelContainer = document.getElementById("labelLayerControls");
+
+      if (!button || !baseContainer || !overlayContainer || !labelContainer) {
+        return;
+      }
+
+      button.onclick = toggleMapControls;
+
+      baseContainer.innerHTML = "";
+      overlayContainer.innerHTML = "";
+      labelContainer.innerHTML = "";
+
+      Object.keys(baseMaps).forEach(baseLayerName => {
+        const radio = document.createElement("input");
+        radio.type = "radio";
+        radio.name = "base-layer";
+        radio.checked = baseMaps[baseLayerName] === currentBaseLayer;
+
+        radio.onchange = function() {
+          if (radio.checked) {
+            switchBaseLayer(baseLayerName);
+          }
+        };
+
+        baseContainer.appendChild(createControlRow(radio, baseLayerName));
+      });
+
+      LAYER_CONFIGS.forEach(layerConfig => {
+        const layer = overlayMaps[layerConfig.name];
+
+        if (!layer) {
+          return;
+        }
+
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.checked = map.hasLayer(layer);
+
+        checkbox.onchange = function() {
+          if (checkbox.checked) {
+            layer.addTo(map);
+          } else {
+            map.removeLayer(layer);
+          }
+
+          updateLabelVisibility();
+        };
+
+        overlayContainer.appendChild(createControlRow(checkbox, layerConfig.name));
+      });
+
+      LAYER_CONFIGS.forEach(layerConfig => {
+        if (layerConfig.name === "Chromium") {
+          return;
+        }
+
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.checked = !!labelSettings[layerConfig.name];
+
+        checkbox.onchange = function() {
+          labelSettings[layerConfig.name] = checkbox.checked;
+          updateLabelVisibility();
+        };
+
+        labelContainer.appendChild(createControlRow(checkbox, layerConfig.name));
+      });
+    }
+
     function updateLabelVisibility() {
       const labelsShouldShow = map.getZoom() >= LABEL_MIN_ZOOM;
 
@@ -1052,7 +1254,7 @@
 
           return L.circleMarker(latlng, {
             pane: layerConfig.pane,
-            radius: 2,
+            radius: 9,
             color: colour,
             weight: 2,
             fillColor: colour,
@@ -1108,11 +1310,7 @@
         }
       }
 
-      L.control.layers(baseMaps, overlayMaps, {
-        collapsed: false
-      }).addTo(map);
-
-      addLabelControl();
+      buildMapControlPanel();
 
       const allBounds = L.latLngBounds();
 
