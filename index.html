@@ -422,6 +422,8 @@
         p.Name ||
         p.title ||
         p.Title ||
+        p.asset_id ||
+        p.AssetID ||
         p.code ||
         p.Code ||
         p.id ||
@@ -440,6 +442,9 @@
         p.code,
         p.Code,
         p["ref:crs"],
+        p.asset_id,
+        p.AssetID,
+        p.equipment_number,
         p.type,
         p.Type
       ]
@@ -450,6 +455,51 @@
 
     function getPrimarySearchName(item) {
       return getFeatureName(item.feature).toLowerCase();
+    }
+
+    function getSearchLayerPriority(layerName) {
+      const priorities = {
+        "Points": 1,
+        "Access": 2,
+        "Signals": 3,
+        "Locs": 4,
+        "Tracks": 5,
+        "Stations": 6,
+        "Chromium": 7
+      };
+
+      return priorities[layerName] || 99;
+    }
+
+    function normaliseSearchValue(value) {
+      return String(value || "")
+        .trim()
+        .toLowerCase()
+        .replace(/\s+/g, " ");
+    }
+
+    function getSearchRank(item, searchText) {
+      const primaryName = normaliseSearchValue(getPrimarySearchName(item));
+      const searchable = getSearchText(item);
+      const layerPriority = getSearchLayerPriority(item.layerName);
+
+      if (primaryName === searchText) {
+        return 0 + layerPriority / 100;
+      }
+
+      if (primaryName.startsWith(searchText)) {
+        return 1 + layerPriority / 100;
+      }
+
+      if (searchable.split(/\s+/).includes(searchText)) {
+        return 2 + layerPriority / 100;
+      }
+
+      if (searchable.includes(searchText)) {
+        return 3 + layerPriority / 100;
+      }
+
+      return 999;
     }
 
     function getFeatureColour(feature, layerConfig) {
@@ -832,16 +882,18 @@
       }
 
       const matches = allFeatures
-        .filter(item => {
-          return getSearchText(item).includes(searchText);
+        .map(item => {
+          return {
+            item: item,
+            rank: getSearchRank(item, searchText)
+          };
         })
+        .filter(result => result.rank < 999)
         .sort((a, b) => {
-          const aExact = getPrimarySearchName(a) === searchText ? 0 : 1;
-          const bExact = getPrimarySearchName(b) === searchText ? 0 : 1;
-
-          return aExact - bExact;
+          return a.rank - b.rank;
         })
-        .slice(0, 10);
+        .slice(0, 10)
+        .map(result => result.item);
 
       if (matches.length === 0) {
         suggestionsBox.style.display = "none";
@@ -888,15 +940,19 @@
         return;
       }
 
-      const exactMatch = allFeatures.find(item => {
-        return getPrimarySearchName(item) === searchText;
-      });
+      const rankedMatches = allFeatures
+        .map(item => {
+          return {
+            item: item,
+            rank: getSearchRank(item, searchText)
+          };
+        })
+        .filter(result => result.rank < 999)
+        .sort((a, b) => {
+          return a.rank - b.rank;
+        });
 
-      const partialMatch = allFeatures.find(item => {
-        return getSearchText(item).includes(searchText);
-      });
-
-      const found = exactMatch || partialMatch;
+      const found = rankedMatches.length > 0 ? rankedMatches[0].item : null;
 
       if (!found) {
         alert("No matching item found");
