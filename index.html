@@ -366,6 +366,7 @@
     const DEFAULT_ZOOM = 15;
     const MAX_MAP_ZOOM = 20;
     const LABEL_MIN_ZOOM = 17;
+    const RAIL_GRAPH_CONNECT_TOLERANCE_METRES = 10;
 
     /*
       GEOJSON LAYERS
@@ -847,7 +848,8 @@
     function buildRailGraph() {
       const graph = {
         nodes: [],
-        nodeByKey: {}
+        nodeByKey: {},
+        segments: []
       };
 
       function getNodeIndex(point) {
@@ -898,6 +900,12 @@
                 to: previousIndex,
                 distance: distance
               });
+
+              graph.segments.push({
+                from: previousIndex,
+                to: index,
+                distance: distance
+              });
             }
 
             previousIndex = index;
@@ -905,26 +913,116 @@
         });
       });
 
+      connectNearbyGraphNodes(graph, RAIL_GRAPH_CONNECT_TOLERANCE_METRES);
+
       return graph;
     }
 
-    function findNearestGraphNode(graph, point) {
-      if (!point || graph.nodes.length === 0) {
+    function connectNearbyGraphNodes(graph, toleranceMetres) {
+      if (!Number.isFinite(toleranceMetres) || toleranceMetres <= 0) {
+        return;
+      }
+
+      const cellSize = toleranceMetres;
+      const cells = {};
+
+      function getCellKey(cellX, cellY) {
+        return cellX + "," + cellY;
+      }
+
+      graph.nodes.forEach((node, index) => {
+        const cellX = Math.floor(node.x / cellSize);
+        const cellY = Math.floor(node.y / cellSize);
+
+        for (let offsetX = -1; offsetX <= 1; offsetX++) {
+          for (let offsetY = -1; offsetY <= 1; offsetY++) {
+            const cell = cells[getCellKey(cellX + offsetX, cellY + offsetY)] || [];
+
+            cell.forEach(otherIndex => {
+              const otherNode = graph.nodes[otherIndex];
+              const distance = Math.sqrt(
+                Math.pow(node.x - otherNode.x, 2) +
+                Math.pow(node.y - otherNode.y, 2)
+              );
+
+              if (distance > 0 && distance <= toleranceMetres) {
+                node.edges.push({
+                  to: otherIndex,
+                  distance: distance
+                });
+
+                otherNode.edges.push({
+                  to: index,
+                  distance: distance
+                });
+              }
+            });
+          }
+        }
+
+        const key = getCellKey(cellX, cellY);
+
+        if (!cells[key]) {
+          cells[key] = [];
+        }
+
+        cells[key].push(index);
+      });
+    }
+
+    function findNearestGraphSegment(graph, point) {
+      if (!point || graph.segments.length === 0) {
         return null;
       }
 
       const metres = metresPoint(point);
       let best = null;
 
-      graph.nodes.forEach((node, index) => {
-        const dx = node.x - metres.x;
-        const dy = node.y - metres.y;
-        const distance = Math.sqrt(dx * dx + dy * dy);
+      graph.segments.forEach(segment => {
+        const from = graph.nodes[segment.from];
+        const to = graph.nodes[segment.to];
+        const dx = to.x - from.x;
+        const dy = to.y - from.y;
+        const lengthSquared = dx * dx + dy * dy;
 
-        if (!best || distance < best.distance) {
+        if (lengthSquared === 0) {
+          return;
+        }
+
+        const t = Math.max(
+          0,
+          Math.min(
+            1,
+            ((metres.x - from.x) * dx + (metres.y - from.y) * dy) / lengthSquared
+          )
+        );
+
+        const projected = {
+          x: from.x + t * dx,
+          y: from.y + t * dy
+        };
+
+        const snapDistance = Math.sqrt(
+          Math.pow(metres.x - projected.x, 2) +
+          Math.pow(metres.y - projected.y, 2)
+        );
+
+        if (!best || snapDistance < best.snapDistance) {
           best = {
-            index: index,
-            distance: distance
+            from: segment.from,
+            to: segment.to,
+            t: t,
+            snapDistance: snapDistance,
+            connections: [
+              {
+                index: segment.from,
+                distance: segment.distance * t
+              },
+              {
+                index: segment.to,
+                distance: segment.distance * (1 - t)
+              }
+            ]
           };
         }
       });
@@ -932,14 +1030,18 @@
       return best;
     }
 
-    function getShortestRailDistances(graph, startIndex) {
+    function getShortestRailDistances(graph, startConnections) {
       const distances = new Array(graph.nodes.length).fill(Infinity);
       const heap = createMinHeap();
 
-      distances[startIndex] = 0;
-      heapPush(heap, {
-        index: startIndex,
-        distance: 0
+      startConnections.forEach(connection => {
+        if (connection.distance < distances[connection.index]) {
+          distances[connection.index] = connection.distance;
+          heapPush(heap, {
+            index: connection.index,
+            distance: connection.distance
+          });
+        }
       });
 
       while (heap.length > 0) {
@@ -979,7 +1081,7 @@
       const snappedAccess = accessFeatures
         .map(item => {
           const point = getPointLatLng(item.feature);
-          const nearest = findNearestGraphNode(graph, point);
+          const nearest = findNearestGraphSegment(graph, point);
 
           if (!nearest) {
             return null;
@@ -989,31 +1091,39 @@
             id: item.id,
             feature: item.feature,
             layer: item.layer,
-            nodeIndex: nearest.index,
-            snapDistance: nearest.distance
+            connections: nearest.connections,
+            snapDistance: nearest.snapDistance
           };
         })
         .filter(Boolean);
 
       railDistanceFeatures.forEach(item => {
         const point = getPointLatLng(item.feature);
-        const nearest = findNearestGraphNode(graph, point);
+        const nearest = findNearestGraphSegment(graph, point);
 
         if (!nearest) {
           return;
         }
 
-        const distances = getShortestRailDistances(graph, nearest.index);
+        const distances = getShortestRailDistances(graph, nearest.connections);
         let best = null;
 
         snappedAccess.forEach(accessItem => {
-          const railDistance = distances[accessItem.nodeIndex];
+          let railDistance = Infinity;
+
+          accessItem.connections.forEach(connection => {
+            const connectionDistance = distances[connection.index] + connection.distance;
+
+            if (connectionDistance < railDistance) {
+              railDistance = connectionDistance;
+            }
+          });
 
           if (!Number.isFinite(railDistance)) {
             return;
           }
 
-          const totalDistance = nearest.distance + railDistance + accessItem.snapDistance;
+          const totalDistance = nearest.snapDistance + railDistance + accessItem.snapDistance;
 
           if (!best || totalDistance < best.distance) {
             best = {
@@ -1699,8 +1809,9 @@
             layerName: layerConfig.name
           });
 
-          if (layerConfig.name === "Access") {
-            const accessId = "access-" + accessFeatures.length;
+          if (layerConfig.name === "Access" || layerConfig.name === "Stations") {
+            const accessPrefix = layerConfig.name === "Stations" ? "station" : "access";
+            const accessId = accessPrefix + "-" + accessFeatures.length;
             const accessItem = {
               id: accessId,
               feature: feature,
