@@ -1018,11 +1018,11 @@
     }
 
     function searchFeature() {
-      const searchText = document
-        .getElementById("searchBox")
-        .value
-        .trim()
-        .toLowerCase();
+      const searchBox = document.getElementById("searchBox");
+      const searchText = searchBox.value.trim().toLowerCase();
+
+      searchBox.value = "";
+      document.getElementById("suggestions").style.display = "none";
 
       if (!searchText) {
         return;
@@ -1308,25 +1308,6 @@
       }
 
       buildMapControlPanel();
-
-      const allBounds = L.latLngBounds();
-
-      loadedLayers.forEach(layer => {
-        const layerBounds = layer.getBounds();
-
-        if (layerBounds.isValid()) {
-          allBounds.extend(layerBounds);
-        }
-      });
-
-      if (allBounds.isValid()) {
-        map.fitBounds(allBounds, {
-          padding: [30, 30],
-          maxZoom: MAX_MAP_ZOOM
-        });
-      } else {
-        map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
-      }
 
       updateLabelVisibility();
 
