@@ -507,12 +507,13 @@
       }
     );
 
-    const satelliteLabels = L.tileLayer(
-      "https://services.arcgisonline.com/ArcGIS/rest/services/Reference/World_Transportation/MapServer/tile/{z}/{y}/{x}",
+    const roadLabels = L.tileLayer(
+      "https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png",
       {
         maxZoom: MAX_MAP_ZOOM,
-        maxNativeZoom: 19,
-        attribution: "Transportation labels &copy; Esri"
+        maxNativeZoom: 20,
+        subdomains: "abcd",
+        attribution: "&copy; OpenStreetMap contributors &copy; CARTO"
       }
     );
 
@@ -523,7 +524,7 @@
     };
 
     const tileOverlayMaps = {
-      "Road labels": satelliteLabels
+      "Road labels": roadLabels
     };
 
     satellite.addTo(map);
