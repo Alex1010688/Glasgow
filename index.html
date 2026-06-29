@@ -147,6 +147,17 @@
       filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.65));
     }
 
+    .solid-circle-marker {
+      display: block;
+      width: 10px;
+      height: 10px;
+      border: 2px solid #ffffff;
+      border-radius: 50%;
+      box-sizing: border-box;
+      background: var(--marker-colour, #ffff00);
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.45);
+    }
+
     .feature-label {
       background: rgba(255, 255, 255, 0.85);
       border: 1px solid #555;
@@ -640,6 +651,16 @@
         iconSize: [30, 20],
         iconAnchor: [15, 10],
         popupAnchor: [0, -10]
+      });
+    }
+
+    function createSolidCircleMarkerIcon(colour) {
+      return L.divIcon({
+        className: "",
+        html: `<span class="solid-circle-marker" style="--marker-colour: ${colour};"></span>`,
+        iconSize: [10, 10],
+        iconAnchor: [5, 5],
+        popupAnchor: [0, -7]
       });
     }
 
@@ -1248,14 +1269,9 @@
 
           const colour = getFeatureColour(feature, layerConfig);
 
-          return L.circleMarker(latlng, {
+          return L.marker(latlng, {
             pane: "pointMarkerPane",
-            radius: 4,
-            color: "#ffffff",
-            opacity: 1,
-            weight: 1.5,
-            fillColor: colour,
-            fillOpacity: 1
+            icon: createSolidCircleMarkerIcon(colour)
           });
         },
 
