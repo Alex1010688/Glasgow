@@ -192,6 +192,85 @@
       background: #f4f4f4;
     }
 
+    .info-button {
+      position: absolute;
+      right: 10px;
+      bottom: 96px;
+      z-index: 1300;
+      width: 42px;
+      height: 42px;
+      background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 22px;
+      font-weight: bold;
+      line-height: 38px;
+      text-align: center;
+      box-shadow: none;
+      pointer-events: auto;
+    }
+
+    .info-button:hover {
+      background: #f4f4f4;
+    }
+
+    .info-modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 3000;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+      background: rgba(0, 0, 0, 0.45);
+      box-sizing: border-box;
+    }
+
+    .info-modal.open {
+      display: flex;
+    }
+
+    .info-dialog {
+      width: min(440px, 100%);
+      background: white;
+      border-radius: 6px;
+      box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+      padding: 18px;
+      color: #111;
+      font-size: 15px;
+      line-height: 1.45;
+    }
+
+    .info-dialog h2 {
+      margin: 0 0 10px;
+      font-size: 18px;
+      line-height: 1.2;
+    }
+
+    .info-dialog p {
+      margin: 10px 0;
+    }
+
+    .info-dialog a {
+      color: #0645ad;
+      word-break: break-word;
+    }
+
+    .info-dialog button {
+      margin-top: 10px;
+      padding: 8px 12px;
+      border: 1px solid #555;
+      border-radius: 4px;
+      background: #f4f4f4;
+      cursor: pointer;
+      font-size: 15px;
+    }
+
+    .info-dialog button:hover {
+      background: #e8e8e8;
+    }
+
     .map-controls-panel {
       position: absolute;
       top: 10px;
@@ -319,6 +398,19 @@
 
 <body>
   <div id="map"></div>
+
+  <button id="infoButton" class="info-button" type="button" title="Map information">i</button>
+
+  <div id="infoModal" class="info-modal" role="dialog" aria-modal="true" aria-labelledby="infoModalTitle">
+    <div class="info-dialog">
+      <h2 id="infoModalTitle">Map Information</h2>
+      <p>The information shown on this map is for guidance only and must not be used for safety-critical decisions.</p>
+      <p>MyIM links only refer to the main item of equipment. They may not show faults allocated to associated equipment, such as stretcher bars or supplementary detectors. Current open faults are also not shown. These limitations are due to restrictions with how faults are stored within MyIM.</p>
+      <p>For corrections, suggestions, or errors, email <a href="mailto:alex.corcoran@networkrail.co.uk">alex.corcoran@networkrail.co.uk</a>.</p>
+      <p>This information can be viewed again using the icon in the bottom right corner.</p>
+      <button id="infoModalClose" type="button">Close</button>
+    </div>
+  </div>
 
   <div class="top-panel">
     <div class="search-wrapper">
@@ -997,6 +1089,34 @@
     };
 
     locateControl.addTo(map);
+
+    function openInfoModal() {
+      document.getElementById("infoModal").classList.add("open");
+    }
+
+    function closeInfoModal() {
+      document.getElementById("infoModal").classList.remove("open");
+      localStorage.setItem("railMapInfoSeen", "true");
+    }
+
+    document.getElementById("infoButton").onclick = openInfoModal;
+    document.getElementById("infoModalClose").onclick = closeInfoModal;
+
+    document.getElementById("infoModal").onclick = function(event) {
+      if (event.target.id === "infoModal") {
+        closeInfoModal();
+      }
+    };
+
+    document.addEventListener("keydown", function(event) {
+      if (event.key === "Escape") {
+        closeInfoModal();
+      }
+    });
+
+    if (localStorage.getItem("railMapInfoSeen") !== "true") {
+      openInfoModal();
+    }
 
     function updateSuggestions() {
       const searchText = document
