@@ -914,6 +914,10 @@
           linkText = "Open MyIM track profile";
         } else if (assetType === "points" || assetType === "point") {
           linkText = "Open MyIM point profile";
+        } else if (equipmentName) {
+          linkText = "Open MyIM " + equipmentName + " asset profile";
+        } else if (entries.length > 1) {
+          linkText = "Open MyIM asset profile " + (i + 1);
         }
 
         html += `

@@ -6,7 +6,8 @@
       "properties": {
         "name": "GB5125",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896438"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "name": "GB5128",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896440"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +38,8 @@
       "properties": {
         "name": "GB5129",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896441"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +54,8 @@
       "properties": {
         "name": "GB5130",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896442"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +70,8 @@
       "properties": {
         "name": "GB5131",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896443"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +86,8 @@
       "properties": {
         "name": "GB5135",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896596"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +102,8 @@
       "properties": {
         "name": "GB5137",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896597"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +118,8 @@
       "properties": {
         "name": "GB5138",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896598"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +134,8 @@
       "properties": {
         "name": "GB5139",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896599"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +150,8 @@
       "properties": {
         "name": "GB5141",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896600"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +166,8 @@
       "properties": {
         "name": "GB5140",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "15706363"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +182,8 @@
       "properties": {
         "name": "GB5142",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896601"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +198,8 @@
       "properties": {
         "name": "GB5144",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896602"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +214,8 @@
       "properties": {
         "name": "GB5145",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896446"
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +230,8 @@
       "properties": {
         "name": "GB5147",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896447"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +246,8 @@
       "properties": {
         "name": "GB5148",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896448"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +262,8 @@
       "properties": {
         "name": "GB5149",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896449"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +278,8 @@
       "properties": {
         "name": "GB5151",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896450"
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +294,8 @@
       "properties": {
         "name": "GB5163",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890379"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +310,8 @@
       "properties": {
         "name": "GB5170",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890386"
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +326,8 @@
       "properties": {
         "name": "GB5169",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890385"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +342,8 @@
       "properties": {
         "name": "GB5168",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890384"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +358,8 @@
       "properties": {
         "name": "GB5167",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890383"
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +389,8 @@
       "properties": {
         "name": "GB5164",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890380"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +405,8 @@
       "properties": {
         "name": "GB5165",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890381"
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +421,8 @@
       "properties": {
         "name": "GB5166",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890382"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +437,8 @@
       "properties": {
         "name": "GB5171",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890388"
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +453,8 @@
       "properties": {
         "name": "GB5174",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890389"
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +469,8 @@
       "properties": {
         "name": "GB5173",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890390"
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +485,8 @@
       "properties": {
         "name": "GB5175",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890391"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +501,8 @@
       "properties": {
         "name": "GB5176",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890393"
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +517,8 @@
       "properties": {
         "name": "GB5177",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890394"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +563,8 @@
       "properties": {
         "name": "GB5185",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "9203186"
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +579,8 @@
       "properties": {
         "name": "GB5180",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7887623"
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +595,17 @@
       "properties": {
         "name": "GB5180BR",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "7887633",
+            "label": "Banner A"
+          },
+          {
+            "number": "7887634",
+            "label": "Banner B"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +620,8 @@
       "properties": {
         "name": "GB5186",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7887628"
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +636,8 @@
       "properties": {
         "name": "GB5184",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7887626"
       },
       "geometry": {
         "type": "Point",
@@ -606,7 +652,8 @@
       "properties": {
         "name": "GS5908",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162292"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +668,17 @@
       "properties": {
         "name": "GS5907",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "3162290",
+            "label": "Main"
+          },
+          {
+            "number": "3162291",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +693,8 @@
       "properties": {
         "name": "GS5906",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162289"
       },
       "geometry": {
         "type": "Point",
@@ -649,198 +707,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gantry A",
-        "type": "Signals",
-        "notes": "GG5520 GG5522 GG5524 GG5526 GG5528 GG5530 GG5532 GG5533 GG5531 GG5539 GG5527 GG5525 GG5523 GG5521"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2593795,
-            55.8554945
-          ],
-          [
-            -4.2588538,
-            55.8554313
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry B",
-        "type": "Signals",
-        "notes": "GG5484 GG5486 GG5489 GG5487"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2595779,
-            55.8541087
-          ],
-          [
-            -4.2593284,
-            55.8540756
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry C",
-        "type": "Signals",
-        "notes": "GG5284 GG5288 GG5290 GG5285 GG5283 GG5281"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2593244,
-            55.8539552
-          ],
-          [
-            -4.2590669,
-            55.8539243
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry D",
-        "type": "Signals",
-        "notes": "GG5490 GG5483 GG5481"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2600201,
-            55.8535941
-          ],
-          [
-            -4.2597927,
-            55.8535647
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry E",
-        "type": "Signals",
-        "notes": "GG5464 GG5466 GG5470 GG5469 GG5467"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2601853,
-            55.8531298
-          ],
-          [
-            -4.2596073,
-            55.853065
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry F",
-        "type": "Signals",
-        "notes": "GG5264 GG5268 GG5270 GG5265 GG5263 GG5261"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2597654,
-            55.8526073
-          ],
-          [
-            -4.2595293,
-            55.8525801
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry G",
-        "type": "Signals",
-        "notes": "GG5244 GG5248 GG5250 GG5249 GG5245 GG5243 GG5241"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.260302,
-            55.8507648
-          ],
-          [
-            -4.260066,
-            55.8507362
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry H",
-        "type": "Signals",
-        "notes": "GG5229 GG5225 GG5223 GG5221"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2606512,
-            55.849496
-          ],
-          [
-            -4.2604058,
-            55.8494847
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry I",
-        "type": "Signals",
-        "notes": "GG5224 GG5228"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2608339,
-            55.8486854
-          ],
-          [
-            -4.2605951,
-            55.8486613
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GR879",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804380"
       },
       "geometry": {
         "type": "Point",
@@ -870,7 +740,8 @@
       "properties": {
         "name": "GR877",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18886900"
       },
       "geometry": {
         "type": "Point",
@@ -885,7 +756,8 @@
       "properties": {
         "name": "GR873",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18822810"
       },
       "geometry": {
         "type": "Point",
@@ -900,7 +772,8 @@
       "properties": {
         "name": "GR874",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18822811"
       },
       "geometry": {
         "type": "Point",
@@ -915,7 +788,8 @@
       "properties": {
         "name": "GR872",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18822809"
       },
       "geometry": {
         "type": "Point",
@@ -930,7 +804,8 @@
       "properties": {
         "name": "GR871",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18886759"
       },
       "geometry": {
         "type": "Point",
@@ -945,7 +820,8 @@
       "properties": {
         "name": "GR865",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18886890"
       },
       "geometry": {
         "type": "Point",
@@ -960,7 +836,8 @@
       "properties": {
         "name": "GR864",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18886891"
       },
       "geometry": {
         "type": "Point",
@@ -973,51 +850,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gantry",
-        "type": "Signals",
-        "notes": "GR865 GR860 GR862"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2039229,
-            55.8294306
-          ],
-          [
-            -4.2039927,
-            55.8292483
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry",
-        "type": "Signals",
-        "notes": "GR851 GR853 GR855"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2083188,
-            55.8299162
-          ],
-          [
-            -4.2083685,
-            55.8297445
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GR834",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804343"
       },
       "geometry": {
         "type": "Point",
@@ -1030,51 +866,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cantilever",
-        "type": "Signals",
-        "notes": "GR828 GR832"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2216516,
-            55.8306961
-          ],
-          [
-            -4.2216784,
-            55.8306283
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cantilever",
-        "type": "Signals",
-        "notes": "GR844 GR846"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2118937,
-            55.8301434
-          ],
-          [
-            -4.211895,
-            55.8300809
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GR848",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18833638"
       },
       "geometry": {
         "type": "Point",
@@ -1089,7 +884,17 @@
       "properties": {
         "name": "GR831",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18886841",
+            "label": "Main"
+          },
+          {
+            "number": "18886840",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1104,7 +909,17 @@
       "properties": {
         "name": "GR833",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18804398",
+            "label": "Main"
+          },
+          {
+            "number": "18804397",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1119,7 +934,8 @@
       "properties": {
         "name": "GR835",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804338"
       },
       "geometry": {
         "type": "Point",
@@ -1134,7 +950,8 @@
       "properties": {
         "name": "GR836",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18886915"
       },
       "geometry": {
         "type": "Point",
@@ -1149,7 +966,8 @@
       "properties": {
         "name": "GR827",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18833649"
       },
       "geometry": {
         "type": "Point",
@@ -1164,7 +982,8 @@
       "properties": {
         "name": "GR823",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18833656"
       },
       "geometry": {
         "type": "Point",
@@ -1179,7 +998,8 @@
       "properties": {
         "name": "GR818",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "1387596"
       },
       "geometry": {
         "type": "Point",
@@ -1192,30 +1012,19 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cantilever",
-        "type": "Signals",
-        "notes": "GR811 GR813"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2312662,
-            55.8329054
-          ],
-          [
-            -4.2313198,
-            55.8328602
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GR815",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18778549",
+            "label": "Main"
+          },
+          {
+            "number": "18778547",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1230,7 +1039,8 @@
       "properties": {
         "name": "GR802",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "760996"
       },
       "geometry": {
         "type": "Point",
@@ -1245,7 +1055,8 @@
       "properties": {
         "name": "GR804",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804341"
       },
       "geometry": {
         "type": "Point",
@@ -1260,7 +1071,8 @@
       "properties": {
         "name": "GR806",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18886883"
       },
       "geometry": {
         "type": "Point",
@@ -1275,7 +1087,8 @@
       "properties": {
         "name": "GR808",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804357"
       },
       "geometry": {
         "type": "Point",
@@ -1290,7 +1103,8 @@
       "properties": {
         "name": "GR800",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804350"
       },
       "geometry": {
         "type": "Point",
@@ -1305,7 +1119,8 @@
       "properties": {
         "name": "GR798",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804354"
       },
       "geometry": {
         "type": "Point",
@@ -1320,7 +1135,8 @@
       "properties": {
         "name": "GR794",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804352"
       },
       "geometry": {
         "type": "Point",
@@ -1333,30 +1149,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cantilever",
-        "type": "Signals",
-        "notes": "GR781 GR783"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2396761,
-            55.8358386
-          ],
-          [
-            -4.2397311,
-            55.8357874
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GR785",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778559"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1167,17 @@
       "properties": {
         "name": "GR789",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18804388",
+            "label": "Main"
+          },
+          {
+            "number": "18778557",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1192,8 @@
       "properties": {
         "name": "GR787",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18833651"
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1208,17 @@
       "properties": {
         "name": "GR779",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "1403700",
+            "label": "Main"
+          },
+          {
+            "number": "1418201",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1233,8 @@
       "properties": {
         "name": "GR791",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778515"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1249,8 @@
       "properties": {
         "name": "GR788",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804328"
       },
       "geometry": {
         "type": "Point",
@@ -1446,7 +1265,17 @@
       "properties": {
         "name": "GR782",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18778521",
+            "label": "Main"
+          },
+          {
+            "number": "18778525",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1290,8 @@
       "properties": {
         "name": "GR784",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778523"
       },
       "geometry": {
         "type": "Point",
@@ -1476,7 +1306,17 @@
       "properties": {
         "name": "GR786",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18778527",
+            "label": "Main"
+          },
+          {
+            "number": "18778535",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1491,7 +1331,8 @@
       "properties": {
         "name": "GR775",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "760841"
       },
       "geometry": {
         "type": "Point",
@@ -1506,7 +1347,8 @@
       "properties": {
         "name": "GR774",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778500"
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1363,17 @@
       "properties": {
         "name": "GR768",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "1387616",
+            "label": "Position Light"
+          },
+          {
+            "number": "18804349",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1536,7 +1388,8 @@
       "properties": {
         "name": "GR766",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778543"
       },
       "geometry": {
         "type": "Point",
@@ -1549,30 +1402,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cantilever",
-        "type": "Signals",
-        "notes": "GR755 GR757"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2486452,
-            55.8389903
-          ],
-          [
-            -4.2487284,
-            55.8389143
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GR759",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804363"
       },
       "geometry": {
         "type": "Point",
@@ -1587,7 +1420,8 @@
       "properties": {
         "name": "GR761",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778545"
       },
       "geometry": {
         "type": "Point",
@@ -1602,7 +1436,8 @@
       "properties": {
         "name": "GR752",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778510"
       },
       "geometry": {
         "type": "Point",
@@ -1617,7 +1452,17 @@
       "properties": {
         "name": "GR756",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18804331",
+            "label": "Main"
+          },
+          {
+            "number": "18778519",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1632,7 +1477,17 @@
       "properties": {
         "name": "GR758",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18778507",
+            "label": "Main"
+          },
+          {
+            "number": "18778508",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1647,7 +1502,8 @@
       "properties": {
         "name": "GR736",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778505"
       },
       "geometry": {
         "type": "Point",
@@ -1662,7 +1518,8 @@
       "properties": {
         "name": "GR738",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778503"
       },
       "geometry": {
         "type": "Point",
@@ -1677,7 +1534,8 @@
       "properties": {
         "name": "GR742",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778489"
       },
       "geometry": {
         "type": "Point",
@@ -1692,7 +1550,8 @@
       "properties": {
         "name": "GR735",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778487"
       },
       "geometry": {
         "type": "Point",
@@ -1705,30 +1564,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cantilever",
-        "type": "Signals",
-        "notes": "GG5205 GG5203"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2595364,
-            55.8429195
-          ],
-          [
-            -4.259645,
-            55.8428638
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GG5201",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804333"
       },
       "geometry": {
         "type": "Point",
@@ -1743,7 +1582,8 @@
       "properties": {
         "name": "GR722",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778484"
       },
       "geometry": {
         "type": "Point",
@@ -1758,7 +1598,8 @@
       "properties": {
         "name": "GR721",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18833633"
       },
       "geometry": {
         "type": "Point",
@@ -1773,7 +1614,17 @@
       "properties": {
         "name": "GG5218",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18778497",
+            "label": "SIG:GG5218(BS) EGLINTON ST"
+          },
+          {
+            "number": "18778495",
+            "label": "Main"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1788,7 +1639,17 @@
       "properties": {
         "name": "GG5214",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18778493",
+            "label": "SIG:GG5214(BS) EGLINTON ST"
+          },
+          {
+            "number": "759988",
+            "label": "Main"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1803,7 +1664,8 @@
       "properties": {
         "name": "GR852",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804345"
       },
       "geometry": {
         "type": "Point",
@@ -1818,7 +1680,8 @@
       "properties": {
         "name": "GR842",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18805493"
       },
       "geometry": {
         "type": "Point",
@@ -1833,7 +1696,8 @@
       "properties": {
         "name": "GR840",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18886725"
       },
       "geometry": {
         "type": "Point",
@@ -1863,7 +1727,8 @@
       "properties": {
         "name": "GR892",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804375"
       },
       "geometry": {
         "type": "Point",
@@ -1878,7 +1743,8 @@
       "properties": {
         "name": "GR894",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804377"
       },
       "geometry": {
         "type": "Point",
@@ -1893,7 +1759,8 @@
       "properties": {
         "name": "GR885",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18805492"
       },
       "geometry": {
         "type": "Point",
@@ -1908,7 +1775,8 @@
       "properties": {
         "name": "GR889",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "753343"
       },
       "geometry": {
         "type": "Point",
@@ -1923,7 +1791,8 @@
       "properties": {
         "name": "GR886",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18833629"
       },
       "geometry": {
         "type": "Point",
@@ -1938,7 +1807,8 @@
       "properties": {
         "name": "GR883",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18833632"
       },
       "geometry": {
         "type": "Point",
@@ -1953,7 +1823,17 @@
       "properties": {
         "name": "GR893",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18804366",
+            "label": "Position Light"
+          },
+          {
+            "number": "18886730",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1968,7 +1848,8 @@
       "properties": {
         "name": "GR890",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804368"
       },
       "geometry": {
         "type": "Point",
@@ -1983,7 +1864,8 @@
       "properties": {
         "name": "GR884",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18886732"
       },
       "geometry": {
         "type": "Point",
@@ -1998,7 +1880,8 @@
       "properties": {
         "name": "GR882",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18804361"
       },
       "geometry": {
         "type": "Point",
@@ -2013,7 +1896,8 @@
       "properties": {
         "name": "GG5601",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2151470"
       },
       "geometry": {
         "type": "Point",
@@ -2028,7 +1912,8 @@
       "properties": {
         "name": "GG5602",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2151472"
       },
       "geometry": {
         "type": "Point",
@@ -2043,7 +1928,8 @@
       "properties": {
         "name": "GG5604",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2151386"
       },
       "geometry": {
         "type": "Point",
@@ -2058,7 +1944,8 @@
       "properties": {
         "name": "GG5603",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2151385"
       },
       "geometry": {
         "type": "Point",
@@ -2073,7 +1960,8 @@
       "properties": {
         "name": "GG5605",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2151462"
       },
       "geometry": {
         "type": "Point",
@@ -2088,7 +1976,8 @@
       "properties": {
         "name": "GG5606",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2151465"
       },
       "geometry": {
         "type": "Point",
@@ -2103,7 +1992,8 @@
       "properties": {
         "name": "GG5607",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2151467"
       },
       "geometry": {
         "type": "Point",
@@ -2118,7 +2008,8 @@
       "properties": {
         "name": "GG5608",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2151468"
       },
       "geometry": {
         "type": "Point",
@@ -2133,7 +2024,8 @@
       "properties": {
         "name": "GG5609",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2421906"
       },
       "geometry": {
         "type": "Point",
@@ -2148,7 +2040,8 @@
       "properties": {
         "name": "GG5610",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2421907"
       },
       "geometry": {
         "type": "Point",
@@ -2163,7 +2056,8 @@
       "properties": {
         "name": "GG5710",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2642461"
       },
       "geometry": {
         "type": "Point",
@@ -2178,7 +2072,8 @@
       "properties": {
         "name": "GG5711",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2421882"
       },
       "geometry": {
         "type": "Point",
@@ -2193,7 +2088,8 @@
       "properties": {
         "name": "GG5612",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2828993"
       },
       "geometry": {
         "type": "Point",
@@ -2208,7 +2104,8 @@
       "properties": {
         "name": "GG5811",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2642462"
       },
       "geometry": {
         "type": "Point",
@@ -2223,7 +2120,17 @@
       "properties": {
         "name": "GG5613",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2828976",
+            "label": "SIG:GG5613(BE) GLASGOW CENTRAL"
+          },
+          {
+            "number": "2828992",
+            "label": "Main"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2238,7 +2145,8 @@
       "properties": {
         "name": "GG5615",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2404408"
       },
       "geometry": {
         "type": "Point",
@@ -2253,7 +2161,8 @@
       "properties": {
         "name": "GG5614",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2404407"
       },
       "geometry": {
         "type": "Point",
@@ -2268,7 +2177,8 @@
       "properties": {
         "name": "GG5611",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2421885"
       },
       "geometry": {
         "type": "Point",
@@ -2283,7 +2193,8 @@
       "properties": {
         "name": "GG5485",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2642454"
       },
       "geometry": {
         "type": "Point",
@@ -2298,7 +2209,8 @@
       "properties": {
         "name": "GG5267",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2642443"
       },
       "geometry": {
         "type": "Point",
@@ -2313,7 +2225,8 @@
       "properties": {
         "name": "GG5269",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2642444"
       },
       "geometry": {
         "type": "Point",
@@ -2328,7 +2241,8 @@
       "properties": {
         "name": "GG5462",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2642446"
       },
       "geometry": {
         "type": "Point",
@@ -2343,7 +2257,8 @@
       "properties": {
         "name": "GG5468",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2642448"
       },
       "geometry": {
         "type": "Point",
@@ -2358,7 +2273,8 @@
       "properties": {
         "name": "GG5260",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2642441"
       },
       "geometry": {
         "type": "Point",
@@ -2373,7 +2289,8 @@
       "properties": {
         "name": "GG5262",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2642442"
       },
       "geometry": {
         "type": "Point",
@@ -2386,30 +2303,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gantry",
-        "type": "Signals",
-        "notes": "GG5215 GG5213"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.26159,
-            55.846272
-          ],
-          [
-            -4.2618501,
-            55.8463082
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GG5211",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2236446"
       },
       "geometry": {
         "type": "Point",
@@ -2424,7 +2321,8 @@
       "properties": {
         "name": "GG5190",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2236663"
       },
       "geometry": {
         "type": "Point",
@@ -2439,7 +2337,8 @@
       "properties": {
         "name": "GG5191",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2236662"
       },
       "geometry": {
         "type": "Point",
@@ -2452,93 +2351,19 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gantry M",
-        "type": "Signals",
-        "notes": "GS5855 GS5857 GS5852 GS5850"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2830709,
-            55.8475605
-          ],
-          [
-            -4.2830636,
-            55.8474204
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry J",
-        "type": "Signals",
-        "notes": "GG5831 GG5833"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2613246,
-            55.850821
-          ],
-          [
-            -4.2611235,
-            55.8507367
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry F",
-        "type": "Signals",
-        "notes": "GG5832 GG5830"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2625124,
-            55.8502148
-          ],
-          [
-            -4.2624373,
-            55.850144
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry L",
-        "type": "Signals",
-        "notes": "GG5835 GG5837"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2656524,
-            55.849539
-          ],
-          [
-            -4.2655693,
-            55.849411
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GG5834",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2642464",
+            "label": "Main"
+          },
+          {
+            "number": "2642465",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2553,7 +2378,8 @@
       "properties": {
         "name": "GG5844",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162235"
       },
       "geometry": {
         "type": "Point",
@@ -2568,7 +2394,8 @@
       "properties": {
         "name": "GG5842",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2237199"
       },
       "geometry": {
         "type": "Point",
@@ -2583,7 +2410,8 @@
       "properties": {
         "name": "GG5843",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2236674"
       },
       "geometry": {
         "type": "Point",
@@ -2598,7 +2426,8 @@
       "properties": {
         "name": "GG5845",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2236675"
       },
       "geometry": {
         "type": "Point",
@@ -2613,7 +2442,8 @@
       "properties": {
         "name": "GG5847",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2236677"
       },
       "geometry": {
         "type": "Point",
@@ -2628,7 +2458,8 @@
       "properties": {
         "name": "GG5849",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2236679"
       },
       "geometry": {
         "type": "Point",
@@ -2643,7 +2474,8 @@
       "properties": {
         "name": "GG5846",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2237200"
       },
       "geometry": {
         "type": "Point",
@@ -2658,7 +2490,8 @@
       "properties": {
         "name": "GG5848",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162237"
       },
       "geometry": {
         "type": "Point",
@@ -2673,7 +2506,8 @@
       "properties": {
         "name": "GG5851",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2488472"
       },
       "geometry": {
         "type": "Point",
@@ -2688,7 +2522,8 @@
       "properties": {
         "name": "GG5853",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162238"
       },
       "geometry": {
         "type": "Point",
@@ -2701,177 +2536,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gantry 1",
-        "type": "Signals",
-        "notes": "GS5860 GS5862 GS5864 GS5861 GS5863 GS5865"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.2917264,
-            55.8478079
-          ],
-          [
-            -4.2916754,
-            55.8479404
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry 2A",
-        "type": "Signals",
-        "notes": "GS5871 GS5873 GS5875"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.3021809,
-            55.8489886
-          ],
-          [
-            -4.3022333,
-            55.8488328
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry 2B",
-        "type": "Signals",
-        "notes": "GS5870 GS5872 GS5874"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.3058878,
-            55.8493842
-          ],
-          [
-            -4.3059441,
-            55.8492126
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry 3A",
-        "type": "Signals",
-        "notes": "GS5881 GS5883 GS5885"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.315415,
-            55.8503357
-          ],
-          [
-            -4.3154713,
-            55.8501821
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry 3B",
-        "type": "Signals",
-        "notes": "GS5880 GS5882 GS5884"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.3164364,
-            55.8504355
-          ],
-          [
-            -4.3164874,
-            55.8502751
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry 4A",
-        "type": "Signals",
-        "notes": "GS5891 GS5893 GS5895"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.3243892,
-            55.851233
-          ],
-          [
-            -4.3244442,
-            55.8510795
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry 4B",
-        "type": "Signals",
-        "notes": "GS5890 GS5892 GS5894"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.3281986,
-            55.8516152
-          ],
-          [
-            -4.3282441,
-            55.8514707
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry 5",
-        "type": "Signals",
-        "notes": "GS5900 GS5902 GS5904"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.3375936,
-            55.8525725
-          ],
-          [
-            -4.3376379,
-            55.8524204
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GS5901",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162283"
       },
       "geometry": {
         "type": "Point",
@@ -2886,7 +2554,8 @@
       "properties": {
         "name": "GS5903",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162285"
       },
       "geometry": {
         "type": "Point",
@@ -2901,7 +2570,8 @@
       "properties": {
         "name": "GS5905",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162288"
       },
       "geometry": {
         "type": "Point",
@@ -2914,51 +2584,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gantry 7",
-        "type": "Signals",
-        "notes": "GS5910 GS5912 GS5914 GS5911 GS5913 GS5915"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.3532401,
-            55.8541504
-          ],
-          [
-            -4.3532844,
-            55.8540104
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gantry 8",
-        "type": "Signals",
-        "notes": "GG5921 GG5923 GG5925 GG5920 GG5922 GG5924"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.3619409,
-            55.8550371
-          ],
-          [
-            -4.3619972,
-            55.8548699
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GS5937",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162314"
       },
       "geometry": {
         "type": "Point",
@@ -2973,7 +2602,8 @@
       "properties": {
         "name": "GS5936",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162313"
       },
       "geometry": {
         "type": "Point",
@@ -2988,7 +2618,8 @@
       "properties": {
         "name": "GS5997",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162335"
       },
       "geometry": {
         "type": "Point",
@@ -3003,7 +2634,8 @@
       "properties": {
         "name": "GS5996",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "753372"
       },
       "geometry": {
         "type": "Point",
@@ -3018,7 +2650,8 @@
       "properties": {
         "name": "GS5994",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "753371"
       },
       "geometry": {
         "type": "Point",
@@ -3033,7 +2666,8 @@
       "properties": {
         "name": "GS5995",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2642435"
       },
       "geometry": {
         "type": "Point",
@@ -3048,7 +2682,8 @@
       "properties": {
         "name": "GS5993",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162333"
       },
       "geometry": {
         "type": "Point",
@@ -3063,7 +2698,8 @@
       "properties": {
         "name": "GS5991",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162332"
       },
       "geometry": {
         "type": "Point",
@@ -3078,7 +2714,8 @@
       "properties": {
         "name": "GS5941",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "1220127"
       },
       "geometry": {
         "type": "Point",
@@ -3093,7 +2730,8 @@
       "properties": {
         "name": "GS5939",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162316"
       },
       "geometry": {
         "type": "Point",
@@ -3108,7 +2746,8 @@
       "properties": {
         "name": "GS5938",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162315"
       },
       "geometry": {
         "type": "Point",
@@ -3123,7 +2762,8 @@
       "properties": {
         "name": "GS5934",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162311"
       },
       "geometry": {
         "type": "Point",
@@ -3138,7 +2778,8 @@
       "properties": {
         "name": "GS5931",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162307"
       },
       "geometry": {
         "type": "Point",
@@ -3153,7 +2794,8 @@
       "properties": {
         "name": "GS5933",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162309"
       },
       "geometry": {
         "type": "Point",
@@ -3168,7 +2810,8 @@
       "properties": {
         "name": "GB5182",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "9199219"
       },
       "geometry": {
         "type": "Point",
@@ -3183,7 +2826,8 @@
       "properties": {
         "name": "GR726",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18833636"
       },
       "geometry": {
         "type": "Point",
@@ -3198,7 +2842,8 @@
       "properties": {
         "name": "GB5179",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18886748"
       },
       "geometry": {
         "type": "Point",
@@ -3213,7 +2858,8 @@
       "properties": {
         "name": "GB5178",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7887605"
       },
       "geometry": {
         "type": "Point",
@@ -3228,7 +2874,8 @@
       "properties": {
         "name": "GS5943",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "1793275"
       },
       "geometry": {
         "type": "Point",
@@ -3243,7 +2890,17 @@
       "properties": {
         "name": "GS5945",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "3162318",
+            "label": "Main"
+          },
+          {
+            "number": "3162320",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3258,7 +2915,8 @@
       "properties": {
         "name": "GS5947",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162325"
       },
       "geometry": {
         "type": "Point",
@@ -3273,7 +2931,8 @@
       "properties": {
         "name": "GS5944",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "1793283"
       },
       "geometry": {
         "type": "Point",
@@ -3288,7 +2947,17 @@
       "properties": {
         "name": "GS5948",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "3162326",
+            "label": "Main"
+          },
+          {
+            "number": "3162327",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3303,7 +2972,17 @@
       "properties": {
         "name": "GS5946",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "3162321",
+            "label": "Main"
+          },
+          {
+            "number": "3162323",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3318,7 +2997,8 @@
       "properties": {
         "name": "GS5951",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162329"
       },
       "geometry": {
         "type": "Point",
@@ -3333,7 +3013,8 @@
       "properties": {
         "name": "GS5952",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "760334"
       },
       "geometry": {
         "type": "Point",
@@ -3348,7 +3029,8 @@
       "properties": {
         "name": "GS5954",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "1602691"
       },
       "geometry": {
         "type": "Point",
@@ -3363,7 +3045,8 @@
       "properties": {
         "name": "GS5956",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "1602700"
       },
       "geometry": {
         "type": "Point",
@@ -3378,7 +3061,8 @@
       "properties": {
         "name": "GS5958",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162330"
       },
       "geometry": {
         "type": "Point",
@@ -3393,7 +3077,8 @@
       "properties": {
         "name": "GS5959",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162331"
       },
       "geometry": {
         "type": "Point",
@@ -3408,7 +3093,8 @@
       "properties": {
         "name": "G593",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759855"
       },
       "geometry": {
         "type": "Point",
@@ -3423,7 +3109,8 @@
       "properties": {
         "name": "G597R",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759856"
       },
       "geometry": {
         "type": "Point",
@@ -3438,7 +3125,8 @@
       "properties": {
         "name": "G594",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759858"
       },
       "geometry": {
         "type": "Point",
@@ -3453,7 +3141,8 @@
       "properties": {
         "name": "G595",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "761010"
       },
       "geometry": {
         "type": "Point",
@@ -3468,7 +3157,8 @@
       "properties": {
         "name": "G597",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759857"
       },
       "geometry": {
         "type": "Point",
@@ -3483,7 +3173,8 @@
       "properties": {
         "name": "G596",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759860"
       },
       "geometry": {
         "type": "Point",
@@ -3498,7 +3189,17 @@
       "properties": {
         "name": "S1",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "1748458",
+            "label": "Main"
+          },
+          {
+            "number": "1748460",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3513,7 +3214,17 @@
       "properties": {
         "name": "G599",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "759869",
+            "label": "Main"
+          },
+          {
+            "number": "760326",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3528,7 +3239,8 @@
       "properties": {
         "name": "G598",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "1698775"
       },
       "geometry": {
         "type": "Point",
@@ -3543,7 +3255,8 @@
       "properties": {
         "name": "G900",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759863"
       },
       "geometry": {
         "type": "Point",
@@ -3558,7 +3271,8 @@
       "properties": {
         "name": "G900R",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759862"
       },
       "geometry": {
         "type": "Point",
@@ -3573,7 +3287,8 @@
       "properties": {
         "name": "G901",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759852"
       },
       "geometry": {
         "type": "Point",
@@ -3588,7 +3303,8 @@
       "properties": {
         "name": "G902",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759866"
       },
       "geometry": {
         "type": "Point",
@@ -3603,7 +3319,8 @@
       "properties": {
         "name": "G903",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759865"
       },
       "geometry": {
         "type": "Point",
@@ -3618,7 +3335,8 @@
       "properties": {
         "name": "G905R",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759864"
       },
       "geometry": {
         "type": "Point",
@@ -3633,7 +3351,8 @@
       "properties": {
         "name": "G904",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759923"
       },
       "geometry": {
         "type": "Point",
@@ -3648,7 +3367,17 @@
       "properties": {
         "name": "G905",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "759895",
+            "label": "Main"
+          },
+          {
+            "number": "760336",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3663,7 +3392,8 @@
       "properties": {
         "name": "G906",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759868"
       },
       "geometry": {
         "type": "Point",
@@ -3678,7 +3408,8 @@
       "properties": {
         "name": "G906R",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "759867"
       },
       "geometry": {
         "type": "Point",
@@ -3693,7 +3424,8 @@
       "properties": {
         "name": "GC5015",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896010"
       },
       "geometry": {
         "type": "Point",
@@ -3708,7 +3440,8 @@
       "properties": {
         "name": "GC5017",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896016"
       },
       "geometry": {
         "type": "Point",
@@ -3723,7 +3456,8 @@
       "properties": {
         "name": "GC5022",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896292"
       },
       "geometry": {
         "type": "Point",
@@ -3738,7 +3472,8 @@
       "properties": {
         "name": "GC5019",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896036"
       },
       "geometry": {
         "type": "Point",
@@ -3753,7 +3488,8 @@
       "properties": {
         "name": "GC5024",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896296"
       },
       "geometry": {
         "type": "Point",
@@ -3768,7 +3504,8 @@
       "properties": {
         "name": "GC5023",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896294"
       },
       "geometry": {
         "type": "Point",
@@ -3783,7 +3520,8 @@
       "properties": {
         "name": "GC5025",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896037"
       },
       "geometry": {
         "type": "Point",
@@ -3798,7 +3536,8 @@
       "properties": {
         "name": "GC5028",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896298"
       },
       "geometry": {
         "type": "Point",
@@ -3813,7 +3552,8 @@
       "properties": {
         "name": "GC5036",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896342"
       },
       "geometry": {
         "type": "Point",
@@ -3828,7 +3568,8 @@
       "properties": {
         "name": "GC5037",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896038"
       },
       "geometry": {
         "type": "Point",
@@ -3843,7 +3584,8 @@
       "properties": {
         "name": "GC5039",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896345"
       },
       "geometry": {
         "type": "Point",
@@ -3858,7 +3600,8 @@
       "properties": {
         "name": "GC5040",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896302"
       },
       "geometry": {
         "type": "Point",
@@ -3873,7 +3616,8 @@
       "properties": {
         "name": "GC5041",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896040"
       },
       "geometry": {
         "type": "Point",
@@ -3888,7 +3632,8 @@
       "properties": {
         "name": "GC5086",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7889988"
       },
       "geometry": {
         "type": "Point",
@@ -3903,7 +3648,8 @@
       "properties": {
         "name": "GC5089",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7889989"
       },
       "geometry": {
         "type": "Point",
@@ -3918,7 +3664,8 @@
       "properties": {
         "name": "GC5091",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7889990"
       },
       "geometry": {
         "type": "Point",
@@ -3933,7 +3680,8 @@
       "properties": {
         "name": "GC5092",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "15706365"
       },
       "geometry": {
         "type": "Point",
@@ -3948,7 +3696,8 @@
       "properties": {
         "name": "GC5094",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890039"
       },
       "geometry": {
         "type": "Point",
@@ -3963,7 +3712,8 @@
       "properties": {
         "name": "GC5095",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890036"
       },
       "geometry": {
         "type": "Point",
@@ -3978,7 +3728,8 @@
       "properties": {
         "name": "GC5096",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "15706366"
       },
       "geometry": {
         "type": "Point",
@@ -3993,7 +3744,8 @@
       "properties": {
         "name": "GC5098",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895282"
       },
       "geometry": {
         "type": "Point",
@@ -4023,7 +3775,8 @@
       "properties": {
         "name": "GC5099BR",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890037"
       },
       "geometry": {
         "type": "Point",
@@ -4038,7 +3791,8 @@
       "properties": {
         "name": "GC5093",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890034"
       },
       "geometry": {
         "type": "Point",
@@ -4053,7 +3807,8 @@
       "properties": {
         "name": "GC5090",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890031"
       },
       "geometry": {
         "type": "Point",
@@ -4068,7 +3823,8 @@
       "properties": {
         "name": "GC5088",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895278"
       },
       "geometry": {
         "type": "Point",
@@ -4083,7 +3839,8 @@
       "properties": {
         "name": "GC5085",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890040"
       },
       "geometry": {
         "type": "Point",
@@ -4098,7 +3855,8 @@
       "properties": {
         "name": "GC5087",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895284"
       },
       "geometry": {
         "type": "Point",
@@ -4113,7 +3871,8 @@
       "properties": {
         "name": "GC5084",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895276"
       },
       "geometry": {
         "type": "Point",
@@ -4128,7 +3887,8 @@
       "properties": {
         "name": "GC5069",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895409"
       },
       "geometry": {
         "type": "Point",
@@ -4143,7 +3903,8 @@
       "properties": {
         "name": "GC5068",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895408"
       },
       "geometry": {
         "type": "Point",
@@ -4158,7 +3919,8 @@
       "properties": {
         "name": "GC5067",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895407"
       },
       "geometry": {
         "type": "Point",
@@ -4173,7 +3935,8 @@
       "properties": {
         "name": "GC5063",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895403"
       },
       "geometry": {
         "type": "Point",
@@ -4188,7 +3951,8 @@
       "properties": {
         "name": "GC5065",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895404"
       },
       "geometry": {
         "type": "Point",
@@ -4203,7 +3967,8 @@
       "properties": {
         "name": "GC5059",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895400"
       },
       "geometry": {
         "type": "Point",
@@ -4218,7 +3983,8 @@
       "properties": {
         "name": "GC5061",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895402"
       },
       "geometry": {
         "type": "Point",
@@ -4233,7 +3999,8 @@
       "properties": {
         "name": "GC5058",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895399"
       },
       "geometry": {
         "type": "Point",
@@ -4248,7 +4015,8 @@
       "properties": {
         "name": "GC5055",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895398"
       },
       "geometry": {
         "type": "Point",
@@ -4263,7 +4031,8 @@
       "properties": {
         "name": "GC5054",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895397"
       },
       "geometry": {
         "type": "Point",
@@ -4278,7 +4047,8 @@
       "properties": {
         "name": "GC5053",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895396"
       },
       "geometry": {
         "type": "Point",
@@ -4293,7 +4063,8 @@
       "properties": {
         "name": "GC5052",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895394"
       },
       "geometry": {
         "type": "Point",
@@ -4308,7 +4079,8 @@
       "properties": {
         "name": "GC5051",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895395"
       },
       "geometry": {
         "type": "Point",
@@ -4323,7 +4095,8 @@
       "properties": {
         "name": "GC5050",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895391"
       },
       "geometry": {
         "type": "Point",
@@ -4338,7 +4111,8 @@
       "properties": {
         "name": "GC5049",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895392"
       },
       "geometry": {
         "type": "Point",
@@ -4353,7 +4127,8 @@
       "properties": {
         "name": "GC5048",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895390"
       },
       "geometry": {
         "type": "Point",
@@ -4368,7 +4143,8 @@
       "properties": {
         "name": "GC5046",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895389"
       },
       "geometry": {
         "type": "Point",
@@ -4383,7 +4159,8 @@
       "properties": {
         "name": "GC5045",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895388"
       },
       "geometry": {
         "type": "Point",
@@ -4398,7 +4175,8 @@
       "properties": {
         "name": "GC5043",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895393"
       },
       "geometry": {
         "type": "Point",
@@ -4413,7 +4191,8 @@
       "properties": {
         "name": "GC5083",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890029"
       },
       "geometry": {
         "type": "Point",
@@ -4428,7 +4207,8 @@
       "properties": {
         "name": "GC5082",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895342"
       },
       "geometry": {
         "type": "Point",
@@ -4443,7 +4223,8 @@
       "properties": {
         "name": "GC5081",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890028"
       },
       "geometry": {
         "type": "Point",
@@ -4458,7 +4239,8 @@
       "properties": {
         "name": "GC5080",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895341"
       },
       "geometry": {
         "type": "Point",
@@ -4473,7 +4255,8 @@
       "properties": {
         "name": "GC5079",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890027"
       },
       "geometry": {
         "type": "Point",
@@ -4488,7 +4271,8 @@
       "properties": {
         "name": "GC5078",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895340"
       },
       "geometry": {
         "type": "Point",
@@ -4503,7 +4287,8 @@
       "properties": {
         "name": "GC5077",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890026"
       },
       "geometry": {
         "type": "Point",
@@ -4518,7 +4303,8 @@
       "properties": {
         "name": "GC5076",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895339"
       },
       "geometry": {
         "type": "Point",
@@ -4533,7 +4319,8 @@
       "properties": {
         "name": "GC5075",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890025"
       },
       "geometry": {
         "type": "Point",
@@ -4548,7 +4335,8 @@
       "properties": {
         "name": "GC5074",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895338"
       },
       "geometry": {
         "type": "Point",
@@ -4563,7 +4351,8 @@
       "properties": {
         "name": "GC5072",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895337"
       },
       "geometry": {
         "type": "Point",
@@ -4578,7 +4367,8 @@
       "properties": {
         "name": "GC5071",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890023"
       },
       "geometry": {
         "type": "Point",
@@ -4593,7 +4383,8 @@
       "properties": {
         "name": "GB5070",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "15706359"
       },
       "geometry": {
         "type": "Point",
@@ -4608,7 +4399,8 @@
       "properties": {
         "name": "GS5930",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "3162306"
       },
       "geometry": {
         "type": "Point",
@@ -4623,7 +4415,8 @@
       "properties": {
         "name": "GR750",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18778501"
       },
       "geometry": {
         "type": "Point",
@@ -4638,7 +4431,17 @@
       "properties": {
         "name": "GB5188",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "7887631",
+            "label": "Main"
+          },
+          {
+            "number": "7887632",
+            "label": "Main"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4653,7 +4456,8 @@
       "properties": {
         "name": "GG5189",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2236664"
       },
       "geometry": {
         "type": "Point",
@@ -4668,7 +4472,17 @@
       "properties": {
         "name": "GR829",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18886767",
+            "label": "Main"
+          },
+          {
+            "number": "18886765",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4683,7 +4497,8 @@
       "properties": {
         "name": "GR888",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18833630"
       },
       "geometry": {
         "type": "Point",
@@ -4698,7 +4513,8 @@
       "properties": {
         "name": "GB5103",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "15706362"
       },
       "geometry": {
         "type": "Point",
@@ -4713,7 +4529,8 @@
       "properties": {
         "name": "GB5105",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7900376"
       },
       "geometry": {
         "type": "Point",
@@ -4728,7 +4545,8 @@
       "properties": {
         "name": "GB5100",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "15706360"
       },
       "geometry": {
         "type": "Point",
@@ -4743,7 +4561,8 @@
       "properties": {
         "name": "GB5101",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "15706361"
       },
       "geometry": {
         "type": "Point",
@@ -4758,7 +4577,8 @@
       "properties": {
         "name": "GB5187",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7887630"
       },
       "geometry": {
         "type": "Point",
@@ -4773,7 +4593,8 @@
       "properties": {
         "name": "GB5111",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "19659340"
       },
       "geometry": {
         "type": "Point",
@@ -4788,7 +4609,17 @@
       "properties": {
         "name": "GC5044",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "7895460",
+            "label": "Main"
+          },
+          {
+            "number": "7895461",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4803,7 +4634,8 @@
       "properties": {
         "name": "GC5099",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7890038"
       },
       "geometry": {
         "type": "Point",
@@ -4818,7 +4650,8 @@
       "properties": {
         "name": "GC5057",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895401"
       },
       "geometry": {
         "type": "Point",
@@ -4833,7 +4666,8 @@
       "properties": {
         "name": "GR878",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18886783"
       },
       "geometry": {
         "type": "Point",
@@ -4848,7 +4682,17 @@
       "properties": {
         "name": "GB5126",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "7896439",
+            "label": "Main"
+          },
+          {
+            "number": "7896437",
+            "label": "Position Light"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4953,7 +4797,8 @@
       "properties": {
         "name": "GB5134",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896445"
       },
       "geometry": {
         "type": "Point",
@@ -4968,7 +4813,8 @@
       "properties": {
         "name": "GB5132",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896444"
       },
       "geometry": {
         "type": "Point",
@@ -4998,7 +4844,8 @@
       "properties": {
         "name": "GC5035",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896330"
       },
       "geometry": {
         "type": "Point",
@@ -5013,7 +4860,8 @@
       "properties": {
         "name": "GG5460",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "2642445"
       },
       "geometry": {
         "type": "Point",
@@ -5028,7 +4876,8 @@
       "properties": {
         "name": "GC5038",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7896042"
       },
       "geometry": {
         "type": "Point",
@@ -5043,7 +4892,8 @@
       "properties": {
         "name": "GC5066",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7895406"
       },
       "geometry": {
         "type": "Point",
@@ -5058,13 +4908,2208 @@
       "properties": {
         "name": "Fixed Distant board",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "1418230"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -4.411837,
           55.8379776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5521",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2448143",
+            "label": "SIG:GG5521(LE) GLASGOW CENTRAL"
+          },
+          {
+            "number": "2452638",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2593143,
+          55.8554776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5532",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2448382"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2593103,
+          55.8554935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5523",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2448142",
+            "label": "Main"
+          },
+          {
+            "number": "2452636",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2592607,
+          55.8554709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5530",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2448144",
+            "label": "Main"
+          },
+          {
+            "number": "2452639",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2592566,
+          55.8554859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5525",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2828994",
+            "label": "Main"
+          },
+          {
+            "number": "2828975",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2592084,
+          55.8554679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5528",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2448141",
+            "label": "Main"
+          },
+          {
+            "number": "2452635",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2592057,
+          55.8554806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5527",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2448140",
+            "label": "Main"
+          },
+          {
+            "number": "2452634",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2590608,
+          55.8554513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5526",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2449789",
+            "label": "Main"
+          },
+          {
+            "number": "2452646",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2590568,
+          55.8554648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5529",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2448139",
+            "label": "Main"
+          },
+          {
+            "number": "2452633",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2590085,
+          55.8554437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5524",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2449522",
+            "label": "Main"
+          },
+          {
+            "number": "2452644",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2590072,
+          55.855455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5531",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2448119",
+            "label": "Main"
+          },
+          {
+            "number": "2452632",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2589575,
+          55.8554362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5522",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2449269",
+            "label": "Main"
+          },
+          {
+            "number": "2452642",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2589522,
+          55.8554498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5533",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2448093",
+            "label": "Main"
+          },
+          {
+            "number": "2452631",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2589052,
+          55.8554325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5520",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2448810",
+            "label": "Main"
+          },
+          {
+            "number": "2452640",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2588999,
+          55.8554422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5487",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2237310",
+            "label": "Main"
+          },
+          {
+            "number": "2237314",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259553,
+          55.854093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5486",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2595453,
+          55.854115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5489",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2237309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259497,
+          55.854087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5484",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2594903,
+          55.8541068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5281",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2415207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259283,
+          55.853941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5283",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2415205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259226,
+          55.853935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5285",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2415202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259156,
+          55.853924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5267",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2642443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2591017,
+          55.85392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5290",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259284,
+          55.8539591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5288",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2592223,
+          55.8539516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5284",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2591003,
+          55.8539373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5481",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2237311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2599287,
+          55.8535747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5483",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2642452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259881,
+          55.853566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5490",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259875,
+          55.8535837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5470",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2600427,
+          55.853123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5466",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2599086,
+          55.853108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5464",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2598536,
+          55.8531027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5469",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2237312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2598603,
+          55.8530869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5467",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2237313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.259916,
+          55.853089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5461",
+        "type": "Signals",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2597302,
+          55.8525935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5281 BR",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2415212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2594405,
+          55.8535317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5263",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2415198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2596687,
+          55.8525878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5265",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2415197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2596189,
+          55.8525814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5270",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2597248,
+          55.8526115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5268",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2596631,
+          55.8526055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5264",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2595626,
+          55.852595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5244",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2600998,
+          55.8507497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5249",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2642439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2600891,
+          55.8506699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5248",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.260203,
+          55.850766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5250",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.260263,
+          55.850774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5241",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2236438",
+            "label": "Main"
+          },
+          {
+            "number": "2236480",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2602715,
+          55.8507527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5243",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2236435",
+            "label": "Main"
+          },
+          {
+            "number": "2236479",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2602111,
+          55.8507466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5245",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2236434",
+            "label": "Main"
+          },
+          {
+            "number": "2236478",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2601588,
+          55.8507391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5221",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2236444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2606197,
+          55.849487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5223",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2236440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2605566,
+          55.849481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5225",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2236439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.260503,
+          55.8494787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5229",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18833640",
+            "label": "Main"
+          },
+          {
+            "number": "18833642",
+            "label": "Position Light"
+          },
+          {
+            "number": "2642437",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.260444,
+          55.849478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5224",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2606317,
+          55.8486731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5228",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2459697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.260739,
+          55.8486822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5221 BR",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2642436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2608747,
+          55.8485427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5214 BR",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18778493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2613573,
+          55.8468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5215",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18833658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2616656,
+          55.8462772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5213",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2236445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2617192,
+          55.8462833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5203",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18778540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2596211,
+          55.8428671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5205",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18833654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2595769,
+          55.8428905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5831",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2236659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2612021,
+          55.8507781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5833",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2236661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2612517,
+          55.8507977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5832",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2237198",
+            "label": "Main"
+          },
+          {
+            "number": "2237203",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2624834,
+          55.8501759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5830",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2237196",
+            "label": "Main"
+          },
+          {
+            "number": "2237202",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2624552,
+          55.8501481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5835",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2236671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2655823,
+          55.8494529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5837",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2236672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2655608,
+          55.8494183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5857",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.283054,
+          55.847473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5855",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2830548,
+          55.8474411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5852",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2830762,
+          55.8474426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5850",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "2237201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2830776,
+          55.8474742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5861",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2917104,
+          55.8478245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5862",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2916957,
+          55.8478569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5865",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2916823,
+          55.8478923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5860",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2917091,
+          55.847893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5862",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2917171,
+          55.8478599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5864",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2917292,
+          55.847826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5875",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3021932,
+          55.8489275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5873",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3022052,
+          55.8488891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5871",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3022213,
+          55.8488455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5870",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.305925,
+          55.8493148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5872",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3059384,
+          55.8492711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5874",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3059532,
+          55.8492282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5895",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3154214,
+          55.8502799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5893",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3154348,
+          55.8502363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5891",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3154455,
+          55.8501956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5890",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3164755,
+          55.8503853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5892",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3164862,
+          55.8503462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5894",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3164969,
+          55.8503025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5891",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3244232,
+          55.8510956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5893",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3243991,
+          55.8511408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5895",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.324383,
+          55.851183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5894",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3282658,
+          55.8514825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5892",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3282497,
+          55.8515277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5890",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3282309,
+          55.8515729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5890",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3376189,
+          55.8525251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5902",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.337631,
+          55.852483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5904",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3376457,
+          55.8524348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5915",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3532395,
+          55.8541061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5913",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3532542,
+          55.854061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5911",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3532703,
+          55.854015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5914",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3532958,
+          55.8540165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5912",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3532904,
+          55.8540655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5910",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.353274,
+          55.85411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5925",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3619495,
+          55.8549841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5923",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3619642,
+          55.8549359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5921",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3619763,
+          55.8548937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5924",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3620045,
+          55.8548952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5922",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3619897,
+          55.8549404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GS5920",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "3162300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3619763,
+          55.8549833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR755",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18886867",
+            "label": "Main"
+          },
+          {
+            "number": "19508657",
+            "label": "Main"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2486809,
+          55.8389465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR757",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "759968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2487091,
+          55.8389231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR781",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18778553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2396813,
+          55.8358238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR783",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18833653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2397095,
+          55.8357989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR811",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18778565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.231269,
+          55.8328926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR813",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18833652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2312985,
+          55.8328692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR828",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18804383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2216778,
+          55.830665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR832",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18804382"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.221693,
+          55.830638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR844",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18804335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.211903,
+          55.8301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR846",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18804396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.211905,
+          55.830063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR851",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18886820",
+            "label": "Main"
+          },
+          {
+            "number": "18886818",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2083196,
+          55.8298763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR853",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18886943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.208325,
+          55.8298431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR855",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18886911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2083545,
+          55.8297618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR858",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "18886811",
+            "label": "Main"
+          },
+          {
+            "number": "18886809",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2039484,
+          55.8293967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR860",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18886933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2039591,
+          55.8293665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GR862",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": "18886793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2039859,
+          55.8293213
         ]
       }
     }
