@@ -2123,10 +2123,6 @@
         "notes": "",
         "equipment_number": [
           {
-            "number": "2828976",
-            "label": "Banner"
-          },
-          {
             "number": "2828992",
             "label": "Main"
           }
@@ -2137,6 +2133,27 @@
         "coordinates": [
           -4.2588736,
           55.8565537
+        ]
+      }
+    },
+ {
+      "type": "Feature",
+      "properties": {
+        "name": "GG5613 BR",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "2828976",
+            "label": "Banner"
+          },
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.258831046949745,
+          55.85691002682357
         ]
       }
     },
