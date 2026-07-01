@@ -1371,8 +1371,9 @@
       labelledFeatures.forEach(item => {
         const featureIsVisible = map.hasLayer(item.layer);
         const layerLabelsEnabled = !!labelSettings[item.layerName];
+        const featureLabelsEnabled = !!item.alwaysLabel || layerLabelsEnabled;
 
-        if (labelsShouldShow && featureIsVisible && layerLabelsEnabled) {
+        if (labelsShouldShow && featureIsVisible && featureLabelsEnabled) {
           item.layer.openTooltip();
         } else {
           item.layer.closeTooltip();
@@ -1465,7 +1466,8 @@
           labelledFeatures.push({
             feature: feature,
             layer: leafletLayer,
-            layerName: layerConfig.name
+            layerName: layerConfig.name,
+            alwaysLabel: !!((feature.properties || {}).always_label)
           });
 
           allFeatures.push({

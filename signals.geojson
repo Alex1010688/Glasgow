@@ -2146,7 +2146,7 @@
           {
             "number": "2828976",
             "label": "Banner"
-          },
+          }
         ]
       },
       "geometry": {
@@ -7127,6 +7127,710 @@
         "coordinates": [
           -4.2039859,
           55.8293213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry A",
+        "type": "Signals",
+        "notes": "GG5520 GG5522 GG5524 GG5526 GG5528 GG5530 GG5532 GG5533 GG5531 GG5539 GG5527 GG5525 GG5523 GG5521",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2593795,
+            55.8554945
+          ],
+          [
+            -4.2588538,
+            55.8554313
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry B",
+        "type": "Signals",
+        "notes": "GG5484 GG5486 GG5489 GG5487",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2595779,
+            55.8541087
+          ],
+          [
+            -4.2593284,
+            55.8540756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry C",
+        "type": "Signals",
+        "notes": "GG5284 GG5288 GG5290 GG5285 GG5283 GG5281",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2593244,
+            55.8539552
+          ],
+          [
+            -4.2590669,
+            55.8539243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry D",
+        "type": "Signals",
+        "notes": "GG5490 GG5483 GG5481",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2600201,
+            55.8535941
+          ],
+          [
+            -4.2597927,
+            55.8535647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry E",
+        "type": "Signals",
+        "notes": "GG5464 GG5466 GG5470 GG5469 GG5467",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2601853,
+            55.8531298
+          ],
+          [
+            -4.2596073,
+            55.853065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry F",
+        "type": "Signals",
+        "notes": "GG5264 GG5268 GG5270 GG5265 GG5263 GG5261",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2597654,
+            55.8526073
+          ],
+          [
+            -4.2595293,
+            55.8525801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry G",
+        "type": "Signals",
+        "notes": "GG5244 GG5248 GG5250 GG5249 GG5245 GG5243 GG5241",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.260302,
+            55.8507648
+          ],
+          [
+            -4.260066,
+            55.8507362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry H",
+        "type": "Signals",
+        "notes": "GG5229 GG5225 GG5223 GG5221",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2606512,
+            55.849496
+          ],
+          [
+            -4.2604058,
+            55.8494847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry I",
+        "type": "Signals",
+        "notes": "GG5224 GG5228",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2608339,
+            55.8486854
+          ],
+          [
+            -4.2605951,
+            55.8486613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry",
+        "type": "Signals",
+        "notes": "GR865 GR860 GR862",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2039229,
+            55.8294306
+          ],
+          [
+            -4.2039927,
+            55.8292483
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry",
+        "type": "Signals",
+        "notes": "GR851 GR853 GR855",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2083188,
+            55.8299162
+          ],
+          [
+            -4.2083685,
+            55.8297445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantilever",
+        "type": "Signals",
+        "notes": "GR828 GR832",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2216516,
+            55.8306961
+          ],
+          [
+            -4.2216784,
+            55.8306283
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantilever",
+        "type": "Signals",
+        "notes": "GR844 GR846",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2118937,
+            55.8301434
+          ],
+          [
+            -4.211895,
+            55.8300809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantilever",
+        "type": "Signals",
+        "notes": "GR811 GR813",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2312662,
+            55.8329054
+          ],
+          [
+            -4.2313198,
+            55.8328602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantilever",
+        "type": "Signals",
+        "notes": "GR781 GR783",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2396761,
+            55.8358386
+          ],
+          [
+            -4.2397311,
+            55.8357874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantilever",
+        "type": "Signals",
+        "notes": "GR755 GR757",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2486452,
+            55.8389903
+          ],
+          [
+            -4.2487284,
+            55.8389143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantilever",
+        "type": "Signals",
+        "notes": "GG5205 GG5203",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2595364,
+            55.8429195
+          ],
+          [
+            -4.259645,
+            55.8428638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry",
+        "type": "Signals",
+        "notes": "GG5215 GG5213",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.26159,
+            55.846272
+          ],
+          [
+            -4.2618501,
+            55.8463082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry M",
+        "type": "Signals",
+        "notes": "GS5855 GS5857 GS5852 GS5850",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2830709,
+            55.8475605
+          ],
+          [
+            -4.2830636,
+            55.8474204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry J",
+        "type": "Signals",
+        "notes": "GG5831 GG5833",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2613246,
+            55.850821
+          ],
+          [
+            -4.2611235,
+            55.8507367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry F",
+        "type": "Signals",
+        "notes": "GG5832 GG5830",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2625124,
+            55.8502148
+          ],
+          [
+            -4.2624373,
+            55.850144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry L",
+        "type": "Signals",
+        "notes": "GG5835 GG5837",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2656524,
+            55.849539
+          ],
+          [
+            -4.2655693,
+            55.849411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry 1",
+        "type": "Signals",
+        "notes": "GS5860 GS5862 GS5864 GS5861 GS5863 GS5865",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2917264,
+            55.8478079
+          ],
+          [
+            -4.2916754,
+            55.8479404
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry 2A",
+        "type": "Signals",
+        "notes": "GS5871 GS5873 GS5875",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3021809,
+            55.8489886
+          ],
+          [
+            -4.3022333,
+            55.8488328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry 2B",
+        "type": "Signals",
+        "notes": "GS5870 GS5872 GS5874",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3058878,
+            55.8493842
+          ],
+          [
+            -4.3059441,
+            55.8492126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry 3A",
+        "type": "Signals",
+        "notes": "GS5881 GS5883 GS5885",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.315415,
+            55.8503357
+          ],
+          [
+            -4.3154713,
+            55.8501821
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry 3B",
+        "type": "Signals",
+        "notes": "GS5880 GS5882 GS5884",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3164364,
+            55.8504355
+          ],
+          [
+            -4.3164874,
+            55.8502751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry 4A",
+        "type": "Signals",
+        "notes": "GS5891 GS5893 GS5895",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3243892,
+            55.851233
+          ],
+          [
+            -4.3244442,
+            55.8510795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry 4B",
+        "type": "Signals",
+        "notes": "GS5890 GS5892 GS5894",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3281986,
+            55.8516152
+          ],
+          [
+            -4.3282441,
+            55.8514707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry 5",
+        "type": "Signals",
+        "notes": "GS5900 GS5902 GS5904",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3375936,
+            55.8525725
+          ],
+          [
+            -4.3376379,
+            55.8524204
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry 7",
+        "type": "Signals",
+        "notes": "GS5910 GS5912 GS5914 GS5911 GS5913 GS5915",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3532401,
+            55.8541504
+          ],
+          [
+            -4.3532844,
+            55.8540104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gantry 8",
+        "type": "Signals",
+        "notes": "GG5921 GG5923 GG5925 GG5920 GG5922 GG5924",
+        "always_label": true
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3619409,
+            55.8550371
+          ],
+          [
+            -4.3619972,
+            55.8548699
+          ]
         ]
       }
     }
