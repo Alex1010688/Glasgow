@@ -1618,7 +1618,7 @@
         "equipment_number": [
           {
             "number": "18778497",
-            "label": "SIG:GG5218(BS) EGLINTON ST"
+            "label": "Banner"
           },
           {
             "number": "18778495",
@@ -1643,7 +1643,7 @@
         "equipment_number": [
           {
             "number": "18778493",
-            "label": "SIG:GG5214(BS) EGLINTON ST"
+            "label": "Banner"
           },
           {
             "number": "759988",
@@ -2124,7 +2124,7 @@
         "equipment_number": [
           {
             "number": "2828976",
-            "label": "SIG:GG5613(BE) GLASGOW CENTRAL"
+            "label": "Banner"
           },
           {
             "number": "2828992",
@@ -4928,7 +4928,7 @@
         "equipment_number": [
           {
             "number": "2448143",
-            "label": "SIG:GG5521(LE) GLASGOW CENTRAL"
+            "label": "Signal"
           },
           {
             "number": "2452638",

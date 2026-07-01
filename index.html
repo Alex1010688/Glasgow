@@ -914,6 +914,16 @@
           linkText = "Open MyIM track profile";
         } else if (assetType === "points" || assetType === "point") {
           linkText = "Open MyIM point profile";
+        } else if (assetType === "signals" || assetType === "signal") {
+          if (equipmentName && equipmentName.toLowerCase() === "signal") {
+            linkText = "Open MyIM signal profile";
+          } else if (equipmentName) {
+            linkText = "Open MyIM " + equipmentName + " signal profile";
+          } else if (entries.length > 1) {
+            linkText = "Open MyIM signal profile " + (i + 1);
+          } else {
+            linkText = "Open MyIM signal profile";
+          }
         } else if (equipmentName) {
           linkText = "Open MyIM " + equipmentName + " asset profile";
         } else if (entries.length > 1) {
