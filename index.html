@@ -1182,7 +1182,7 @@
         div.textContent = `${getFeatureName(item.feature)} — ${item.layerName}`;
 
         div.onclick = function() {
-          document.getElementById("searchBox").value = getFeatureName(item.feature);
+          document.getElementById("searchBox").value = "";
           suggestionsBox.style.display = "none";
           zoomToLayer(item.layer);
         };
