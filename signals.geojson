@@ -7,7 +7,16 @@
         "name": "GB5125",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896438"
+        "equipment_number": [
+          {
+            "number": "7896438",
+            "label": "Signal"
+          },
+          {
+            "number": "7896525",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +32,20 @@
         "name": "GB5128",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896440"
+        "equipment_number": [
+          {
+            "number": "7896440",
+            "label": "Signal"
+          },
+          {
+            "number": "7896494",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896510",
+            "label": "AWS YE"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +61,24 @@
         "name": "GB5129",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896441"
+        "equipment_number": [
+          {
+            "number": "7896441",
+            "label": "Signal"
+          },
+          {
+            "number": "7896494",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896510",
+            "label": "AWS YE"
+          },
+          {
+            "number": "7896526",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +94,24 @@
         "name": "GB5130",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896442"
+        "equipment_number": [
+          {
+            "number": "7896442",
+            "label": "Signal"
+          },
+          {
+            "number": "7896495",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896513",
+            "label": "AWS YS"
+          },
+          {
+            "number": "7896520",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +127,24 @@
         "name": "GB5131",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896443"
+        "equipment_number": [
+          {
+            "number": "7896443",
+            "label": "Signal"
+          },
+          {
+            "number": "7896496",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896514",
+            "label": "AWS YS"
+          },
+          {
+            "number": "7896521",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +160,20 @@
         "name": "GB5135",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896596"
+        "equipment_number": [
+          {
+            "number": "7896596",
+            "label": "Signal"
+          },
+          {
+            "number": "7896507",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896517",
+            "label": "AWS YS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +189,24 @@
         "name": "GB5137",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896597"
+        "equipment_number": [
+          {
+            "number": "7896597",
+            "label": "Signal"
+          },
+          {
+            "number": "7896508",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896518",
+            "label": "AWS YS"
+          },
+          {
+            "number": "7896528",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +222,24 @@
         "name": "GB5138",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896598"
+        "equipment_number": [
+          {
+            "number": "7896598",
+            "label": "Signal"
+          },
+          {
+            "number": "7896522",
+            "label": "TPWS"
+          },
+          {
+            "number": "7896509",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896511",
+            "label": "AWS YE"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +255,20 @@
         "name": "GB5139",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896599"
+        "equipment_number": [
+          {
+            "number": "7896599",
+            "label": "Signal"
+          },
+          {
+            "number": "7896499",
+            "label": "AWS"
+          },
+          {
+            "number": "7896529",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +284,24 @@
         "name": "GB5141",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896600"
+        "equipment_number": [
+          {
+            "number": "7896600",
+            "label": "Signal"
+          },
+          {
+            "number": "7896509",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896511",
+            "label": "AWS YE"
+          },
+          {
+            "number": "7896530",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +333,20 @@
         "name": "GB5142",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896601"
+        "equipment_number": [
+          {
+            "number": "7896601",
+            "label": "Signal"
+          },
+          {
+            "number": "7896500",
+            "label": "AWS"
+          },
+          {
+            "number": "7896531",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +362,16 @@
         "name": "GB5144",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896602"
+        "equipment_number": [
+          {
+            "number": "7896602",
+            "label": "Signal"
+          },
+          {
+            "number": "7896501",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +387,16 @@
         "name": "GB5145",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896446"
+        "equipment_number": [
+          {
+            "number": "7896446",
+            "label": "Signal"
+          },
+          {
+            "number": "7896502",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +412,16 @@
         "name": "GB5147",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896447"
+        "equipment_number": [
+          {
+            "number": "7896447",
+            "label": "Signal"
+          },
+          {
+            "number": "7896505",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +437,16 @@
         "name": "GB5148",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896448"
+        "equipment_number": [
+          {
+            "number": "7896448",
+            "label": "Signal"
+          },
+          {
+            "number": "7896503",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +462,16 @@
         "name": "GB5149",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896449"
+        "equipment_number": [
+          {
+            "number": "7896449",
+            "label": "Signal"
+          },
+          {
+            "number": "7896506",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +487,20 @@
         "name": "GB5151",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896450"
+        "equipment_number": [
+          {
+            "number": "7896450",
+            "label": "Signal"
+          },
+          {
+            "number": "7896504",
+            "label": "AWS"
+          },
+          {
+            "number": "7896523",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -295,7 +516,16 @@
         "name": "GB5163",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890379"
+        "equipment_number": [
+          {
+            "number": "7890379",
+            "label": "Signal"
+          },
+          {
+            "number": "7890483",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -311,7 +541,20 @@
         "name": "GB5170",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890386"
+        "equipment_number": [
+          {
+            "number": "7890386",
+            "label": "Signal"
+          },
+          {
+            "number": "7890474",
+            "label": "AWS"
+          },
+          {
+            "number": "7890400",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +570,28 @@
         "name": "GB5169",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890385"
+        "equipment_number": [
+          {
+            "number": "7890385",
+            "label": "Signal"
+          },
+          {
+            "number": "7890473",
+            "label": "AWS"
+          },
+          {
+            "number": "7890398",
+            "label": "TPWS OS"
+          },
+          {
+            "number": "7890397",
+            "label": "TPWS OS"
+          },
+          {
+            "number": "7890399",
+            "label": "TPWS TS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -343,7 +607,16 @@
         "name": "GB5168",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890384"
+        "equipment_number": [
+          {
+            "number": "7890384",
+            "label": "Signal"
+          },
+          {
+            "number": "7890472",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +632,16 @@
         "name": "GB5167",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890383"
+        "equipment_number": [
+          {
+            "number": "7890383",
+            "label": "Signal"
+          },
+          {
+            "number": "7890471",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -390,7 +672,16 @@
         "name": "GB5164",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890380"
+        "equipment_number": [
+          {
+            "number": "7890380",
+            "label": "Signal"
+          },
+          {
+            "number": "7890484",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -406,7 +697,16 @@
         "name": "GB5165",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890381"
+        "equipment_number": [
+          {
+            "number": "7890381",
+            "label": "Signal"
+          },
+          {
+            "number": "7890485",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -422,7 +722,16 @@
         "name": "GB5166",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890382"
+        "equipment_number": [
+          {
+            "number": "7890382",
+            "label": "Signal"
+          },
+          {
+            "number": "7890486",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -438,7 +747,20 @@
         "name": "GB5171",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890388"
+        "equipment_number": [
+          {
+            "number": "7890388",
+            "label": "Signal"
+          },
+          {
+            "number": "7890475",
+            "label": "AWS"
+          },
+          {
+            "number": "7890401",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -454,7 +776,16 @@
         "name": "GB5174",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890389"
+        "equipment_number": [
+          {
+            "number": "7890389",
+            "label": "Signal"
+          },
+          {
+            "number": "7890477",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -470,7 +801,16 @@
         "name": "GB5173",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890390"
+        "equipment_number": [
+          {
+            "number": "7890390",
+            "label": "Signal"
+          },
+          {
+            "number": "7890476",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +826,20 @@
         "name": "GB5175",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890391"
+        "equipment_number": [
+          {
+            "number": "7890391",
+            "label": "Signal"
+          },
+          {
+            "number": "7890478",
+            "label": "AWS"
+          },
+          {
+            "number": "7890402",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -502,7 +855,20 @@
         "name": "GB5176",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890393"
+        "equipment_number": [
+          {
+            "number": "7890393",
+            "label": "Signal"
+          },
+          {
+            "number": "7890479",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7890480",
+            "label": "AWS YS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -518,7 +884,16 @@
         "name": "GB5177",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890394"
+        "equipment_number": [
+          {
+            "number": "7890394",
+            "label": "Signal"
+          },
+          {
+            "number": "19836533",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -564,7 +939,28 @@
         "name": "GB5185",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "9203186"
+        "equipment_number": [
+          {
+            "number": "9203186",
+            "label": "Signal"
+          },
+          {
+            "number": "7896418",
+            "label": "AWS 2"
+          },
+          {
+            "number": "19659353",
+            "label": "AWS 3"
+          },
+          {
+            "number": "19659354",
+            "label": "AWS 3"
+          },
+          {
+            "number": "7887637",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -580,7 +976,20 @@
         "name": "GB5180",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7887623"
+        "equipment_number": [
+          {
+            "number": "7887623",
+            "label": "Signal"
+          },
+          {
+            "number": "7887651",
+            "label": "AWS"
+          },
+          {
+            "number": "7887635",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -637,7 +1046,20 @@
         "name": "GB5184",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7887626"
+        "equipment_number": [
+          {
+            "number": "7887626",
+            "label": "Signal"
+          },
+          {
+            "number": "7887656",
+            "label": "AWS"
+          },
+          {
+            "number": "7887636",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -694,7 +1116,16 @@
         "name": "GS5906",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162289"
+        "equipment_number": [
+          {
+            "number": "3162289",
+            "label": "Signal"
+          },
+          {
+            "number": "762635",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -710,7 +1141,16 @@
         "name": "GR879",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804380"
+        "equipment_number": [
+          {
+            "number": "18804380",
+            "label": "Signal"
+          },
+          {
+            "number": "2907789",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +1181,20 @@
         "name": "GR877",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886900"
+        "equipment_number": [
+          {
+            "number": "18886900",
+            "label": "Signal"
+          },
+          {
+            "number": "18886897",
+            "label": "AWS"
+          },
+          {
+            "number": "18886902",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -805,7 +1258,20 @@
         "name": "GR871",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886759"
+        "equipment_number": [
+          {
+            "number": "18886759",
+            "label": "Signal"
+          },
+          {
+            "number": "1693899",
+            "label": "AWS"
+          },
+          {
+            "number": "18886762",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -853,7 +1319,16 @@
         "name": "GR834",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804343"
+        "equipment_number": [
+          {
+            "number": "18804343",
+            "label": "Signal"
+          },
+          {
+            "number": "1696572",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -869,7 +1344,16 @@
         "name": "GR848",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833638"
+        "equipment_number": [
+          {
+            "number": "18833638",
+            "label": "Signal"
+          },
+          {
+            "number": "1110001",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -893,6 +1377,10 @@
           {
             "number": "18886840",
             "label": "Position Light"
+          },
+          {
+            "number": "18886837",
+            "label": "AWS"
           }
         ]
       },
@@ -918,6 +1406,14 @@
           {
             "number": "18804397",
             "label": "Position Light"
+          },
+          {
+            "number": "1109981",
+            "label": "TPWS"
+          },
+          {
+            "number": "18886948",
+            "label": "AWS"
           }
         ]
       },
@@ -1023,6 +1519,18 @@
           {
             "number": "18778547",
             "label": "Position Light"
+          },
+          {
+            "number": "1696565",
+            "label": "AWS SY"
+          },
+          {
+            "number": "2907787",
+            "label": "AWS YE"
+          },
+          {
+            "number": "762861",
+            "label": "TPWS"
           }
         ]
       },
@@ -1040,7 +1548,24 @@
         "name": "GR802",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "760996"
+        "equipment_number": [
+          {
+            "number": "760996",
+            "label": "Signal"
+          },
+          {
+            "number": "1696560",
+            "label": "AWS"
+          },
+          {
+            "number": "1418206",
+            "label": "TPWS OS"
+          },
+          {
+            "number": "1387864",
+            "label": "TPWS TS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1056,7 +1581,20 @@
         "name": "GR804",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804341"
+        "equipment_number": [
+          {
+            "number": "18804341",
+            "label": "Signal"
+          },
+          {
+            "number": "1696561",
+            "label": "AWS"
+          },
+          {
+            "number": "1109982",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1072,7 +1610,20 @@
         "name": "GR806",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886883"
+        "equipment_number": [
+          {
+            "number": "18886883",
+            "label": "Signal"
+          },
+          {
+            "number": "18886886",
+            "label": "TPWS OS"
+          },
+          {
+            "number": "18886885",
+            "label": "TPWS TS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1152,7 +1703,20 @@
         "name": "GR785",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778559"
+        "equipment_number": [
+          {
+            "number": "18778559",
+            "label": "Signal"
+          },
+          {
+            "number": "762954",
+            "label": "AWS"
+          },
+          {
+            "number": "762879",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1176,6 +1740,14 @@
           {
             "number": "18778557",
             "label": "Position Light"
+          },
+          {
+            "number": "1696557",
+            "label": "AWS"
+          },
+          {
+            "number": "762866",
+            "label": "TPWS"
           }
         ]
       },
@@ -1217,6 +1789,14 @@
           {
             "number": "1418201",
             "label": "Position Light"
+          },
+          {
+            "number": "1388079",
+            "label": "TPWS TS"
+          },
+          {
+            "number": "1418205",
+            "label": "TPWS TS"
           }
         ]
       },
@@ -1274,6 +1854,30 @@
           {
             "number": "18778525",
             "label": "Position Light"
+          },
+          {
+            "number": "2907786",
+            "label": "AWS 1"
+          },
+          {
+            "number": "762981",
+            "label": "AWS 2"
+          },
+          {
+            "number": "1443876",
+            "label": "TPWS 1"
+          },
+          {
+            "number": "18886861",
+            "label": "TPWS 2"
+          },
+          {
+            "number": "1443878",
+            "label": "TPWS 3"
+          },
+          {
+            "number": "762865",
+            "label": "TPWS OT"
           }
         ]
       },
@@ -1291,7 +1895,16 @@
         "name": "GR784",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778523"
+        "equipment_number": [
+          {
+            "number": "18778523",
+            "label": "Signal"
+          },
+          {
+            "number": "762987",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1315,6 +1928,14 @@
           {
             "number": "18778535",
             "label": "Position Light"
+          },
+          {
+            "number": "762962",
+            "label": "AWS"
+          },
+          {
+            "number": "762743",
+            "label": "TPWS"
           }
         ]
       },
@@ -1405,7 +2026,24 @@
         "name": "GR759",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804363"
+        "equipment_number": [
+          {
+            "number": "18804363",
+            "label": "Signal"
+          },
+          {
+            "number": "2907785",
+            "label": "AWS 1"
+          },
+          {
+            "number": "1696548",
+            "label": "AWS 3"
+          },
+          {
+            "number": "762864",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1421,7 +2059,20 @@
         "name": "GR761",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778545"
+        "equipment_number": [
+          {
+            "number": "18778545",
+            "label": "Signal"
+          },
+          {
+            "number": "762983",
+            "label": "AWS"
+          },
+          {
+            "number": "762863",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1437,7 +2088,20 @@
         "name": "GR752",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778510"
+        "equipment_number": [
+          {
+            "number": "18778510",
+            "label": "Signal"
+          },
+          {
+            "number": "762978",
+            "label": "AWS"
+          },
+          {
+            "number": "762644",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1461,6 +2125,14 @@
           {
             "number": "18778519",
             "label": "Position Light"
+          },
+          {
+            "number": "2907784",
+            "label": "AWS"
+          },
+          {
+            "number": "762753",
+            "label": "TPWS"
           }
         ]
       },
@@ -1486,6 +2158,14 @@
           {
             "number": "18778508",
             "label": "Position Light"
+          },
+          {
+            "number": "1721645",
+            "label": "AWS"
+          },
+          {
+            "number": "762768",
+            "label": "TPWS"
           }
         ]
       },
@@ -1503,7 +2183,20 @@
         "name": "GR736",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778505"
+        "equipment_number": [
+          {
+            "number": "18778505",
+            "label": "Signal"
+          },
+          {
+            "number": "1696536",
+            "label": "AWS"
+          },
+          {
+            "number": "762765",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1519,7 +2212,20 @@
         "name": "GR738",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778503"
+        "equipment_number": [
+          {
+            "number": "18778503",
+            "label": "Signal"
+          },
+          {
+            "number": "1696537",
+            "label": "AWS"
+          },
+          {
+            "number": "762766",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1535,7 +2241,20 @@
         "name": "GR742",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778489"
+        "equipment_number": [
+          {
+            "number": "18778489",
+            "label": "Signal"
+          },
+          {
+            "number": "1696540",
+            "label": "AWS"
+          },
+          {
+            "number": "762767",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +2270,16 @@
         "name": "GR735",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778487"
+        "equipment_number": [
+          {
+            "number": "18778487",
+            "label": "Signal"
+          },
+          {
+            "number": "1696535",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1567,7 +2295,20 @@
         "name": "GG5201",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804333"
+        "equipment_number": [
+          {
+            "number": "18804333",
+            "label": "Signal"
+          },
+          {
+            "number": "779756",
+            "label": "AWS"
+          },
+          {
+            "number": "1112864",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1583,7 +2324,16 @@
         "name": "GR722",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778484"
+        "equipment_number": [
+          {
+            "number": "18778484",
+            "label": "Signal"
+          },
+          {
+            "number": "762651",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1648,6 +2398,14 @@
           {
             "number": "759988",
             "label": "Main"
+          },
+          {
+            "number": "762932",
+            "label": "AWS"
+          },
+          {
+            "number": "762764",
+            "label": "TPWS"
           }
         ]
       },
@@ -1681,7 +2439,20 @@
         "name": "GR842",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18805493"
+        "equipment_number": [
+          {
+            "number": "18805493",
+            "label": "Signal"
+          },
+          {
+            "number": "762721",
+            "label": "AWS"
+          },
+          {
+            "number": "1109947",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1697,7 +2468,20 @@
         "name": "GR840",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886725"
+        "equipment_number": [
+          {
+            "number": "18886725",
+            "label": "Signal"
+          },
+          {
+            "number": "18886726",
+            "label": "TPWS"
+          },
+          {
+            "number": "18886728",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1760,7 +2544,20 @@
         "name": "GR885",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18805492"
+        "equipment_number": [
+          {
+            "number": "18805492",
+            "label": "Signal"
+          },
+          {
+            "number": "762658",
+            "label": "TPWS"
+          },
+          {
+            "number": "18886728",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +2573,24 @@
         "name": "GR889",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "753343"
+        "equipment_number": [
+          {
+            "number": "753343",
+            "label": "Signal"
+          },
+          {
+            "number": "18886773",
+            "label": "AWS"
+          },
+          {
+            "number": "1388091",
+            "label": "TPWS"
+          },
+          {
+            "number": "18886775",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1792,7 +2606,20 @@
         "name": "GR886",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833629"
+        "equipment_number": [
+          {
+            "number": "18833629",
+            "label": "Signal"
+          },
+          {
+            "number": "1696588",
+            "label": "AWS"
+          },
+          {
+            "number": "1110052",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1808,7 +2635,16 @@
         "name": "GR883",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833632"
+        "equipment_number": [
+          {
+            "number": "18833632",
+            "label": "Signal"
+          },
+          {
+            "number": "1696587",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1865,7 +2701,20 @@
         "name": "GR884",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886732"
+        "equipment_number": [
+          {
+            "number": "18886732",
+            "label": "Signal"
+          },
+          {
+            "number": "18886734",
+            "label": "AWS"
+          },
+          {
+            "number": "1110053",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +2730,16 @@
         "name": "GR882",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804361"
+        "equipment_number": [
+          {
+            "number": "18804361",
+            "label": "Signal"
+          },
+          {
+            "number": "1693906",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1897,7 +2755,16 @@
         "name": "GG5601",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2151470"
+        "equipment_number": [
+          {
+            "number": "2151470",
+            "label": "Signal"
+          },
+          {
+            "number": "1387909",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1913,7 +2780,16 @@
         "name": "GG5602",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2151472"
+        "equipment_number": [
+          {
+            "number": "2151472",
+            "label": "Signal"
+          },
+          {
+            "number": "1387908",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1929,7 +2805,16 @@
         "name": "GG5604",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2151386"
+        "equipment_number": [
+          {
+            "number": "2151386",
+            "label": "Signal"
+          },
+          {
+            "number": "762756",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1993,7 +2878,16 @@
         "name": "GG5607",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2151467"
+        "equipment_number": [
+          {
+            "number": "2151467",
+            "label": "Signal"
+          },
+          {
+            "number": "762711",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2009,7 +2903,16 @@
         "name": "GG5608",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2151468"
+        "equipment_number": [
+          {
+            "number": "2151468",
+            "label": "Signal"
+          },
+          {
+            "number": "762698",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2089,7 +2992,16 @@
         "name": "GG5612",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2828993"
+        "equipment_number": [
+          {
+            "number": "2828993",
+            "label": "Signal"
+          },
+          {
+            "number": "2829030",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2125,6 +3037,10 @@
           {
             "number": "2828992",
             "label": "Main"
+          },
+          {
+            "number": "2829032",
+            "label": "TPWS"
           }
         ]
       },
@@ -2136,7 +3052,7 @@
         ]
       }
     },
- {
+    {
       "type": "Feature",
       "properties": {
         "name": "GG5613 BR",
@@ -2163,7 +3079,16 @@
         "name": "GG5615",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2404408"
+        "equipment_number": [
+          {
+            "number": "2404408",
+            "label": "Signal"
+          },
+          {
+            "number": "1112843",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2179,7 +3104,16 @@
         "name": "GG5614",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2404407"
+        "equipment_number": [
+          {
+            "number": "2404407",
+            "label": "Signal"
+          },
+          {
+            "number": "1112842",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2195,7 +3129,16 @@
         "name": "GG5611",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2421885"
+        "equipment_number": [
+          {
+            "number": "2421885",
+            "label": "Signal"
+          },
+          {
+            "number": "1387913",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2323,7 +3266,20 @@
         "name": "GG5211",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236446"
+        "equipment_number": [
+          {
+            "number": "2236446",
+            "label": "Signal"
+          },
+          {
+            "number": "762960",
+            "label": "AWS"
+          },
+          {
+            "number": "1388009",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2339,7 +3295,16 @@
         "name": "GG5190",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236663"
+        "equipment_number": [
+          {
+            "number": "2236663",
+            "label": "Signal"
+          },
+          {
+            "number": "1387936",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2355,7 +3320,16 @@
         "name": "GG5191",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236662"
+        "equipment_number": [
+          {
+            "number": "2236662",
+            "label": "Signal"
+          },
+          {
+            "number": "1696324",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2379,6 +3353,14 @@
           {
             "number": "2642465",
             "label": "Position Light"
+          },
+          {
+            "number": "2642501",
+            "label": "AWS"
+          },
+          {
+            "number": "2642490",
+            "label": "TPWS"
           }
         ]
       },
@@ -2396,7 +3378,20 @@
         "name": "GG5844",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162235"
+        "equipment_number": [
+          {
+            "number": "3162235",
+            "label": "Signal"
+          },
+          {
+            "number": "3178057",
+            "label": "AWS"
+          },
+          {
+            "number": "3178266",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2412,7 +3407,20 @@
         "name": "GG5842",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2237199"
+        "equipment_number": [
+          {
+            "number": "2237199",
+            "label": "Signal"
+          },
+          {
+            "number": "3178059",
+            "label": "AWS"
+          },
+          {
+            "number": "762878",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2428,7 +3436,16 @@
         "name": "GG5843",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236674"
+        "equipment_number": [
+          {
+            "number": "2236674",
+            "label": "Signal"
+          },
+          {
+            "number": "3178056",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2444,7 +3461,16 @@
         "name": "GG5845",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236675"
+        "equipment_number": [
+          {
+            "number": "2236675",
+            "label": "Signal"
+          },
+          {
+            "number": "1696313",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2460,7 +3486,16 @@
         "name": "GG5847",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236677"
+        "equipment_number": [
+          {
+            "number": "2236677",
+            "label": "Signal"
+          },
+          {
+            "number": "3178058",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2476,7 +3511,16 @@
         "name": "GG5849",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236679"
+        "equipment_number": [
+          {
+            "number": "2236679",
+            "label": "Signal"
+          },
+          {
+            "number": "1696315",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2492,7 +3536,20 @@
         "name": "GG5846",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2237200"
+        "equipment_number": [
+          {
+            "number": "2237200",
+            "label": "Signal"
+          },
+          {
+            "number": "3178063",
+            "label": "AWS"
+          },
+          {
+            "number": "762874",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2508,7 +3565,20 @@
         "name": "GG5848",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162237"
+        "equipment_number": [
+          {
+            "number": "3162237",
+            "label": "Signal"
+          },
+          {
+            "number": "3178062",
+            "label": "AWS"
+          },
+          {
+            "number": "3178269",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2524,7 +3594,16 @@
         "name": "GG5851",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2488472"
+        "equipment_number": [
+          {
+            "number": "2488472",
+            "label": "Signal"
+          },
+          {
+            "number": "3178060",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2540,7 +3619,20 @@
         "name": "GG5853",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162238"
+        "equipment_number": [
+          {
+            "number": "3162238",
+            "label": "Signal"
+          },
+          {
+            "number": "3178061",
+            "label": "AWS"
+          },
+          {
+            "number": "3178270",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2556,7 +3648,16 @@
         "name": "GS5901",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162283"
+        "equipment_number": [
+          {
+            "number": "3162283",
+            "label": "Signal"
+          },
+          {
+            "number": "3178095",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2572,7 +3673,16 @@
         "name": "GS5903",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162285"
+        "equipment_number": [
+          {
+            "number": "3162285",
+            "label": "Signal"
+          },
+          {
+            "number": "3178096",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2588,7 +3698,20 @@
         "name": "GS5905",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162288"
+        "equipment_number": [
+          {
+            "number": "3162288",
+            "label": "Signal"
+          },
+          {
+            "number": "3178097",
+            "label": "AWS"
+          },
+          {
+            "number": "3178307",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2620,7 +3743,20 @@
         "name": "GS5936",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162313"
+        "equipment_number": [
+          {
+            "number": "3162313",
+            "label": "Signal"
+          },
+          {
+            "number": "1696512",
+            "label": "AWS"
+          },
+          {
+            "number": "3178271",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2636,7 +3772,20 @@
         "name": "GS5997",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162335"
+        "equipment_number": [
+          {
+            "number": "3162335",
+            "label": "Signal"
+          },
+          {
+            "number": "1180614",
+            "label": "AWS"
+          },
+          {
+            "number": "2488471",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2652,7 +3801,20 @@
         "name": "GS5996",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "753372"
+        "equipment_number": [
+          {
+            "number": "753372",
+            "label": "Signal"
+          },
+          {
+            "number": "1696387",
+            "label": "AWS"
+          },
+          {
+            "number": "1388095",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2668,7 +3830,20 @@
         "name": "GS5994",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "753371"
+        "equipment_number": [
+          {
+            "number": "753371",
+            "label": "Signal"
+          },
+          {
+            "number": "1180603",
+            "label": "AWS"
+          },
+          {
+            "number": "1388084",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2684,7 +3859,16 @@
         "name": "GS5995",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642435"
+        "equipment_number": [
+          {
+            "number": "2642435",
+            "label": "Signal"
+          },
+          {
+            "number": "2642488",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2700,7 +3884,20 @@
         "name": "GS5993",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162333"
+        "equipment_number": [
+          {
+            "number": "3162333",
+            "label": "Signal"
+          },
+          {
+            "number": "763153",
+            "label": "AWS"
+          },
+          {
+            "number": "762637",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2716,7 +3913,16 @@
         "name": "GS5991",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162332"
+        "equipment_number": [
+          {
+            "number": "3162332",
+            "label": "Signal"
+          },
+          {
+            "number": "763144",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2748,7 +3954,20 @@
         "name": "GS5939",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162316"
+        "equipment_number": [
+          {
+            "number": "3162316",
+            "label": "Signal"
+          },
+          {
+            "number": "1696419",
+            "label": "AWS"
+          },
+          {
+            "number": "762633",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2764,7 +3983,20 @@
         "name": "GS5938",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162315"
+        "equipment_number": [
+          {
+            "number": "3162315",
+            "label": "Signal"
+          },
+          {
+            "number": "3178116",
+            "label": "AWS"
+          },
+          {
+            "number": "3178273",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2780,7 +4012,16 @@
         "name": "GS5934",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162311"
+        "equipment_number": [
+          {
+            "number": "3162311",
+            "label": "Signal"
+          },
+          {
+            "number": "3178115",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2796,7 +4037,20 @@
         "name": "GS5931",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162307"
+        "equipment_number": [
+          {
+            "number": "3162307",
+            "label": "Signal"
+          },
+          {
+            "number": "3178113",
+            "label": "AWS"
+          },
+          {
+            "number": "3178267",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2812,7 +4066,20 @@
         "name": "GS5933",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162309"
+        "equipment_number": [
+          {
+            "number": "3162309",
+            "label": "Signal"
+          },
+          {
+            "number": "3178114",
+            "label": "AWS"
+          },
+          {
+            "number": "3178268",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2828,7 +4095,24 @@
         "name": "GB5182",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "9199219"
+        "equipment_number": [
+          {
+            "number": "9199219",
+            "label": "Signal"
+          },
+          {
+            "number": "9199216",
+            "label": "AWS SY"
+          },
+          {
+            "number": "9199217",
+            "label": "AWS SY"
+          },
+          {
+            "number": "9199218",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2844,7 +4128,16 @@
         "name": "GR726",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833636"
+        "equipment_number": [
+          {
+            "number": "18833636",
+            "label": "Signal"
+          },
+          {
+            "number": "18833634",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2860,7 +4153,16 @@
         "name": "GB5179",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886748"
+        "equipment_number": [
+          {
+            "number": "18886748",
+            "label": "Signal"
+          },
+          {
+            "number": "18886749",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2876,7 +4178,20 @@
         "name": "GB5178",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7887605"
+        "equipment_number": [
+          {
+            "number": "7887605",
+            "label": "Signal"
+          },
+          {
+            "number": "7887607",
+            "label": "AWS"
+          },
+          {
+            "number": "7887606",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2916,6 +4231,18 @@
           {
             "number": "3162320",
             "label": "Position Light"
+          },
+          {
+            "number": "3178117",
+            "label": "AWS"
+          },
+          {
+            "number": "3178279",
+            "label": "TPWS OS"
+          },
+          {
+            "number": "762844",
+            "label": "TPWS OT"
           }
         ]
       },
@@ -2933,7 +4260,20 @@
         "name": "GS5947",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162325"
+        "equipment_number": [
+          {
+            "number": "3162325",
+            "label": "Signal"
+          },
+          {
+            "number": "3178118",
+            "label": "AWS"
+          },
+          {
+            "number": "3178280",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2973,6 +4313,14 @@
           {
             "number": "3162327",
             "label": "Position Light"
+          },
+          {
+            "number": "3178119",
+            "label": "AWS"
+          },
+          {
+            "number": "3178283",
+            "label": "TPWS"
           }
         ]
       },
@@ -2998,6 +4346,18 @@
           {
             "number": "3162323",
             "label": "Position Light"
+          },
+          {
+            "number": "3178120",
+            "label": "AWS"
+          },
+          {
+            "number": "3178285",
+            "label": "TPWS OS -"
+          },
+          {
+            "number": "3178284",
+            "label": "TPWS OT"
           }
         ]
       },
@@ -3079,7 +4439,20 @@
         "name": "GS5958",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162330"
+        "equipment_number": [
+          {
+            "number": "3162330",
+            "label": "Signal"
+          },
+          {
+            "number": "762925",
+            "label": "AWS"
+          },
+          {
+            "number": "762632",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3111,7 +4484,16 @@
         "name": "G593",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759855"
+        "equipment_number": [
+          {
+            "number": "759855",
+            "label": "Signal"
+          },
+          {
+            "number": "1180278",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3127,7 +4509,16 @@
         "name": "G597R",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759856"
+        "equipment_number": [
+          {
+            "number": "759856",
+            "label": "Signal"
+          },
+          {
+            "number": "762925",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3143,7 +4534,20 @@
         "name": "G594",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759858"
+        "equipment_number": [
+          {
+            "number": "759858",
+            "label": "Signal"
+          },
+          {
+            "number": "1696620",
+            "label": "AWS SY"
+          },
+          {
+            "number": "1180331",
+            "label": "AWS SY"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3159,7 +4563,20 @@
         "name": "G595",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "761010"
+        "equipment_number": [
+          {
+            "number": "761010",
+            "label": "Signal"
+          },
+          {
+            "number": "1180277",
+            "label": "AWS"
+          },
+          {
+            "number": "762650",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3175,7 +4592,20 @@
         "name": "G597",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759857"
+        "equipment_number": [
+          {
+            "number": "759857",
+            "label": "Signal"
+          },
+          {
+            "number": "762627",
+            "label": "TPWS"
+          },
+          {
+            "number": "1180331",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3191,7 +4621,20 @@
         "name": "G596",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759860"
+        "equipment_number": [
+          {
+            "number": "759860",
+            "label": "Signal"
+          },
+          {
+            "number": "1180258",
+            "label": "AWS SY"
+          },
+          {
+            "number": "780441",
+            "label": "AWS YE"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3215,6 +4658,10 @@
           {
             "number": "1748460",
             "label": "Position Light"
+          },
+          {
+            "number": "1748465",
+            "label": "AWS"
           }
         ]
       },
@@ -3240,6 +4687,14 @@
           {
             "number": "760326",
             "label": "Position Light"
+          },
+          {
+            "number": "1180312",
+            "label": "AWS"
+          },
+          {
+            "number": "762628",
+            "label": "TPWS"
           }
         ]
       },
@@ -3257,7 +4712,20 @@
         "name": "G598",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "1698775"
+        "equipment_number": [
+          {
+            "number": "1698775",
+            "label": "Signal"
+          },
+          {
+            "number": "1721658",
+            "label": "AWS"
+          },
+          {
+            "number": "1388088",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3273,7 +4741,20 @@
         "name": "G900",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759863"
+        "equipment_number": [
+          {
+            "number": "759863",
+            "label": "Signal"
+          },
+          {
+            "number": "1180382",
+            "label": "AWS"
+          },
+          {
+            "number": "762855",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3289,7 +4770,16 @@
         "name": "G900R",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759862"
+        "equipment_number": [
+          {
+            "number": "759862",
+            "label": "Signal"
+          },
+          {
+            "number": "1696626",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3305,7 +4795,20 @@
         "name": "G901",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759852"
+        "equipment_number": [
+          {
+            "number": "759852",
+            "label": "Signal"
+          },
+          {
+            "number": "1696627",
+            "label": "AWS"
+          },
+          {
+            "number": "762629",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3321,7 +4824,20 @@
         "name": "G902",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759866"
+        "equipment_number": [
+          {
+            "number": "759866",
+            "label": "Signal"
+          },
+          {
+            "number": "1180379",
+            "label": "AWS"
+          },
+          {
+            "number": "762630",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3337,7 +4853,20 @@
         "name": "G903",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759865"
+        "equipment_number": [
+          {
+            "number": "759865",
+            "label": "Signal"
+          },
+          {
+            "number": "1180380",
+            "label": "AWS"
+          },
+          {
+            "number": "762856",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3353,7 +4882,16 @@
         "name": "G905R",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759864"
+        "equipment_number": [
+          {
+            "number": "759864",
+            "label": "Signal"
+          },
+          {
+            "number": "1180378",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3369,7 +4907,20 @@
         "name": "G904",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759923"
+        "equipment_number": [
+          {
+            "number": "759923",
+            "label": "Signal"
+          },
+          {
+            "number": "1180377",
+            "label": "AWS"
+          },
+          {
+            "number": "762642",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3393,6 +4944,14 @@
           {
             "number": "760336",
             "label": "Position Light"
+          },
+          {
+            "number": "1696631",
+            "label": "AWS"
+          },
+          {
+            "number": "762857",
+            "label": "TPWS"
           }
         ]
       },
@@ -3410,7 +4969,20 @@
         "name": "G906",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759868"
+        "equipment_number": [
+          {
+            "number": "759868",
+            "label": "Signal"
+          },
+          {
+            "number": "1180366",
+            "label": "AWS"
+          },
+          {
+            "number": "762631",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3426,7 +4998,16 @@
         "name": "G906R",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759867"
+        "equipment_number": [
+          {
+            "number": "759867",
+            "label": "Signal"
+          },
+          {
+            "number": "1180374",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3442,7 +5023,16 @@
         "name": "GC5015",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896010"
+        "equipment_number": [
+          {
+            "number": "7896010",
+            "label": "Signal"
+          },
+          {
+            "number": "7896043",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3458,7 +5048,16 @@
         "name": "GC5017",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896016"
+        "equipment_number": [
+          {
+            "number": "7896016",
+            "label": "Signal"
+          },
+          {
+            "number": "7896044",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3474,7 +5073,16 @@
         "name": "GC5022",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896292"
+        "equipment_number": [
+          {
+            "number": "7896292",
+            "label": "Signal"
+          },
+          {
+            "number": "7896293",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3490,7 +5098,16 @@
         "name": "GC5019",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896036"
+        "equipment_number": [
+          {
+            "number": "7896036",
+            "label": "Signal"
+          },
+          {
+            "number": "7896017",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3506,7 +5123,16 @@
         "name": "GC5024",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896296"
+        "equipment_number": [
+          {
+            "number": "7896296",
+            "label": "Signal"
+          },
+          {
+            "number": "7896297",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3522,7 +5148,16 @@
         "name": "GC5023",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896294"
+        "equipment_number": [
+          {
+            "number": "7896294",
+            "label": "Signal"
+          },
+          {
+            "number": "7896295",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3538,7 +5173,20 @@
         "name": "GC5025",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896037"
+        "equipment_number": [
+          {
+            "number": "7896037",
+            "label": "Signal"
+          },
+          {
+            "number": "7896018",
+            "label": "AWS"
+          },
+          {
+            "number": "7896013",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3554,7 +5202,20 @@
         "name": "GC5028",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896298"
+        "equipment_number": [
+          {
+            "number": "7896298",
+            "label": "Signal"
+          },
+          {
+            "number": "7896299",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896329",
+            "label": "AWS YS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3570,7 +5231,20 @@
         "name": "GC5036",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896342"
+        "equipment_number": [
+          {
+            "number": "7896342",
+            "label": "Signal"
+          },
+          {
+            "number": "7896343",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896344",
+            "label": "AWS YE"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3586,7 +5260,20 @@
         "name": "GC5037",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896038"
+        "equipment_number": [
+          {
+            "number": "7896038",
+            "label": "Signal"
+          },
+          {
+            "number": "7896011",
+            "label": "AWS"
+          },
+          {
+            "number": "7896023",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3602,7 +5289,24 @@
         "name": "GC5039",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896345"
+        "equipment_number": [
+          {
+            "number": "7896345",
+            "label": "Signal"
+          },
+          {
+            "number": "7896343",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896344",
+            "label": "AWS YE"
+          },
+          {
+            "number": "7896301",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3618,7 +5322,20 @@
         "name": "GC5040",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896302"
+        "equipment_number": [
+          {
+            "number": "7896302",
+            "label": "Signal"
+          },
+          {
+            "number": "7896304",
+            "label": "AWS"
+          },
+          {
+            "number": "7896303",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3634,7 +5351,20 @@
         "name": "GC5041",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896040"
+        "equipment_number": [
+          {
+            "number": "7896040",
+            "label": "Signal"
+          },
+          {
+            "number": "7896012",
+            "label": "AWS"
+          },
+          {
+            "number": "7896024",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3650,7 +5380,20 @@
         "name": "GC5086",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7889988"
+        "equipment_number": [
+          {
+            "number": "7889988",
+            "label": "Signal"
+          },
+          {
+            "number": "7889994",
+            "label": "AWS"
+          },
+          {
+            "number": "7889991",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3666,7 +5409,20 @@
         "name": "GC5089",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7889989"
+        "equipment_number": [
+          {
+            "number": "7889989",
+            "label": "Signal"
+          },
+          {
+            "number": "7889995",
+            "label": "AWS"
+          },
+          {
+            "number": "7889992",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3682,7 +5438,20 @@
         "name": "GC5091",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7889990"
+        "equipment_number": [
+          {
+            "number": "7889990",
+            "label": "Signal"
+          },
+          {
+            "number": "7889996",
+            "label": "AWS"
+          },
+          {
+            "number": "7889993",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3698,7 +5467,20 @@
         "name": "GC5092",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "15706365"
+        "equipment_number": [
+          {
+            "number": "15706365",
+            "label": "Signal"
+          },
+          {
+            "number": "7895293",
+            "label": "AWS"
+          },
+          {
+            "number": "7895360",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3714,7 +5496,16 @@
         "name": "GC5094",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890039"
+        "equipment_number": [
+          {
+            "number": "7890039",
+            "label": "Signal"
+          },
+          {
+            "number": "7890045",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3730,7 +5521,16 @@
         "name": "GC5095",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890036"
+        "equipment_number": [
+          {
+            "number": "7890036",
+            "label": "Signal"
+          },
+          {
+            "number": "7890057",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3746,7 +5546,16 @@
         "name": "GC5096",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "15706366"
+        "equipment_number": [
+          {
+            "number": "15706366",
+            "label": "Signal"
+          },
+          {
+            "number": "7895296",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3762,7 +5571,16 @@
         "name": "GC5098",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895282"
+        "equipment_number": [
+          {
+            "number": "7895282",
+            "label": "Signal"
+          },
+          {
+            "number": "7895298",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3809,7 +5627,28 @@
         "name": "GC5093",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890034"
+        "equipment_number": [
+          {
+            "number": "7890034",
+            "label": "Signal"
+          },
+          {
+            "number": "7890055",
+            "label": "AWS 1"
+          },
+          {
+            "number": "7895294",
+            "label": "AWS 2"
+          },
+          {
+            "number": "7895295",
+            "label": "AWS 2"
+          },
+          {
+            "number": "7890044",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3825,7 +5664,24 @@
         "name": "GC5090",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890031"
+        "equipment_number": [
+          {
+            "number": "7890031",
+            "label": "Signal"
+          },
+          {
+            "number": "7890053",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7890054",
+            "label": "AWS YS"
+          },
+          {
+            "number": "7890043",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3841,7 +5697,16 @@
         "name": "GC5088",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895278"
+        "equipment_number": [
+          {
+            "number": "7895278",
+            "label": "Signal"
+          },
+          {
+            "number": "7895292",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3857,7 +5722,20 @@
         "name": "GC5085",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890040"
+        "equipment_number": [
+          {
+            "number": "7890040",
+            "label": "Signal"
+          },
+          {
+            "number": "7890052",
+            "label": "AWS"
+          },
+          {
+            "number": "7890042",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3873,7 +5751,20 @@
         "name": "GC5087",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895284"
+        "equipment_number": [
+          {
+            "number": "7895284",
+            "label": "Signal"
+          },
+          {
+            "number": "7895285",
+            "label": "AWS"
+          },
+          {
+            "number": "7895343",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3889,7 +5780,24 @@
         "name": "GC5084",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895276"
+        "equipment_number": [
+          {
+            "number": "7895276",
+            "label": "Signal"
+          },
+          {
+            "number": "7895290",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7895291",
+            "label": "AWS YS"
+          },
+          {
+            "number": "7895318",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3905,7 +5813,20 @@
         "name": "GC5069",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895409"
+        "equipment_number": [
+          {
+            "number": "7895409",
+            "label": "Signal"
+          },
+          {
+            "number": "7895420",
+            "label": "AWS"
+          },
+          {
+            "number": "7895506",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3921,7 +5842,20 @@
         "name": "GC5068",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895408"
+        "equipment_number": [
+          {
+            "number": "7895408",
+            "label": "Signal"
+          },
+          {
+            "number": "7895419",
+            "label": "AWS"
+          },
+          {
+            "number": "7895502",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3937,7 +5871,16 @@
         "name": "GC5067",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895407"
+        "equipment_number": [
+          {
+            "number": "7895407",
+            "label": "Signal"
+          },
+          {
+            "number": "7895418",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3953,7 +5896,20 @@
         "name": "GC5063",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895403"
+        "equipment_number": [
+          {
+            "number": "7895403",
+            "label": "Signal"
+          },
+          {
+            "number": "7895414",
+            "label": "AWS"
+          },
+          {
+            "number": "7895499",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3969,7 +5925,24 @@
         "name": "GC5065",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895404"
+        "equipment_number": [
+          {
+            "number": "7895404",
+            "label": "Signal"
+          },
+          {
+            "number": "7895415",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7895416",
+            "label": "AWS YS"
+          },
+          {
+            "number": "7895500",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3985,7 +5958,16 @@
         "name": "GC5059",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895400"
+        "equipment_number": [
+          {
+            "number": "7895400",
+            "label": "Signal"
+          },
+          {
+            "number": "7895412",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4001,7 +5983,16 @@
         "name": "GC5061",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895402"
+        "equipment_number": [
+          {
+            "number": "7895402",
+            "label": "Signal"
+          },
+          {
+            "number": "7895413",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4017,7 +6008,20 @@
         "name": "GC5058",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895399"
+        "equipment_number": [
+          {
+            "number": "7895399",
+            "label": "Signal"
+          },
+          {
+            "number": "7895517",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7895518",
+            "label": "AWS YS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4033,7 +6037,16 @@
         "name": "GC5055",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895398"
+        "equipment_number": [
+          {
+            "number": "7895398",
+            "label": "Signal"
+          },
+          {
+            "number": "7895516",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4049,7 +6062,16 @@
         "name": "GC5054",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895397"
+        "equipment_number": [
+          {
+            "number": "7895397",
+            "label": "Signal"
+          },
+          {
+            "number": "7895515",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4065,7 +6087,16 @@
         "name": "GC5053",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895396"
+        "equipment_number": [
+          {
+            "number": "7895396",
+            "label": "Signal"
+          },
+          {
+            "number": "7895514",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4081,7 +6112,16 @@
         "name": "GC5052",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895394"
+        "equipment_number": [
+          {
+            "number": "7895394",
+            "label": "Signal"
+          },
+          {
+            "number": "7895513",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4097,7 +6137,16 @@
         "name": "GC5051",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895395"
+        "equipment_number": [
+          {
+            "number": "7895395",
+            "label": "Signal"
+          },
+          {
+            "number": "7895512",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4113,7 +6162,16 @@
         "name": "GC5050",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895391"
+        "equipment_number": [
+          {
+            "number": "7895391",
+            "label": "Signal"
+          },
+          {
+            "number": "7895511",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4129,7 +6187,16 @@
         "name": "GC5049",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895392"
+        "equipment_number": [
+          {
+            "number": "7895392",
+            "label": "Signal"
+          },
+          {
+            "number": "7895510",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4145,7 +6212,16 @@
         "name": "GC5048",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895390"
+        "equipment_number": [
+          {
+            "number": "7895390",
+            "label": "Signal"
+          },
+          {
+            "number": "7895509",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4161,7 +6237,20 @@
         "name": "GC5046",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895389"
+        "equipment_number": [
+          {
+            "number": "7895389",
+            "label": "Signal"
+          },
+          {
+            "number": "7895508",
+            "label": "AWS"
+          },
+          {
+            "number": "7895411",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4209,7 +6298,20 @@
         "name": "GC5083",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890029"
+        "equipment_number": [
+          {
+            "number": "7890029",
+            "label": "Signal"
+          },
+          {
+            "number": "7890051",
+            "label": "AWS"
+          },
+          {
+            "number": "7890041",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4241,7 +6343,16 @@
         "name": "GC5081",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890028"
+        "equipment_number": [
+          {
+            "number": "7890028",
+            "label": "Signal"
+          },
+          {
+            "number": "7890049",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4257,7 +6368,20 @@
         "name": "GC5080",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895341"
+        "equipment_number": [
+          {
+            "number": "7895341",
+            "label": "Signal"
+          },
+          {
+            "number": "7895288",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7895289",
+            "label": "AWS SY"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4273,7 +6397,16 @@
         "name": "GC5079",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890027"
+        "equipment_number": [
+          {
+            "number": "7890027",
+            "label": "Signal"
+          },
+          {
+            "number": "7890048",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4289,7 +6422,16 @@
         "name": "GC5078",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895340"
+        "equipment_number": [
+          {
+            "number": "7895340",
+            "label": "Signal"
+          },
+          {
+            "number": "7895287",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4305,7 +6447,16 @@
         "name": "GC5077",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890026"
+        "equipment_number": [
+          {
+            "number": "7890026",
+            "label": "Signal"
+          },
+          {
+            "number": "7890047",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4321,7 +6472,16 @@
         "name": "GC5076",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895339"
+        "equipment_number": [
+          {
+            "number": "7895339",
+            "label": "Signal"
+          },
+          {
+            "number": "7895286",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4337,7 +6497,16 @@
         "name": "GC5075",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890025"
+        "equipment_number": [
+          {
+            "number": "7890025",
+            "label": "Signal"
+          },
+          {
+            "number": "7890046",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4369,7 +6538,16 @@
         "name": "GC5072",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895337"
+        "equipment_number": [
+          {
+            "number": "7895337",
+            "label": "Signal"
+          },
+          {
+            "number": "7895297",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4385,7 +6563,16 @@
         "name": "GC5071",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890023"
+        "equipment_number": [
+          {
+            "number": "7890023",
+            "label": "Signal"
+          },
+          {
+            "number": "7890058",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4417,7 +6604,16 @@
         "name": "GS5930",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162306"
+        "equipment_number": [
+          {
+            "number": "3162306",
+            "label": "Signal"
+          },
+          {
+            "number": "1696520",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4457,6 +6653,14 @@
           {
             "number": "7887632",
             "label": "Main"
+          },
+          {
+            "number": "7887657",
+            "label": "AWS"
+          },
+          {
+            "number": "7887638",
+            "label": "TPWS"
           }
         ]
       },
@@ -4474,7 +6678,16 @@
         "name": "GG5189",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236664"
+        "equipment_number": [
+          {
+            "number": "2236664",
+            "label": "Signal"
+          },
+          {
+            "number": "1696329",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4498,6 +6711,14 @@
           {
             "number": "18886765",
             "label": "Position Light"
+          },
+          {
+            "number": "18886773",
+            "label": "AWS"
+          },
+          {
+            "number": "18886775",
+            "label": "AWS"
           }
         ]
       },
@@ -4531,7 +6752,16 @@
         "name": "GB5103",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "15706362"
+        "equipment_number": [
+          {
+            "number": "15706362",
+            "label": "Signal"
+          },
+          {
+            "number": "19002259",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4547,7 +6777,16 @@
         "name": "GB5105",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7900376"
+        "equipment_number": [
+          {
+            "number": "7900376",
+            "label": "Signal"
+          },
+          {
+            "number": "19002255",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4579,7 +6818,16 @@
         "name": "GB5101",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "15706361"
+        "equipment_number": [
+          {
+            "number": "15706361",
+            "label": "Signal"
+          },
+          {
+            "number": "18839502",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4595,7 +6843,32 @@
         "name": "GB5187",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7887630"
+        "equipment_number": [
+          {
+            "number": "7887630",
+            "label": "Signal"
+          },
+          {
+            "number": "7887652",
+            "label": "AWS 1"
+          },
+          {
+            "number": "7887653",
+            "label": "AWS 2"
+          },
+          {
+            "number": "7895893",
+            "label": "AWS 2"
+          },
+          {
+            "number": "7887654",
+            "label": "AWS 3"
+          },
+          {
+            "number": "7887655",
+            "label": "AWS 3"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4611,7 +6884,16 @@
         "name": "GB5111",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "19659340"
+        "equipment_number": [
+          {
+            "number": "19659340",
+            "label": "Signal"
+          },
+          {
+            "number": "19659341",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4635,6 +6917,10 @@
           {
             "number": "7895461",
             "label": "Position Light"
+          },
+          {
+            "number": "7895507",
+            "label": "AWS"
           }
         ]
       },
@@ -4652,7 +6938,16 @@
         "name": "GC5099",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890038"
+        "equipment_number": [
+          {
+            "number": "7890038",
+            "label": "Signal"
+          },
+          {
+            "number": "7890060",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4684,7 +6979,16 @@
         "name": "GR878",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886783"
+        "equipment_number": [
+          {
+            "number": "18886783",
+            "label": "Signal"
+          },
+          {
+            "number": "18886784",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4708,6 +7012,14 @@
           {
             "number": "7896437",
             "label": "Position Light"
+          },
+          {
+            "number": "7896512",
+            "label": "AWS"
+          },
+          {
+            "number": "7896519",
+            "label": "TPWS"
           }
         ]
       },
@@ -4815,7 +7127,20 @@
         "name": "GB5134",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896445"
+        "equipment_number": [
+          {
+            "number": "7896445",
+            "label": "Signal"
+          },
+          {
+            "number": "7896498",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896516",
+            "label": "AWS YS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4831,7 +7156,24 @@
         "name": "GB5132",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896444"
+        "equipment_number": [
+          {
+            "number": "7896444",
+            "label": "Signal"
+          },
+          {
+            "number": "7896497",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896515",
+            "label": "AWS YS"
+          },
+          {
+            "number": "7896527",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4862,7 +7204,20 @@
         "name": "GC5035",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896330"
+        "equipment_number": [
+          {
+            "number": "7896330",
+            "label": "Signal"
+          },
+          {
+            "number": "7896331",
+            "label": "AWS SY"
+          },
+          {
+            "number": "7896332",
+            "label": "AWS YS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4910,7 +7265,20 @@
         "name": "GC5066",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895406"
+        "equipment_number": [
+          {
+            "number": "7895406",
+            "label": "Signal"
+          },
+          {
+            "number": "7895417",
+            "label": "AWS"
+          },
+          {
+            "number": "7895501",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4950,6 +7318,10 @@
           {
             "number": "2452638",
             "label": "Position Light"
+          },
+          {
+            "number": "1387912",
+            "label": "TPWS"
           }
         ]
       },
@@ -4967,7 +7339,16 @@
         "name": "GG5532",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2448382"
+        "equipment_number": [
+          {
+            "number": "2448382",
+            "label": "Signal"
+          },
+          {
+            "number": "1387918",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4991,6 +7372,10 @@
           {
             "number": "2452636",
             "label": "Position Light"
+          },
+          {
+            "number": "1387910",
+            "label": "TPWS"
           }
         ]
       },
@@ -5016,6 +7401,10 @@
           {
             "number": "2452639",
             "label": "Position Light"
+          },
+          {
+            "number": "1387895",
+            "label": "TPWS"
           }
         ]
       },
@@ -5041,6 +7430,10 @@
           {
             "number": "2828975",
             "label": "Position Light"
+          },
+          {
+            "number": "2829029",
+            "label": "TPWS"
           }
         ]
       },
@@ -5066,6 +7459,10 @@
           {
             "number": "2452635",
             "label": "Position Light"
+          },
+          {
+            "number": "19169786",
+            "label": "TPWS"
           }
         ]
       },
@@ -5091,6 +7488,10 @@
           {
             "number": "2452634",
             "label": "Position Light"
+          },
+          {
+            "number": "1387887",
+            "label": "TPWS"
           }
         ]
       },
@@ -5116,6 +7517,10 @@
           {
             "number": "2452646",
             "label": "Position Light"
+          },
+          {
+            "number": "1387914",
+            "label": "TPWS"
           }
         ]
       },
@@ -5141,6 +7546,10 @@
           {
             "number": "2452633",
             "label": "Position Light"
+          },
+          {
+            "number": "1387888",
+            "label": "TPWS"
           }
         ]
       },
@@ -5166,6 +7575,10 @@
           {
             "number": "2452644",
             "label": "Position Light"
+          },
+          {
+            "number": "1387915",
+            "label": "TPWS"
           }
         ]
       },
@@ -5191,6 +7604,10 @@
           {
             "number": "2452632",
             "label": "Position Light"
+          },
+          {
+            "number": "1387889",
+            "label": "TPWS"
           }
         ]
       },
@@ -5216,6 +7633,10 @@
           {
             "number": "2452642",
             "label": "Position Light"
+          },
+          {
+            "number": "1387916",
+            "label": "TPWS"
           }
         ]
       },
@@ -5241,6 +7662,10 @@
           {
             "number": "2452631",
             "label": "Position Light"
+          },
+          {
+            "number": "1387890",
+            "label": "TPWS"
           }
         ]
       },
@@ -5266,6 +7691,10 @@
           {
             "number": "2452640",
             "label": "Position Light"
+          },
+          {
+            "number": "1387917",
+            "label": "TPWS"
           }
         ]
       },
@@ -5291,6 +7720,10 @@
           {
             "number": "2237314",
             "label": "Position Light"
+          },
+          {
+            "number": "1387892",
+            "label": "TPWS"
           }
         ]
       },
@@ -5308,7 +7741,16 @@
         "name": "GG5486",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459536"
+        "equipment_number": [
+          {
+            "number": "2459536",
+            "label": "Signal"
+          },
+          {
+            "number": "1112832",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5324,7 +7766,16 @@
         "name": "GG5489",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2237309"
+        "equipment_number": [
+          {
+            "number": "2237309",
+            "label": "Signal"
+          },
+          {
+            "number": "1387902",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5340,7 +7791,16 @@
         "name": "GG5484",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459534"
+        "equipment_number": [
+          {
+            "number": "2459534",
+            "label": "Signal"
+          },
+          {
+            "number": "1387891",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5356,7 +7816,16 @@
         "name": "GG5281",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2415207"
+        "equipment_number": [
+          {
+            "number": "2415207",
+            "label": "Signal"
+          },
+          {
+            "number": "1387896",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5372,7 +7841,16 @@
         "name": "GG5283",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2415205"
+        "equipment_number": [
+          {
+            "number": "2415205",
+            "label": "Signal"
+          },
+          {
+            "number": "1387897",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5388,7 +7866,16 @@
         "name": "GG5285",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2415202"
+        "equipment_number": [
+          {
+            "number": "2415202",
+            "label": "Signal"
+          },
+          {
+            "number": "1387898",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5420,7 +7907,16 @@
         "name": "GG5290",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459539"
+        "equipment_number": [
+          {
+            "number": "2459539",
+            "label": "Signal"
+          },
+          {
+            "number": "1387894",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5436,7 +7932,16 @@
         "name": "GG5288",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459538"
+        "equipment_number": [
+          {
+            "number": "2459538",
+            "label": "Signal"
+          },
+          {
+            "number": "1387886",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5468,7 +7973,16 @@
         "name": "GG5481",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2237311"
+        "equipment_number": [
+          {
+            "number": "2237311",
+            "label": "Signal"
+          },
+          {
+            "number": "1387900",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5500,7 +8014,16 @@
         "name": "GG5490",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459540"
+        "equipment_number": [
+          {
+            "number": "2459540",
+            "label": "Signal"
+          },
+          {
+            "number": "1387899",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5516,7 +8039,16 @@
         "name": "GG5470",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459543"
+        "equipment_number": [
+          {
+            "number": "2459543",
+            "label": "Signal"
+          },
+          {
+            "number": "1112835",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5532,7 +8064,16 @@
         "name": "GG5466",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459542"
+        "equipment_number": [
+          {
+            "number": "2459542",
+            "label": "Signal"
+          },
+          {
+            "number": "1112847",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5548,7 +8089,16 @@
         "name": "GG5464",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459541"
+        "equipment_number": [
+          {
+            "number": "2459541",
+            "label": "Signal"
+          },
+          {
+            "number": "1112837",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5564,7 +8114,16 @@
         "name": "GG5469",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2237312"
+        "equipment_number": [
+          {
+            "number": "2237312",
+            "label": "Signal"
+          },
+          {
+            "number": "1112836",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5580,7 +8139,16 @@
         "name": "GG5467",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2237313"
+        "equipment_number": [
+          {
+            "number": "2237313",
+            "label": "Signal"
+          },
+          {
+            "number": "1112839",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5627,7 +8195,16 @@
         "name": "GG5263",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2415198"
+        "equipment_number": [
+          {
+            "number": "2415198",
+            "label": "Signal"
+          },
+          {
+            "number": "1112857",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5659,7 +8236,16 @@
         "name": "GG5270",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459549"
+        "equipment_number": [
+          {
+            "number": "2459549",
+            "label": "Signal"
+          },
+          {
+            "number": "1112855",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5675,7 +8261,16 @@
         "name": "GG5268",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459547"
+        "equipment_number": [
+          {
+            "number": "2459547",
+            "label": "Signal"
+          },
+          {
+            "number": "1112840",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5691,7 +8286,16 @@
         "name": "GG5264",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459545"
+        "equipment_number": [
+          {
+            "number": "2459545",
+            "label": "Signal"
+          },
+          {
+            "number": "1112834",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5707,7 +8311,16 @@
         "name": "GG5244",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459553"
+        "equipment_number": [
+          {
+            "number": "2459553",
+            "label": "Signal"
+          },
+          {
+            "number": "1112848",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5739,7 +8352,16 @@
         "name": "GG5248",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459555"
+        "equipment_number": [
+          {
+            "number": "2459555",
+            "label": "Signal"
+          },
+          {
+            "number": "1112859",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5755,7 +8377,16 @@
         "name": "GG5250",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459558"
+        "equipment_number": [
+          {
+            "number": "2459558",
+            "label": "Signal"
+          },
+          {
+            "number": "1112860",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5779,6 +8410,14 @@
           {
             "number": "2236480",
             "label": "Position Light"
+          },
+          {
+            "number": "2642518",
+            "label": "AWS"
+          },
+          {
+            "number": "1112862",
+            "label": "TPWS"
           }
         ]
       },
@@ -5804,6 +8443,10 @@
           {
             "number": "2236479",
             "label": "Position Light"
+          },
+          {
+            "number": "2642511",
+            "label": "AWS"
           }
         ]
       },
@@ -5829,6 +8472,14 @@
           {
             "number": "2236478",
             "label": "Position Light"
+          },
+          {
+            "number": "2642514",
+            "label": "AWS"
+          },
+          {
+            "number": "1112858",
+            "label": "TPWS"
           }
         ]
       },
@@ -5846,7 +8497,20 @@
         "name": "GG5221",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236444"
+        "equipment_number": [
+          {
+            "number": "2236444",
+            "label": "Signal"
+          },
+          {
+            "number": "2642526",
+            "label": "AWS"
+          },
+          {
+            "number": "1109985",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5862,7 +8526,20 @@
         "name": "GG5223",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236440"
+        "equipment_number": [
+          {
+            "number": "2236440",
+            "label": "Signal"
+          },
+          {
+            "number": "2642529",
+            "label": "AWS"
+          },
+          {
+            "number": "1109993",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5878,7 +8555,20 @@
         "name": "GG5225",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236439"
+        "equipment_number": [
+          {
+            "number": "2236439",
+            "label": "Signal"
+          },
+          {
+            "number": "2642533",
+            "label": "AWS"
+          },
+          {
+            "number": "1109983",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5906,6 +8596,14 @@
           {
             "number": "2642437",
             "label": "Position Light"
+          },
+          {
+            "number": "18833648",
+            "label": "AWS"
+          },
+          {
+            "number": "18833646",
+            "label": "TPWS"
           }
         ]
       },
@@ -5923,7 +8621,20 @@
         "name": "GG5224",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459696"
+        "equipment_number": [
+          {
+            "number": "2459696",
+            "label": "Signal"
+          },
+          {
+            "number": "2642520",
+            "label": "AWS"
+          },
+          {
+            "number": "18833647",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5939,7 +8650,20 @@
         "name": "GG5228",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459697"
+        "equipment_number": [
+          {
+            "number": "2459697",
+            "label": "Signal"
+          },
+          {
+            "number": "2642523",
+            "label": "AWS"
+          },
+          {
+            "number": "1112856",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5987,7 +8711,20 @@
         "name": "GG5215",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833658"
+        "equipment_number": [
+          {
+            "number": "18833658",
+            "label": "Signal"
+          },
+          {
+            "number": "18833660",
+            "label": "AWS"
+          },
+          {
+            "number": "18833659",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6003,7 +8740,20 @@
         "name": "GG5213",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236445"
+        "equipment_number": [
+          {
+            "number": "2236445",
+            "label": "Signal"
+          },
+          {
+            "number": "762988",
+            "label": "AWS"
+          },
+          {
+            "number": "1387869",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6019,7 +8769,16 @@
         "name": "GG5203",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778540"
+        "equipment_number": [
+          {
+            "number": "18778540",
+            "label": "Signal"
+          },
+          {
+            "number": "779754",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6035,7 +8794,28 @@
         "name": "GG5205",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833654"
+        "equipment_number": [
+          {
+            "number": "18833654",
+            "label": "Signal"
+          },
+          {
+            "number": "18833655",
+            "label": "AWS YE"
+          },
+          {
+            "number": "18886964",
+            "label": "AWS YE"
+          },
+          {
+            "number": "18887043",
+            "label": "AWS YE"
+          },
+          {
+            "number": "18886803",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6051,7 +8831,16 @@
         "name": "GG5831",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236659"
+        "equipment_number": [
+          {
+            "number": "2236659",
+            "label": "Signal"
+          },
+          {
+            "number": "762657",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6067,7 +8856,16 @@
         "name": "GG5833",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236661"
+        "equipment_number": [
+          {
+            "number": "2236661",
+            "label": "Signal"
+          },
+          {
+            "number": "762656",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6091,6 +8889,14 @@
           {
             "number": "2237203",
             "label": "Position Light"
+          },
+          {
+            "number": "2907783",
+            "label": "AWS"
+          },
+          {
+            "number": "762654",
+            "label": "TPWS"
           }
         ]
       },
@@ -6116,6 +8922,14 @@
           {
             "number": "2237202",
             "label": "Position Light"
+          },
+          {
+            "number": "2642498",
+            "label": "AWS"
+          },
+          {
+            "number": "762655",
+            "label": "TPWS"
           }
         ]
       },
@@ -6133,7 +8947,20 @@
         "name": "GG5835",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236671"
+        "equipment_number": [
+          {
+            "number": "2236671",
+            "label": "Signal"
+          },
+          {
+            "number": "1534679",
+            "label": "AWS"
+          },
+          {
+            "number": "762653",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6149,7 +8976,16 @@
         "name": "GG5837",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2236672"
+        "equipment_number": [
+          {
+            "number": "2236672",
+            "label": "Signal"
+          },
+          {
+            "number": "1388090",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6165,7 +9001,20 @@
         "name": "GS5857",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162244"
+        "equipment_number": [
+          {
+            "number": "3162244",
+            "label": "Signal"
+          },
+          {
+            "number": "3178065",
+            "label": "AWS"
+          },
+          {
+            "number": "3178274",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6181,7 +9030,24 @@
         "name": "GS5855",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162241"
+        "equipment_number": [
+          {
+            "number": "3162241",
+            "label": "Signal"
+          },
+          {
+            "number": "1721635",
+            "label": "AWS SY"
+          },
+          {
+            "number": "3178064",
+            "label": "AWS SY"
+          },
+          {
+            "number": "3178272",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6197,7 +9063,24 @@
         "name": "GS5852",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162239"
+        "equipment_number": [
+          {
+            "number": "3162239",
+            "label": "Signal"
+          },
+          {
+            "number": "3178067",
+            "label": "AWS"
+          },
+          {
+            "number": "3178276",
+            "label": "TPWS 2"
+          },
+          {
+            "number": "3178275",
+            "label": "TPWS OT"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6213,7 +9096,16 @@
         "name": "GS5850",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2237201"
+        "equipment_number": [
+          {
+            "number": "2237201",
+            "label": "Signal"
+          },
+          {
+            "number": "3178066",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6229,7 +9121,16 @@
         "name": "GS5861",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162247"
+        "equipment_number": [
+          {
+            "number": "3162247",
+            "label": "Signal"
+          },
+          {
+            "number": "3178068",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6245,7 +9146,36 @@
         "name": "GS5862",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162249"
+        "equipment_number": [
+          {
+            "number": "3162249",
+            "label": "Signal"
+          },
+          {
+            "number": "3178072",
+            "label": "AWS"
+          },
+          {
+            "number": "3178291",
+            "label": "TPWS OS (2"
+          },
+          {
+            "number": "3178290",
+            "label": "TPWS OS -"
+          },
+          {
+            "number": "3178292",
+            "label": "TPWS OS(1"
+          },
+          {
+            "number": "3178293",
+            "label": "TPWS OS(2"
+          },
+          {
+            "number": "3178289",
+            "label": "TPWS OT"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6261,7 +9191,20 @@
         "name": "GS5865",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162255"
+        "equipment_number": [
+          {
+            "number": "3162255",
+            "label": "Signal"
+          },
+          {
+            "number": "3178070",
+            "label": "AWS"
+          },
+          {
+            "number": "3178288",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6277,7 +9220,16 @@
         "name": "GS5860",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162246"
+        "equipment_number": [
+          {
+            "number": "3162246",
+            "label": "Signal"
+          },
+          {
+            "number": "3178073",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6293,7 +9245,36 @@
         "name": "GS5862",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162249"
+        "equipment_number": [
+          {
+            "number": "3162249",
+            "label": "Signal"
+          },
+          {
+            "number": "3178072",
+            "label": "AWS"
+          },
+          {
+            "number": "3178291",
+            "label": "TPWS OS (2"
+          },
+          {
+            "number": "3178290",
+            "label": "TPWS OS -"
+          },
+          {
+            "number": "3178292",
+            "label": "TPWS OS(1"
+          },
+          {
+            "number": "3178293",
+            "label": "TPWS OS(2"
+          },
+          {
+            "number": "3178289",
+            "label": "TPWS OT"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6309,7 +9290,24 @@
         "name": "GS5864",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162253"
+        "equipment_number": [
+          {
+            "number": "3162253",
+            "label": "Signal"
+          },
+          {
+            "number": "3178071",
+            "label": "AWS"
+          },
+          {
+            "number": "3178287",
+            "label": "TPWS OS -"
+          },
+          {
+            "number": "3178286",
+            "label": "TPWS OT"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6325,7 +9323,20 @@
         "name": "GS5875",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162264"
+        "equipment_number": [
+          {
+            "number": "3162264",
+            "label": "Signal"
+          },
+          {
+            "number": "3178076",
+            "label": "AWS 1"
+          },
+          {
+            "number": "3178077",
+            "label": "AWS 2"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6341,7 +9352,24 @@
         "name": "GS5873",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162261"
+        "equipment_number": [
+          {
+            "number": "3162261",
+            "label": "Signal"
+          },
+          {
+            "number": "3178075",
+            "label": "AWS"
+          },
+          {
+            "number": "3178295",
+            "label": "TPWS OS -"
+          },
+          {
+            "number": "3178294",
+            "label": "TPWS OT"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6357,7 +9385,20 @@
         "name": "GS5871",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162258"
+        "equipment_number": [
+          {
+            "number": "3162258",
+            "label": "Signal"
+          },
+          {
+            "number": "3178074",
+            "label": "AWS"
+          },
+          {
+            "number": "3178296",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6373,7 +9414,20 @@
         "name": "GS5870",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162256"
+        "equipment_number": [
+          {
+            "number": "3162256",
+            "label": "Signal"
+          },
+          {
+            "number": "3178080",
+            "label": "AWS 1"
+          },
+          {
+            "number": "3178081",
+            "label": "AWS 2"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6389,7 +9443,24 @@
         "name": "GS5872",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162259"
+        "equipment_number": [
+          {
+            "number": "3162259",
+            "label": "Signal"
+          },
+          {
+            "number": "3178079",
+            "label": "AWS"
+          },
+          {
+            "number": "3178300",
+            "label": "TPWS OS +"
+          },
+          {
+            "number": "3178299",
+            "label": "TPWS OT"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6405,7 +9476,20 @@
         "name": "GS5874",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162263"
+        "equipment_number": [
+          {
+            "number": "3162263",
+            "label": "Signal"
+          },
+          {
+            "number": "3178078",
+            "label": "AWS"
+          },
+          {
+            "number": "3178298",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6421,7 +9505,20 @@
         "name": "GS5895",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162281"
+        "equipment_number": [
+          {
+            "number": "3162281",
+            "label": "Signal"
+          },
+          {
+            "number": "3178091",
+            "label": "AWS"
+          },
+          {
+            "number": "3178301",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6437,7 +9534,20 @@
         "name": "GS5893",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162279"
+        "equipment_number": [
+          {
+            "number": "3162279",
+            "label": "Signal"
+          },
+          {
+            "number": "3178089",
+            "label": "AWS 1"
+          },
+          {
+            "number": "3178090",
+            "label": "AWS 2"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6453,7 +9563,20 @@
         "name": "GS5891",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162276"
+        "equipment_number": [
+          {
+            "number": "3162276",
+            "label": "Signal"
+          },
+          {
+            "number": "3178088",
+            "label": "AWS"
+          },
+          {
+            "number": "19613104",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6469,7 +9592,16 @@
         "name": "GS5890",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162275"
+        "equipment_number": [
+          {
+            "number": "3162275",
+            "label": "Signal"
+          },
+          {
+            "number": "3178094",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6485,7 +9617,20 @@
         "name": "GS5892",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162277"
+        "equipment_number": [
+          {
+            "number": "3162277",
+            "label": "Signal"
+          },
+          {
+            "number": "3178093",
+            "label": "AWS"
+          },
+          {
+            "number": "3178306",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6501,7 +9646,20 @@
         "name": "GS5894",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162280"
+        "equipment_number": [
+          {
+            "number": "3162280",
+            "label": "Signal"
+          },
+          {
+            "number": "3178092",
+            "label": "AWS"
+          },
+          {
+            "number": "3178305",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6517,7 +9675,20 @@
         "name": "GS5891",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162276"
+        "equipment_number": [
+          {
+            "number": "3162276",
+            "label": "Signal"
+          },
+          {
+            "number": "3178088",
+            "label": "AWS"
+          },
+          {
+            "number": "19613104",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6533,7 +9704,20 @@
         "name": "GS5893",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162279"
+        "equipment_number": [
+          {
+            "number": "3162279",
+            "label": "Signal"
+          },
+          {
+            "number": "3178089",
+            "label": "AWS 1"
+          },
+          {
+            "number": "3178090",
+            "label": "AWS 2"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6549,7 +9733,20 @@
         "name": "GS5895",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162281"
+        "equipment_number": [
+          {
+            "number": "3162281",
+            "label": "Signal"
+          },
+          {
+            "number": "3178091",
+            "label": "AWS"
+          },
+          {
+            "number": "3178301",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6565,7 +9762,20 @@
         "name": "GS5894",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162280"
+        "equipment_number": [
+          {
+            "number": "3162280",
+            "label": "Signal"
+          },
+          {
+            "number": "3178092",
+            "label": "AWS"
+          },
+          {
+            "number": "3178305",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6581,7 +9791,20 @@
         "name": "GS5892",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162277"
+        "equipment_number": [
+          {
+            "number": "3162277",
+            "label": "Signal"
+          },
+          {
+            "number": "3178093",
+            "label": "AWS"
+          },
+          {
+            "number": "3178306",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6597,7 +9820,16 @@
         "name": "GS5890",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162275"
+        "equipment_number": [
+          {
+            "number": "3162275",
+            "label": "Signal"
+          },
+          {
+            "number": "3178094",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6613,7 +9845,16 @@
         "name": "GS5890",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162275"
+        "equipment_number": [
+          {
+            "number": "3162275",
+            "label": "Signal"
+          },
+          {
+            "number": "3178094",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6629,7 +9870,16 @@
         "name": "GS5902",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162284"
+        "equipment_number": [
+          {
+            "number": "3162284",
+            "label": "Signal"
+          },
+          {
+            "number": "3178099",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6645,7 +9895,16 @@
         "name": "GS5904",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162287"
+        "equipment_number": [
+          {
+            "number": "3162287",
+            "label": "Signal"
+          },
+          {
+            "number": "3178098",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6661,7 +9920,16 @@
         "name": "GS5915",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162299"
+        "equipment_number": [
+          {
+            "number": "3162299",
+            "label": "Signal"
+          },
+          {
+            "number": "3178103",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6677,7 +9945,16 @@
         "name": "GS5913",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162297"
+        "equipment_number": [
+          {
+            "number": "3162297",
+            "label": "Signal"
+          },
+          {
+            "number": "3178102",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6693,7 +9970,16 @@
         "name": "GS5911",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162295"
+        "equipment_number": [
+          {
+            "number": "3162295",
+            "label": "Signal"
+          },
+          {
+            "number": "3178101",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6709,7 +9995,16 @@
         "name": "GS5914",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162298"
+        "equipment_number": [
+          {
+            "number": "3162298",
+            "label": "Signal"
+          },
+          {
+            "number": "3178104",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6725,7 +10020,20 @@
         "name": "GS5912",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162296"
+        "equipment_number": [
+          {
+            "number": "3162296",
+            "label": "Signal"
+          },
+          {
+            "number": "3178105",
+            "label": "AWS"
+          },
+          {
+            "number": "3178308",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6741,7 +10049,24 @@
         "name": "GS5910",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162293"
+        "equipment_number": [
+          {
+            "number": "3162293",
+            "label": "Signal"
+          },
+          {
+            "number": "3178106",
+            "label": "AWS"
+          },
+          {
+            "number": "3178310",
+            "label": "TPWS OS -"
+          },
+          {
+            "number": "3178309",
+            "label": "TPWS OT"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6757,7 +10082,16 @@
         "name": "GS5925",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162305"
+        "equipment_number": [
+          {
+            "number": "3162305",
+            "label": "Signal"
+          },
+          {
+            "number": "3178109",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6773,7 +10107,16 @@
         "name": "GS5923",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162303"
+        "equipment_number": [
+          {
+            "number": "3162303",
+            "label": "Signal"
+          },
+          {
+            "number": "3178108",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6789,7 +10132,20 @@
         "name": "GS5921",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162301"
+        "equipment_number": [
+          {
+            "number": "3162301",
+            "label": "Signal"
+          },
+          {
+            "number": "3178107",
+            "label": "AWS"
+          },
+          {
+            "number": "19613103",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6805,7 +10161,16 @@
         "name": "GS5924",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162304"
+        "equipment_number": [
+          {
+            "number": "3162304",
+            "label": "Signal"
+          },
+          {
+            "number": "3178110",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6821,7 +10186,16 @@
         "name": "GS5922",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162302"
+        "equipment_number": [
+          {
+            "number": "3162302",
+            "label": "Signal"
+          },
+          {
+            "number": "3178111",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6837,7 +10211,16 @@
         "name": "GS5920",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162300"
+        "equipment_number": [
+          {
+            "number": "3162300",
+            "label": "Signal"
+          },
+          {
+            "number": "3178112",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6861,6 +10244,22 @@
           {
             "number": "19508657",
             "label": "Main"
+          },
+          {
+            "number": "18886862",
+            "label": "AWS SY"
+          },
+          {
+            "number": "18886917",
+            "label": "AWS SY"
+          },
+          {
+            "number": "19508658",
+            "label": "AWS SY"
+          },
+          {
+            "number": "19508659",
+            "label": "TPWS"
           }
         ]
       },
@@ -6878,7 +10277,20 @@
         "name": "GR757",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "759968"
+        "equipment_number": [
+          {
+            "number": "759968",
+            "label": "Signal"
+          },
+          {
+            "number": "762985",
+            "label": "AWS"
+          },
+          {
+            "number": "1403699",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6894,7 +10306,20 @@
         "name": "GR781",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778553"
+        "equipment_number": [
+          {
+            "number": "18778553",
+            "label": "Signal"
+          },
+          {
+            "number": "762955",
+            "label": "AWS"
+          },
+          {
+            "number": "762867",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6910,7 +10335,20 @@
         "name": "GR783",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833653"
+        "equipment_number": [
+          {
+            "number": "18833653",
+            "label": "Signal"
+          },
+          {
+            "number": "1721648",
+            "label": "AWS"
+          },
+          {
+            "number": "762868",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6926,7 +10364,16 @@
         "name": "GR811",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778565"
+        "equipment_number": [
+          {
+            "number": "18778565",
+            "label": "Signal"
+          },
+          {
+            "number": "762849",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6942,7 +10389,20 @@
         "name": "GR813",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833652"
+        "equipment_number": [
+          {
+            "number": "18833652",
+            "label": "Signal"
+          },
+          {
+            "number": "1696564",
+            "label": "AWS"
+          },
+          {
+            "number": "762850",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6958,7 +10418,28 @@
         "name": "GR828",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804383"
+        "equipment_number": [
+          {
+            "number": "18804383",
+            "label": "Signal"
+          },
+          {
+            "number": "2907788",
+            "label": "AWS"
+          },
+          {
+            "number": "1443883",
+            "label": "TPWS 1"
+          },
+          {
+            "number": "1443880",
+            "label": "TPWS 2"
+          },
+          {
+            "number": "762898",
+            "label": "TPWS OT"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6974,7 +10455,20 @@
         "name": "GR832",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804382"
+        "equipment_number": [
+          {
+            "number": "18804382",
+            "label": "Signal"
+          },
+          {
+            "number": "1696570",
+            "label": "AWS"
+          },
+          {
+            "number": "762907",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6990,7 +10484,20 @@
         "name": "GR844",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804335"
+        "equipment_number": [
+          {
+            "number": "18804335",
+            "label": "Signal"
+          },
+          {
+            "number": "18886837",
+            "label": "AWS"
+          },
+          {
+            "number": "1109979",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7006,7 +10513,20 @@
         "name": "GR846",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804396"
+        "equipment_number": [
+          {
+            "number": "18804396",
+            "label": "Signal"
+          },
+          {
+            "number": "18886948",
+            "label": "AWS"
+          },
+          {
+            "number": "1110007",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7030,6 +10550,14 @@
           {
             "number": "18886818",
             "label": "Position Light"
+          },
+          {
+            "number": "18886815",
+            "label": "AWS"
+          },
+          {
+            "number": "18886822",
+            "label": "TPWS"
           }
         ]
       },
@@ -7047,7 +10575,24 @@
         "name": "GR853",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886943"
+        "equipment_number": [
+          {
+            "number": "18886943",
+            "label": "Signal"
+          },
+          {
+            "number": "18886939",
+            "label": "AWS"
+          },
+          {
+            "number": "18886927",
+            "label": "TPWS OT"
+          },
+          {
+            "number": "18886945",
+            "label": "TPWS OT"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7063,7 +10608,16 @@
         "name": "GR855",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886911"
+        "equipment_number": [
+          {
+            "number": "18886911",
+            "label": "Signal"
+          },
+          {
+            "number": "18886910",
+            "label": "AWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7087,6 +10641,14 @@
           {
             "number": "18886809",
             "label": "Position Light"
+          },
+          {
+            "number": "18886817",
+            "label": "AWS"
+          },
+          {
+            "number": "18886813",
+            "label": "TPWS"
           }
         ]
       },
@@ -7104,7 +10666,20 @@
         "name": "GR860",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886933"
+        "equipment_number": [
+          {
+            "number": "18886933",
+            "label": "Signal"
+          },
+          {
+            "number": "18886941",
+            "label": "AWS"
+          },
+          {
+            "number": "18886936",
+            "label": "TPWS"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7120,7 +10695,28 @@
         "name": "GR862",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886793"
+        "equipment_number": [
+          {
+            "number": "18886793",
+            "label": "Signal"
+          },
+          {
+            "number": "18886797",
+            "label": "AWS"
+          },
+          {
+            "number": "18886795",
+            "label": "TPWS 1"
+          },
+          {
+            "number": "18886799",
+            "label": "TPWS 2"
+          },
+          {
+            "number": "18886794",
+            "label": "TPWS OT"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
