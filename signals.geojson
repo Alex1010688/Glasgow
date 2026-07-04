@@ -12315,8 +12315,7 @@
       "properties": {
         "name": "Gantry A",
         "type": "Signals",
-        "notes": "GG5520 GG5522 GG5524 GG5526 GG5528 GG5530 GG5532 GG5533 GG5531 GG5539 GG5527 GG5525 GG5523 GG5521",
-        "always_label": true
+        "notes": "GG5520 GG5522 GG5524 GG5526 GG5528 GG5530 GG5532 GG5533 GG5531 GG5539 GG5527 GG5525 GG5523 GG5521"
       },
       "geometry": {
         "type": "LineString",
@@ -12337,8 +12336,7 @@
       "properties": {
         "name": "Gantry B",
         "type": "Signals",
-        "notes": "GG5484 GG5486 GG5489 GG5487",
-        "always_label": true
+        "notes": "GG5484 GG5486 GG5489 GG5487"
       },
       "geometry": {
         "type": "LineString",
@@ -12359,8 +12357,7 @@
       "properties": {
         "name": "Gantry C",
         "type": "Signals",
-        "notes": "GG5284 GG5288 GG5290 GG5285 GG5283 GG5281",
-        "always_label": true
+        "notes": "GG5284 GG5288 GG5290 GG5285 GG5283 GG5281"
       },
       "geometry": {
         "type": "LineString",
@@ -12381,8 +12378,7 @@
       "properties": {
         "name": "Gantry D",
         "type": "Signals",
-        "notes": "GG5490 GG5483 GG5481",
-        "always_label": true
+        "notes": "GG5490 GG5483 GG5481"
       },
       "geometry": {
         "type": "LineString",
@@ -12403,8 +12399,7 @@
       "properties": {
         "name": "Gantry E",
         "type": "Signals",
-        "notes": "GG5464 GG5466 GG5470 GG5469 GG5467",
-        "always_label": true
+        "notes": "GG5464 GG5466 GG5470 GG5469 GG5467"
       },
       "geometry": {
         "type": "LineString",
@@ -12425,8 +12420,7 @@
       "properties": {
         "name": "Gantry F",
         "type": "Signals",
-        "notes": "GG5264 GG5268 GG5270 GG5265 GG5263 GG5261",
-        "always_label": true
+        "notes": "GG5264 GG5268 GG5270 GG5265 GG5263 GG5261"
       },
       "geometry": {
         "type": "LineString",
@@ -12447,8 +12441,7 @@
       "properties": {
         "name": "Gantry G",
         "type": "Signals",
-        "notes": "GG5244 GG5248 GG5250 GG5249 GG5245 GG5243 GG5241",
-        "always_label": true
+        "notes": "GG5244 GG5248 GG5250 GG5249 GG5245 GG5243 GG5241"
       },
       "geometry": {
         "type": "LineString",
@@ -12469,8 +12462,7 @@
       "properties": {
         "name": "Gantry H",
         "type": "Signals",
-        "notes": "GG5229 GG5225 GG5223 GG5221",
-        "always_label": true
+        "notes": "GG5229 GG5225 GG5223 GG5221"
       },
       "geometry": {
         "type": "LineString",
@@ -12491,8 +12483,7 @@
       "properties": {
         "name": "Gantry I",
         "type": "Signals",
-        "notes": "GG5224 GG5228",
-        "always_label": true
+        "notes": "GG5224 GG5228"
       },
       "geometry": {
         "type": "LineString",
@@ -12513,8 +12504,7 @@
       "properties": {
         "name": "Gantry",
         "type": "Signals",
-        "notes": "GR865 GR860 GR862",
-        "always_label": true
+        "notes": "GR865 GR860 GR862"
       },
       "geometry": {
         "type": "LineString",
@@ -12535,8 +12525,7 @@
       "properties": {
         "name": "Gantry",
         "type": "Signals",
-        "notes": "GR851 GR853 GR855",
-        "always_label": true
+        "notes": "GR851 GR853 GR855"
       },
       "geometry": {
         "type": "LineString",
@@ -12557,8 +12546,7 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR828 GR832",
-        "always_label": true
+        "notes": "GR828 GR832"
       },
       "geometry": {
         "type": "LineString",
@@ -12579,8 +12567,7 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR844 GR846",
-        "always_label": true
+        "notes": "GR844 GR846"
       },
       "geometry": {
         "type": "LineString",
@@ -12601,8 +12588,7 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR811 GR813",
-        "always_label": true
+        "notes": "GR811 GR813"
       },
       "geometry": {
         "type": "LineString",
@@ -12623,8 +12609,7 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR781 GR783",
-        "always_label": true
+        "notes": "GR781 GR783"
       },
       "geometry": {
         "type": "LineString",
@@ -12645,8 +12630,7 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR755 GR757",
-        "always_label": true
+        "notes": "GR755 GR757"
       },
       "geometry": {
         "type": "LineString",
@@ -12667,8 +12651,7 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GG5205 GG5203",
-        "always_label": true
+        "notes": "GG5205 GG5203"
       },
       "geometry": {
         "type": "LineString",
@@ -12689,8 +12672,7 @@
       "properties": {
         "name": "Gantry",
         "type": "Signals",
-        "notes": "GG5215 GG5213",
-        "always_label": true
+        "notes": "GG5215 GG5213"
       },
       "geometry": {
         "type": "LineString",
@@ -12711,8 +12693,7 @@
       "properties": {
         "name": "Gantry M",
         "type": "Signals",
-        "notes": "GS5855 GS5857 GS5852 GS5850",
-        "always_label": true
+        "notes": "GS5855 GS5857 GS5852 GS5850"
       },
       "geometry": {
         "type": "LineString",
@@ -12733,8 +12714,7 @@
       "properties": {
         "name": "Gantry J",
         "type": "Signals",
-        "notes": "GG5831 GG5833",
-        "always_label": true
+        "notes": "GG5831 GG5833"
       },
       "geometry": {
         "type": "LineString",
@@ -12755,8 +12735,7 @@
       "properties": {
         "name": "Gantry F",
         "type": "Signals",
-        "notes": "GG5832 GG5830",
-        "always_label": true
+        "notes": "GG5832 GG5830"
       },
       "geometry": {
         "type": "LineString",
@@ -12777,8 +12756,7 @@
       "properties": {
         "name": "Gantry L",
         "type": "Signals",
-        "notes": "GG5835 GG5837",
-        "always_label": true
+        "notes": "GG5835 GG5837"
       },
       "geometry": {
         "type": "LineString",
@@ -12799,8 +12777,7 @@
       "properties": {
         "name": "Gantry 1",
         "type": "Signals",
-        "notes": "GS5860 GS5862 GS5864 GS5861 GS5863 GS5865",
-        "always_label": true
+        "notes": "GS5860 GS5862 GS5864 GS5861 GS5863 GS5865"
       },
       "geometry": {
         "type": "LineString",
@@ -12821,8 +12798,7 @@
       "properties": {
         "name": "Gantry 2A",
         "type": "Signals",
-        "notes": "GS5871 GS5873 GS5875",
-        "always_label": true
+        "notes": "GS5871 GS5873 GS5875"
       },
       "geometry": {
         "type": "LineString",
@@ -12843,8 +12819,7 @@
       "properties": {
         "name": "Gantry 2B",
         "type": "Signals",
-        "notes": "GS5870 GS5872 GS5874",
-        "always_label": true
+        "notes": "GS5870 GS5872 GS5874"
       },
       "geometry": {
         "type": "LineString",
@@ -12865,8 +12840,7 @@
       "properties": {
         "name": "Gantry 3A",
         "type": "Signals",
-        "notes": "GS5881 GS5883 GS5885",
-        "always_label": true
+        "notes": "GS5881 GS5883 GS5885"
       },
       "geometry": {
         "type": "LineString",
@@ -12887,8 +12861,7 @@
       "properties": {
         "name": "Gantry 3B",
         "type": "Signals",
-        "notes": "GS5880 GS5882 GS5884",
-        "always_label": true
+        "notes": "GS5880 GS5882 GS5884"
       },
       "geometry": {
         "type": "LineString",
@@ -12909,8 +12882,7 @@
       "properties": {
         "name": "Gantry 4A",
         "type": "Signals",
-        "notes": "GS5891 GS5893 GS5895",
-        "always_label": true
+        "notes": "GS5891 GS5893 GS5895"
       },
       "geometry": {
         "type": "LineString",
@@ -12931,8 +12903,7 @@
       "properties": {
         "name": "Gantry 4B",
         "type": "Signals",
-        "notes": "GS5890 GS5892 GS5894",
-        "always_label": true
+        "notes": "GS5890 GS5892 GS5894"
       },
       "geometry": {
         "type": "LineString",
@@ -12953,8 +12924,7 @@
       "properties": {
         "name": "Gantry 5",
         "type": "Signals",
-        "notes": "GS5900 GS5902 GS5904",
-        "always_label": true
+        "notes": "GS5900 GS5902 GS5904"
       },
       "geometry": {
         "type": "LineString",
@@ -12975,8 +12945,7 @@
       "properties": {
         "name": "Gantry 7",
         "type": "Signals",
-        "notes": "GS5910 GS5912 GS5914 GS5911 GS5913 GS5915",
-        "always_label": true
+        "notes": "GS5910 GS5912 GS5914 GS5911 GS5913 GS5915"
       },
       "geometry": {
         "type": "LineString",
@@ -12997,8 +12966,7 @@
       "properties": {
         "name": "Gantry 8",
         "type": "Signals",
-        "notes": "GG5921 GG5923 GG5925 GG5920 GG5922 GG5924",
-        "always_label": true
+        "notes": "GG5921 GG5923 GG5925 GG5920 GG5922 GG5924"
       },
       "geometry": {
         "type": "LineString",
