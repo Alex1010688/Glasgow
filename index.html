@@ -892,42 +892,42 @@
           continue;
         }
 
-        var linkText = "Open MyIM asset profile";
+        var linkText = "Open MyIM asset";
 
         if (assetType === "axle counters" || assetType === "axle counter") {
           if (equipmentName) {
-            linkText = "Open MyIM axle counter " + equipmentName + " head profile";
+            linkText = "Open MyIM axle counter " + equipmentName + " head";
           } else if (entries.length > 1) {
-            linkText = "Open MyIM axle counter head profile " + (i + 1);
+            linkText = "Open MyIM axle counter head " + (i + 1);
           } else {
-            linkText = "Open MyIM axle counter head profile";
+            linkText = "Open MyIM axle counter head";
           }
         } else if (assetType === "treadles" || assetType === "treadle") {
           if (equipmentName) {
-            linkText = "Open MyIM treadle " + equipmentName + " profile";
+            linkText = "Open MyIM treadle " + equipmentName;
           } else if (entries.length > 1) {
-            linkText = "Open MyIM treadle profile " + (i + 1);
+            linkText = "Open MyIM treadle " + (i + 1);
           } else {
-            linkText = "Open MyIM treadle profile";
+            linkText = "Open MyIM treadle";
           }
         } else if (assetType === "tracks" || assetType === "track") {
-          linkText = "Open MyIM track profile";
+          linkText = "Open MyIM track";
         } else if (assetType === "points" || assetType === "point") {
-          linkText = "Open MyIM point profile";
+          linkText = "Open MyIM point";
         } else if (assetType === "signals" || assetType === "signal") {
           if (equipmentName && equipmentName.toLowerCase() === "signal") {
-            linkText = "Open MyIM signal profile";
+            linkText = "Open MyIM signal";
           } else if (equipmentName) {
-            linkText = "Open MyIM " + equipmentName + " signal profile";
+            linkText = "Open MyIM " + equipmentName;
           } else if (entries.length > 1) {
-            linkText = "Open MyIM signal profile " + (i + 1);
+            linkText = "Open MyIM signal " + (i + 1);
           } else {
-            linkText = "Open MyIM signal profile";
+            linkText = "Open MyIM signal";
           }
         } else if (equipmentName) {
-          linkText = "Open MyIM " + equipmentName + " asset profile";
+          linkText = "Open MyIM " + equipmentName + " asset";
         } else if (entries.length > 1) {
-          linkText = "Open MyIM asset profile " + (i + 1);
+          linkText = "Open MyIM asset " + (i + 1);
         }
 
         html += `
