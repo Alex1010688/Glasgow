@@ -15,6 +15,10 @@
           {
             "number": "7896525",
             "label": "TPWS"
+          },
+          {
+            "number": "7923399",
+            "label": "SPTs"
           }
         ]
       },
@@ -77,6 +81,10 @@
           {
             "number": "7896526",
             "label": "TPWS"
+          },
+          {
+            "number": "7923401",
+            "label": "SPTs"
           }
         ]
       },
@@ -110,6 +118,10 @@
           {
             "number": "7896520",
             "label": "TPWS"
+          },
+          {
+            "number": "7923402",
+            "label": "SPTs"
           }
         ]
       },
@@ -143,6 +155,10 @@
           {
             "number": "7896521",
             "label": "TPWS"
+          },
+          {
+            "number": "7923403",
+            "label": "SPTs"
           }
         ]
       },
@@ -205,6 +221,10 @@
           {
             "number": "7896528",
             "label": "TPWS"
+          },
+          {
+            "number": "7923405",
+            "label": "SPTs"
           }
         ]
       },
@@ -238,6 +258,10 @@
           {
             "number": "7896511",
             "label": "AWS YE"
+          },
+          {
+            "number": "7923406",
+            "label": "SPTs"
           }
         ]
       },
@@ -267,6 +291,10 @@
           {
             "number": "7896529",
             "label": "TPWS"
+          },
+          {
+            "number": "7923407",
+            "label": "SPTs"
           }
         ]
       },
@@ -300,6 +328,10 @@
           {
             "number": "7896530",
             "label": "TPWS"
+          },
+          {
+            "number": "7923409",
+            "label": "SPTs"
           }
         ]
       },
@@ -317,7 +349,16 @@
         "name": "GB5140",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "15706363"
+        "equipment_number": [
+          {
+            "number": "15706363",
+            "label": "Signal"
+          },
+          {
+            "number": "7923408",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -345,6 +386,10 @@
           {
             "number": "7896531",
             "label": "TPWS"
+          },
+          {
+            "number": "7923410",
+            "label": "SPTs"
           }
         ]
       },
@@ -420,6 +465,10 @@
           {
             "number": "7896505",
             "label": "AWS"
+          },
+          {
+            "number": "7923411",
+            "label": "SPTs"
           }
         ]
       },
@@ -445,6 +494,10 @@
           {
             "number": "7896503",
             "label": "AWS"
+          },
+          {
+            "number": "7923412",
+            "label": "SPTs"
           }
         ]
       },
@@ -499,6 +552,10 @@
           {
             "number": "7896523",
             "label": "TPWS"
+          },
+          {
+            "number": "7923413",
+            "label": "SPTs"
           }
         ]
       },
@@ -524,6 +581,14 @@
           {
             "number": "7890483",
             "label": "AWS"
+          },
+          {
+            "number": "19473820",
+            "label": "SPTs"
+          },
+          {
+            "number": "7923414",
+            "label": "SPTs"
           }
         ]
       },
@@ -553,6 +618,10 @@
           {
             "number": "7890400",
             "label": "TPWS"
+          },
+          {
+            "number": "7923421",
+            "label": "SPTs"
           }
         ]
       },
@@ -590,6 +659,10 @@
           {
             "number": "7890399",
             "label": "TPWS TS"
+          },
+          {
+            "number": "7923420",
+            "label": "SPTs"
           }
         ]
       },
@@ -615,6 +688,10 @@
           {
             "number": "7890472",
             "label": "AWS"
+          },
+          {
+            "number": "7923419",
+            "label": "SPTs"
           }
         ]
       },
@@ -640,6 +717,10 @@
           {
             "number": "7890471",
             "label": "AWS"
+          },
+          {
+            "number": "7923418",
+            "label": "SPTs"
           }
         ]
       },
@@ -656,7 +737,8 @@
       "properties": {
         "name": "GB5162",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "19473821"
       },
       "geometry": {
         "type": "Point",
@@ -680,6 +762,14 @@
           {
             "number": "7890484",
             "label": "AWS"
+          },
+          {
+            "number": "19473819",
+            "label": "SPTs"
+          },
+          {
+            "number": "7923415",
+            "label": "SPTs"
           }
         ]
       },
@@ -705,6 +795,10 @@
           {
             "number": "7890485",
             "label": "AWS"
+          },
+          {
+            "number": "7923416",
+            "label": "SPTs"
           }
         ]
       },
@@ -730,6 +824,10 @@
           {
             "number": "7890486",
             "label": "AWS"
+          },
+          {
+            "number": "7923417",
+            "label": "SPTs"
           }
         ]
       },
@@ -759,6 +857,10 @@
           {
             "number": "7890401",
             "label": "TPWS"
+          },
+          {
+            "number": "7923422",
+            "label": "SPTs"
           }
         ]
       },
@@ -784,6 +886,10 @@
           {
             "number": "7890477",
             "label": "AWS"
+          },
+          {
+            "number": "7923424",
+            "label": "SPTs"
           }
         ]
       },
@@ -809,6 +915,10 @@
           {
             "number": "7890476",
             "label": "AWS"
+          },
+          {
+            "number": "7923423",
+            "label": "SPTs"
           }
         ]
       },
@@ -838,6 +948,10 @@
           {
             "number": "7890402",
             "label": "TPWS"
+          },
+          {
+            "number": "7923425",
+            "label": "SPTs"
           }
         ]
       },
@@ -867,6 +981,10 @@
           {
             "number": "7890480",
             "label": "AWS YS"
+          },
+          {
+            "number": "7923426",
+            "label": "SPTs"
           }
         ]
       },
@@ -892,6 +1010,14 @@
           {
             "number": "19836533",
             "label": "TPWS"
+          },
+          {
+            "number": "18992390",
+            "label": "SPTs"
+          },
+          {
+            "number": "7923429",
+            "label": "SPTs"
           }
         ]
       },
@@ -908,7 +1034,8 @@
       "properties": {
         "name": "GB5181",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "7923431"
       },
       "geometry": {
         "type": "Point",
@@ -959,6 +1086,10 @@
           {
             "number": "7887637",
             "label": "TPWS"
+          },
+          {
+            "number": "7923434",
+            "label": "SPTs"
           }
         ]
       },
@@ -988,6 +1119,10 @@
           {
             "number": "7887635",
             "label": "TPWS"
+          },
+          {
+            "number": "7923430",
+            "label": "SPTs"
           }
         ]
       },
@@ -1030,7 +1165,16 @@
         "name": "GB5186",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7887628"
+        "equipment_number": [
+          {
+            "number": "7887628",
+            "label": "Signal"
+          },
+          {
+            "number": "7923435",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1058,6 +1202,10 @@
           {
             "number": "7887636",
             "label": "TPWS"
+          },
+          {
+            "number": "7923433",
+            "label": "SPTs"
           }
         ]
       },
@@ -1075,7 +1223,16 @@
         "name": "GS5908",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162292"
+        "equipment_number": [
+          {
+            "number": "3162292",
+            "label": "Signal"
+          },
+          {
+            "number": "3304570",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1099,6 +1256,10 @@
           {
             "number": "3162291",
             "label": "Position Light"
+          },
+          {
+            "number": "3304551",
+            "label": "SPTs"
           }
         ]
       },
@@ -1124,6 +1285,10 @@
           {
             "number": "762635",
             "label": "TPWS"
+          },
+          {
+            "number": "3304544",
+            "label": "SPTs"
           }
         ]
       },
@@ -1149,6 +1314,10 @@
           {
             "number": "2907789",
             "label": "AWS"
+          },
+          {
+            "number": "18992452",
+            "label": "SPTs"
           }
         ]
       },
@@ -1193,6 +1362,10 @@
           {
             "number": "18886902",
             "label": "TPWS"
+          },
+          {
+            "number": "18992450",
+            "label": "SPTs"
           }
         ]
       },
@@ -1210,7 +1383,16 @@
         "name": "GR873",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18822810"
+        "equipment_number": [
+          {
+            "number": "18822810",
+            "label": "Signal"
+          },
+          {
+            "number": "18992469",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1226,7 +1408,16 @@
         "name": "GR874",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18822811"
+        "equipment_number": [
+          {
+            "number": "18822811",
+            "label": "Signal"
+          },
+          {
+            "number": "18992470",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1242,7 +1433,16 @@
         "name": "GR872",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18822809"
+        "equipment_number": [
+          {
+            "number": "18822809",
+            "label": "Signal"
+          },
+          {
+            "number": "18992468",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1270,6 +1470,10 @@
           {
             "number": "18886762",
             "label": "TPWS"
+          },
+          {
+            "number": "18992467",
+            "label": "SPTs"
           }
         ]
       },
@@ -1287,7 +1491,20 @@
         "name": "GR865",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886890"
+        "equipment_number": [
+          {
+            "number": "18886890",
+            "label": "Signal"
+          },
+          {
+            "number": "18992449",
+            "label": "SPTs"
+          },
+          {
+            "number": "18887086",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1303,7 +1520,20 @@
         "name": "GR864",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886891"
+        "equipment_number": [
+          {
+            "number": "18886891",
+            "label": "Signal"
+          },
+          {
+            "number": "18992448",
+            "label": "SPTs"
+          },
+          {
+            "number": "18887087",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1327,6 +1557,10 @@
           {
             "number": "1696572",
             "label": "AWS"
+          },
+          {
+            "number": "18992437",
+            "label": "SPTs"
           }
         ]
       },
@@ -1352,6 +1586,10 @@
           {
             "number": "1110001",
             "label": "TPWS"
+          },
+          {
+            "number": "18992443",
+            "label": "SPTs"
           }
         ]
       },
@@ -1381,6 +1619,10 @@
           {
             "number": "18886837",
             "label": "AWS"
+          },
+          {
+            "number": "18992438",
+            "label": "SPTs"
           }
         ]
       },
@@ -1414,6 +1656,14 @@
           {
             "number": "18886948",
             "label": "AWS"
+          },
+          {
+            "number": "2586499",
+            "label": "SPTs"
+          },
+          {
+            "number": "18992440",
+            "label": "SPTs"
           }
         ]
       },
@@ -1431,7 +1681,16 @@
         "name": "GR835",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804338"
+        "equipment_number": [
+          {
+            "number": "18804338",
+            "label": "Signal"
+          },
+          {
+            "number": "18992439",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1479,7 +1738,20 @@
         "name": "GR823",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833656"
+        "equipment_number": [
+          {
+            "number": "18833656",
+            "label": "Signal"
+          },
+          {
+            "number": "2586497",
+            "label": "SPTs"
+          },
+          {
+            "number": "18992435",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1495,7 +1767,16 @@
         "name": "GR818",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "1387596"
+        "equipment_number": [
+          {
+            "number": "1387596",
+            "label": "Signal"
+          },
+          {
+            "number": "18992434",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1531,6 +1812,10 @@
           {
             "number": "762861",
             "label": "TPWS"
+          },
+          {
+            "number": "18992433",
+            "label": "SPTs"
           }
         ]
       },
@@ -1564,6 +1849,14 @@
           {
             "number": "1387864",
             "label": "TPWS TS"
+          },
+          {
+            "number": "1350985",
+            "label": "SPTs"
+          },
+          {
+            "number": "18992428",
+            "label": "SPTs"
           }
         ]
       },
@@ -1593,6 +1886,10 @@
           {
             "number": "1109982",
             "label": "TPWS"
+          },
+          {
+            "number": "18992429",
+            "label": "SPTs"
           }
         ]
       },
@@ -1622,6 +1919,10 @@
           {
             "number": "18886885",
             "label": "TPWS TS"
+          },
+          {
+            "number": "18992430",
+            "label": "SPTs"
           }
         ]
       },
@@ -1639,7 +1940,20 @@
         "name": "GR808",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804357"
+        "equipment_number": [
+          {
+            "number": "18804357",
+            "label": "Signal"
+          },
+          {
+            "number": "18992427",
+            "label": "SPTs"
+          },
+          {
+            "number": "2586492",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1655,7 +1969,20 @@
         "name": "GR800",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804350"
+        "equipment_number": [
+          {
+            "number": "18804350",
+            "label": "Signal"
+          },
+          {
+            "number": "1350986",
+            "label": "SPTs"
+          },
+          {
+            "number": "18992426",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +1998,16 @@
         "name": "GR798",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804354"
+        "equipment_number": [
+          {
+            "number": "18804354",
+            "label": "Signal"
+          },
+          {
+            "number": "18992425",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1687,7 +2023,16 @@
         "name": "GR794",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804352"
+        "equipment_number": [
+          {
+            "number": "18804352",
+            "label": "Signal"
+          },
+          {
+            "number": "18992424",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1715,6 +2060,10 @@
           {
             "number": "762879",
             "label": "TPWS"
+          },
+          {
+            "number": "18992422",
+            "label": "SPTs"
           }
         ]
       },
@@ -1748,6 +2097,10 @@
           {
             "number": "762866",
             "label": "TPWS"
+          },
+          {
+            "number": "18992423",
+            "label": "SPTs"
           }
         ]
       },
@@ -1797,6 +2150,10 @@
           {
             "number": "1418205",
             "label": "TPWS TS"
+          },
+          {
+            "number": "18992419",
+            "label": "SPTs"
           }
         ]
       },
@@ -1814,7 +2171,16 @@
         "name": "GR791",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778515"
+        "equipment_number": [
+          {
+            "number": "18778515",
+            "label": "Signal"
+          },
+          {
+            "number": "18992418",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1830,7 +2196,16 @@
         "name": "GR788",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804328"
+        "equipment_number": [
+          {
+            "number": "18804328",
+            "label": "Signal"
+          },
+          {
+            "number": "18992417",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1878,6 +2253,10 @@
           {
             "number": "762865",
             "label": "TPWS OT"
+          },
+          {
+            "number": "18992414",
+            "label": "SPTs"
           }
         ]
       },
@@ -1903,6 +2282,10 @@
           {
             "number": "762987",
             "label": "AWS"
+          },
+          {
+            "number": "18992415",
+            "label": "SPTs"
           }
         ]
       },
@@ -1936,6 +2319,10 @@
           {
             "number": "762743",
             "label": "TPWS"
+          },
+          {
+            "number": "18992416",
+            "label": "SPTs"
           }
         ]
       },
@@ -1953,7 +2340,16 @@
         "name": "GR775",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "760841"
+        "equipment_number": [
+          {
+            "number": "760841",
+            "label": "Signal"
+          },
+          {
+            "number": "18992413",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1969,7 +2365,16 @@
         "name": "GR774",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778500"
+        "equipment_number": [
+          {
+            "number": "18778500",
+            "label": "Signal"
+          },
+          {
+            "number": "18992411",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -1993,6 +2398,10 @@
           {
             "number": "18804349",
             "label": "Position Light"
+          },
+          {
+            "number": "18992412",
+            "label": "SPTs"
           }
         ]
       },
@@ -2010,7 +2419,16 @@
         "name": "GR766",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778543"
+        "equipment_number": [
+          {
+            "number": "18778543",
+            "label": "Signal"
+          },
+          {
+            "number": "18992410",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2042,6 +2460,10 @@
           {
             "number": "762864",
             "label": "TPWS"
+          },
+          {
+            "number": "18992408",
+            "label": "SPTs"
           }
         ]
       },
@@ -2071,6 +2493,10 @@
           {
             "number": "762863",
             "label": "TPWS"
+          },
+          {
+            "number": "18992409",
+            "label": "SPTs"
           }
         ]
       },
@@ -2100,6 +2526,10 @@
           {
             "number": "762644",
             "label": "TPWS"
+          },
+          {
+            "number": "18992403",
+            "label": "SPTs"
           }
         ]
       },
@@ -2133,6 +2563,10 @@
           {
             "number": "762753",
             "label": "TPWS"
+          },
+          {
+            "number": "18992404",
+            "label": "SPTs"
           }
         ]
       },
@@ -2166,6 +2600,10 @@
           {
             "number": "762768",
             "label": "TPWS"
+          },
+          {
+            "number": "18992405",
+            "label": "SPTs"
           }
         ]
       },
@@ -2195,6 +2633,10 @@
           {
             "number": "762765",
             "label": "TPWS"
+          },
+          {
+            "number": "18992399",
+            "label": "SPTs"
           }
         ]
       },
@@ -2224,6 +2666,10 @@
           {
             "number": "762766",
             "label": "TPWS"
+          },
+          {
+            "number": "18992400",
+            "label": "SPTs"
           }
         ]
       },
@@ -2253,6 +2699,10 @@
           {
             "number": "762767",
             "label": "TPWS"
+          },
+          {
+            "number": "18992401",
+            "label": "SPTs"
           }
         ]
       },
@@ -2278,6 +2728,10 @@
           {
             "number": "1696535",
             "label": "AWS"
+          },
+          {
+            "number": "18992398",
+            "label": "SPTs"
           }
         ]
       },
@@ -2332,6 +2786,10 @@
           {
             "number": "762651",
             "label": "TPWS"
+          },
+          {
+            "number": "18992393",
+            "label": "SPTs"
           }
         ]
       },
@@ -2349,7 +2807,16 @@
         "name": "GR721",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833633"
+        "equipment_number": [
+          {
+            "number": "18833633",
+            "label": "Signal"
+          },
+          {
+            "number": "18992392",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2373,6 +2840,10 @@
           {
             "number": "18778495",
             "label": "Main"
+          },
+          {
+            "number": "18992395",
+            "label": "SPTs"
           }
         ]
       },
@@ -2406,6 +2877,10 @@
           {
             "number": "762764",
             "label": "TPWS"
+          },
+          {
+            "number": "18992394",
+            "label": "SPTs"
           }
         ]
       },
@@ -2423,7 +2898,16 @@
         "name": "GR852",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804345"
+        "equipment_number": [
+          {
+            "number": "18804345",
+            "label": "Signal"
+          },
+          {
+            "number": "18992444",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2451,6 +2935,10 @@
           {
             "number": "1109947",
             "label": "TPWS"
+          },
+          {
+            "number": "18992465",
+            "label": "SPTs"
           }
         ]
       },
@@ -2480,6 +2968,10 @@
           {
             "number": "18886728",
             "label": "AWS"
+          },
+          {
+            "number": "18992466",
+            "label": "SPTs"
           }
         ]
       },
@@ -2496,7 +2988,8 @@
       "properties": {
         "name": "GR895",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "equipment_number": "18992464"
       },
       "geometry": {
         "type": "Point",
@@ -2512,7 +3005,16 @@
         "name": "GR892",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804375"
+        "equipment_number": [
+          {
+            "number": "18804375",
+            "label": "Signal"
+          },
+          {
+            "number": "18992463",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2528,7 +3030,16 @@
         "name": "GR894",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804377"
+        "equipment_number": [
+          {
+            "number": "18804377",
+            "label": "Signal"
+          },
+          {
+            "number": "18992462",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2556,6 +3067,10 @@
           {
             "number": "18886728",
             "label": "AWS"
+          },
+          {
+            "number": "18992461",
+            "label": "SPTs"
           }
         ]
       },
@@ -2589,6 +3104,10 @@
           {
             "number": "18886775",
             "label": "AWS"
+          },
+          {
+            "number": "18992460",
+            "label": "SPTs"
           }
         ]
       },
@@ -2618,6 +3137,10 @@
           {
             "number": "1110052",
             "label": "TPWS"
+          },
+          {
+            "number": "18992458",
+            "label": "SPTs"
           }
         ]
       },
@@ -2643,6 +3166,10 @@
           {
             "number": "1696587",
             "label": "AWS"
+          },
+          {
+            "number": "18992457",
+            "label": "SPTs"
           }
         ]
       },
@@ -2668,6 +3195,10 @@
           {
             "number": "18886730",
             "label": "Position Light"
+          },
+          {
+            "number": "18992456",
+            "label": "SPTs"
           }
         ]
       },
@@ -2685,7 +3216,16 @@
         "name": "GR890",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18804368"
+        "equipment_number": [
+          {
+            "number": "18804368",
+            "label": "Signal"
+          },
+          {
+            "number": "18992455",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2713,6 +3253,10 @@
           {
             "number": "1110053",
             "label": "TPWS"
+          },
+          {
+            "number": "18992454",
+            "label": "SPTs"
           }
         ]
       },
@@ -2738,6 +3282,10 @@
           {
             "number": "1693906",
             "label": "AWS"
+          },
+          {
+            "number": "18992453",
+            "label": "SPTs"
           }
         ]
       },
@@ -2763,6 +3311,10 @@
           {
             "number": "1387909",
             "label": "TPWS"
+          },
+          {
+            "number": "2643045",
+            "label": "SPTs"
           }
         ]
       },
@@ -2788,6 +3340,10 @@
           {
             "number": "1387908",
             "label": "TPWS"
+          },
+          {
+            "number": "2643046",
+            "label": "SPTs"
           }
         ]
       },
@@ -2813,6 +3369,10 @@
           {
             "number": "762756",
             "label": "TPWS"
+          },
+          {
+            "number": "2643089",
+            "label": "SPTs"
           }
         ]
       },
@@ -2830,7 +3390,16 @@
         "name": "GG5603",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2151385"
+        "equipment_number": [
+          {
+            "number": "2151385",
+            "label": "Signal"
+          },
+          {
+            "number": "2643088",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2846,7 +3415,16 @@
         "name": "GG5605",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2151462"
+        "equipment_number": [
+          {
+            "number": "2151462",
+            "label": "Signal"
+          },
+          {
+            "number": "2643047",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2886,6 +3464,10 @@
           {
             "number": "762711",
             "label": "TPWS"
+          },
+          {
+            "number": "2643049",
+            "label": "SPTs"
           }
         ]
       },
@@ -2911,6 +3493,10 @@
           {
             "number": "762698",
             "label": "TPWS"
+          },
+          {
+            "number": "2643050",
+            "label": "SPTs"
           }
         ]
       },
@@ -2928,7 +3514,16 @@
         "name": "GG5609",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2421906"
+        "equipment_number": [
+          {
+            "number": "2421906",
+            "label": "Signal"
+          },
+          {
+            "number": "2643051",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2944,7 +3539,16 @@
         "name": "GG5610",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2421907"
+        "equipment_number": [
+          {
+            "number": "2421907",
+            "label": "Signal"
+          },
+          {
+            "number": "2643052",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2960,7 +3564,16 @@
         "name": "GG5710",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642461"
+        "equipment_number": [
+          {
+            "number": "2642461",
+            "label": "Signal"
+          },
+          {
+            "number": "2643058",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -2976,7 +3589,16 @@
         "name": "GG5711",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2421882"
+        "equipment_number": [
+          {
+            "number": "2421882",
+            "label": "Signal"
+          },
+          {
+            "number": "2643092",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3000,6 +3622,10 @@
           {
             "number": "2829030",
             "label": "TPWS"
+          },
+          {
+            "number": "2829076",
+            "label": "SPTs"
           }
         ]
       },
@@ -3017,7 +3643,16 @@
         "name": "GG5811",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642462"
+        "equipment_number": [
+          {
+            "number": "2642462",
+            "label": "Signal"
+          },
+          {
+            "number": "2643093",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3041,6 +3676,10 @@
           {
             "number": "2829032",
             "label": "TPWS"
+          },
+          {
+            "number": "2829077",
+            "label": "SPTs"
           }
         ]
       },
@@ -3087,6 +3726,10 @@
           {
             "number": "1112843",
             "label": "TPWS"
+          },
+          {
+            "number": "2643054",
+            "label": "SPTs"
           }
         ]
       },
@@ -3112,6 +3755,10 @@
           {
             "number": "1112842",
             "label": "TPWS"
+          },
+          {
+            "number": "2829079",
+            "label": "SPTs"
           }
         ]
       },
@@ -3137,6 +3784,10 @@
           {
             "number": "1387913",
             "label": "TPWS"
+          },
+          {
+            "number": "2643090",
+            "label": "SPTs"
           }
         ]
       },
@@ -3170,7 +3821,16 @@
         "name": "GG5267",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642443"
+        "equipment_number": [
+          {
+            "number": "2642443",
+            "label": "Signal"
+          },
+          {
+            "number": "2643082",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3186,7 +3846,16 @@
         "name": "GG5269",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642444"
+        "equipment_number": [
+          {
+            "number": "2642444",
+            "label": "Signal"
+          },
+          {
+            "number": "2643083",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3218,7 +3887,16 @@
         "name": "GG5468",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642448"
+        "equipment_number": [
+          {
+            "number": "2642448",
+            "label": "Signal"
+          },
+          {
+            "number": "2643039",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3234,7 +3912,16 @@
         "name": "GG5260",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642441"
+        "equipment_number": [
+          {
+            "number": "2642441",
+            "label": "Signal"
+          },
+          {
+            "number": "2643030",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3278,6 +3965,10 @@
           {
             "number": "1388009",
             "label": "TPWS"
+          },
+          {
+            "number": "2643021",
+            "label": "SPTs"
           }
         ]
       },
@@ -3303,6 +3994,10 @@
           {
             "number": "1387936",
             "label": "AWS"
+          },
+          {
+            "number": "2643017",
+            "label": "SPTs"
           }
         ]
       },
@@ -3328,6 +4023,10 @@
           {
             "number": "1696324",
             "label": "AWS"
+          },
+          {
+            "number": "2643018",
+            "label": "SPTs"
           }
         ]
       },
@@ -3361,6 +4060,10 @@
           {
             "number": "2642490",
             "label": "TPWS"
+          },
+          {
+            "number": "2643063",
+            "label": "SPTs"
           }
         ]
       },
@@ -3390,6 +4093,10 @@
           {
             "number": "3178266",
             "label": "TPWS"
+          },
+          {
+            "number": "3303532",
+            "label": "SPTs"
           }
         ]
       },
@@ -3419,6 +4126,10 @@
           {
             "number": "762878",
             "label": "TPWS"
+          },
+          {
+            "number": "2643067",
+            "label": "SPTs"
           }
         ]
       },
@@ -3444,6 +4155,10 @@
           {
             "number": "3178056",
             "label": "AWS"
+          },
+          {
+            "number": "2643068",
+            "label": "SPTs"
           }
         ]
       },
@@ -3469,6 +4184,10 @@
           {
             "number": "1696313",
             "label": "AWS"
+          },
+          {
+            "number": "2643069",
+            "label": "SPTs"
           }
         ]
       },
@@ -3494,6 +4213,10 @@
           {
             "number": "3178058",
             "label": "AWS"
+          },
+          {
+            "number": "2643071",
+            "label": "SPTs"
           }
         ]
       },
@@ -3519,6 +4242,10 @@
           {
             "number": "1696315",
             "label": "AWS"
+          },
+          {
+            "number": "2643072",
+            "label": "SPTs"
           }
         ]
       },
@@ -3548,6 +4275,10 @@
           {
             "number": "762874",
             "label": "TPWS"
+          },
+          {
+            "number": "2643070",
+            "label": "SPTs"
           }
         ]
       },
@@ -3577,6 +4308,10 @@
           {
             "number": "3178269",
             "label": "TPWS"
+          },
+          {
+            "number": "3303533",
+            "label": "SPTs"
           }
         ]
       },
@@ -3602,6 +4337,10 @@
           {
             "number": "3178060",
             "label": "AWS"
+          },
+          {
+            "number": "3303467",
+            "label": "SPTs"
           }
         ]
       },
@@ -3631,6 +4370,10 @@
           {
             "number": "3178270",
             "label": "TPWS"
+          },
+          {
+            "number": "3303490",
+            "label": "SPTs"
           }
         ]
       },
@@ -3656,6 +4399,10 @@
           {
             "number": "3178095",
             "label": "AWS"
+          },
+          {
+            "number": "3303522",
+            "label": "SPTs"
           }
         ]
       },
@@ -3710,6 +4457,10 @@
           {
             "number": "3178307",
             "label": "TPWS"
+          },
+          {
+            "number": "3303523",
+            "label": "SPTs"
           }
         ]
       },
@@ -3755,6 +4506,10 @@
           {
             "number": "3178271",
             "label": "TPWS"
+          },
+          {
+            "number": "3303541",
+            "label": "SPTs"
           }
         ]
       },
@@ -3784,6 +4539,10 @@
           {
             "number": "2488471",
             "label": "TPWS"
+          },
+          {
+            "number": "3304571",
+            "label": "SPTs"
           }
         ]
       },
@@ -3813,6 +4572,10 @@
           {
             "number": "1388095",
             "label": "TPWS"
+          },
+          {
+            "number": "3304575",
+            "label": "SPTs"
           }
         ]
       },
@@ -3842,6 +4605,10 @@
           {
             "number": "1388084",
             "label": "TPWS"
+          },
+          {
+            "number": "3304573",
+            "label": "SPTs"
           }
         ]
       },
@@ -3867,6 +4634,10 @@
           {
             "number": "2642488",
             "label": "TPWS"
+          },
+          {
+            "number": "1369209",
+            "label": "SPTs"
           }
         ]
       },
@@ -3896,6 +4667,10 @@
           {
             "number": "762637",
             "label": "TPWS"
+          },
+          {
+            "number": "3304572",
+            "label": "SPTs"
           }
         ]
       },
@@ -3938,7 +4713,16 @@
         "name": "GS5941",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "1220127"
+        "equipment_number": [
+          {
+            "number": "1220127",
+            "label": "Signal"
+          },
+          {
+            "number": "3303631",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -3966,6 +4750,10 @@
           {
             "number": "762633",
             "label": "TPWS"
+          },
+          {
+            "number": "3303630",
+            "label": "SPTs"
           }
         ]
       },
@@ -3995,6 +4783,10 @@
           {
             "number": "3178273",
             "label": "TPWS"
+          },
+          {
+            "number": "3303626",
+            "label": "SPTs"
           }
         ]
       },
@@ -4020,6 +4812,10 @@
           {
             "number": "3178115",
             "label": "AWS"
+          },
+          {
+            "number": "3303625",
+            "label": "SPTs"
           }
         ]
       },
@@ -4049,6 +4845,10 @@
           {
             "number": "3178267",
             "label": "TPWS"
+          },
+          {
+            "number": "3303624",
+            "label": "SPTs"
           }
         ]
       },
@@ -4078,6 +4878,10 @@
           {
             "number": "3178268",
             "label": "TPWS"
+          },
+          {
+            "number": "3304662",
+            "label": "SPTs"
           }
         ]
       },
@@ -4111,6 +4915,10 @@
           {
             "number": "9199218",
             "label": "TPWS"
+          },
+          {
+            "number": "7923432",
+            "label": "SPTs"
           }
         ]
       },
@@ -4136,6 +4944,10 @@
           {
             "number": "18833634",
             "label": "TPWS"
+          },
+          {
+            "number": "18992391",
+            "label": "SPTs"
           }
         ]
       },
@@ -4190,6 +5002,10 @@
           {
             "number": "7887606",
             "label": "TPWS"
+          },
+          {
+            "number": "7923428",
+            "label": "SPTs"
           }
         ]
       },
@@ -4207,7 +5023,16 @@
         "name": "GS5943",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "1793275"
+        "equipment_number": [
+          {
+            "number": "1793275",
+            "label": "Signal"
+          },
+          {
+            "number": "3303670",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4243,6 +5068,10 @@
           {
             "number": "762844",
             "label": "TPWS OT"
+          },
+          {
+            "number": "3303695",
+            "label": "SPTs"
           }
         ]
       },
@@ -4272,6 +5101,10 @@
           {
             "number": "3178280",
             "label": "TPWS"
+          },
+          {
+            "number": "3304164",
+            "label": "SPTs"
           }
         ]
       },
@@ -4289,7 +5122,16 @@
         "name": "GS5944",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "1793283"
+        "equipment_number": [
+          {
+            "number": "1793283",
+            "label": "Signal"
+          },
+          {
+            "number": "3304086",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4321,6 +5163,10 @@
           {
             "number": "3178283",
             "label": "TPWS"
+          },
+          {
+            "number": "3304076",
+            "label": "SPTs"
           }
         ]
       },
@@ -4358,6 +5204,10 @@
           {
             "number": "3178284",
             "label": "TPWS OT"
+          },
+          {
+            "number": "3303696",
+            "label": "SPTs"
           }
         ]
       },
@@ -4375,7 +5225,16 @@
         "name": "GS5951",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162329"
+        "equipment_number": [
+          {
+            "number": "3162329",
+            "label": "Signal"
+          },
+          {
+            "number": "3303663",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4391,7 +5250,16 @@
         "name": "GS5952",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "760334"
+        "equipment_number": [
+          {
+            "number": "760334",
+            "label": "Signal"
+          },
+          {
+            "number": "3303664",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4407,7 +5275,16 @@
         "name": "GS5954",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "1602691"
+        "equipment_number": [
+          {
+            "number": "1602691",
+            "label": "Signal"
+          },
+          {
+            "number": "3303665",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4423,7 +5300,16 @@
         "name": "GS5956",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "1602700"
+        "equipment_number": [
+          {
+            "number": "1602700",
+            "label": "Signal"
+          },
+          {
+            "number": "3303667",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4451,6 +5337,10 @@
           {
             "number": "762632",
             "label": "TPWS"
+          },
+          {
+            "number": "3303668",
+            "label": "SPTs"
           }
         ]
       },
@@ -4468,7 +5358,16 @@
         "name": "GS5959",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162331"
+        "equipment_number": [
+          {
+            "number": "3162331",
+            "label": "Signal"
+          },
+          {
+            "number": "3303669",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -4492,6 +5391,10 @@
           {
             "number": "1180278",
             "label": "AWS"
+          },
+          {
+            "number": "2586444",
+            "label": "SPTs"
           }
         ]
       },
@@ -4546,6 +5449,10 @@
           {
             "number": "1180331",
             "label": "AWS SY"
+          },
+          {
+            "number": "2586447",
+            "label": "SPTs"
           }
         ]
       },
@@ -4604,6 +5511,10 @@
           {
             "number": "1180331",
             "label": "AWS"
+          },
+          {
+            "number": "2586452",
+            "label": "SPTs"
           }
         ]
       },
@@ -4633,6 +5544,10 @@
           {
             "number": "780441",
             "label": "AWS YE"
+          },
+          {
+            "number": "2586449",
+            "label": "SPTs"
           }
         ]
       },
@@ -4662,6 +5577,10 @@
           {
             "number": "1748465",
             "label": "AWS"
+          },
+          {
+            "number": "1748463",
+            "label": "SPTs"
           }
         ]
       },
@@ -4695,6 +5614,10 @@
           {
             "number": "762628",
             "label": "TPWS"
+          },
+          {
+            "number": "2586456",
+            "label": "SPTs"
           }
         ]
       },
@@ -4724,6 +5647,10 @@
           {
             "number": "1388088",
             "label": "TPWS"
+          },
+          {
+            "number": "2586454",
+            "label": "SPTs"
           }
         ]
       },
@@ -4836,6 +5763,10 @@
           {
             "number": "762630",
             "label": "TPWS"
+          },
+          {
+            "number": "2586668",
+            "label": "SPTs"
           }
         ]
       },
@@ -4952,6 +5883,10 @@
           {
             "number": "762857",
             "label": "TPWS"
+          },
+          {
+            "number": "18668261",
+            "label": "SPTs"
           }
         ]
       },
@@ -5031,6 +5966,10 @@
           {
             "number": "7896043",
             "label": "AWS"
+          },
+          {
+            "number": "7923437",
+            "label": "SPTs"
           }
         ]
       },
@@ -5056,6 +5995,10 @@
           {
             "number": "7896044",
             "label": "AWS"
+          },
+          {
+            "number": "7923438",
+            "label": "SPTs"
           }
         ]
       },
@@ -5081,6 +6024,10 @@
           {
             "number": "7896293",
             "label": "AWS"
+          },
+          {
+            "number": "7923440",
+            "label": "SPTs"
           }
         ]
       },
@@ -5106,6 +6053,10 @@
           {
             "number": "7896017",
             "label": "AWS"
+          },
+          {
+            "number": "7923439",
+            "label": "SPTs"
           }
         ]
       },
@@ -5131,6 +6082,10 @@
           {
             "number": "7896297",
             "label": "AWS"
+          },
+          {
+            "number": "7923442",
+            "label": "SPTs"
           }
         ]
       },
@@ -5156,6 +6111,10 @@
           {
             "number": "7896295",
             "label": "TPWS"
+          },
+          {
+            "number": "7923441",
+            "label": "SPTs"
           }
         ]
       },
@@ -5185,6 +6144,10 @@
           {
             "number": "7896013",
             "label": "TPWS"
+          },
+          {
+            "number": "7923443",
+            "label": "SPTs"
           }
         ]
       },
@@ -5214,6 +6177,10 @@
           {
             "number": "7896329",
             "label": "AWS YS"
+          },
+          {
+            "number": "7923444",
+            "label": "SPTs"
           }
         ]
       },
@@ -5243,6 +6210,10 @@
           {
             "number": "7896344",
             "label": "AWS YE"
+          },
+          {
+            "number": "7923445",
+            "label": "SPTs"
           }
         ]
       },
@@ -5272,6 +6243,10 @@
           {
             "number": "7896023",
             "label": "TPWS"
+          },
+          {
+            "number": "7923446",
+            "label": "SPTs"
           }
         ]
       },
@@ -5305,6 +6280,10 @@
           {
             "number": "7896301",
             "label": "TPWS"
+          },
+          {
+            "number": "7923449",
+            "label": "SPTs"
           }
         ]
       },
@@ -5334,6 +6313,10 @@
           {
             "number": "7896303",
             "label": "TPWS"
+          },
+          {
+            "number": "7923450",
+            "label": "SPTs"
           }
         ]
       },
@@ -5363,6 +6346,10 @@
           {
             "number": "7896024",
             "label": "TPWS"
+          },
+          {
+            "number": "7923451",
+            "label": "SPTs"
           }
         ]
       },
@@ -5392,6 +6379,10 @@
           {
             "number": "7889991",
             "label": "TPWS"
+          },
+          {
+            "number": "7923482",
+            "label": "SPTs"
           }
         ]
       },
@@ -5421,6 +6412,10 @@
           {
             "number": "7889992",
             "label": "TPWS"
+          },
+          {
+            "number": "7923485",
+            "label": "SPTs"
           }
         ]
       },
@@ -5450,6 +6445,10 @@
           {
             "number": "7889993",
             "label": "TPWS"
+          },
+          {
+            "number": "7923487",
+            "label": "SPTs"
           }
         ]
       },
@@ -5479,6 +6478,10 @@
           {
             "number": "7895360",
             "label": "TPWS"
+          },
+          {
+            "number": "7923488",
+            "label": "SPTs"
           }
         ]
       },
@@ -5504,6 +6507,10 @@
           {
             "number": "7890045",
             "label": "TPWS"
+          },
+          {
+            "number": "7923490",
+            "label": "SPTs"
           }
         ]
       },
@@ -5529,6 +6536,10 @@
           {
             "number": "7890057",
             "label": "AWS"
+          },
+          {
+            "number": "7923493",
+            "label": "SPTs"
           }
         ]
       },
@@ -5554,6 +6565,10 @@
           {
             "number": "7895296",
             "label": "AWS"
+          },
+          {
+            "number": "7923492",
+            "label": "SPTs"
           }
         ]
       },
@@ -5579,6 +6594,10 @@
           {
             "number": "7895298",
             "label": "AWS"
+          },
+          {
+            "number": "7923494",
+            "label": "SPTs"
           }
         ]
       },
@@ -5647,6 +6666,10 @@
           {
             "number": "7890044",
             "label": "TPWS"
+          },
+          {
+            "number": "7923489",
+            "label": "SPTs"
           }
         ]
       },
@@ -5680,6 +6703,10 @@
           {
             "number": "7890043",
             "label": "TPWS"
+          },
+          {
+            "number": "7923486",
+            "label": "SPTs"
           }
         ]
       },
@@ -5705,6 +6732,10 @@
           {
             "number": "7895292",
             "label": "AWS"
+          },
+          {
+            "number": "7923484",
+            "label": "SPTs"
           }
         ]
       },
@@ -5734,6 +6765,10 @@
           {
             "number": "7890042",
             "label": "TPWS"
+          },
+          {
+            "number": "7923481",
+            "label": "SPTs"
           }
         ]
       },
@@ -5763,6 +6798,10 @@
           {
             "number": "7895343",
             "label": "TPWS"
+          },
+          {
+            "number": "7923483",
+            "label": "SPTs"
           }
         ]
       },
@@ -5796,6 +6835,10 @@
           {
             "number": "7895318",
             "label": "TPWS"
+          },
+          {
+            "number": "7923480",
+            "label": "SPTs"
           }
         ]
       },
@@ -5825,6 +6868,10 @@
           {
             "number": "7895506",
             "label": "TPWS"
+          },
+          {
+            "number": "7923466",
+            "label": "SPTs"
           }
         ]
       },
@@ -5854,6 +6901,10 @@
           {
             "number": "7895502",
             "label": "TPWS"
+          },
+          {
+            "number": "7923465",
+            "label": "SPTs"
           }
         ]
       },
@@ -5879,6 +6930,10 @@
           {
             "number": "7895418",
             "label": "AWS"
+          },
+          {
+            "number": "7923464",
+            "label": "SPTs"
           }
         ]
       },
@@ -5908,6 +6963,10 @@
           {
             "number": "7895499",
             "label": "TPWS"
+          },
+          {
+            "number": "7923461",
+            "label": "SPTs"
           }
         ]
       },
@@ -5941,6 +7000,10 @@
           {
             "number": "7895500",
             "label": "TPWS"
+          },
+          {
+            "number": "7923462",
+            "label": "SPTs"
           }
         ]
       },
@@ -6045,6 +7108,10 @@
           {
             "number": "7895516",
             "label": "AWS"
+          },
+          {
+            "number": "7923459",
+            "label": "SPTs"
           }
         ]
       },
@@ -6070,6 +7137,10 @@
           {
             "number": "7895515",
             "label": "AWS"
+          },
+          {
+            "number": "7923458",
+            "label": "SPTs"
           }
         ]
       },
@@ -6145,6 +7216,10 @@
           {
             "number": "7895512",
             "label": "AWS"
+          },
+          {
+            "number": "7923457",
+            "label": "SPTs"
           }
         ]
       },
@@ -6170,6 +7245,10 @@
           {
             "number": "7895511",
             "label": "AWS"
+          },
+          {
+            "number": "7923456",
+            "label": "SPTs"
           }
         ]
       },
@@ -6220,6 +7299,10 @@
           {
             "number": "7895509",
             "label": "AWS"
+          },
+          {
+            "number": "7923455",
+            "label": "SPTs"
           }
         ]
       },
@@ -6249,6 +7332,10 @@
           {
             "number": "7895411",
             "label": "TPWS"
+          },
+          {
+            "number": "7923454",
+            "label": "SPTs"
           }
         ]
       },
@@ -6266,7 +7353,16 @@
         "name": "GC5045",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895388"
+        "equipment_number": [
+          {
+            "number": "7895388",
+            "label": "Signal"
+          },
+          {
+            "number": "7923453",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6310,6 +7406,10 @@
           {
             "number": "7890041",
             "label": "TPWS"
+          },
+          {
+            "number": "7923479",
+            "label": "SPTs"
           }
         ]
       },
@@ -6327,7 +7427,16 @@
         "name": "GC5082",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895342"
+        "equipment_number": [
+          {
+            "number": "7895342",
+            "label": "Signal"
+          },
+          {
+            "number": "7923478",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6351,6 +7460,10 @@
           {
             "number": "7890049",
             "label": "AWS"
+          },
+          {
+            "number": "7923477",
+            "label": "SPTs"
           }
         ]
       },
@@ -6380,6 +7493,10 @@
           {
             "number": "7895289",
             "label": "AWS SY"
+          },
+          {
+            "number": "7923476",
+            "label": "SPTs"
           }
         ]
       },
@@ -6405,6 +7522,10 @@
           {
             "number": "7890048",
             "label": "AWS"
+          },
+          {
+            "number": "7923475",
+            "label": "SPTs"
           }
         ]
       },
@@ -6430,6 +7551,10 @@
           {
             "number": "7895287",
             "label": "AWS"
+          },
+          {
+            "number": "7923474",
+            "label": "SPTs"
           }
         ]
       },
@@ -6455,6 +7580,10 @@
           {
             "number": "7890047",
             "label": "AWS"
+          },
+          {
+            "number": "7923473",
+            "label": "SPTs"
           }
         ]
       },
@@ -6480,6 +7609,10 @@
           {
             "number": "7895286",
             "label": "AWS"
+          },
+          {
+            "number": "7923472",
+            "label": "SPTs"
           }
         ]
       },
@@ -6505,6 +7638,10 @@
           {
             "number": "7890046",
             "label": "AWS"
+          },
+          {
+            "number": "7923471",
+            "label": "SPTs"
           }
         ]
       },
@@ -6522,7 +7659,16 @@
         "name": "GC5074",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895338"
+        "equipment_number": [
+          {
+            "number": "7895338",
+            "label": "Signal"
+          },
+          {
+            "number": "7923470",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6571,6 +7717,10 @@
           {
             "number": "7890058",
             "label": "AWS"
+          },
+          {
+            "number": "7923468",
+            "label": "SPTs"
           }
         ]
       },
@@ -6588,7 +7738,16 @@
         "name": "GB5070",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "15706359"
+        "equipment_number": [
+          {
+            "number": "15706359",
+            "label": "Signal"
+          },
+          {
+            "number": "7923467",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6612,6 +7771,10 @@
           {
             "number": "1696520",
             "label": "AWS"
+          },
+          {
+            "number": "3303615",
+            "label": "SPTs"
           }
         ]
       },
@@ -6629,7 +7792,20 @@
         "name": "GR750",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778501"
+        "equipment_number": [
+          {
+            "number": "18778501",
+            "label": "Signal"
+          },
+          {
+            "number": "18992402",
+            "label": "SPTs"
+          },
+          {
+            "number": "1351105",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6661,6 +7837,10 @@
           {
             "number": "7887638",
             "label": "TPWS"
+          },
+          {
+            "number": "7923436",
+            "label": "SPTs"
           }
         ]
       },
@@ -6686,6 +7866,10 @@
           {
             "number": "1696329",
             "label": "AWS"
+          },
+          {
+            "number": "2643016",
+            "label": "SPTs"
           }
         ]
       },
@@ -6719,6 +7903,10 @@
           {
             "number": "18886775",
             "label": "AWS"
+          },
+          {
+            "number": "18992441",
+            "label": "SPTs"
           }
         ]
       },
@@ -6736,7 +7924,16 @@
         "name": "GR888",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833630"
+        "equipment_number": [
+          {
+            "number": "18833630",
+            "label": "Signal"
+          },
+          {
+            "number": "18992459",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6760,6 +7957,10 @@
           {
             "number": "19002259",
             "label": "TPWS"
+          },
+          {
+            "number": "7923397",
+            "label": "SPTs"
           }
         ]
       },
@@ -6785,6 +7986,10 @@
           {
             "number": "19002255",
             "label": "TPWS"
+          },
+          {
+            "number": "7923398",
+            "label": "SPTs"
           }
         ]
       },
@@ -6802,7 +8007,16 @@
         "name": "GB5100",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "15706360"
+        "equipment_number": [
+          {
+            "number": "15706360",
+            "label": "Signal"
+          },
+          {
+            "number": "7923396",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6921,6 +8135,10 @@
           {
             "number": "7895507",
             "label": "AWS"
+          },
+          {
+            "number": "7923452",
+            "label": "SPTs"
           }
         ]
       },
@@ -6946,6 +8164,10 @@
           {
             "number": "7890060",
             "label": "AWS"
+          },
+          {
+            "number": "7923495",
+            "label": "SPTs"
           }
         ]
       },
@@ -6963,7 +8185,16 @@
         "name": "GC5057",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895401"
+        "equipment_number": [
+          {
+            "number": "7895401",
+            "label": "Signal"
+          },
+          {
+            "number": "7923460",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6987,6 +8218,10 @@
           {
             "number": "18886784",
             "label": "TPWS"
+          },
+          {
+            "number": "18992451",
+            "label": "SPTs"
           }
         ]
       },
@@ -7020,6 +8255,10 @@
           {
             "number": "7896519",
             "label": "TPWS"
+          },
+          {
+            "number": "7923400",
+            "label": "SPTs"
           }
         ]
       },
@@ -7172,6 +8411,10 @@
           {
             "number": "7896527",
             "label": "TPWS"
+          },
+          {
+            "number": "7923404",
+            "label": "SPTs"
           }
         ]
       },
@@ -7233,7 +8476,16 @@
         "name": "GG5460",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642445"
+        "equipment_number": [
+          {
+            "number": "2642445",
+            "label": "Signal"
+          },
+          {
+            "number": "2643036",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7249,7 +8501,16 @@
         "name": "GC5038",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7896042"
+        "equipment_number": [
+          {
+            "number": "7896042",
+            "label": "Signal"
+          },
+          {
+            "number": "7923447",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7277,6 +8538,10 @@
           {
             "number": "7895501",
             "label": "TPWS"
+          },
+          {
+            "number": "7923463",
+            "label": "SPTs"
           }
         ]
       },
@@ -7322,6 +8587,10 @@
           {
             "number": "1387912",
             "label": "TPWS"
+          },
+          {
+            "number": "2643087",
+            "label": "SPTs"
           }
         ]
       },
@@ -7347,6 +8616,10 @@
           {
             "number": "1387918",
             "label": "TPWS"
+          },
+          {
+            "number": "2643044",
+            "label": "SPTs"
           }
         ]
       },
@@ -7463,6 +8736,10 @@
           {
             "number": "19169786",
             "label": "TPWS"
+          },
+          {
+            "number": "2643091",
+            "label": "SPTs"
           }
         ]
       },
@@ -7492,6 +8769,10 @@
           {
             "number": "1387887",
             "label": "TPWS"
+          },
+          {
+            "number": "2643043",
+            "label": "SPTs"
           }
         ]
       },
@@ -7521,6 +8802,10 @@
           {
             "number": "1387914",
             "label": "TPWS"
+          },
+          {
+            "number": "2643042",
+            "label": "SPTs"
           }
         ]
       },
@@ -7695,6 +8980,10 @@
           {
             "number": "1387917",
             "label": "TPWS"
+          },
+          {
+            "number": "2643086",
+            "label": "SPTs"
           }
         ]
       },
@@ -7724,6 +9013,10 @@
           {
             "number": "1387892",
             "label": "TPWS"
+          },
+          {
+            "number": "2643041",
+            "label": "SPTs"
           }
         ]
       },
@@ -7891,7 +9184,16 @@
         "name": "GG5267",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642443"
+        "equipment_number": [
+          {
+            "number": "2642443",
+            "label": "Signal"
+          },
+          {
+            "number": "2643082",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7915,6 +9217,10 @@
           {
             "number": "1387894",
             "label": "TPWS"
+          },
+          {
+            "number": "2643035",
+            "label": "SPTs"
           }
         ]
       },
@@ -7940,6 +9246,10 @@
           {
             "number": "1387886",
             "label": "TPWS"
+          },
+          {
+            "number": "2643034",
+            "label": "SPTs"
           }
         ]
       },
@@ -7957,7 +9267,16 @@
         "name": "GG5284",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2459537"
+        "equipment_number": [
+          {
+            "number": "2459537",
+            "label": "Signal"
+          },
+          {
+            "number": "2643033",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7981,6 +9300,10 @@
           {
             "number": "1387900",
             "label": "TPWS"
+          },
+          {
+            "number": "2643040",
+            "label": "SPTs"
           }
         ]
       },
@@ -8072,6 +9395,10 @@
           {
             "number": "1112847",
             "label": "TPWS"
+          },
+          {
+            "number": "2643037",
+            "label": "SPTs"
           }
         ]
       },
@@ -8147,6 +9474,10 @@
           {
             "number": "1112839",
             "label": "TPWS"
+          },
+          {
+            "number": "2643038",
+            "label": "SPTs"
           }
         ]
       },
@@ -8294,6 +9625,10 @@
           {
             "number": "1112834",
             "label": "TPWS"
+          },
+          {
+            "number": "2643032",
+            "label": "SPTs"
           }
         ]
       },
@@ -8319,6 +9654,10 @@
           {
             "number": "1112848",
             "label": "TPWS"
+          },
+          {
+            "number": "2643027",
+            "label": "SPTs"
           }
         ]
       },
@@ -8336,7 +9675,16 @@
         "name": "GG5249",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642439"
+        "equipment_number": [
+          {
+            "number": "2642439",
+            "label": "Signal"
+          },
+          {
+            "number": "2643028",
+            "label": "SPTs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -8385,6 +9733,10 @@
           {
             "number": "1112860",
             "label": "TPWS"
+          },
+          {
+            "number": "2643029",
+            "label": "SPTs"
           }
         ]
       },
@@ -8418,6 +9770,10 @@
           {
             "number": "1112862",
             "label": "TPWS"
+          },
+          {
+            "number": "2643026",
+            "label": "SPTs"
           }
         ]
       },
@@ -8509,6 +9865,10 @@
           {
             "number": "1109985",
             "label": "TPWS"
+          },
+          {
+            "number": "2643023",
+            "label": "SPTs"
           }
         ]
       },
@@ -8604,6 +9964,10 @@
           {
             "number": "18833646",
             "label": "TPWS"
+          },
+          {
+            "number": "18992387",
+            "label": "SPTs"
           }
         ]
       },
@@ -8633,6 +9997,10 @@
           {
             "number": "18833647",
             "label": "TPWS"
+          },
+          {
+            "number": "2643024",
+            "label": "SPTs"
           }
         ]
       },
@@ -8723,6 +10091,10 @@
           {
             "number": "18833659",
             "label": "TPWS"
+          },
+          {
+            "number": "18992389",
+            "label": "SPTs"
           }
         ]
       },
@@ -8752,6 +10124,10 @@
           {
             "number": "1387869",
             "label": "TPWS"
+          },
+          {
+            "number": "18992388",
+            "label": "SPTs"
           }
         ]
       },
@@ -8777,6 +10153,10 @@
           {
             "number": "779754",
             "label": "AWS"
+          },
+          {
+            "number": "18992396",
+            "label": "SPTs"
           }
         ]
       },
@@ -8814,6 +10194,10 @@
           {
             "number": "18886803",
             "label": "TPWS"
+          },
+          {
+            "number": "18992397",
+            "label": "SPTs"
           }
         ]
       },
@@ -8839,6 +10223,10 @@
           {
             "number": "762657",
             "label": "TPWS"
+          },
+          {
+            "number": "2643060",
+            "label": "SPTs"
           }
         ]
       },
@@ -8864,6 +10252,10 @@
           {
             "number": "762656",
             "label": "TPWS"
+          },
+          {
+            "number": "2643062",
+            "label": "SPTs"
           }
         ]
       },
@@ -8897,6 +10289,10 @@
           {
             "number": "762654",
             "label": "TPWS"
+          },
+          {
+            "number": "2643061",
+            "label": "SPTs"
           }
         ]
       },
@@ -8930,6 +10326,10 @@
           {
             "number": "762655",
             "label": "TPWS"
+          },
+          {
+            "number": "2643059",
+            "label": "SPTs"
           }
         ]
       },
@@ -8959,6 +10359,10 @@
           {
             "number": "762653",
             "label": "TPWS"
+          },
+          {
+            "number": "2643064",
+            "label": "SPTs"
           }
         ]
       },
@@ -8984,6 +10388,10 @@
           {
             "number": "1388090",
             "label": "TPWS"
+          },
+          {
+            "number": "2643065",
+            "label": "SPTs"
           }
         ]
       },
@@ -9013,6 +10421,10 @@
           {
             "number": "3178274",
             "label": "TPWS"
+          },
+          {
+            "number": "3303466",
+            "label": "SPTs"
           }
         ]
       },
@@ -9046,6 +10458,10 @@
           {
             "number": "3178272",
             "label": "TPWS"
+          },
+          {
+            "number": "3303465",
+            "label": "SPTs"
           }
         ]
       },
@@ -9079,6 +10495,10 @@
           {
             "number": "3178275",
             "label": "TPWS OT"
+          },
+          {
+            "number": "3303464",
+            "label": "SPTs"
           }
         ]
       },
@@ -9104,6 +10524,10 @@
           {
             "number": "3178066",
             "label": "AWS"
+          },
+          {
+            "number": "3303462",
+            "label": "SPTs"
           }
         ]
       },
@@ -9129,6 +10553,10 @@
           {
             "number": "3178068",
             "label": "AWS"
+          },
+          {
+            "number": "3303491",
+            "label": "SPTs"
           }
         ]
       },
@@ -9203,6 +10631,10 @@
           {
             "number": "3178288",
             "label": "TPWS"
+          },
+          {
+            "number": "3303543",
+            "label": "SPTs"
           }
         ]
       },
@@ -9228,6 +10660,10 @@
           {
             "number": "3178073",
             "label": "AWS"
+          },
+          {
+            "number": "3303542",
+            "label": "SPTs"
           }
         ]
       },
@@ -9306,6 +10742,10 @@
           {
             "number": "3178286",
             "label": "TPWS OT"
+          },
+          {
+            "number": "3303493",
+            "label": "SPTs"
           }
         ]
       },
@@ -9335,6 +10775,10 @@
           {
             "number": "3178077",
             "label": "AWS 2"
+          },
+          {
+            "number": "3303495",
+            "label": "SPTs"
           }
         ]
       },
@@ -9397,6 +10841,10 @@
           {
             "number": "3178296",
             "label": "TPWS"
+          },
+          {
+            "number": "3303494",
+            "label": "SPTs"
           }
         ]
       },
@@ -9426,6 +10874,10 @@
           {
             "number": "3178081",
             "label": "AWS 2"
+          },
+          {
+            "number": "3303498",
+            "label": "SPTs"
           }
         ]
       },
@@ -9488,6 +10940,10 @@
           {
             "number": "3178298",
             "label": "TPWS"
+          },
+          {
+            "number": "3303496",
+            "label": "SPTs"
           }
         ]
       },
@@ -9517,6 +10973,10 @@
           {
             "number": "3178301",
             "label": "TPWS"
+          },
+          {
+            "number": "3303516",
+            "label": "SPTs"
           }
         ]
       },
@@ -9575,6 +11035,10 @@
           {
             "number": "19613104",
             "label": "TPWS"
+          },
+          {
+            "number": "3303514",
+            "label": "SPTs"
           }
         ]
       },
@@ -9600,6 +11064,10 @@
           {
             "number": "3178094",
             "label": "AWS"
+          },
+          {
+            "number": "3303518",
+            "label": "SPTs"
           }
         ]
       },
@@ -9658,6 +11126,10 @@
           {
             "number": "3178305",
             "label": "TPWS"
+          },
+          {
+            "number": "3303519",
+            "label": "SPTs"
           }
         ]
       },
@@ -9687,6 +11159,10 @@
           {
             "number": "19613104",
             "label": "TPWS"
+          },
+          {
+            "number": "3303514",
+            "label": "SPTs"
           }
         ]
       },
@@ -9745,6 +11221,10 @@
           {
             "number": "3178301",
             "label": "TPWS"
+          },
+          {
+            "number": "3303516",
+            "label": "SPTs"
           }
         ]
       },
@@ -9774,6 +11254,10 @@
           {
             "number": "3178305",
             "label": "TPWS"
+          },
+          {
+            "number": "3303519",
+            "label": "SPTs"
           }
         ]
       },
@@ -9828,6 +11312,10 @@
           {
             "number": "3178094",
             "label": "AWS"
+          },
+          {
+            "number": "3303518",
+            "label": "SPTs"
           }
         ]
       },
@@ -9853,6 +11341,10 @@
           {
             "number": "3178094",
             "label": "AWS"
+          },
+          {
+            "number": "3303518",
+            "label": "SPTs"
           }
         ]
       },
@@ -9903,6 +11395,10 @@
           {
             "number": "3178098",
             "label": "AWS"
+          },
+          {
+            "number": "3303521",
+            "label": "SPTs"
           }
         ]
       },
@@ -9928,6 +11424,10 @@
           {
             "number": "3178103",
             "label": "AWS"
+          },
+          {
+            "number": "3303527",
+            "label": "SPTs"
           }
         ]
       },
@@ -9978,6 +11478,10 @@
           {
             "number": "3178101",
             "label": "AWS"
+          },
+          {
+            "number": "3303525",
+            "label": "SPTs"
           }
         ]
       },
@@ -10003,6 +11507,10 @@
           {
             "number": "3178104",
             "label": "AWS"
+          },
+          {
+            "number": "3303526",
+            "label": "SPTs"
           }
         ]
       },
@@ -10065,6 +11573,10 @@
           {
             "number": "3178309",
             "label": "TPWS OT"
+          },
+          {
+            "number": "3303524",
+            "label": "SPTs"
           }
         ]
       },
@@ -10090,6 +11602,10 @@
           {
             "number": "3178109",
             "label": "AWS"
+          },
+          {
+            "number": "3303531",
+            "label": "SPTs"
           }
         ]
       },
@@ -10144,6 +11660,10 @@
           {
             "number": "19613103",
             "label": "TPWS"
+          },
+          {
+            "number": "3303530",
+            "label": "SPTs"
           }
         ]
       },
@@ -10169,6 +11689,10 @@
           {
             "number": "3178110",
             "label": "AWS"
+          },
+          {
+            "number": "3303529",
+            "label": "SPTs"
           }
         ]
       },
@@ -10219,6 +11743,10 @@
           {
             "number": "3178112",
             "label": "AWS"
+          },
+          {
+            "number": "3303528",
+            "label": "SPTs"
           }
         ]
       },
@@ -10260,6 +11788,10 @@
           {
             "number": "19508659",
             "label": "TPWS"
+          },
+          {
+            "number": "18992406",
+            "label": "SPTs"
           }
         ]
       },
@@ -10289,6 +11821,10 @@
           {
             "number": "1403699",
             "label": "TPWS"
+          },
+          {
+            "number": "18992407",
+            "label": "SPTs"
           }
         ]
       },
@@ -10318,6 +11854,10 @@
           {
             "number": "762867",
             "label": "TPWS"
+          },
+          {
+            "number": "18992420",
+            "label": "SPTs"
           }
         ]
       },
@@ -10347,6 +11887,10 @@
           {
             "number": "762868",
             "label": "TPWS"
+          },
+          {
+            "number": "18992421",
+            "label": "SPTs"
           }
         ]
       },
@@ -10372,6 +11916,10 @@
           {
             "number": "762849",
             "label": "TPWS"
+          },
+          {
+            "number": "18992431",
+            "label": "SPTs"
           }
         ]
       },
@@ -10401,6 +11949,14 @@
           {
             "number": "762850",
             "label": "TPWS"
+          },
+          {
+            "number": "1350989",
+            "label": "SPTs"
+          },
+          {
+            "number": "18992432",
+            "label": "SPTs"
           }
         ]
       },
@@ -10438,6 +11994,10 @@
           {
             "number": "762898",
             "label": "TPWS OT"
+          },
+          {
+            "number": "18992436",
+            "label": "SPTs"
           }
         ]
       },
@@ -10467,6 +12027,10 @@
           {
             "number": "762907",
             "label": "TPWS"
+          },
+          {
+            "number": "2586502",
+            "label": "SPTs"
           }
         ]
       },
@@ -10496,6 +12060,14 @@
           {
             "number": "1109979",
             "label": "TPWS"
+          },
+          {
+            "number": "1369579",
+            "label": "SPTs"
+          },
+          {
+            "number": "18992442",
+            "label": "SPTs"
           }
         ]
       },
@@ -10558,6 +12130,10 @@
           {
             "number": "18886822",
             "label": "TPWS"
+          },
+          {
+            "number": "18992445",
+            "label": "SPTs"
           }
         ]
       },
@@ -10616,6 +12192,10 @@
           {
             "number": "18886910",
             "label": "AWS"
+          },
+          {
+            "number": "18992446",
+            "label": "SPTs"
           }
         ]
       },
@@ -10649,6 +12229,10 @@
           {
             "number": "18886813",
             "label": "TPWS"
+          },
+          {
+            "number": "18992447",
+            "label": "SPTs"
           }
         ]
       },
