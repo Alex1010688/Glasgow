@@ -34115,7 +34115,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA"
+        "colour": "#A1C2FA",
+        "equipment_number": [
+          {
+            "number": "18262971",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262969",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34138,7 +34148,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#EDA29B"
+        "colour": "#EDA29B",
+        "equipment_number": [
+          {
+            "number": "18262972",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262970",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34161,7 +34181,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFFF8D"
+        "colour": "#FFFF8D",
+        "equipment_number": [
+          {
+            "number": "18262973",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262971",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34184,7 +34214,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5"
+        "colour": "#C5E1A5",
+        "equipment_number": [
+          {
+            "number": "18262974",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262972",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34207,7 +34247,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5"
+        "colour": "#C5E1A5",
+        "equipment_number": [
+          {
+            "number": "18262970",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262968",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34230,7 +34280,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFFF8D"
+        "colour": "#FFFF8D",
+        "equipment_number": [
+          {
+            "number": "18262969",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262967",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34253,7 +34313,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA"
+        "colour": "#A1C2FA",
+        "equipment_number": [
+          {
+            "number": "18262967",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262965",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34276,7 +34346,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#EDA29B"
+        "colour": "#EDA29B",
+        "equipment_number": [
+          {
+            "number": "18262968",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262966",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34299,7 +34379,25 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5"
+        "colour": "#C5E1A5",
+        "equipment_number": [
+          {
+            "number": "18262964",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262960",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262966",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262959",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34338,7 +34436,21 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFFF8D"
+        "colour": "#FFFF8D",
+        "equipment_number": [
+          {
+            "number": "18262963",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262965",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262962",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34365,7 +34477,21 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA"
+        "colour": "#A1C2FA",
+        "equipment_number": [
+          {
+            "number": "18262961",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262962",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262958",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34392,7 +34518,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA"
+        "colour": "#A1C2FA",
+        "equipment_number": [
+          {
+            "number": "18262948",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34423,7 +34555,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA"
+        "colour": "#A1C2FA",
+        "equipment_number": [
+          {
+            "number": "18262949",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34450,7 +34588,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5"
+        "colour": "#C5E1A5",
+        "equipment_number": [
+          {
+            "number": "18262950",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34485,7 +34629,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA"
+        "colour": "#A1C2FA",
+        "equipment_number": [
+          {
+            "number": "18262951",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34520,7 +34670,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5"
+        "colour": "#C5E1A5",
+        "equipment_number": [
+          {
+            "number": "18262952",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34547,7 +34703,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA"
+        "colour": "#A1C2FA",
+        "equipment_number": [
+          {
+            "number": "18262953",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34582,7 +34744,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5"
+        "colour": "#C5E1A5",
+        "equipment_number": [
+          {
+            "number": "18262954",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34609,7 +34777,29 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFFF8D"
+        "colour": "#FFFF8D",
+        "equipment_number": [
+          {
+            "number": "18262958",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262950",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262955",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262949",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262948",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34676,7 +34866,29 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#EDA29B"
+        "colour": "#EDA29B",
+        "equipment_number": [
+          {
+            "number": "18262957",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262959",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262954",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262953",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "18262952",
+            "label": "Axle Counter"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34723,7 +34935,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "18262973",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "487872",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34746,7 +34968,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "18262974",
+            "label": "Axle Counter"
+          },
+          {
+            "number": "488351",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34769,7 +35001,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFD600"
+        "colour": "#FFD600",
+        "equipment_number": [
+          {
+            "number": "487434",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34792,7 +35030,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "488019",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34815,7 +35059,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487579",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34838,7 +35088,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487578",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34861,7 +35117,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFD600"
+        "colour": "#FFD600",
+        "equipment_number": [
+          {
+            "number": "487576",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34896,7 +35158,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487577",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34931,7 +35199,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487574",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -34966,7 +35240,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487575",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35025,7 +35305,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFD600"
+        "colour": "#FFD600",
+        "equipment_number": [
+          {
+            "number": "487572",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35064,7 +35350,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487564",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35111,7 +35403,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487581",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35162,7 +35460,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487569",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35213,7 +35517,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487570",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35260,7 +35570,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFD600"
+        "colour": "#FFD600",
+        "equipment_number": [
+          {
+            "number": "1468594",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35295,7 +35611,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "488335",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35362,7 +35684,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487566",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35389,7 +35717,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "488366",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35416,7 +35750,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487433",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35483,7 +35823,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "488336",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35522,7 +35868,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "488357",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35545,7 +35897,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1468596",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35580,7 +35938,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "488341",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35615,7 +35979,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487429",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35642,7 +36012,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487428",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35677,7 +36053,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487431",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35712,7 +36094,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487418",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35767,7 +36155,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487435",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35802,7 +36196,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487426",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35833,7 +36233,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487430",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35880,7 +36286,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487432",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35919,7 +36331,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "10154116",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35958,7 +36376,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "10154117",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -35989,7 +36413,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "488339",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36020,7 +36450,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "488334",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36055,7 +36491,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487565",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36098,7 +36540,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "488335",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36137,7 +36585,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487590",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36192,7 +36646,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487592",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36227,7 +36687,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1110354",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36266,7 +36732,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487535",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36349,7 +36821,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1468766",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36372,7 +36850,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487531",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36411,7 +36895,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468760",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36490,7 +36980,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487530",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36521,7 +37017,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1468607",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36580,7 +37082,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487594",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36607,7 +37115,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487553",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36662,7 +37176,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1468724",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36697,7 +37217,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487573",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36740,7 +37266,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487597",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36767,7 +37299,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468593",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36794,7 +37332,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1468592",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36833,7 +37377,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487598",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36872,7 +37422,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1468591",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36923,7 +37479,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1806194",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36954,7 +37516,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468590",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -36985,7 +37553,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1468589",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37063,7 +37637,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468591",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37110,7 +37690,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487593",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37149,7 +37735,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487595",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37180,7 +37772,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "10154115",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37219,7 +37817,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "10154112",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37258,7 +37862,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487382",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37305,7 +37915,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487382",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37466,7 +38082,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487419",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37505,7 +38127,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487422",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37540,7 +38168,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487421",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37575,7 +38209,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487420",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37610,7 +38250,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487427",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37665,7 +38311,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "10154115",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37704,7 +38356,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487446",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -37755,7 +38413,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487393",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38144,7 +38808,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1468767",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38227,7 +38897,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487444",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38270,7 +38946,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487452",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38305,7 +38987,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487450",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38356,7 +39044,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487449",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38395,7 +39089,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487436",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38458,7 +39158,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "10154113",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38501,7 +39207,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "17839780",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38671,7 +39383,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487448",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38706,7 +39424,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "10154114",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38876,7 +39600,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468726",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38907,7 +39637,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487398",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38930,7 +39666,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487398",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -38969,7 +39711,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487442",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39036,7 +39784,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468585",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39218,7 +39972,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487394",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39241,7 +40001,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487395",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39264,7 +40030,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487396",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39287,7 +40059,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487397",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39330,7 +40108,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487425",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39357,7 +40141,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487443",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39404,7 +40194,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487439",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39427,7 +40223,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1639664",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39474,7 +40276,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1468586",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39517,7 +40325,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487441",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39556,7 +40370,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487440",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39619,7 +40439,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487445",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39650,7 +40476,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487454",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -39689,7 +40521,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487447",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -41078,7 +41916,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "2498295",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -41949,7 +42793,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487547",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42044,7 +42894,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487534",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42091,7 +42947,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "18226904",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42202,7 +43064,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1831086",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42281,7 +43149,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1831085",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42332,7 +43206,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1831084",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42367,7 +43247,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1831083",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42402,7 +43288,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "482459",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42477,7 +43369,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487532",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42508,7 +43406,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487545",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42555,7 +43459,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487536",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42634,7 +43544,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487528",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42713,7 +43629,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1831082",
+            "label": "Track"
+          },
+          {
+            "number": "482655",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42796,7 +43722,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1831081",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42831,7 +43763,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1831078",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42854,7 +43792,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1831073",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -42893,7 +43837,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1831072",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43040,7 +43990,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1829389",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43099,7 +44055,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "17749952",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43126,7 +44088,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "17749943",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43189,7 +44157,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1829391",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43264,7 +44238,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1829390",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43315,7 +44295,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "17749944",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43416,7 +44402,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487591",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43459,7 +44451,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487589",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43494,7 +44492,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468587",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43533,7 +44537,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1468595",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43572,7 +44582,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468629",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43595,7 +44611,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487587",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43646,7 +44668,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468730",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43673,7 +44701,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1468739",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43704,7 +44738,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468626",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43727,7 +44767,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1468624",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43750,7 +44796,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487585",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43781,7 +44833,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487555",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43828,7 +44886,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487599",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43867,7 +44931,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487544",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43890,7 +44960,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468608",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43925,7 +45001,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1468630",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43960,7 +45042,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487541",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -43991,7 +45079,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487582",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44014,7 +45108,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487600",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44065,7 +45165,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487588",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44108,7 +45214,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1468618",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44143,7 +45255,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468597",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44174,7 +45292,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1468628",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44201,7 +45325,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468627",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44248,7 +45378,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487586",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44271,7 +45407,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468738",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44298,7 +45440,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1468625",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44325,7 +45473,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468623",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44348,7 +45502,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1468622",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44379,7 +45539,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487584",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44426,7 +45592,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487571",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44461,7 +45633,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468621",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44484,7 +45662,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1468619",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44515,7 +45699,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468617",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44574,7 +45764,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468729",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44597,7 +45793,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487543",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44620,7 +45822,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487540",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44643,7 +45851,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1468616",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44670,7 +45884,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487542",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44697,7 +45917,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487538",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44724,7 +45950,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487539",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44747,7 +45979,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1468615",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44770,7 +46008,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487561",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44793,7 +46037,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487537",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44816,7 +46066,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487562",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44839,7 +46095,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468614",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44862,7 +46124,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487560",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44885,7 +46153,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468728",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44908,7 +46182,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468613",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44931,7 +46211,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487558",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -44994,7 +46280,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468727",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45029,7 +46321,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487559",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45052,7 +46350,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487557",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45103,7 +46407,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487556",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45138,7 +46448,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487550",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45161,7 +46477,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487554",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45184,7 +46506,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487552",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45207,7 +46535,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487563",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45230,7 +46564,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487546",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45253,7 +46593,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487602",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45296,7 +46642,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487549",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45327,7 +46679,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487551",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45354,7 +46712,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487548",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45397,7 +46761,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487529",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45440,7 +46810,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487653",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45495,7 +46871,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487583",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45542,7 +46924,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "482624",
+            "label": "Track"
+          },
+          {
+            "number": "487651",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45605,7 +46997,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "482613",
+            "label": "Track"
+          },
+          {
+            "number": "487652",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45656,7 +47058,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487649",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45719,7 +47127,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "482625",
+            "label": "Track"
+          },
+          {
+            "number": "487648",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45782,7 +47200,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487650",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45821,7 +47245,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487637",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45872,7 +47302,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487647",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45939,7 +47375,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1468611",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -45970,7 +47412,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487643",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46009,7 +47457,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487645",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46044,7 +47498,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "482627",
+            "label": "Track"
+          },
+          {
+            "number": "487642",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46122,7 +47586,17 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487640",
+            "label": "Track"
+          },
+          {
+            "number": "19038300",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46165,7 +47639,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487639",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46208,7 +47688,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487646",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46235,7 +47721,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1468609",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46262,7 +47754,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487671",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46309,7 +47807,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487669",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46364,7 +47868,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487662",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46423,7 +47933,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487661",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46450,7 +47966,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487655",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46501,7 +48023,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487658",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46556,7 +48084,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "1468678",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46587,7 +48121,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "1623221",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46622,7 +48162,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487616",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46689,7 +48235,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487613",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46728,7 +48280,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487612",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46795,7 +48353,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1"
+        "colour": "#0288D1",
+        "equipment_number": [
+          {
+            "number": "487601",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46838,7 +48402,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00"
+        "colour": "#FFEA00",
+        "equipment_number": [
+          {
+            "number": "487609",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46877,7 +48447,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487607",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46908,7 +48484,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487654",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46951,7 +48533,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487659",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -46990,7 +48578,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487638",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47013,7 +48607,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "1468610",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47036,7 +48636,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487663",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47071,7 +48677,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487665",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47102,7 +48714,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487670",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47145,7 +48763,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487668",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47168,7 +48792,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487673",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47195,7 +48825,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487667",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47234,7 +48870,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487666",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47297,7 +48939,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487664",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47328,7 +48976,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487660",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47371,7 +49025,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487657",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47434,7 +49094,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487628",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47493,7 +49159,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487644",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47524,7 +49196,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487617",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47567,7 +49245,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487614",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47630,7 +49314,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487615",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47665,7 +49355,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "487618",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47712,7 +49408,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714"
+        "colour": "#A52714",
+        "equipment_number": [
+          {
+            "number": "487611",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",
@@ -47751,7 +49453,13 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342"
+        "colour": "#7CB342",
+        "equipment_number": [
+          {
+            "number": "1623595",
+            "label": "Track"
+          }
+        ]
       },
       "geometry": {
         "type": "LineString",

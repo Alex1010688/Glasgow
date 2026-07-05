@@ -5599,7 +5599,13 @@
         "name": "751",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262942",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5615,7 +5621,13 @@
         "name": "753B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262940",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5631,7 +5643,13 @@
         "name": "753A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262941",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5647,7 +5665,13 @@
         "name": "752",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262937",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5663,7 +5687,13 @@
         "name": "750",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262943",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5679,7 +5709,13 @@
         "name": "754",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262938",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5695,7 +5731,13 @@
         "name": "749",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262939",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5711,7 +5753,13 @@
         "name": "748A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262945",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5727,7 +5775,13 @@
         "name": "748B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262944",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5743,7 +5797,13 @@
         "name": "747B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262946",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5759,7 +5819,13 @@
         "name": "747A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262947",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5775,7 +5841,17 @@
         "name": "745B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18761408",
+            "label": "supp."
+          },
+          {
+            "number": "479784",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5791,7 +5867,17 @@
         "name": "745A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18259898",
+            "label": "supp."
+          },
+          {
+            "number": "1774643",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5807,7 +5893,17 @@
         "name": "744",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1774621",
+            "label": "supp."
+          },
+          {
+            "number": "479906",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5823,7 +5919,13 @@
         "name": "743",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479811",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5839,7 +5941,13 @@
         "name": "742",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479807",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5855,7 +5963,13 @@
         "name": "740B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479816",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5871,7 +5985,13 @@
         "name": "740A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479814",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5887,7 +6007,21 @@
         "name": "739B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18623780",
+            "label": "supp."
+          },
+          {
+            "number": "1774618",
+            "label": "supp."
+          },
+          {
+            "number": "479794",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5903,7 +6037,21 @@
         "name": "739A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18623779",
+            "label": "supp."
+          },
+          {
+            "number": "1774616",
+            "label": "supp."
+          },
+          {
+            "number": "479791",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5919,7 +6067,17 @@
         "name": "738B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18623778",
+            "label": "supp."
+          },
+          {
+            "number": "479788",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5935,7 +6093,17 @@
         "name": "738A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18623782",
+            "label": "supp."
+          },
+          {
+            "number": "479843",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5951,7 +6119,13 @@
         "name": "736",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479854",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5967,7 +6141,13 @@
         "name": "735",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479799",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5983,7 +6163,13 @@
         "name": "734",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479798",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -5999,7 +6185,13 @@
         "name": "733",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479852",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6015,7 +6207,13 @@
         "name": "804",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "481806",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6031,7 +6229,13 @@
         "name": "805A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "481803",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6047,7 +6251,13 @@
         "name": "805B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488413",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6063,7 +6273,13 @@
         "name": "731B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488425",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6079,7 +6295,13 @@
         "name": "731A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479846",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6095,7 +6317,13 @@
         "name": "730B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479844",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6111,7 +6339,13 @@
         "name": "730A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479823",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6127,7 +6361,13 @@
         "name": "729",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479822",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6143,7 +6383,13 @@
         "name": "728",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479828",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6159,7 +6405,13 @@
         "name": "807",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "481808",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6175,7 +6427,13 @@
         "name": "808A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488515",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6191,7 +6449,17 @@
         "name": "808B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "7886506",
+            "label": "SO"
+          },
+          {
+            "number": "481713",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6207,7 +6475,13 @@
         "name": "727",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479829",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6223,7 +6497,13 @@
         "name": "726",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1806163",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6239,7 +6519,13 @@
         "name": "723",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479825",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6255,7 +6541,13 @@
         "name": "722B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488459",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6271,7 +6563,13 @@
         "name": "722A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488468",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6287,7 +6585,13 @@
         "name": "721",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "480022",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6303,7 +6607,13 @@
         "name": "720B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479911",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6319,7 +6629,13 @@
         "name": "720A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "479834",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6335,7 +6651,17 @@
         "name": "717B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1774603",
+            "label": "supp."
+          },
+          {
+            "number": "19181461",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6351,7 +6677,17 @@
         "name": "717A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1774608",
+            "label": "supp."
+          },
+          {
+            "number": "19181462",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6367,7 +6703,13 @@
         "name": "716",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19181459",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6383,7 +6725,13 @@
         "name": "715",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19181460",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6399,7 +6747,13 @@
         "name": "714B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488475",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6415,7 +6769,13 @@
         "name": "714A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19185327",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6431,7 +6791,13 @@
         "name": "708A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19184880",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6447,7 +6813,13 @@
         "name": "708B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19184910",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6463,7 +6835,13 @@
         "name": "709",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19184911",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6479,7 +6857,13 @@
         "name": "710",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19184912",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6495,7 +6879,13 @@
         "name": "711A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19184913",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6511,7 +6901,13 @@
         "name": "711B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19184914",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6527,7 +6923,13 @@
         "name": "800",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19495236",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6543,7 +6945,13 @@
         "name": "801A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "483606",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6559,7 +6967,13 @@
         "name": "801B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "483608",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6575,7 +6989,13 @@
         "name": "802A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1831067",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6591,7 +7011,13 @@
         "name": "802B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1831066",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6607,7 +7033,13 @@
         "name": "803",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1831065",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6623,7 +7055,13 @@
         "name": "790",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "17749934",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6639,7 +7077,13 @@
         "name": "809",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "9599946",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6655,7 +7099,13 @@
         "name": "810A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488415",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6671,7 +7121,13 @@
         "name": "810B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488405",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6687,7 +7143,13 @@
         "name": "811",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488416",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6703,7 +7165,13 @@
         "name": "812",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488421",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6719,7 +7187,13 @@
         "name": "813A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488420",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6735,7 +7209,13 @@
         "name": "813B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488417",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6751,7 +7231,13 @@
         "name": "815A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488419",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6767,7 +7253,13 @@
         "name": "814A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "485888",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6783,7 +7275,13 @@
         "name": "814B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "485887",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6799,7 +7297,13 @@
         "name": "815B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488418",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6815,7 +7319,13 @@
         "name": "816A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "485886",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6831,7 +7341,13 @@
         "name": "817A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "9601422",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6847,7 +7363,13 @@
         "name": "817B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "9601487",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6863,7 +7385,17 @@
         "name": "702",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19261579",
+            "label": "Point"
+          },
+          {
+            "number": "19261868",
+            "label": "SO"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6879,7 +7411,17 @@
         "name": "703",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19261866",
+            "label": "Point"
+          },
+          {
+            "number": "19261869",
+            "label": "SO"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6895,7 +7437,17 @@
         "name": "704",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19261867",
+            "label": "Point"
+          },
+          {
+            "number": "19261870",
+            "label": "SO"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -6911,7 +7463,17 @@
         "name": "705",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19257483",
+            "label": "Point"
+          },
+          {
+            "number": "19257485",
+            "label": "SO"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7055,7 +7617,13 @@
         "name": "851",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "486951",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7087,7 +7655,13 @@
         "name": "900",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "485891",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7103,7 +7677,13 @@
         "name": "901A",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "485889",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7119,7 +7699,13 @@
         "name": "901B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "485900",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -7135,7 +7721,13 @@
         "name": "816B",
         "type": "Points",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "485885",
+            "label": "Point"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
