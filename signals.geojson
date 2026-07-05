@@ -87,6 +87,10 @@
           {
             "number": "7923401",
             "label": "SPTs"
+          },
+          {
+            "number": "7896451",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -231,6 +235,10 @@
           {
             "number": "7923405",
             "label": "SPTs"
+          },
+          {
+            "number": "7896453",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -341,6 +349,10 @@
           {
             "number": "7923409",
             "label": "SPTs"
+          },
+          {
+            "number": "7896454",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -641,6 +653,10 @@
           {
             "number": "7923421",
             "label": "SPTs"
+          },
+          {
+            "number": "7890387",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -982,6 +998,10 @@
           {
             "number": "7923425",
             "label": "SPTs"
+          },
+          {
+            "number": "7890392",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1050,6 +1070,10 @@
           {
             "number": "7923429",
             "label": "SPTs"
+          },
+          {
+            "number": "7890395",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1125,6 +1149,10 @@
           {
             "number": "7923434",
             "label": "SPTs"
+          },
+          {
+            "number": "7887625",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1159,6 +1187,10 @@
           {
             "number": "7923430",
             "label": "SPTs"
+          },
+          {
+            "number": "7887624",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1211,6 +1243,10 @@
           {
             "number": "7923435",
             "label": "SPTs"
+          },
+          {
+            "number": "7887629",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1245,6 +1281,10 @@
           {
             "number": "7923433",
             "label": "SPTs"
+          },
+          {
+            "number": "7887627",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1411,6 +1451,10 @@
           {
             "number": "18992450",
             "label": "SPTs"
+          },
+          {
+            "number": "18886901",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1523,6 +1567,10 @@
           {
             "number": "18992467",
             "label": "SPTs"
+          },
+          {
+            "number": "18886760",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1677,6 +1725,14 @@
           {
             "number": "18992438",
             "label": "SPTs"
+          },
+          {
+            "number": "18886842",
+            "label": "Banner"
+          },
+          {
+            "number": "18886836",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1719,6 +1775,10 @@
           {
             "number": "18992440",
             "label": "SPTs"
+          },
+          {
+            "number": "18804399",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1780,7 +1840,16 @@
         "name": "GR827",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833649",
+        "equipment_number": [
+          {
+            "number": "18833649",
+            "label": "Signal"
+          },
+          {
+            "number": "18886847",
+            "label": "Banner"
+          }
+        ],
         "section": "Central"
       },
       "geometry": {
@@ -1835,6 +1904,18 @@
           {
             "number": "18992434",
             "label": "SPTs"
+          },
+          {
+            "number": "18833657",
+            "label": "Banner"
+          },
+          {
+            "number": "18805491",
+            "label": "Banner"
+          },
+          {
+            "number": "18886968",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1877,6 +1958,10 @@
           {
             "number": "18992433",
             "label": "SPTs"
+          },
+          {
+            "number": "18778551",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1919,6 +2004,10 @@
           {
             "number": "18992428",
             "label": "SPTs"
+          },
+          {
+            "number": "781403",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1953,6 +2042,10 @@
           {
             "number": "18992429",
             "label": "SPTs"
+          },
+          {
+            "number": "18804340",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -1987,6 +2080,10 @@
           {
             "number": "18992430",
             "label": "SPTs"
+          },
+          {
+            "number": "18886884",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -2017,6 +2114,10 @@
           {
             "number": "2586492",
             "label": "SPTs"
+          },
+          {
+            "number": "18805490",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -2171,6 +2272,10 @@
           {
             "number": "18992423",
             "label": "SPTs"
+          },
+          {
+            "number": "18778563",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -2226,6 +2331,10 @@
           {
             "number": "18992419",
             "label": "SPTs"
+          },
+          {
+            "number": "1403701",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -2278,6 +2387,10 @@
           {
             "number": "18992417",
             "label": "SPTs"
+          },
+          {
+            "number": "18886966",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -2426,6 +2539,10 @@
           {
             "number": "18992413",
             "label": "SPTs"
+          },
+          {
+            "number": "781107",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -2508,6 +2625,10 @@
           {
             "number": "18992410",
             "label": "SPTs"
+          },
+          {
+            "number": "18886866",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -2546,6 +2667,10 @@
           {
             "number": "18992408",
             "label": "SPTs"
+          },
+          {
+            "number": "18804364",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -2652,6 +2777,10 @@
           {
             "number": "18992404",
             "label": "SPTs"
+          },
+          {
+            "number": "18804332",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -2724,6 +2853,10 @@
           {
             "number": "18992399",
             "label": "SPTs"
+          },
+          {
+            "number": "781168",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -2792,6 +2925,10 @@
           {
             "number": "18992401",
             "label": "SPTs"
+          },
+          {
+            "number": "18804325",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -2822,6 +2959,10 @@
           {
             "number": "18992398",
             "label": "SPTs"
+          },
+          {
+            "number": "18804326",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3245,6 +3386,10 @@
           {
             "number": "18992458",
             "label": "SPTs"
+          },
+          {
+            "number": "2907782",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3331,6 +3476,10 @@
           {
             "number": "18992455",
             "label": "SPTs"
+          },
+          {
+            "number": "18886754",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3425,6 +3574,10 @@
           {
             "number": "2643045",
             "label": "SPTs"
+          },
+          {
+            "number": "2907711",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3455,6 +3608,10 @@
           {
             "number": "2643046",
             "label": "SPTs"
+          },
+          {
+            "number": "2907719",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3485,6 +3642,10 @@
           {
             "number": "2643089",
             "label": "SPTs"
+          },
+          {
+            "number": "2907728",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3511,6 +3672,10 @@
           {
             "number": "2643088",
             "label": "SPTs"
+          },
+          {
+            "number": "2907724",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3537,6 +3702,10 @@
           {
             "number": "2643047",
             "label": "SPTs"
+          },
+          {
+            "number": "2907732",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3555,7 +3724,16 @@
         "name": "GG5606",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2151465",
+        "equipment_number": [
+          {
+            "number": "2151465",
+            "label": "Signal"
+          },
+          {
+            "number": "2907736",
+            "label": "Banner"
+          }
+        ],
         "section": "Central"
       },
       "geometry": {
@@ -3584,6 +3762,10 @@
           {
             "number": "2643049",
             "label": "SPTs"
+          },
+          {
+            "number": "2907740",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3614,6 +3796,10 @@
           {
             "number": "2643050",
             "label": "SPTs"
+          },
+          {
+            "number": "2907744",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3640,6 +3826,10 @@
           {
             "number": "2643051",
             "label": "SPTs"
+          },
+          {
+            "number": "2421919",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3666,6 +3856,10 @@
           {
             "number": "2643052",
             "label": "SPTs"
+          },
+          {
+            "number": "2421920",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3748,6 +3942,10 @@
           {
             "number": "2829076",
             "label": "SPTs"
+          },
+          {
+            "number": "2828996",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3804,6 +4002,10 @@
           {
             "number": "2829077",
             "label": "SPTs"
+          },
+          {
+            "number": "2829001",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3856,6 +4058,10 @@
           {
             "number": "2643054",
             "label": "SPTs"
+          },
+          {
+            "number": "2404410",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3886,6 +4092,10 @@
           {
             "number": "2829079",
             "label": "SPTs"
+          },
+          {
+            "number": "2404409",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -3934,7 +4144,16 @@
         "name": "GG5485",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642454",
+        "equipment_number": [
+          {
+            "number": "2642454",
+            "label": "Signal"
+          },
+          {
+            "number": "2642455",
+            "label": "Banner"
+          }
+        ],
         "section": "Central"
       },
       "geometry": {
@@ -4003,7 +4222,16 @@
         "name": "GG5462",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642446",
+        "equipment_number": [
+          {
+            "number": "2642446",
+            "label": "Signal"
+          },
+          {
+            "number": "2642447",
+            "label": "Banner"
+          }
+        ],
         "section": "Central"
       },
       "geometry": {
@@ -4105,6 +4333,10 @@
           {
             "number": "2643021",
             "label": "SPTs"
+          },
+          {
+            "number": "2239293",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -4203,6 +4435,10 @@
           {
             "number": "2643063",
             "label": "SPTs"
+          },
+          {
+            "number": "2642466",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -4237,6 +4473,10 @@
           {
             "number": "3303532",
             "label": "SPTs"
+          },
+          {
+            "number": "3162236",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -4391,6 +4631,10 @@
           {
             "number": "2643072",
             "label": "SPTs"
+          },
+          {
+            "number": "2642486",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -4579,6 +4823,10 @@
           {
             "number": "3178096",
             "label": "AWS"
+          },
+          {
+            "number": "3162286",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -4698,6 +4946,10 @@
           {
             "number": "3304571",
             "label": "SPTs"
+          },
+          {
+            "number": "3162336",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -4796,6 +5048,10 @@
           {
             "number": "1369209",
             "label": "SPTs"
+          },
+          {
+            "number": "3162334",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -4882,6 +5138,10 @@
           {
             "number": "3303631",
             "label": "SPTs"
+          },
+          {
+            "number": "2488573",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -4916,6 +5176,10 @@
           {
             "number": "3303630",
             "label": "SPTs"
+          },
+          {
+            "number": "3162317",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -4980,6 +5244,10 @@
           {
             "number": "3303625",
             "label": "SPTs"
+          },
+          {
+            "number": "3162312",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -5014,6 +5282,10 @@
           {
             "number": "3303624",
             "label": "SPTs"
+          },
+          {
+            "number": "3162308",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -5048,6 +5320,10 @@
           {
             "number": "3304662",
             "label": "SPTs"
+          },
+          {
+            "number": "3162310",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -5086,6 +5362,10 @@
           {
             "number": "7923432",
             "label": "SPTs"
+          },
+          {
+            "number": "9199220",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -5202,6 +5482,10 @@
           {
             "number": "3303670",
             "label": "SPTs"
+          },
+          {
+            "number": "1793278",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -5244,6 +5528,10 @@
           {
             "number": "3303695",
             "label": "SPTs"
+          },
+          {
+            "number": "3162319",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -5342,6 +5630,10 @@
           {
             "number": "3304076",
             "label": "SPTs"
+          },
+          {
+            "number": "3162328",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -5384,6 +5676,14 @@
           {
             "number": "3303696",
             "label": "SPTs"
+          },
+          {
+            "number": "3162322",
+            "label": "Banner"
+          },
+          {
+            "number": "3162324",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -5462,6 +5762,10 @@
           {
             "number": "3303665",
             "label": "SPTs"
+          },
+          {
+            "number": "1678623",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -5668,6 +5972,10 @@
           {
             "number": "762650",
             "label": "TPWS"
+          },
+          {
+            "number": "786127",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -5770,6 +6078,10 @@
           {
             "number": "1748463",
             "label": "SPTs"
+          },
+          {
+            "number": "1748459",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -6458,6 +6770,10 @@
           {
             "number": "7923446",
             "label": "SPTs"
+          },
+          {
+            "number": "7896039",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -6496,6 +6812,10 @@
           {
             "number": "7923449",
             "label": "SPTs"
+          },
+          {
+            "number": "7896300",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -6564,6 +6884,10 @@
           {
             "number": "7923451",
             "label": "SPTs"
+          },
+          {
+            "number": "7896041",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -6700,6 +7024,10 @@
           {
             "number": "7923488",
             "label": "SPTs"
+          },
+          {
+            "number": "7895280",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -6933,6 +7261,10 @@
           {
             "number": "7923486",
             "label": "SPTs"
+          },
+          {
+            "number": "7890033",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -7069,6 +7401,10 @@
           {
             "number": "7923480",
             "label": "SPTs"
+          },
+          {
+            "number": "7895277",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -7103,6 +7439,10 @@
           {
             "number": "7923466",
             "label": "SPTs"
+          },
+          {
+            "number": "7895410",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -7239,6 +7579,10 @@
           {
             "number": "7923462",
             "label": "SPTs"
+          },
+          {
+            "number": "7895405",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -7660,6 +8004,10 @@
           {
             "number": "7923479",
             "label": "SPTs"
+          },
+          {
+            "number": "7890030",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -8174,6 +8522,14 @@
           {
             "number": "18992441",
             "label": "SPTs"
+          },
+          {
+            "number": "18886768",
+            "label": "Banner"
+          },
+          {
+            "number": "18886769",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -8200,6 +8556,10 @@
           {
             "number": "18992459",
             "label": "SPTs"
+          },
+          {
+            "number": "18833631",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -8702,6 +9062,10 @@
           {
             "number": "7923404",
             "label": "SPTs"
+          },
+          {
+            "number": "7896452",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -8885,6 +9249,14 @@
           {
             "number": "2643087",
             "label": "SPTs"
+          },
+          {
+            "number": "2452589",
+            "label": "Banner"
+          },
+          {
+            "number": "2452664",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -8915,6 +9287,10 @@
           {
             "number": "2643044",
             "label": "SPTs"
+          },
+          {
+            "number": "2452666",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -8945,6 +9321,14 @@
           {
             "number": "1387910",
             "label": "TPWS"
+          },
+          {
+            "number": "2452588",
+            "label": "Banner"
+          },
+          {
+            "number": "2452663",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -8975,6 +9359,10 @@
           {
             "number": "1387895",
             "label": "TPWS"
+          },
+          {
+            "number": "2452665",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9005,6 +9393,10 @@
           {
             "number": "2829029",
             "label": "TPWS"
+          },
+          {
+            "number": "2829002",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9039,6 +9431,10 @@
           {
             "number": "2643091",
             "label": "SPTs"
+          },
+          {
+            "number": "2452662",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9073,6 +9469,14 @@
           {
             "number": "2643043",
             "label": "SPTs"
+          },
+          {
+            "number": "2452587",
+            "label": "Banner"
+          },
+          {
+            "number": "2452661",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9107,6 +9511,14 @@
           {
             "number": "2643042",
             "label": "SPTs"
+          },
+          {
+            "number": "2452593",
+            "label": "Banner"
+          },
+          {
+            "number": "2452671",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9137,6 +9549,14 @@
           {
             "number": "1387888",
             "label": "TPWS"
+          },
+          {
+            "number": "2452586",
+            "label": "Banner"
+          },
+          {
+            "number": "2452660",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9167,6 +9587,14 @@
           {
             "number": "1387915",
             "label": "TPWS"
+          },
+          {
+            "number": "2452592",
+            "label": "Banner"
+          },
+          {
+            "number": "2452670",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9197,6 +9625,14 @@
           {
             "number": "1387889",
             "label": "TPWS"
+          },
+          {
+            "number": "2452585",
+            "label": "Banner"
+          },
+          {
+            "number": "2452658",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9227,6 +9663,14 @@
           {
             "number": "1387916",
             "label": "TPWS"
+          },
+          {
+            "number": "2452591",
+            "label": "Banner"
+          },
+          {
+            "number": "2452669",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9257,6 +9701,14 @@
           {
             "number": "1387890",
             "label": "TPWS"
+          },
+          {
+            "number": "2452584",
+            "label": "Banner"
+          },
+          {
+            "number": "2452655",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9291,6 +9743,14 @@
           {
             "number": "2643086",
             "label": "SPTs"
+          },
+          {
+            "number": "2452590",
+            "label": "Banner"
+          },
+          {
+            "number": "2452668",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9325,6 +9785,14 @@
           {
             "number": "2643041",
             "label": "SPTs"
+          },
+          {
+            "number": "2642483",
+            "label": "Banner"
+          },
+          {
+            "number": "2642484",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9351,6 +9819,10 @@
           {
             "number": "1112832",
             "label": "TPWS"
+          },
+          {
+            "number": "2642482",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9377,6 +9849,10 @@
           {
             "number": "1387902",
             "label": "TPWS"
+          },
+          {
+            "number": "2239332",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9403,6 +9879,10 @@
           {
             "number": "1387891",
             "label": "TPWS"
+          },
+          {
+            "number": "2642481",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9429,6 +9909,10 @@
           {
             "number": "1387896",
             "label": "TPWS"
+          },
+          {
+            "number": "2415229",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9455,6 +9939,10 @@
           {
             "number": "1387897",
             "label": "TPWS"
+          },
+          {
+            "number": "2415226",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9481,6 +9969,10 @@
           {
             "number": "1387898",
             "label": "TPWS"
+          },
+          {
+            "number": "2415224",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9537,6 +10029,10 @@
           {
             "number": "2643035",
             "label": "SPTs"
+          },
+          {
+            "number": "2642477",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9567,6 +10063,10 @@
           {
             "number": "2643034",
             "label": "SPTs"
+          },
+          {
+            "number": "2642476",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9593,6 +10093,10 @@
           {
             "number": "2643033",
             "label": "SPTs"
+          },
+          {
+            "number": "2642475",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9623,6 +10127,10 @@
           {
             "number": "2643040",
             "label": "SPTs"
+          },
+          {
+            "number": "2642449",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9641,7 +10149,16 @@
         "name": "GG5483",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642452",
+        "equipment_number": [
+          {
+            "number": "2642452",
+            "label": "Signal"
+          },
+          {
+            "number": "2642453",
+            "label": "Banner"
+          }
+        ],
         "section": "Central"
       },
       "geometry": {
@@ -9666,6 +10183,10 @@
           {
             "number": "1387899",
             "label": "TPWS"
+          },
+          {
+            "number": "2642485",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9692,6 +10213,10 @@
           {
             "number": "1112835",
             "label": "TPWS"
+          },
+          {
+            "number": "2459700",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9722,6 +10247,10 @@
           {
             "number": "2643037",
             "label": "SPTs"
+          },
+          {
+            "number": "2459699",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9748,6 +10277,10 @@
           {
             "number": "1112837",
             "label": "TPWS"
+          },
+          {
+            "number": "2459698",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9774,6 +10307,10 @@
           {
             "number": "1112836",
             "label": "TPWS"
+          },
+          {
+            "number": "2642480",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9804,6 +10341,10 @@
           {
             "number": "2643038",
             "label": "SPTs"
+          },
+          {
+            "number": "2642478",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9863,6 +10404,10 @@
           {
             "number": "1112857",
             "label": "TPWS"
+          },
+          {
+            "number": "2642473",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9881,7 +10426,16 @@
         "name": "GG5265",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2415197",
+        "equipment_number": [
+          {
+            "number": "2415197",
+            "label": "Signal"
+          },
+          {
+            "number": "2642474",
+            "label": "Banner"
+          }
+        ],
         "section": "Central"
       },
       "geometry": {
@@ -9906,6 +10460,10 @@
           {
             "number": "1112855",
             "label": "TPWS"
+          },
+          {
+            "number": "2459703",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9932,6 +10490,10 @@
           {
             "number": "1112840",
             "label": "TPWS"
+          },
+          {
+            "number": "2459702",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9962,6 +10524,10 @@
           {
             "number": "2643032",
             "label": "SPTs"
+          },
+          {
+            "number": "2459701",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -9992,6 +10558,10 @@
           {
             "number": "2643027",
             "label": "SPTs"
+          },
+          {
+            "number": "2642470",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10018,6 +10588,10 @@
           {
             "number": "2643028",
             "label": "SPTs"
+          },
+          {
+            "number": "2642440",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10044,6 +10618,10 @@
           {
             "number": "1112859",
             "label": "TPWS"
+          },
+          {
+            "number": "2459704",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10074,6 +10652,10 @@
           {
             "number": "2643029",
             "label": "SPTs"
+          },
+          {
+            "number": "2459705",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10112,6 +10694,10 @@
           {
             "number": "2643026",
             "label": "SPTs"
+          },
+          {
+            "number": "2239290",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10142,6 +10728,10 @@
           {
             "number": "2642511",
             "label": "AWS"
+          },
+          {
+            "number": "2239289",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10176,6 +10766,14 @@
           {
             "number": "1112858",
             "label": "TPWS"
+          },
+          {
+            "number": "2421700",
+            "label": "Banner"
+          },
+          {
+            "number": "2642471",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10210,6 +10808,10 @@
           {
             "number": "2643023",
             "label": "SPTs"
+          },
+          {
+            "number": "2642469",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10240,6 +10842,10 @@
           {
             "number": "1109993",
             "label": "TPWS"
+          },
+          {
+            "number": "2239292",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10270,6 +10876,10 @@
           {
             "number": "1109983",
             "label": "TPWS"
+          },
+          {
+            "number": "2239291",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10312,6 +10922,22 @@
           {
             "number": "18992387",
             "label": "SPTs"
+          },
+          {
+            "number": "2642438",
+            "label": "Banner"
+          },
+          {
+            "number": "18833641",
+            "label": "Banner"
+          },
+          {
+            "number": "18833643",
+            "label": "Banner"
+          },
+          {
+            "number": "18833644",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10346,6 +10972,10 @@
           {
             "number": "2643024",
             "label": "SPTs"
+          },
+          {
+            "number": "2459706",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10376,6 +11006,10 @@
           {
             "number": "1112856",
             "label": "TPWS"
+          },
+          {
+            "number": "2459707",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10444,6 +11078,10 @@
           {
             "number": "18992389",
             "label": "SPTs"
+          },
+          {
+            "number": "18854059",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10478,6 +11116,10 @@
           {
             "number": "18992388",
             "label": "SPTs"
+          },
+          {
+            "number": "18778698",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10580,6 +11222,10 @@
           {
             "number": "2643060",
             "label": "SPTs"
+          },
+          {
+            "number": "2239326",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10610,6 +11256,10 @@
           {
             "number": "2643062",
             "label": "SPTs"
+          },
+          {
+            "number": "2642487",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10648,6 +11298,14 @@
           {
             "number": "2643061",
             "label": "SPTs"
+          },
+          {
+            "number": "2421699",
+            "label": "Banner"
+          },
+          {
+            "number": "2239331",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10686,6 +11344,10 @@
           {
             "number": "2643059",
             "label": "SPTs"
+          },
+          {
+            "number": "2239330",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10750,6 +11412,10 @@
           {
             "number": "2643065",
             "label": "SPTs"
+          },
+          {
+            "number": "2239329",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10784,6 +11450,10 @@
           {
             "number": "3303466",
             "label": "SPTs"
+          },
+          {
+            "number": "3162245",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10822,6 +11492,14 @@
           {
             "number": "3303465",
             "label": "SPTs"
+          },
+          {
+            "number": "3162242",
+            "label": "Banner"
+          },
+          {
+            "number": "3162243",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10860,6 +11538,10 @@
           {
             "number": "3303464",
             "label": "SPTs"
+          },
+          {
+            "number": "3162240",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10920,6 +11602,10 @@
           {
             "number": "3303491",
             "label": "SPTs"
+          },
+          {
+            "number": "3162248",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -10966,6 +11652,10 @@
           {
             "number": "3178289",
             "label": "TPWS OT"
+          },
+          {
+            "number": "3162250",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -11106,6 +11796,10 @@
           {
             "number": "3303493",
             "label": "SPTs"
+          },
+          {
+            "number": "3162254",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -11140,6 +11834,10 @@
           {
             "number": "3303495",
             "label": "SPTs"
+          },
+          {
+            "number": "3162265",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -11174,6 +11872,10 @@
           {
             "number": "3178294",
             "label": "TPWS OT"
+          },
+          {
+            "number": "3162262",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -11242,6 +11944,10 @@
           {
             "number": "3303498",
             "label": "SPTs"
+          },
+          {
+            "number": "3162257",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -11276,6 +11982,10 @@
           {
             "number": "3178299",
             "label": "TPWS OT"
+          },
+          {
+            "number": "3162260",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -11468,6 +12178,10 @@
           {
             "number": "3178306",
             "label": "TPWS"
+          },
+          {
+            "number": "3162278",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -11664,6 +12378,10 @@
           {
             "number": "3178306",
             "label": "TPWS"
+          },
+          {
+            "number": "3162278",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -11964,6 +12682,10 @@
           {
             "number": "3303524",
             "label": "SPTs"
+          },
+          {
+            "number": "3162294",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12220,6 +12942,10 @@
           {
             "number": "18992407",
             "label": "SPTs"
+          },
+          {
+            "number": "18886959",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12254,6 +12980,10 @@
           {
             "number": "18992420",
             "label": "SPTs"
+          },
+          {
+            "number": "18804392",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12398,6 +13128,10 @@
           {
             "number": "18992436",
             "label": "SPTs"
+          },
+          {
+            "number": "18804386",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12432,6 +13166,10 @@
           {
             "number": "2586502",
             "label": "SPTs"
+          },
+          {
+            "number": "18804385",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12470,6 +13208,10 @@
           {
             "number": "18992442",
             "label": "SPTs"
+          },
+          {
+            "number": "18804337",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12538,6 +13280,10 @@
           {
             "number": "18992445",
             "label": "SPTs"
+          },
+          {
+            "number": "18886821",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12572,6 +13318,10 @@
           {
             "number": "18886945",
             "label": "TPWS OT"
+          },
+          {
+            "number": "18886944",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12640,6 +13390,10 @@
           {
             "number": "18992447",
             "label": "SPTs"
+          },
+          {
+            "number": "18886812",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12670,6 +13424,10 @@
           {
             "number": "18886936",
             "label": "TPWS"
+          },
+          {
+            "number": "18886934",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -16059,7 +16817,8 @@
           {
             "number": "488514",
             "label": "Signal"
-          },
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
