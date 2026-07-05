@@ -1248,13 +1248,16 @@
       activeSection = validSections.includes(sectionName) ? sectionName : ALL_SECTIONS;
 
       applySectionFilter();
-      buildMapControlPanel();
 
       if (options.remember) {
         localStorage.setItem(SECTION_STORAGE_KEY, activeSection);
       } else if (options.clearRemembered) {
         localStorage.removeItem(SECTION_STORAGE_KEY);
+      } else if (localStorage.getItem(SECTION_STORAGE_KEY)) {
+        localStorage.setItem(SECTION_STORAGE_KEY, activeSection);
       }
+
+      buildMapControlPanel();
 
       if (options.centreMap !== false) {
         centreMapForSection(activeSection);
@@ -1571,6 +1574,23 @@
 
         sectionContainer.appendChild(createControlRow(radio, sectionName));
       });
+
+      const rememberCheckbox = document.createElement("input");
+      rememberCheckbox.type = "checkbox";
+      rememberCheckbox.checked = !!localStorage.getItem(SECTION_STORAGE_KEY);
+
+      rememberCheckbox.onchange = function() {
+        if (rememberCheckbox.checked) {
+          localStorage.setItem(SECTION_STORAGE_KEY, activeSection);
+        } else {
+          localStorage.removeItem(SECTION_STORAGE_KEY);
+        }
+
+        buildMapControlPanel();
+      };
+
+      sectionContainer.appendChild(document.createElement("div")).className = "map-control-separator";
+      sectionContainer.appendChild(createControlRow(rememberCheckbox, "Remember selected section"));
     }
 
     function updateLabelVisibility() {
