@@ -11045,36 +11045,28 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5862",
+        "name": "GS5863",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
           {
-            "number": "3162249",
+            "number": "3162251",
             "label": "Signal"
           },
           {
-            "number": "3178072",
+            "number": "3178069",
             "label": "AWS"
           },
           {
-            "number": "3178291",
-            "label": "TPWS OS (2"
+            "number": "3162252",
+            "label": "RTI"
           },
           {
-            "number": "3178290",
+            "number": "3178278",
             "label": "TPWS OS -"
           },
           {
-            "number": "3178292",
-            "label": "TPWS OS(1)"
-          },
-          {
-            "number": "3178293",
-            "label": "TPWS OS(2)"
-          },
-          {
-            "number": "3178289",
+            "number": "3178277",
             "label": "TPWS OT"
           }
         ],
