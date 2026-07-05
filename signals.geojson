@@ -13431,6 +13431,2854 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ58",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2478592,
+          55.8679747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ57",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2477573,
+          55.867956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ249",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2478766,
+          55.8679408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ57",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.247776,
+          55.867925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ251",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.249012,
+          55.8663579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ59",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2488833,
+          55.8663382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ81",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2509542,
+          55.8637795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ82",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2508764,
+          55.863772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ85",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2506135,
+          55.8637358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ86",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2505506,
+          55.8637306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ87",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2503454,
+          55.8639977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ83",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2506444,
+          55.8639023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ84",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2505935,
+          55.863897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ247",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.243902,
+          55.8738859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ55",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2437585,
+          55.8738671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ56",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2438766,
+          55.8739281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ248",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2437344,
+          55.8739145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ54",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2414468,
+          55.8775219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ246",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2413019,
+          55.8775039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ53",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2388188,
+          55.8812688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ245",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2389636,
+          55.8812989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ241",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.238674,
+          55.88135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ427",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2380445,
+          55.8819845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC52",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2387386,
+          55.8831189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC238",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2385884,
+          55.883122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC240",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2384207,
+          55.883149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC535",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2393166,
+          55.8850026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC605",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2405939,
+          55.8875123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC303",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2410652,
+          55.8880331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC532",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2405408,
+          55.888346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC531",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2404644,
+          55.8883678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC529",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2404456,
+          55.8886927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC235",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2405663,
+          55.8885664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC237",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2407259,
+          55.8885874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC51",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2406575,
+          55.8885889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC525",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.240565,
+          55.88935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC523",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2406387,
+          55.889353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE50",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2409203,
+          55.8900373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE232",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2408614,
+          55.8900372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC533",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2404308,
+          55.8900673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC527",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2405033,
+          55.8900778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE304",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2411416,
+          55.8900798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE230",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2405131,
+          55.8915571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS426",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2348629,
+          55.8828953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC320",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2380946,
+          55.8850137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC402",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2379793,
+          55.8850678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS403",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.234678,
+          55.8830313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS321",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2345707,
+          55.8831035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS322",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2306725,
+          55.8818761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS404",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2306135,
+          55.8819588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE302",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2438722,
+          55.8886382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE604",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2431537,
+          55.8886013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE305",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2429,
+          55.8888416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE608",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2458089,
+          55.8886377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE306",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2471447,
+          55.8887791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE307",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2491759,
+          55.8888798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE308",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2567343,
+          55.8900754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE310",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2737255,
+          55.8934791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS405",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2285917,
+          55.8812463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS323",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2276502,
+          55.8810319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS407",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2276261,
+          55.88105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS409",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2275228,
+          55.8811079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS324",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2241042,
+          55.8783657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS406",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2240049,
+          55.8784522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS325",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2227775,
+          55.8773663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS326",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2175331,
+          55.8715092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS328",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2147022,
+          55.8667641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS621",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2175466,
+          55.8750636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS619",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2248169,
+          55.8788112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS445",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2216758,
+          55.8758502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS446",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2218846,
+          55.8760451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN442",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1836371,
+          55.8833318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS443",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1963336,
+          55.8797165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN440",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1650656,
+          55.8890068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN441",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1650481,
+          55.8889181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN438",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0984686,
+          55.8886706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN436",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0772815,
+          55.8853702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN434",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0614619,
+          55.8857891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CB439",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1448014,
+          55.8898976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN437",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0863524,
+          55.886686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN483",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.067156,
+          55.883686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN481",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0614831,
+          55.8827969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN435",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0675691,
+          55.8844213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN433",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0464405,
+          55.8899427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN432",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0435174,
+          55.8915413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN351",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0439416,
+          55.8893709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN451",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.03266,
+          55.9004701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN353",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0326064,
+          55.9004468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN354",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0281137,
+          55.9059622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN356",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0180896,
+          55.9206226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN357",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0154611,
+          55.9220729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN359",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9965908,
+          55.9331809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN362",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9818583,
+          55.9412075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN363",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9798357,
+          55.9421646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN364",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9648076,
+          55.9501512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN365",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9645076,
+          55.9529288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN367",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.955257,
+          55.9657621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN352",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0390002,
+          55.8949171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN358",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0034944,
+          55.9288724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN366",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9581319,
+          55.9634971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN368",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9444774,
+          55.9753929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE311",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.276889,
+          55.8948097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE313BR",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2938501,
+          55.8988124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE313",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2962136,
+          55.8986364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE480",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3064715,
+          55.8947407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE314",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3058849,
+          55.895748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE316",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3229197,
+          55.8987508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE482",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3118208,
+          55.8934629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE481",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3139065,
+          55.8935553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE486",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3204557,
+          55.8914364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE484",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3182178,
+          55.8932235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS426 BR",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2361772,
+          55.8828521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE521",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2396896,
+          55.8937081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE519",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2395541,
+          55.8936893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE48",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2373057,
+          55.8960941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE226",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2372654,
+          55.8960749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE47",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2371903,
+          55.8960802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE225",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2372427,
+          55.8960967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE46",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2321589,
+          55.9002874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE224",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2321079,
+          55.900261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE223",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2263491,
+          55.9033213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE45",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2262553,
+          55.9032461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE44",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2239073,
+          55.9042515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE222",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2235211,
+          55.9043237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE42",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2141713,
+          55.9080154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE220",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2139809,
+          55.9079913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE219",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2092394,
+          55.9099044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE41",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2091509,
+          55.9098427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE41BR",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2064039,
+          55.9107255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE40",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1993492,
+          55.9123982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE218",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1992995,
+          55.9123163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE515",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1929611,
+          55.9134376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE513",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1920974,
+          55.9133451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE215",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1899749,
+          55.9137178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE39",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1899963,
+          55.9137614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE217",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1900165,
+          55.9138012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE511",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1891662,
+          55.9137956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG214",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1777919,
+          55.915772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG38",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1777235,
+          55.9157059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG212",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1777088,
+          55.9156713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG210",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.17769,
+          55.9156307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG506",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1762108,
+          55.9157577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG209",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1673064,
+          55.917717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG37",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1672474,
+          55.9176178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG36",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1643507,
+          55.9184833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG207",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1552018,
+          55.9210787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG35",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1546546,
+          55.9211087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG34",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1472488,
+          55.9229438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG33",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.133823,
+          55.9259359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG32",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1325529,
+          55.9263313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG30",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1166416,
+          55.9291358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG29",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1164941,
+          55.9290622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG26",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0994805,
+          55.9325073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG27",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0994939,
+          55.9324148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG24",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0863686,
+          55.9364947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG23",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0822391,
+          55.938255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG22",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0721437,
+          55.9438443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG203",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0618569,
+          55.9479859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG21",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0618891,
+          55.9480197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG202",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0601765,
+          55.9486557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG20",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0601376,
+          55.9486197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG19",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0462277,
+          55.9517764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG18",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0443819,
+          55.9523296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG17",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0318501,
+          55.9587872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG16",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0310888,
+          55.9595469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG13",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0179703,
+          55.9681457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG14",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0208635,
+          55.9670052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG12",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0043254,
+          55.9716151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG11",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0038104,
+          55.9716061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG10",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9881854,
+          55.9765596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG9",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9875014,
+          55.9766587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG8",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9713965,
+          55.9809802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG7",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9705006,
+          55.9810297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG5",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.952516,
+          55.9812521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG4",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9520118,
+          55.9813294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG2",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9302545,
+          55.9827976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG3",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9327999,
+          55.9824959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG508",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1841171,
+          55.9145221
+        ]
+      }
     }
   ]
 }
