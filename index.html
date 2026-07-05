@@ -467,13 +467,13 @@
     */
     const LAYER_CONFIGS = [
       {
-        name: "Access",
+        name: "Access Points",
         file: "access.geojson",
         colour: "#00ffff",
         pane: "accessPane",
         zIndex: 650,
         showOnLoad: true,
-        showLabels: true
+        showLabels: false
       },
       {
         name: "Stations",
@@ -492,7 +492,7 @@
         pane: "pointsPane",
         zIndex: 640,
         showOnLoad: true,
-        showLabels: true
+        showLabels: false
       },
       {
         name: "Signals",
@@ -541,7 +541,7 @@
       Higher zIndex draws above lower zIndex.
 
       Top to bottom:
-        Access
+        Access Points
         Points
         Signals
         Locs
@@ -621,6 +621,7 @@
     };
 
     satellite.addTo(map);
+    roadLabels.addTo(map);
 
     let currentBaseLayer = satellite;
 
@@ -677,7 +678,7 @@
     function getSearchLayerPriority(layerName) {
       const priorities = {
         "Points": 1,
-        "Access": 2,
+        "Access Points": 2,
         "Signals": 3,
         "Locs": 4,
         "Tracks": 5,
@@ -804,7 +805,7 @@
     }
 
     function navigationLinks(feature, layerName) {
-      if (layerName !== "Access") {
+      if (layerName !== "Access Points") {
         return "";
       }
 
