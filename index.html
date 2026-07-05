@@ -498,13 +498,19 @@
       MAIN SETTINGS
       Change these if you want the map to open somewhere else.
     */
-    const DEFAULT_LAT = 55.84755;
-    const DEFAULT_LNG = -4.26126;
+    const DEFAULT_LAT = 55.8610437503536;
+    const DEFAULT_LNG = -4.254057045661115;
     const DEFAULT_ZOOM = 15;
     const MAX_MAP_ZOOM = 20;
     const LABEL_MIN_ZOOM = 17;
     const ALL_SECTIONS = "All sections";
     const SECTION_STORAGE_KEY = "railMapSectionChoice";
+    const CENTRAL_SECTION = "Central";
+    const CENTRAL_VIEW = {
+      lat: 55.84755,
+      lng: -4.26126,
+      zoom: 15
+    };
     const COWLAIRS_SECTION = "Cowlairs";
     const COWLAIRS_VIEW = {
       lat: 55.883803895650495,
@@ -1216,7 +1222,9 @@
     }
 
     function centreMapForSection(sectionName) {
-      if (sectionName === COWLAIRS_SECTION) {
+      if (sectionName === CENTRAL_SECTION) {
+        map.setView([CENTRAL_VIEW.lat, CENTRAL_VIEW.lng], CENTRAL_VIEW.zoom);
+      } else if (sectionName === COWLAIRS_SECTION) {
         map.setView([COWLAIRS_VIEW.lat, COWLAIRS_VIEW.lng], COWLAIRS_VIEW.zoom);
       } else if (sectionName === ALL_SECTIONS) {
         map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
