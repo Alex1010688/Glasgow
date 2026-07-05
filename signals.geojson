@@ -16051,10 +16051,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CB439",
+        "name": "CN439",
         "type": "Signals",
         "notes": "",
-        "section": "Cowlairs"
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488514",
+            "label": "Signal"
+          },
       },
       "geometry": {
         "type": "Point",
