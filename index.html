@@ -275,6 +275,25 @@
       background: #e8e8e8;
     }
 
+    .section-choice {
+      display: grid;
+      gap: 6px;
+      margin: 12px 0;
+    }
+
+    .section-choice label,
+    .remember-section-choice {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      margin: 0;
+    }
+
+    .section-choice input,
+    .remember-section-choice input {
+      flex: 0 0 auto;
+    }
+
     .map-controls-panel {
       position: absolute;
       top: 10px;
@@ -417,6 +436,19 @@
     </div>
   </div>
 
+  <div id="sectionModal" class="info-modal" role="dialog" aria-modal="true" aria-labelledby="sectionModalTitle">
+    <div class="info-dialog">
+      <h2 id="sectionModalTitle">Choose Section</h2>
+      <p>Which section do you wish to view?</p>
+      <div id="initialSectionChoices" class="section-choice"></div>
+      <label class="remember-section-choice">
+        <input id="rememberSectionChoice" type="checkbox" />
+        Remember this choice
+      </label>
+      <button id="sectionModalConfirm" type="button">Continue</button>
+    </div>
+  </div>
+
   <div class="top-panel">
     <div class="search-wrapper">
       <input
@@ -448,6 +480,11 @@
         <div class="map-control-title">Labels</div>
         <div id="labelLayerControls"></div>
       </div>
+
+      <div class="map-control-box">
+        <div class="map-control-title">Sections</div>
+        <div id="sectionLayerControls"></div>
+      </div>
     </div>
   </div>
 
@@ -463,6 +500,14 @@
     const DEFAULT_ZOOM = 15;
     const MAX_MAP_ZOOM = 20;
     const LABEL_MIN_ZOOM = 17;
+    const ALL_SECTIONS = "All sections";
+    const SECTION_STORAGE_KEY = "railMapSectionChoice";
+    const COWLAIRS_SECTION = "Cowlairs";
+    const COWLAIRS_VIEW = {
+      lat: 55.883803895650495,
+      lng: -4.2372892899668475,
+      zoom: 15
+    };
 
     /*
       GEOJSON LAYERS
@@ -633,6 +678,9 @@
     const allFeatures = [];
     const labelledFeatures = [];
     const labelSettings = {};
+    const availableSections = new Set();
+    let activeSection = localStorage.getItem(SECTION_STORAGE_KEY) || ALL_SECTIONS;
+    let sectionPromptShown = false;
 
     LAYER_CONFIGS.forEach(layerConfig => {
       labelSettings[layerConfig.name] = !!layerConfig.showLabels;
@@ -675,6 +723,20 @@
         .filter(Boolean)
         .join(" ")
         .toLowerCase();
+    }
+
+    function getFeatureSection(feature) {
+      const p = feature.properties || {};
+      return p.section || p.Section || "";
+    }
+
+    function featureMatchesActiveSection(feature) {
+      const featureSection = getFeatureSection(feature);
+      return activeSection === ALL_SECTIONS || featureSection === activeSection;
+    }
+
+    function isFeatureSearchable(item) {
+      return featureMatchesActiveSection(item.feature) && map.hasLayer(item.layer);
     }
 
     function getPrimarySearchName(item) {
@@ -1127,6 +1189,7 @@
     function closeInfoModal() {
       document.getElementById("infoModal").classList.remove("open");
       localStorage.setItem("railMapInfoSeen", "true");
+      maybeOpenSectionModal();
     }
 
     document.getElementById("infoButton").onclick = openInfoModal;
@@ -1144,9 +1207,111 @@
       }
     });
 
-    if (localStorage.getItem("railMapInfoSeen") !== "true") {
-      openInfoModal();
+    function getSectionOptions() {
+      return [ALL_SECTIONS].concat(Array.from(availableSections).sort());
     }
+
+    function centreMapForSection(sectionName) {
+      if (sectionName === COWLAIRS_SECTION) {
+        map.setView([COWLAIRS_VIEW.lat, COWLAIRS_VIEW.lng], COWLAIRS_VIEW.zoom);
+      } else if (sectionName === ALL_SECTIONS) {
+        map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
+      }
+    }
+
+    function applySectionFilter() {
+      allFeatures.forEach(item => {
+        const parentLayer = overlayMaps[item.layerName];
+
+        if (!parentLayer) {
+          return;
+        }
+
+        if (featureMatchesActiveSection(item.feature)) {
+          if (!parentLayer.hasLayer(item.layer)) {
+            parentLayer.addLayer(item.layer);
+          }
+        } else if (parentLayer.hasLayer(item.layer)) {
+          parentLayer.removeLayer(item.layer);
+        }
+      });
+
+      updateLabelVisibility();
+    }
+
+    function setActiveSection(sectionName, options = {}) {
+      const validSections = getSectionOptions();
+      activeSection = validSections.includes(sectionName) ? sectionName : ALL_SECTIONS;
+
+      applySectionFilter();
+      buildMapControlPanel();
+
+      if (options.remember) {
+        localStorage.setItem(SECTION_STORAGE_KEY, activeSection);
+      } else if (options.clearRemembered) {
+        localStorage.removeItem(SECTION_STORAGE_KEY);
+      }
+
+      if (options.centreMap !== false) {
+        centreMapForSection(activeSection);
+      }
+    }
+
+    function openSectionModal() {
+      const modal = document.getElementById("sectionModal");
+      const choices = document.getElementById("initialSectionChoices");
+      const rememberedChoice = localStorage.getItem(SECTION_STORAGE_KEY);
+
+      if (!modal || !choices) {
+        return;
+      }
+
+      choices.innerHTML = "";
+
+      getSectionOptions().forEach(sectionName => {
+        const radio = document.createElement("input");
+        radio.type = "radio";
+        radio.name = "initial-section";
+        radio.value = sectionName;
+        radio.checked = sectionName === activeSection;
+
+        const row = createControlRow(radio, sectionName);
+        choices.appendChild(row);
+      });
+
+      document.getElementById("rememberSectionChoice").checked = !!rememberedChoice;
+      modal.classList.add("open");
+    }
+
+    function closeSectionModal() {
+      const selected = document.querySelector('input[name="initial-section"]:checked');
+      const rememberChoice = document.getElementById("rememberSectionChoice").checked;
+      const sectionName = selected ? selected.value : ALL_SECTIONS;
+
+      setActiveSection(sectionName, {
+        remember: rememberChoice,
+        clearRemembered: !rememberChoice
+      });
+
+      document.getElementById("sectionModal").classList.remove("open");
+    }
+
+    function maybeOpenSectionModal() {
+      if (sectionPromptShown || localStorage.getItem(SECTION_STORAGE_KEY)) {
+        return;
+      }
+
+      sectionPromptShown = true;
+      openSectionModal();
+    }
+
+    document.getElementById("sectionModalConfirm").onclick = closeSectionModal;
+
+    document.getElementById("sectionModal").onclick = function(event) {
+      if (event.target.id === "sectionModal") {
+        closeSectionModal();
+      }
+    };
 
     function updateSuggestions() {
       const searchText = document
@@ -1165,6 +1330,7 @@
       }
 
       const matches = allFeatures
+        .filter(isFeatureSearchable)
         .map(item => {
           return {
             item: item,
@@ -1224,6 +1390,7 @@
       }
 
       const rankedMatches = allFeatures
+        .filter(isFeatureSearchable)
         .map(item => {
           return {
             item: item,
@@ -1295,8 +1462,9 @@
       const baseContainer = document.getElementById("baseLayerControls");
       const overlayContainer = document.getElementById("overlayLayerControls");
       const labelContainer = document.getElementById("labelLayerControls");
+      const sectionContainer = document.getElementById("sectionLayerControls");
 
-      if (!button || !baseContainer || !overlayContainer || !labelContainer) {
+      if (!button || !baseContainer || !overlayContainer || !labelContainer || !sectionContainer) {
         return;
       }
 
@@ -1305,6 +1473,7 @@
       baseContainer.innerHTML = "";
       overlayContainer.innerHTML = "";
       labelContainer.innerHTML = "";
+      sectionContainer.innerHTML = "";
 
       Object.keys(baseMaps).forEach(baseLayerName => {
         const radio = document.createElement("input");
@@ -1357,6 +1526,7 @@
             map.removeLayer(layer);
           }
 
+          applySectionFilter();
           updateLabelVisibility();
         };
 
@@ -1378,6 +1548,24 @@
         };
 
         labelContainer.appendChild(createControlRow(checkbox, layerConfig.name));
+      });
+
+      getSectionOptions().forEach(sectionName => {
+        const radio = document.createElement("input");
+        radio.type = "radio";
+        radio.name = "map-section";
+        radio.checked = sectionName === activeSection;
+
+        radio.onchange = function() {
+          if (radio.checked) {
+            setActiveSection(sectionName, {
+              centreMap: true,
+              clearRemembered: false
+            });
+          }
+        };
+
+        sectionContainer.appendChild(createControlRow(radio, sectionName));
       });
     }
 
@@ -1468,6 +1656,12 @@
         },
 
         onEachFeature: function(feature, leafletLayer) {
+          const sectionName = getFeatureSection(feature);
+
+          if (sectionName) {
+            availableSections.add(sectionName);
+          }
+
           leafletLayer.bindPopup(popupContent(feature, layerConfig.name));
 
           leafletLayer.bindTooltip(getFeatureName(feature), {
@@ -1516,8 +1710,17 @@
       }
 
       buildMapControlPanel();
+      setActiveSection(activeSection, {
+        centreMap: !!localStorage.getItem(SECTION_STORAGE_KEY)
+      });
 
       updateLabelVisibility();
+
+      if (localStorage.getItem("railMapInfoSeen") !== "true") {
+        openInfoModal();
+      } else {
+        maybeOpenSectionModal();
+      }
 
       if (loadErrors.length > 0) {
         alert(
