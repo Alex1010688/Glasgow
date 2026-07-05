@@ -34115,8 +34115,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA",
-        "line_width": 3.91
+        "colour": "#A1C2FA"
       },
       "geometry": {
         "type": "LineString",
@@ -34139,8 +34138,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#EDA29B",
-        "line_width": 3.71
+        "colour": "#EDA29B"
       },
       "geometry": {
         "type": "LineString",
@@ -34163,8 +34161,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFFF8D",
-        "line_width": 3.91
+        "colour": "#FFFF8D"
       },
       "geometry": {
         "type": "LineString",
@@ -34187,8 +34184,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5",
-        "line_width": 3.71
+        "colour": "#C5E1A5"
       },
       "geometry": {
         "type": "LineString",
@@ -34211,8 +34207,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5",
-        "line_width": 3.91
+        "colour": "#C5E1A5"
       },
       "geometry": {
         "type": "LineString",
@@ -34235,8 +34230,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFFF8D",
-        "line_width": 3.71
+        "colour": "#FFFF8D"
       },
       "geometry": {
         "type": "LineString",
@@ -34259,8 +34253,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA",
-        "line_width": 3.71
+        "colour": "#A1C2FA"
       },
       "geometry": {
         "type": "LineString",
@@ -34283,8 +34276,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#EDA29B",
-        "line_width": 4.1
+        "colour": "#EDA29B"
       },
       "geometry": {
         "type": "LineString",
@@ -34307,8 +34299,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5",
-        "line_width": 4.29
+        "colour": "#C5E1A5"
       },
       "geometry": {
         "type": "LineString",
@@ -34347,8 +34338,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFFF8D",
-        "line_width": 3.91
+        "colour": "#FFFF8D"
       },
       "geometry": {
         "type": "LineString",
@@ -34375,8 +34365,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA",
-        "line_width": 3.91
+        "colour": "#A1C2FA"
       },
       "geometry": {
         "type": "LineString",
@@ -34403,8 +34392,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA",
-        "line_width": 3.71
+        "colour": "#A1C2FA"
       },
       "geometry": {
         "type": "LineString",
@@ -34435,8 +34423,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA",
-        "line_width": 3.71
+        "colour": "#A1C2FA"
       },
       "geometry": {
         "type": "LineString",
@@ -34463,8 +34450,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5",
-        "line_width": 3.91
+        "colour": "#C5E1A5"
       },
       "geometry": {
         "type": "LineString",
@@ -34499,8 +34485,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA",
-        "line_width": 3.71
+        "colour": "#A1C2FA"
       },
       "geometry": {
         "type": "LineString",
@@ -34535,8 +34520,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5",
-        "line_width": 3.33
+        "colour": "#C5E1A5"
       },
       "geometry": {
         "type": "LineString",
@@ -34563,8 +34547,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA",
-        "line_width": 3.71
+        "colour": "#A1C2FA"
       },
       "geometry": {
         "type": "LineString",
@@ -34599,8 +34582,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5",
-        "line_width": 3.71
+        "colour": "#C5E1A5"
       },
       "geometry": {
         "type": "LineString",
@@ -34627,8 +34609,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFFF8D",
-        "line_width": 4.1
+        "colour": "#FFFF8D"
       },
       "geometry": {
         "type": "LineString",
@@ -34695,8 +34676,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#EDA29B",
-        "line_width": 3.71
+        "colour": "#EDA29B"
       },
       "geometry": {
         "type": "LineString",
@@ -34743,8 +34723,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.29
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -34767,8 +34746,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.29
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -34791,8 +34769,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFD600",
-        "line_width": 4.1
+        "colour": "#FFD600"
       },
       "geometry": {
         "type": "LineString",
@@ -34815,8 +34792,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -34839,8 +34815,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.33
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -34863,8 +34838,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -34887,8 +34861,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFD600",
-        "line_width": 3.52
+        "colour": "#FFD600"
       },
       "geometry": {
         "type": "LineString",
@@ -34923,8 +34896,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.52
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -34959,8 +34931,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -34995,8 +34966,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -35055,8 +35025,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFD600",
-        "line_width": 4.29
+        "colour": "#FFD600"
       },
       "geometry": {
         "type": "LineString",
@@ -35095,8 +35064,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -35143,8 +35111,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -35195,8 +35162,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -35247,8 +35213,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -35295,8 +35260,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFD600",
-        "line_width": 4.29
+        "colour": "#FFD600"
       },
       "geometry": {
         "type": "LineString",
@@ -35331,8 +35295,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.49
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -35399,8 +35362,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.1
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -35427,8 +35389,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.27
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -35455,8 +35416,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.27
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -35523,8 +35483,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.27
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -35563,8 +35522,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.47
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -35587,8 +35545,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.27
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -35623,8 +35580,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 5.04
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -35659,8 +35615,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.47
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -35687,8 +35642,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.66
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -35723,8 +35677,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.47
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -35759,8 +35712,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.27
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -35815,8 +35767,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.08
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -35851,8 +35802,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -35883,8 +35833,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.68
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -35931,8 +35880,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.52
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -35971,8 +35919,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -36011,8 +35958,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.29
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -36043,8 +35989,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -36075,8 +36020,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.68
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -36111,8 +36055,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.68
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -36155,8 +36098,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.49
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -36195,8 +36137,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.71
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -36251,8 +36192,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.71
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -36287,8 +36227,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.29
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -36327,8 +36266,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.29
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -36411,8 +36349,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -36435,8 +36372,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -36475,8 +36411,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.12
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -36555,8 +36490,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.89
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -36587,8 +36521,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 2.73
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -36647,8 +36580,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.31
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -36675,8 +36607,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.31
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -36731,8 +36662,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.7
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -36767,8 +36697,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.89
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -36811,8 +36740,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.89
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -36839,8 +36767,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.7
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -36867,8 +36794,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.89
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -36907,8 +36833,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.5
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -36947,8 +36872,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.31
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -36999,8 +36923,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.5
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -37031,8 +36954,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.7
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -37063,8 +36985,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.5
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -37095,8 +37016,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.5
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -37143,8 +37063,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.7
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -37191,8 +37110,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.27
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -37231,8 +37149,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.7
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -37263,8 +37180,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.29
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -37303,8 +37219,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.68
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -37343,8 +37258,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.52
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -37391,8 +37305,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.52
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -37459,8 +37372,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.29
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -37491,8 +37403,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -37555,8 +37466,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -37595,8 +37505,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -37631,8 +37540,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.68
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -37667,8 +37575,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.49
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -37703,8 +37610,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.29
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -37759,8 +37665,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.1
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -37799,8 +37704,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.1
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -37851,8 +37755,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -37899,8 +37802,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#C5E1A5",
-        "line_width": 4.29
+        "colour": "#C5E1A5"
       },
       "geometry": {
         "type": "LineString",
@@ -38067,8 +37969,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A1C2FA",
-        "line_width": 4.49
+        "colour": "#A1C2FA"
       },
       "geometry": {
         "type": "LineString",
@@ -38243,8 +38144,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.49
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -38327,8 +38227,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.49
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -38371,8 +38270,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.68
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -38407,8 +38305,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -38459,8 +38356,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.1
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -38499,8 +38395,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.49
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -38563,8 +38458,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.1
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -38607,8 +38501,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.29
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -38675,8 +38568,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.88
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -38779,8 +38671,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.49
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -38815,8 +38706,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.68
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -38867,8 +38757,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFFF8D",
-        "line_width": 4.49
+        "colour": "#FFFF8D"
       },
       "geometry": {
         "type": "LineString",
@@ -38987,8 +38876,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.1
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -39019,8 +38907,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -39043,8 +38930,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -39083,8 +38969,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.29
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -39151,8 +39036,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -39219,8 +39103,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#EDA29B",
-        "line_width": 4.29
+        "colour": "#EDA29B"
       },
       "geometry": {
         "type": "LineString",
@@ -39335,8 +39218,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.68
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -39359,8 +39241,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -39383,8 +39264,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.49
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -39407,8 +39287,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -39451,8 +39330,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.49
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -39479,8 +39357,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.29
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -39527,8 +39404,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.29
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -39551,8 +39427,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.71
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -39599,8 +39474,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.88
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -39643,8 +39517,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.49
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -39683,8 +39556,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -39747,8 +39619,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.29
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -39779,8 +39650,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -39819,8 +39689,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.29
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -39903,8 +39772,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.49
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -39935,8 +39803,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -39995,8 +39862,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -40035,8 +39901,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -40075,8 +39940,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -40127,8 +39991,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.1
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -40167,8 +40030,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.88
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -40203,8 +40065,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -40247,8 +40108,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.49
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -40295,8 +40155,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -40335,8 +40194,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -40431,8 +40289,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -40499,8 +40356,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -40571,8 +40427,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.29
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -40615,8 +40470,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -40655,8 +40509,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.71
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -40683,8 +40536,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 5.07
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -40743,8 +40595,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.71
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -40775,8 +40626,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -40843,8 +40693,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.49
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -40875,8 +40724,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -40907,8 +40755,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.1
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -41007,8 +40854,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -41087,8 +40933,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -41171,8 +41016,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.29
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -41207,8 +41051,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -41235,8 +41078,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.29
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -41259,8 +41101,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -41295,8 +41136,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -41343,8 +41183,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -41387,8 +41226,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.88
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -41463,8 +41301,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -41535,8 +41372,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -41587,8 +41423,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -41627,8 +41462,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -41679,8 +41513,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -41731,8 +41564,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.68
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -41767,8 +41599,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.68
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -41803,8 +41634,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -41883,8 +41713,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.49
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -41919,8 +41748,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.1
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -42003,8 +41831,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.91
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -42063,8 +41890,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -42123,8 +41949,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.91
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -42219,8 +42044,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.71
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -42267,8 +42091,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -42379,8 +42202,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.71
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -42459,8 +42281,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.71
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -42511,8 +42332,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.68
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -42547,8 +42367,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -42583,8 +42402,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.52
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -42659,8 +42477,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -42691,8 +42508,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.88
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -42739,8 +42555,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.91
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -42819,8 +42634,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -42899,8 +42713,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -42983,8 +42796,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.52
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -43019,8 +42831,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.49
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -43043,8 +42854,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -43083,8 +42893,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -43231,8 +43040,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -43291,8 +43099,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -43319,8 +43126,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -43383,8 +43189,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.49
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -43459,8 +43264,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.29
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -43511,8 +43315,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.29
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -43543,8 +43346,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.71
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -43579,8 +43381,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -43615,8 +43416,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 2.94
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -43659,8 +43459,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -43695,8 +43494,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.52
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -43735,8 +43533,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -43775,8 +43572,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -43799,8 +43595,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.91
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -43851,8 +43646,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -43879,8 +43673,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -43911,8 +43704,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -43935,8 +43727,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -43959,8 +43750,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.71
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -43991,8 +43781,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.52
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -44039,8 +43828,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.71
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -44079,8 +43867,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.91
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -44103,8 +43890,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -44139,8 +43925,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -44175,8 +43960,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -44207,8 +43991,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.49
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -44231,8 +44014,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -44283,8 +44065,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -44327,8 +44108,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.52
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -44363,8 +44143,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -44395,8 +44174,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -44423,8 +44201,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -44471,8 +44248,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.1
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -44495,8 +44271,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -44523,8 +44298,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.52
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -44551,8 +44325,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -44575,8 +44348,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -44607,8 +44379,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.52
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -44655,8 +44426,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.71
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -44691,8 +44461,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.49
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -44715,8 +44484,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -44747,8 +44515,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -44807,8 +44574,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.1
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -44831,8 +44597,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.71
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -44855,8 +44620,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -44879,8 +44643,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.1
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -44907,8 +44670,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.52
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -44935,8 +44697,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -44963,8 +44724,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.29
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -44987,8 +44747,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.33
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -45011,8 +44770,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.52
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -45035,8 +44793,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.52
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -45059,8 +44816,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.52
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -45083,8 +44839,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.52
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -45107,8 +44862,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -45131,8 +44885,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.52
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -45155,8 +44908,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -45179,8 +44931,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.1
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -45243,8 +44994,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.71
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -45279,8 +45029,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.71
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -45303,8 +45052,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -45355,8 +45103,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.71
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -45391,8 +45138,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.71
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -45415,8 +45161,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -45439,8 +45184,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -45463,8 +45207,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.71
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -45487,8 +45230,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -45511,8 +45253,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.91
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -45555,8 +45296,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -45587,8 +45327,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.52
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -45615,8 +45354,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.71
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -45659,8 +45397,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.71
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -45703,8 +45440,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.33
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -45759,8 +45495,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.33
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -45807,8 +45542,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.13
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -45871,8 +45605,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.71
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -45923,8 +45656,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 2.94
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -45987,8 +45719,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -46051,8 +45782,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.33
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -46091,8 +45821,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.71
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -46143,8 +45872,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -46211,8 +45939,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -46243,8 +45970,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 5.26
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -46283,8 +46009,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.29
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -46319,8 +46044,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -46347,8 +46071,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -46399,8 +46122,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.91
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -46443,8 +46165,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.29
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -46487,8 +46208,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -46515,8 +46235,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.49
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -46543,8 +46262,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -46591,8 +46309,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -46647,8 +46364,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -46707,8 +46423,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 3.91
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -46735,8 +46450,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.1
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -46787,8 +46501,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.1
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -46843,8 +46556,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.52
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -46875,8 +46587,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.29
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -46911,8 +46622,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.29
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -46979,8 +46689,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.29
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -47019,8 +46728,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 4.29
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -47087,8 +46795,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#0288D1",
-        "line_width": 4.29
+        "colour": "#0288D1"
       },
       "geometry": {
         "type": "LineString",
@@ -47131,8 +46838,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#FFEA00",
-        "line_width": 3.71
+        "colour": "#FFEA00"
       },
       "geometry": {
         "type": "LineString",
@@ -47171,8 +46877,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -47203,8 +46908,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.49
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -47247,8 +46951,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.1
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -47287,8 +46990,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -47311,8 +47013,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.49
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -47335,8 +47036,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.1
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -47371,8 +47071,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.1
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -47403,8 +47102,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -47447,8 +47145,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -47471,8 +47168,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -47499,8 +47195,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.13
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -47539,8 +47234,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.91
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -47603,8 +47297,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.29
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -47635,8 +47328,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.29
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -47679,8 +47371,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.71
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -47743,8 +47434,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.71
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -47803,8 +47493,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.1
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -47835,8 +47524,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.29
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -47879,8 +47567,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 4.1
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -47943,8 +47630,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 4.1
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -47979,8 +47665,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.91
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
@@ -48027,8 +47712,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#A52714",
-        "line_width": 3.71
+        "colour": "#A52714"
       },
       "geometry": {
         "type": "LineString",
@@ -48067,8 +47751,7 @@
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
-        "colour": "#7CB342",
-        "line_width": 3.52
+        "colour": "#7CB342"
       },
       "geometry": {
         "type": "LineString",
