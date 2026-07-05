@@ -9,7 +9,7 @@
       "properties": {
         "@id": "node/22256341",
         "name": "Cardonald",
-        "name:gd": "Cair Dhòmhnaill",
+        "name:gd": "Cair Dh\u00f2mhnaill",
         "naptan:AtcoCode": "9100CDNL",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/cdo/",
@@ -24,7 +24,8 @@
         "train": "yes",
         "wheelchair": "no",
         "wikidata": "Q2162235",
-        "wikipedia": "en:Cardonald railway station"
+        "wikipedia": "en:Cardonald railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -53,7 +54,8 @@
         "ref:crs": "HLW",
         "train": "yes",
         "wikidata": "Q2511692",
-        "wikipedia": "en:Hillington West railway station"
+        "wikipedia": "en:Hillington West railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +84,8 @@
         "ref:crs": "HLE",
         "train": "yes",
         "wikidata": "Q2748339",
-        "wikipedia": "en:Hillington East railway station"
+        "wikipedia": "en:Hillington East railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -98,7 +101,7 @@
       "properties": {
         "@id": "node/27482876",
         "name": "Paisley Canal",
-        "name:gd": "Canàl Phàislig",
+        "name:gd": "Can\u00e0l Ph\u00e0islig",
         "naptan:AtcoCode": "9100PSLYCAN",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/pcn/",
@@ -112,7 +115,8 @@
         "train": "yes",
         "wheelchair": "yes",
         "wikidata": "Q2454734",
-        "wikipedia": "en:Paisley Canal railway station"
+        "wikipedia": "en:Paisley Canal railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -142,7 +146,8 @@
         "train": "yes",
         "wheelchair": "yes",
         "wikidata": "Q3044898",
-        "wikipedia": "en:Crossmyloof railway station"
+        "wikipedia": "en:Crossmyloof railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -170,7 +175,8 @@
         "ref:crs": "SHL",
         "train": "yes",
         "wikidata": "Q2261019",
-        "wikipedia": "en:Shawlands railway station"
+        "wikipedia": "en:Shawlands railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -198,7 +204,8 @@
         "ref:crs": "THT",
         "train": "yes",
         "wikidata": "Q2144407",
-        "wikipedia": "en:Thorntonhall railway station"
+        "wikipedia": "en:Thorntonhall railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -228,7 +235,8 @@
         "train": "yes",
         "wheelchair": "yes",
         "wikidata": "Q2231362",
-        "wikipedia": "en:Giffnock railway station"
+        "wikipedia": "en:Giffnock railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -256,7 +264,8 @@
         "ref:crs": "THB",
         "train": "yes",
         "wikidata": "Q2004756",
-        "wikipedia": "en:Thornliebank railway station"
+        "wikipedia": "en:Thornliebank railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +294,8 @@
         "ref:crs": "WLM",
         "train": "yes",
         "wikidata": "Q1890117",
-        "wikipedia": "en:Williamwood railway station"
+        "wikipedia": "en:Williamwood railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +324,8 @@
         "train": "yes",
         "wheelchair": "no",
         "wikidata": "Q2209530",
-        "wikipedia": "en:Cathcart railway station"
+        "wikipedia": "en:Cathcart railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -342,7 +353,8 @@
         "ref:crs": "PTT",
         "train": "yes",
         "wikidata": "Q2185506",
-        "wikipedia": "en:Patterton railway station"
+        "wikipedia": "en:Patterton railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -358,7 +370,7 @@
       "properties": {
         "@id": "node/29081540",
         "name": "Neilston",
-        "name:gd": "Baile Nèill",
+        "name:gd": "Baile N\u00e8ill",
         "naptan:AtcoCode": "9100NEILSTN",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/nei/",
@@ -371,7 +383,8 @@
         "ref:crs": "NEI",
         "train": "yes",
         "wikidata": "Q2158891",
-        "wikipedia": "en:Neilston railway station"
+        "wikipedia": "en:Neilston railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -387,7 +400,7 @@
       "properties": {
         "@id": "node/29108487",
         "name": "Maxwell Park",
-        "name:gd": "Pàirc Maxwell",
+        "name:gd": "P\u00e0irc Maxwell",
         "naptan:AtcoCode": "9100MAXWLPK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/max/",
@@ -402,7 +415,8 @@
         "train": "yes",
         "wheelchair": "no",
         "wikidata": "Q2482069",
-        "wikipedia": "en:Maxwell Park railway station"
+        "wikipedia": "en:Maxwell Park railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -434,7 +448,8 @@
         "train": "yes",
         "wheelchair": "no",
         "wikidata": "Q4697612",
-        "wikipedia": "en:Pollokshields West railway station"
+        "wikipedia": "en:Pollokshields West railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -462,7 +477,8 @@
         "ref:crs": "CKT",
         "train": "yes",
         "wikidata": "Q1973110",
-        "wikipedia": "en:Crookston railway station"
+        "wikipedia": "en:Crookston railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -490,7 +506,8 @@
         "ref:crs": "HKH",
         "train": "yes",
         "wikidata": "Q2659628",
-        "wikipedia": "en:Hawkhead railway station"
+        "wikipedia": "en:Hawkhead railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -520,7 +537,8 @@
         "train": "yes",
         "wheelchair": "yes",
         "wikidata": "Q2633187",
-        "wikipedia": "en:Mount Florida railway station"
+        "wikipedia": "en:Mount Florida railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -536,7 +554,7 @@
       "properties": {
         "@id": "node/30004721",
         "name": "Mosspark",
-        "name:gd": "Pàirc na Mòna",
+        "name:gd": "P\u00e0irc na M\u00f2na",
         "naptan:AtcoCode": "9100MSSPARK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/mpk/",
@@ -549,7 +567,8 @@
         "ref:crs": "MPK",
         "train": "yes",
         "wikidata": "Q1941822",
-        "wikipedia": "en:Mosspark railway station"
+        "wikipedia": "en:Mosspark railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -577,7 +596,8 @@
         "ref:crs": "CKH",
         "train": "yes",
         "wikidata": "Q2408971",
-        "wikipedia": "en:Corkerhill railway station"
+        "wikipedia": "en:Corkerhill railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -607,7 +627,8 @@
         "train": "yes",
         "wheelchair": "yes",
         "wikidata": "Q2282954",
-        "wikipedia": "en:Cambuslang railway station"
+        "wikipedia": "en:Cambuslang railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -637,7 +658,8 @@
         "source": "npe",
         "train": "yes",
         "wikidata": "Q5000163",
-        "wikipedia": "en:Burnside railway station"
+        "wikipedia": "en:Burnside railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -667,7 +689,8 @@
         "source": "npe",
         "train": "yes",
         "wikidata": "Q5149191",
-        "wikipedia": "en:Croftfoot railway station"
+        "wikipedia": "en:Croftfoot railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -683,7 +706,7 @@
       "properties": {
         "@id": "node/30564108",
         "name": "Kings Park",
-        "name:gd": "Pàirc an Rìgh",
+        "name:gd": "P\u00e0irc an R\u00ecgh",
         "naptan:AtcoCode": "9100KGPK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/kgp/",
@@ -697,7 +720,8 @@
         "source": "landsat/npe",
         "train": "yes",
         "wikidata": "Q2464694",
-        "wikipedia": "en:King's Park railway station"
+        "wikipedia": "en:King's Park railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +750,8 @@
         "source": "npe/landsat",
         "train": "yes",
         "wikidata": "Q2582678",
-        "wikipedia": "en:Kennishead railway station"
+        "wikipedia": "en:Kennishead railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -755,7 +780,8 @@
         "source": "npe/landsat",
         "train": "yes",
         "wikidata": "Q3012358",
-        "wikipedia": "en:Nitshill railway station"
+        "wikipedia": "en:Nitshill railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -786,7 +812,8 @@
         "train": "yes",
         "wheelchair": "limited",
         "wikidata": "Q2766367",
-        "wikipedia": "en:Pollokshaws East railway station"
+        "wikipedia": "en:Pollokshaws East railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +843,8 @@
         "source": "npe/landsat",
         "train": "yes",
         "wikidata": "Q1815565",
-        "wikipedia": "en:Langside railway station"
+        "wikipedia": "en:Langside railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -845,7 +873,8 @@
         "ref:crs": "COI",
         "train": "yes",
         "wikidata": "Q3898599",
-        "wikipedia": "en:Crosshill railway station"
+        "wikipedia": "en:Crosshill railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +890,7 @@
       "properties": {
         "@id": "node/30669985",
         "name": "Queens Park",
-        "name:gd": "Pàirc na Banrighinn",
+        "name:gd": "P\u00e0irc na Banrighinn",
         "naptan:AtcoCode": "9100QUNPARK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/qpk/",
@@ -875,7 +904,8 @@
         "train": "yes",
         "wheelchair": "no",
         "wikidata": "Q3249726",
-        "wikipedia": "en:Queens Park railway station (Scotland)"
+        "wikipedia": "en:Queens Park railway station (Scotland)",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +921,7 @@
       "properties": {
         "@id": "node/30671368",
         "name": "Dumbreck",
-        "name:gd": "An Dùn Breac",
+        "name:gd": "An D\u00f9n Breac",
         "naptan:AtcoCode": "9100DUMBRCK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/dum/",
@@ -904,7 +934,8 @@
         "ref:crs": "DUM",
         "train": "yes",
         "wikidata": "Q2783418",
-        "wikipedia": "en:Dumbreck railway station"
+        "wikipedia": "en:Dumbreck railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -920,7 +951,7 @@
       "properties": {
         "@id": "node/165098109",
         "name": "Priesthill & Darnley",
-        "name:gd": "Cnoc an t-Sagairt ⁊ Darnley",
+        "name:gd": "Cnoc an t-Sagairt \u204a Darnley",
         "naptan:AtcoCode": "9100PHLD",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/ptl/",
@@ -933,7 +964,8 @@
         "ref:crs": "PTL",
         "train": "yes",
         "wikidata": "Q7242899",
-        "wikipedia": "en:Priesthill & Darnley railway station"
+        "wikipedia": "en:Priesthill & Darnley railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -949,7 +981,7 @@
       "properties": {
         "@id": "node/168325631",
         "name": "Whitecraigs",
-        "name:gd": "An Creagan Bàn",
+        "name:gd": "An Creagan B\u00e0n",
         "naptan:AtcoCode": "9100WTCR",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/wcr/",
@@ -961,7 +993,8 @@
         "train": "yes",
         "wheelchair": "yes",
         "wikidata": "Q2450424",
-        "wikipedia": "en:Whitecraigs railway station"
+        "wikipedia": "en:Whitecraigs railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -997,7 +1030,8 @@
         "ref:crs": "RUT",
         "train": "yes",
         "wikidata": "Q950714",
-        "wikipedia": "en:Rutherglen railway station"
+        "wikipedia": "en:Rutherglen railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1027,7 +1061,8 @@
         "train": "yes",
         "wheelchair": "no",
         "wikidata": "Q2144734",
-        "wikipedia": "en:Pollokshields East railway station"
+        "wikipedia": "en:Pollokshields East railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1046,7 +1081,7 @@
         "brand:wikidata": "Q136406287",
         "fare_zone": "SPT Zone 1",
         "name": "Dalmarnock",
-        "name:gd": "Dail Meàrnaig",
+        "name:gd": "Dail Me\u00e0rnaig",
         "naptan:AtcoCode": "9100DLMRNOK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/dak/",
@@ -1063,7 +1098,8 @@
         "ref:crs": "DAK",
         "train": "yes",
         "wikidata": "Q2174513",
-        "wikipedia": "en:Dalmarnock railway station"
+        "wikipedia": "en:Dalmarnock railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1094,7 +1130,8 @@
         "source": "npe/guess",
         "train": "yes",
         "wikidata": "Q2709507",
-        "wikipedia": "en:Carmyle railway station"
+        "wikipedia": "en:Carmyle railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1124,7 +1161,8 @@
         "train": "yes",
         "wheelchair": "no",
         "wikidata": "Q7225728",
-        "wikipedia": "en:Pollokshaws West railway station"
+        "wikipedia": "en:Pollokshaws West railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1140,7 +1178,7 @@
       "properties": {
         "@id": "node/3979339627",
         "name": "East Kilbride",
-        "name:gd": "Cille Bhrìghde an Ear",
+        "name:gd": "Cille Bhr\u00ecghde an Ear",
         "naptan:AtcoCode": "9100EKILBRD",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/ekl/",
@@ -1153,7 +1191,8 @@
         "ref:crs": "EKL",
         "train": "yes",
         "wikidata": "Q2275211",
-        "wikipedia": "en:East Kilbride railway station"
+        "wikipedia": "en:East Kilbride railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1184,7 +1223,8 @@
         "ref:crs": "HMY",
         "train": "yes",
         "wikidata": "Q2325828",
-        "wikipedia": "en:Hairmyres railway station"
+        "wikipedia": "en:Hairmyres railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1213,7 +1253,8 @@
         "ref:crs": "BUS",
         "train": "yes",
         "wikidata": "Q2492034",
-        "wikipedia": "en:Busby railway station"
+        "wikipedia": "en:Busby railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1242,7 +1283,8 @@
         "ref:crs": "CKS",
         "train": "yes",
         "wikidata": "Q2869792",
-        "wikipedia": "en:Clarkston railway station"
+        "wikipedia": "en:Clarkston railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1260,7 +1302,7 @@
         "fare_zone": "SPT Zone 1",
         "name": "Glasgow Central",
         "name:gd": "Glaschu Mheadhain",
-        "name:ko": "글래스고 중앙역",
+        "name:ko": "\uae00\ub798\uc2a4\uace0 \uc911\uc559\uc5ed",
         "naptan:AtcoCode:High_Level": "9100GLGCLL",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/glasgow-central/",
@@ -1275,7 +1317,8 @@
         "train": "yes",
         "wheelchair": "yes",
         "wikidata": "Q800825",
-        "wikipedia": "en:Glasgow Central railway station"
+        "wikipedia": "en:Glasgow Central railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1291,7 +1334,7 @@
       "properties": {
         "@id": "node/7147294461",
         "name": "Muirend",
-        "name:gd": "Ceann an t-Slèibh",
+        "name:gd": "Ceann an t-Sl\u00e8ibh",
         "naptan:AtcoCode": "9100MUIREND",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/mui/",
@@ -1304,7 +1347,8 @@
         "ref:crs": "MUI",
         "train": "yes",
         "wikidata": "Q2477580",
-        "wikipedia": "en:Muirend railway station"
+        "wikipedia": "en:Muirend railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1334,7 +1378,8 @@
         "source": "npe",
         "train": "yes",
         "wikidata": "Q641964",
-        "wikipedia": "en:Kirkhill railway station"
+        "wikipedia": "en:Kirkhill railway station",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",

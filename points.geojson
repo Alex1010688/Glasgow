@@ -7,7 +7,8 @@
         "name": "114",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765200"
+        "equipment_number": "765200",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +24,8 @@
         "name": "115",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765199"
+        "equipment_number": "765199",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +41,8 @@
         "name": "118",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765031"
+        "equipment_number": "765031",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +58,8 @@
         "name": "119",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765003"
+        "equipment_number": "765003",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +75,8 @@
         "name": "125",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765017"
+        "equipment_number": "765017",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +92,8 @@
         "name": "126",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765020"
+        "equipment_number": "765020",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +109,8 @@
         "name": "127",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765018"
+        "equipment_number": "765018",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +126,8 @@
         "name": "128",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765019"
+        "equipment_number": "765019",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +152,8 @@
             "number": "8429356",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +169,8 @@
         "name": "306",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765404"
+        "equipment_number": "765404",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -176,7 +186,8 @@
         "name": "307",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "1953588"
+        "equipment_number": "1953588",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -192,7 +203,8 @@
         "name": "308",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763291"
+        "equipment_number": "763291",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -208,7 +220,8 @@
         "name": "312",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "763716"
+        "equipment_number": "763716",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -224,7 +237,8 @@
         "name": "317",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763714"
+        "equipment_number": "763714",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -240,7 +254,8 @@
         "name": "318",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763715"
+        "equipment_number": "763715",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -256,7 +271,8 @@
         "name": "321",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765415"
+        "equipment_number": "765415",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -272,7 +288,8 @@
         "name": "328",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "2828974"
+        "equipment_number": "2828974",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -288,7 +305,8 @@
         "name": "330",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763713"
+        "equipment_number": "763713",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -304,7 +322,8 @@
         "name": "334",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763696"
+        "equipment_number": "763696",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -320,7 +339,8 @@
         "name": "335",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763553"
+        "equipment_number": "763553",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +356,8 @@
         "name": "336",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763284"
+        "equipment_number": "763284",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -352,7 +373,8 @@
         "name": "339",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763692"
+        "equipment_number": "763692",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -368,7 +390,8 @@
         "name": "345",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763304"
+        "equipment_number": "763304",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -384,7 +407,8 @@
         "name": "350",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763308"
+        "equipment_number": "763308",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -400,7 +424,8 @@
         "name": "352",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763305"
+        "equipment_number": "763305",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -416,7 +441,8 @@
         "name": "356",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763310"
+        "equipment_number": "763310",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -432,7 +458,8 @@
         "name": "357",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763718"
+        "equipment_number": "763718",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -448,7 +475,8 @@
         "name": "358",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763674"
+        "equipment_number": "763674",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -464,7 +492,8 @@
         "name": "360",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763341"
+        "equipment_number": "763341",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -480,7 +509,8 @@
         "name": "362",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763354"
+        "equipment_number": "763354",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -496,7 +526,8 @@
         "name": "363",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763309"
+        "equipment_number": "763309",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -512,7 +543,8 @@
         "name": "364",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763340"
+        "equipment_number": "763340",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -528,7 +560,8 @@
         "name": "365",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763338"
+        "equipment_number": "763338",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -544,7 +577,8 @@
         "name": "367",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763296"
+        "equipment_number": "763296",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -560,7 +594,8 @@
         "name": "368",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763293"
+        "equipment_number": "763293",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +611,8 @@
         "name": "370",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763297"
+        "equipment_number": "763297",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -592,7 +628,8 @@
         "name": "371",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765037"
+        "equipment_number": "765037",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -608,7 +645,8 @@
         "name": "372",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765036"
+        "equipment_number": "765036",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -624,7 +662,8 @@
         "name": "373",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763294"
+        "equipment_number": "763294",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -640,7 +679,8 @@
         "name": "375",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763295"
+        "equipment_number": "763295",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -656,7 +696,8 @@
         "name": "377",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765035"
+        "equipment_number": "765035",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -672,7 +713,8 @@
         "name": "378",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765058"
+        "equipment_number": "765058",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -688,7 +730,8 @@
         "name": "384",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763299"
+        "equipment_number": "763299",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -704,7 +747,8 @@
         "name": "390",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "2642538"
+        "equipment_number": "2642538",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -720,7 +764,8 @@
         "name": "401",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765061"
+        "equipment_number": "765061",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -736,7 +781,8 @@
         "name": "406",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765051"
+        "equipment_number": "765051",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -752,7 +798,8 @@
         "name": "449",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488532"
+        "equipment_number": "2488532",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -768,7 +815,8 @@
         "name": "451",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "761668"
+        "equipment_number": "761668",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -784,7 +832,8 @@
         "name": "453",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488476"
+        "equipment_number": "2488476",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -800,7 +849,8 @@
         "name": "454",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488499"
+        "equipment_number": "2488499",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +866,8 @@
         "name": "456",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488514"
+        "equipment_number": "2488514",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -832,7 +883,8 @@
         "name": "457",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488504"
+        "equipment_number": "2488504",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -848,7 +900,8 @@
         "name": "459",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2522558"
+        "equipment_number": "2522558",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -864,7 +917,8 @@
         "name": "460",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488510"
+        "equipment_number": "2488510",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -880,7 +934,8 @@
         "name": "462",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488515"
+        "equipment_number": "2488515",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -896,7 +951,8 @@
         "name": "471",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488516"
+        "equipment_number": "2488516",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -912,7 +968,8 @@
         "name": "472",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488518"
+        "equipment_number": "2488518",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -928,7 +985,8 @@
         "name": "474",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488470"
+        "equipment_number": "2488470",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -944,7 +1002,8 @@
         "name": "479",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "1403694"
+        "equipment_number": "1403694",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -960,7 +1019,8 @@
         "name": "487",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765093"
+        "equipment_number": "765093",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -985,7 +1045,8 @@
             "number": "7791956",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1010,7 +1071,8 @@
             "number": "7791852",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1088,8 @@
         "name": "498",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "761616"
+        "equipment_number": "761616",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1042,7 +1105,8 @@
         "name": "499",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "3178137"
+        "equipment_number": "3178137",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1058,7 +1122,8 @@
         "name": "672",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762428"
+        "equipment_number": "762428",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1074,7 +1139,8 @@
         "name": "673",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762427"
+        "equipment_number": "762427",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1090,7 +1156,8 @@
         "name": "676",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762429"
+        "equipment_number": "762429",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1106,7 +1173,8 @@
         "name": "679",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762547"
+        "equipment_number": "762547",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1122,7 +1190,8 @@
         "name": "681",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762133"
+        "equipment_number": "762133",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1138,7 +1207,8 @@
         "name": "682",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762540"
+        "equipment_number": "762540",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1154,7 +1224,8 @@
         "name": "683",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762426"
+        "equipment_number": "762426",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1170,7 +1241,8 @@
         "name": "688",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "9254096"
+        "equipment_number": "9254096",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1195,7 +1267,8 @@
             "number": "19862372",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1220,7 +1293,8 @@
             "number": "19862382",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1249,7 +1323,8 @@
             "number": "19862443",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1265,7 +1340,8 @@
         "name": "695",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "1217562"
+        "equipment_number": "1217562",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1281,7 +1357,8 @@
         "name": "696",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "19888544"
+        "equipment_number": "19888544",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1297,7 +1374,8 @@
         "name": "697",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765028"
+        "equipment_number": "765028",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1313,7 +1391,8 @@
         "name": "914",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762571"
+        "equipment_number": "762571",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1329,7 +1408,8 @@
         "name": "915",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762572"
+        "equipment_number": "762572",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1354,7 +1434,8 @@
             "number": "781246",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1370,7 +1451,8 @@
         "name": "937",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "762398"
+        "equipment_number": "762398",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1468,8 @@
         "name": "938",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762436"
+        "equipment_number": "762436",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1402,7 +1485,8 @@
         "name": "943",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762405"
+        "equipment_number": "762405",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1418,7 +1502,8 @@
         "name": "948",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762415"
+        "equipment_number": "762415",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1434,7 +1519,8 @@
         "name": "951",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "761656"
+        "equipment_number": "761656",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1450,7 +1536,8 @@
         "name": "952",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "761647"
+        "equipment_number": "761647",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1466,7 +1553,8 @@
         "name": "953",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762438"
+        "equipment_number": "762438",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1482,7 +1570,8 @@
         "name": "954",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762390"
+        "equipment_number": "762390",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1498,7 +1587,8 @@
         "name": "955",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762376"
+        "equipment_number": "762376",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1523,7 +1613,8 @@
             "number": "18879137",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1548,7 +1639,8 @@
             "number": "18879139",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1564,7 +1656,8 @@
         "name": "989",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762333"
+        "equipment_number": "762333",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1580,7 +1673,8 @@
         "name": "993",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762339"
+        "equipment_number": "762339",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1596,7 +1690,8 @@
         "name": "113A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765201"
+        "equipment_number": "765201",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1612,7 +1707,8 @@
         "name": "113B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765202"
+        "equipment_number": "765202",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1628,7 +1724,8 @@
         "name": "116A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765088"
+        "equipment_number": "765088",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1644,7 +1741,8 @@
         "name": "116B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765198"
+        "equipment_number": "765198",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1660,7 +1758,8 @@
         "name": "122A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765016"
+        "equipment_number": "765016",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1676,7 +1775,8 @@
         "name": "122B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "764987"
+        "equipment_number": "764987",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1692,7 +1792,8 @@
         "name": "135A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "7895497"
+        "equipment_number": "7895497",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1708,7 +1809,8 @@
         "name": "135B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "7895498"
+        "equipment_number": "7895498",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1724,7 +1826,8 @@
         "name": "304A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763289"
+        "equipment_number": "763289",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1740,7 +1843,8 @@
         "name": "304B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763690"
+        "equipment_number": "763690",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1756,7 +1860,8 @@
         "name": "313A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763691"
+        "equipment_number": "763691",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1772,7 +1877,8 @@
         "name": "313B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763709"
+        "equipment_number": "763709",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1788,7 +1894,8 @@
         "name": "314A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765414"
+        "equipment_number": "765414",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1804,7 +1911,8 @@
         "name": "314B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765409"
+        "equipment_number": "765409",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1820,7 +1928,8 @@
         "name": "315A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763717"
+        "equipment_number": "763717",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1836,7 +1945,8 @@
         "name": "315B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763316"
+        "equipment_number": "763316",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1852,7 +1962,8 @@
         "name": "316A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765425"
+        "equipment_number": "765425",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1868,7 +1979,8 @@
         "name": "316B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765398"
+        "equipment_number": "765398",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1884,7 +1996,8 @@
         "name": "319A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765456"
+        "equipment_number": "765456",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1900,7 +2013,8 @@
         "name": "319B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765455"
+        "equipment_number": "765455",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1916,7 +2030,8 @@
         "name": "320A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765412"
+        "equipment_number": "765412",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1932,7 +2047,8 @@
         "name": "320B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765413"
+        "equipment_number": "765413",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1948,7 +2064,8 @@
         "name": "320C",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765408"
+        "equipment_number": "765408",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1964,7 +2081,8 @@
         "name": "322A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765441"
+        "equipment_number": "765441",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1980,7 +2098,8 @@
         "name": "322B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765410"
+        "equipment_number": "765410",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1996,7 +2115,8 @@
         "name": "322C",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765411"
+        "equipment_number": "765411",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2012,7 +2132,8 @@
         "name": "323A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765454"
+        "equipment_number": "765454",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2028,7 +2149,8 @@
         "name": "323B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765469"
+        "equipment_number": "765469",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2044,7 +2166,8 @@
         "name": "324A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763313"
+        "equipment_number": "763313",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2060,7 +2183,8 @@
         "name": "324B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763312"
+        "equipment_number": "763312",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2076,7 +2200,8 @@
         "name": "325A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763315"
+        "equipment_number": "763315",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2092,7 +2217,8 @@
         "name": "325B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763314"
+        "equipment_number": "763314",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2108,7 +2234,8 @@
         "name": "329A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763317"
+        "equipment_number": "763317",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2124,7 +2251,8 @@
         "name": "329B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763306"
+        "equipment_number": "763306",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2140,7 +2268,8 @@
         "name": "331A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763711"
+        "equipment_number": "763711",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2156,7 +2285,8 @@
         "name": "331B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763700"
+        "equipment_number": "763700",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2172,7 +2302,8 @@
         "name": "332A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "763707"
+        "equipment_number": "763707",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2188,7 +2319,8 @@
         "name": "332B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "763687"
+        "equipment_number": "763687",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2204,7 +2336,8 @@
         "name": "332C",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763684"
+        "equipment_number": "763684",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2220,7 +2353,8 @@
         "name": "333A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "763695"
+        "equipment_number": "763695",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2236,7 +2370,8 @@
         "name": "333B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "763694"
+        "equipment_number": "763694",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2252,7 +2387,8 @@
         "name": "333C",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763303"
+        "equipment_number": "763303",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2268,7 +2404,8 @@
         "name": "338A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763708"
+        "equipment_number": "763708",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2284,7 +2421,8 @@
         "name": "338B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "763683"
+        "equipment_number": "763683",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2300,7 +2438,8 @@
         "name": "338C",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "763693"
+        "equipment_number": "763693",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2316,7 +2455,8 @@
         "name": "340A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763706"
+        "equipment_number": "763706",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2332,7 +2472,8 @@
         "name": "340B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "763686"
+        "equipment_number": "763686",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2348,7 +2489,8 @@
         "name": "340C",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "763685"
+        "equipment_number": "763685",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2364,7 +2506,8 @@
         "name": "342A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763704"
+        "equipment_number": "763704",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2380,7 +2523,8 @@
         "name": "342B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763705"
+        "equipment_number": "763705",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2396,7 +2540,8 @@
         "name": "343A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763719"
+        "equipment_number": "763719",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2412,7 +2557,8 @@
         "name": "343B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763710"
+        "equipment_number": "763710",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2428,7 +2574,8 @@
         "name": "346A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763703"
+        "equipment_number": "763703",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2444,7 +2591,8 @@
         "name": "346B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763688"
+        "equipment_number": "763688",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2460,7 +2608,8 @@
         "name": "347A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763302"
+        "equipment_number": "763302",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2476,7 +2625,8 @@
         "name": "347B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763261"
+        "equipment_number": "763261",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2492,7 +2642,8 @@
         "name": "351A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763712"
+        "equipment_number": "763712",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2508,7 +2659,8 @@
         "name": "351B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763701"
+        "equipment_number": "763701",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2524,7 +2676,8 @@
         "name": "353A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763698"
+        "equipment_number": "763698",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2540,7 +2693,8 @@
         "name": "353B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763697"
+        "equipment_number": "763697",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2556,7 +2710,8 @@
         "name": "355A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763483"
+        "equipment_number": "763483",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2572,7 +2727,8 @@
         "name": "355B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763699"
+        "equipment_number": "763699",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2588,7 +2744,8 @@
         "name": "359A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763339"
+        "equipment_number": "763339",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2604,7 +2761,8 @@
         "name": "359B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763342"
+        "equipment_number": "763342",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2620,7 +2778,8 @@
         "name": "361A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763298"
+        "equipment_number": "763298",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2636,7 +2795,8 @@
         "name": "361B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763343"
+        "equipment_number": "763343",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2652,7 +2812,8 @@
         "name": "369A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763282"
+        "equipment_number": "763282",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2668,7 +2829,8 @@
         "name": "369B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763325"
+        "equipment_number": "763325",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2684,7 +2846,8 @@
         "name": "376A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763290"
+        "equipment_number": "763290",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2700,7 +2863,8 @@
         "name": "376B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763292"
+        "equipment_number": "763292",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2716,7 +2880,8 @@
         "name": "379A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765040"
+        "equipment_number": "765040",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2732,7 +2897,8 @@
         "name": "379B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765062"
+        "equipment_number": "765062",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2748,7 +2914,8 @@
         "name": "380A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765042"
+        "equipment_number": "765042",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2764,7 +2931,8 @@
         "name": "380B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765064"
+        "equipment_number": "765064",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2780,7 +2948,8 @@
         "name": "381A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765063"
+        "equipment_number": "765063",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2796,7 +2965,8 @@
         "name": "381B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765066"
+        "equipment_number": "765066",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2812,7 +2982,8 @@
         "name": "382A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765065"
+        "equipment_number": "765065",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2828,7 +2999,8 @@
         "name": "382B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765067"
+        "equipment_number": "765067",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2844,7 +3016,8 @@
         "name": "383A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "763288"
+        "equipment_number": "763288",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2860,7 +3033,8 @@
         "name": "383B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "763353"
+        "equipment_number": "763353",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2876,7 +3050,8 @@
         "name": "386A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763285"
+        "equipment_number": "763285",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2892,7 +3067,8 @@
         "name": "386B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763287"
+        "equipment_number": "763287",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2908,7 +3084,8 @@
         "name": "388B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "1218726"
+        "equipment_number": "1218726",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2924,7 +3101,8 @@
         "name": "389A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "1403689"
+        "equipment_number": "1403689",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2940,7 +3118,8 @@
         "name": "389B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763663"
+        "equipment_number": "763663",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2956,7 +3135,8 @@
         "name": "391A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "1786419"
+        "equipment_number": "1786419",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2972,7 +3152,8 @@
         "name": "391B",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "763351"
+        "equipment_number": "763351",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2988,7 +3169,8 @@
         "name": "400A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765056"
+        "equipment_number": "765056",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3004,7 +3186,8 @@
         "name": "400B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765057"
+        "equipment_number": "765057",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3020,7 +3203,8 @@
         "name": "402A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765508"
+        "equipment_number": "765508",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3036,7 +3220,8 @@
         "name": "402B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765068"
+        "equipment_number": "765068",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3052,7 +3237,8 @@
         "name": "405A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765059"
+        "equipment_number": "765059",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3068,7 +3254,8 @@
         "name": "405B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765055"
+        "equipment_number": "765055",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3084,7 +3271,8 @@
         "name": "447A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762532"
+        "equipment_number": "762532",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3100,7 +3288,8 @@
         "name": "447B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "765240"
+        "equipment_number": "765240",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3116,7 +3305,8 @@
         "name": "448A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "765242"
+        "equipment_number": "765242",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3132,7 +3322,8 @@
         "name": "448B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "765233"
+        "equipment_number": "765233",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3148,7 +3339,8 @@
         "name": "452A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "761615"
+        "equipment_number": "761615",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3163,7 +3355,8 @@
       "properties": {
         "name": "452B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3179,7 +3372,8 @@
         "name": "455A",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488513"
+        "equipment_number": "2488513",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3195,7 +3389,8 @@
         "name": "455B",
         "type": "Points",
         "notes": "HPSS",
-        "equipment_number": "2488517"
+        "equipment_number": "2488517",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3211,7 +3406,8 @@
         "name": "473A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765498"
+        "equipment_number": "765498",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3227,7 +3423,8 @@
         "name": "473B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765542"
+        "equipment_number": "765542",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3243,7 +3440,8 @@
         "name": "475A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765060"
+        "equipment_number": "765060",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3259,7 +3457,8 @@
         "name": "475B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765104"
+        "equipment_number": "765104",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3275,7 +3474,8 @@
         "name": "476A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765459"
+        "equipment_number": "765459",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3291,7 +3491,8 @@
         "name": "476B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765238"
+        "equipment_number": "765238",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3307,7 +3508,8 @@
         "name": "477A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765049"
+        "equipment_number": "765049",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3323,7 +3525,8 @@
         "name": "477B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765048"
+        "equipment_number": "765048",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3339,7 +3542,8 @@
         "name": "481A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765089"
+        "equipment_number": "765089",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3355,7 +3559,8 @@
         "name": "481B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765457"
+        "equipment_number": "765457",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3371,7 +3576,8 @@
         "name": "482A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765458"
+        "equipment_number": "765458",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3396,7 +3602,8 @@
             "number": "7797935",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3421,7 +3628,8 @@
             "number": "9221874",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3446,7 +3654,8 @@
             "number": "9221875",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3471,7 +3680,8 @@
             "number": "9221877",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3496,7 +3706,8 @@
             "number": "9221878",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3521,7 +3732,8 @@
             "number": "9221879",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3546,7 +3758,8 @@
             "number": "7791856",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3571,7 +3784,8 @@
             "number": "7791855",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3587,7 +3801,8 @@
         "name": "488B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "765091"
+        "equipment_number": "765091",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3612,7 +3827,8 @@
             "number": "9221880",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3637,7 +3853,8 @@
             "number": "9221882",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3662,7 +3879,8 @@
             "number": "9221883",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3687,7 +3905,8 @@
             "number": "9221884",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3712,7 +3931,8 @@
             "number": "9221885",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3737,7 +3957,8 @@
             "number": "9221886",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3762,7 +3983,8 @@
             "number": "786332",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3787,7 +4009,8 @@
             "number": "9221887",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3803,7 +4026,8 @@
         "name": "497A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "761663"
+        "equipment_number": "761663",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3819,7 +4043,8 @@
         "name": "497B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "761617"
+        "equipment_number": "761617",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3835,7 +4060,8 @@
         "name": "671A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "7887639"
+        "equipment_number": "7887639",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3850,7 +4076,8 @@
       "properties": {
         "name": "671B",
         "type": "Points",
-        "notes": "HW2000"
+        "notes": "HW2000",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3866,7 +4093,8 @@
         "name": "678A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762430"
+        "equipment_number": "762430",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3882,7 +4110,8 @@
         "name": "678B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762441"
+        "equipment_number": "762441",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3898,7 +4127,8 @@
         "name": "680A",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "762607"
+        "equipment_number": "762607",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3914,7 +4144,8 @@
         "name": "680B",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "1443895"
+        "equipment_number": "1443895",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3930,7 +4161,8 @@
         "name": "684A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762502"
+        "equipment_number": "762502",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3946,7 +4178,8 @@
         "name": "684B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762503"
+        "equipment_number": "762503",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3962,7 +4195,8 @@
         "name": "693A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762501"
+        "equipment_number": "762501",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3978,7 +4212,8 @@
         "name": "693B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762500"
+        "equipment_number": "762500",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3994,7 +4229,8 @@
         "name": "913A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762573"
+        "equipment_number": "762573",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4010,7 +4246,8 @@
         "name": "913B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762574"
+        "equipment_number": "762574",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4035,7 +4272,8 @@
             "number": "9221893",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4051,7 +4289,8 @@
         "name": "921B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762380"
+        "equipment_number": "762380",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4080,7 +4319,8 @@
             "number": "19783646",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4109,7 +4349,8 @@
             "number": "19783985",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4125,7 +4366,8 @@
         "name": "923A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762382"
+        "equipment_number": "762382",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4141,7 +4383,8 @@
         "name": "923B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762377"
+        "equipment_number": "762377",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4170,7 +4413,8 @@
             "number": "19784084",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4199,7 +4443,8 @@
             "number": "19785135",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4224,7 +4469,8 @@
             "number": "9221894",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4249,7 +4495,8 @@
             "number": "9222182",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4274,7 +4521,8 @@
             "number": "9222213",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4299,7 +4547,8 @@
             "number": "9222214",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4324,7 +4573,8 @@
             "number": "9222215",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4349,7 +4599,8 @@
             "number": "9222216",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4374,7 +4625,8 @@
             "number": "9222217",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4390,7 +4642,8 @@
         "name": "933B",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "762402"
+        "equipment_number": "762402",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4415,7 +4668,8 @@
             "number": "9222218",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4431,7 +4685,8 @@
         "name": "934B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762403"
+        "equipment_number": "762403",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4447,7 +4702,8 @@
         "name": "935A",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "762378"
+        "equipment_number": "762378",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4463,7 +4719,8 @@
         "name": "935B",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "762399"
+        "equipment_number": "762399",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4479,7 +4736,8 @@
         "name": "936A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762397"
+        "equipment_number": "762397",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4495,7 +4753,8 @@
         "name": "936B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762400"
+        "equipment_number": "762400",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4511,7 +4770,8 @@
         "name": "939A",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "762396"
+        "equipment_number": "762396",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4527,7 +4787,8 @@
         "name": "939B",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "762392"
+        "equipment_number": "762392",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4543,7 +4804,8 @@
         "name": "941A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762387"
+        "equipment_number": "762387",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4568,7 +4830,8 @@
             "number": "9222219",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4584,7 +4847,8 @@
         "name": "949A",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "765514"
+        "equipment_number": "765514",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4600,7 +4864,8 @@
         "name": "949B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762393"
+        "equipment_number": "762393",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4616,7 +4881,8 @@
         "name": "956A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762404"
+        "equipment_number": "762404",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4641,7 +4907,8 @@
             "number": "9222222",
             "label": "supp."
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4657,7 +4924,8 @@
         "name": "957A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762389"
+        "equipment_number": "762389",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4673,7 +4941,8 @@
         "name": "957B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762065"
+        "equipment_number": "762065",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4689,7 +4958,8 @@
         "name": "959A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762439"
+        "equipment_number": "762439",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4705,7 +4975,8 @@
         "name": "959B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "761655"
+        "equipment_number": "761655",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4721,7 +4992,8 @@
         "name": "961A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762076"
+        "equipment_number": "762076",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4737,7 +5009,8 @@
         "name": "961B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762115"
+        "equipment_number": "762115",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4753,7 +5026,8 @@
         "name": "962A",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "762061"
+        "equipment_number": "762061",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4769,7 +5043,8 @@
         "name": "962B",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "762062"
+        "equipment_number": "762062",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4785,7 +5060,8 @@
         "name": "963A",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "762063"
+        "equipment_number": "762063",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4801,7 +5077,8 @@
         "name": "963B",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "762064"
+        "equipment_number": "762064",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4817,7 +5094,8 @@
         "name": "965A",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "18879149"
+        "equipment_number": "18879149",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4833,7 +5111,8 @@
         "name": "965B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762166"
+        "equipment_number": "762166",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4849,7 +5128,8 @@
         "name": "966",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762096"
+        "equipment_number": "762096",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4865,7 +5145,8 @@
         "name": "972A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762165"
+        "equipment_number": "762165",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4881,7 +5162,8 @@
         "name": "972B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762161"
+        "equipment_number": "762161",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4906,7 +5188,8 @@
             "number": "18879141",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4931,7 +5214,8 @@
             "number": "18879127",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4956,7 +5240,8 @@
             "number": "18879143",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4981,7 +5266,8 @@
             "number": "18879144",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4997,7 +5283,8 @@
         "name": "979A",
         "type": "Points",
         "notes": "IBCL",
-        "equipment_number": "18879147"
+        "equipment_number": "18879147",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5022,7 +5309,8 @@
             "number": "18879129",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5047,7 +5335,8 @@
             "number": "18879131",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5072,7 +5361,8 @@
             "number": "18879133",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5097,7 +5387,8 @@
             "number": "18879158",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5122,7 +5413,8 @@
             "number": "18879135",
             "label": "SO"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5138,7 +5430,8 @@
         "name": "987A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762344"
+        "equipment_number": "762344",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5154,7 +5447,8 @@
         "name": "987B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762364"
+        "equipment_number": "762364",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5170,7 +5464,8 @@
         "name": "988A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762341"
+        "equipment_number": "762341",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5186,7 +5481,8 @@
         "name": "988B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762343"
+        "equipment_number": "762343",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5202,7 +5498,8 @@
         "name": "994A",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762417"
+        "equipment_number": "762417",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5218,7 +5515,8 @@
         "name": "994B",
         "type": "Points",
         "notes": "HW2000",
-        "equipment_number": "762350"
+        "equipment_number": "762350",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5233,7 +5531,8 @@
       "properties": {
         "name": "Hawkhead GF (OOU) 499",
         "type": "Points",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5249,7 +5548,8 @@
         "name": "S101",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "1418222"
+        "equipment_number": "1418222",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5265,7 +5565,8 @@
         "name": "S102",
         "type": "Points",
         "notes": "RCPL",
-        "equipment_number": "1418225"
+        "equipment_number": "1418225",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5281,7 +5582,8 @@
         "name": "388A",
         "type": "Points",
         "notes": "EP",
-        "equipment_number": "1218727"
+        "equipment_number": "1218727",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",

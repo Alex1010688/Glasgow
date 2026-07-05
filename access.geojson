@@ -6,7 +6,8 @@
       "properties": {
         "name": "Under Central",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -22,7 +23,8 @@
       "properties": {
         "name": "Clyde Place",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +40,8 @@
       "properties": {
         "name": "Arch 67",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +57,8 @@
       "properties": {
         "name": "Salkeld Street signal box",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -70,7 +74,8 @@
       "properties": {
         "name": "Salkeld Street",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -86,7 +91,8 @@
       "properties": {
         "name": "Eglinton Street",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +108,8 @@
       "properties": {
         "name": "Cook Street",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -118,7 +125,8 @@
       "properties": {
         "name": "Blue Best Fit Garage Steps",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -134,7 +142,8 @@
       "properties": {
         "name": "Back of Garage (Muirhouse line)",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -150,7 +159,8 @@
       "properties": {
         "name": "Star Bar (WCM/CLY)",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -166,7 +176,8 @@
       "properties": {
         "name": "Star Bar (Larkfield Junction)",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -182,7 +193,8 @@
       "properties": {
         "name": "Polmadie",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -198,7 +210,8 @@
       "properties": {
         "name": "Polmadie gate",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +227,8 @@
       "properties": {
         "name": "Polmadie Bridge",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -230,7 +244,8 @@
       "properties": {
         "name": "Alstom yard",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +261,8 @@
       "properties": {
         "name": "Jessie Street",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -262,7 +278,8 @@
       "properties": {
         "name": "Glencairn",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -278,7 +295,8 @@
       "properties": {
         "name": "Old Training School West Curve",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -294,7 +312,8 @@
       "properties": {
         "name": "Rutherglen Steps",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -310,7 +329,8 @@
       "properties": {
         "name": "Bridgeton Yard",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -326,7 +346,8 @@
       "properties": {
         "name": "Rutherglen Relay Room",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -342,7 +363,8 @@
       "properties": {
         "name": "Granny Flats",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -358,7 +380,8 @@
       "properties": {
         "name": "Coup",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -374,7 +397,8 @@
       "properties": {
         "name": "Bogleshole",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -390,7 +414,8 @@
       "properties": {
         "name": "Fratellis",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -401,12 +426,13 @@
         ]
       }
     },
-   {
+    {
       "type": "Feature",
       "properties": {
         "name": "Christie Place",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -422,7 +448,8 @@
       "properties": {
         "name": "Kirkhill Relay Room",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -438,7 +465,8 @@
       "properties": {
         "name": "Vicarland Place",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -454,7 +482,8 @@
       "properties": {
         "name": "West Coats Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -470,7 +499,8 @@
       "properties": {
         "name": "Burnside Hotel",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +516,8 @@
       "properties": {
         "name": "Blairtum Drive",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -502,7 +533,8 @@
       "properties": {
         "name": "Aikenhead Road Bus Stop",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -518,7 +550,8 @@
       "properties": {
         "name": "Fence to North Curve/locs",
         "type": "access_point",
-        "notes": "Not official access"
+        "notes": "Not official access",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -534,7 +567,8 @@
       "properties": {
         "name": "Cathcart REB",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -550,7 +584,8 @@
       "properties": {
         "name": "Kirkhills (Cathcart)",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -566,7 +601,8 @@
       "properties": {
         "name": "Beechings",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -582,7 +618,8 @@
       "properties": {
         "name": "Elrig Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -598,7 +635,8 @@
       "properties": {
         "name": "Muirskeith Crescent",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -614,7 +652,8 @@
       "properties": {
         "name": "Whitemoss Avenue (Muirend)",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -630,7 +669,8 @@
       "properties": {
         "name": "Ailsa Drive",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -646,7 +686,8 @@
       "properties": {
         "name": "Aurs Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -662,7 +703,8 @@
       "properties": {
         "name": "Balgraystone Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -678,7 +720,8 @@
       "properties": {
         "name": "Springhill Road/Five Ways",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -694,7 +737,8 @@
       "properties": {
         "name": "Springfield Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -710,7 +754,8 @@
       "properties": {
         "name": "Duncarnock Crescent",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +771,8 @@
       "properties": {
         "name": "Kittoch Park",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -742,7 +788,8 @@
       "properties": {
         "name": "Hairmyres old station",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -758,7 +805,8 @@
       "properties": {
         "name": "Electricity substation",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -774,7 +822,8 @@
       "properties": {
         "name": "Happy Days nursery",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -790,7 +839,8 @@
       "properties": {
         "name": "Moray Drive",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -806,7 +856,8 @@
       "properties": {
         "name": "Burnfield Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -822,7 +873,8 @@
       "properties": {
         "name": "Lane off Boydstone Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -838,7 +890,8 @@
       "properties": {
         "name": "Busby Junction Relay Room",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -854,7 +907,8 @@
       "properties": {
         "name": "Busby Junction high flats",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -870,7 +924,8 @@
       "properties": {
         "name": "Busby Junction opposite high flats",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -886,7 +941,8 @@
       "properties": {
         "name": "Under M77",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -902,7 +958,8 @@
       "properties": {
         "name": "Nitshill REB",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -918,7 +975,8 @@
       "properties": {
         "name": "Nitshill ES",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -934,7 +992,8 @@
       "properties": {
         "name": "Cemetery",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -950,7 +1009,8 @@
       "properties": {
         "name": "Former Shanks site",
         "type": "access_point",
-        "notes": "Access via Blackbyres Road.\nPadlock Code 9476."
+        "notes": "Access via Blackbyres Road.\nPadlock Code 9476.",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -966,7 +1026,8 @@
       "properties": {
         "name": "Magnet Haggs Gate",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -982,7 +1043,8 @@
       "properties": {
         "name": "Heries Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -998,7 +1060,8 @@
       "properties": {
         "name": "Heries Road (other place to park)",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1014,7 +1077,8 @@
       "properties": {
         "name": "Darnley Road opp Mariscat",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1030,7 +1094,8 @@
       "properties": {
         "name": "Darnley Road 684pts",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1046,7 +1111,8 @@
       "properties": {
         "name": "Birdshit points roundabout",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1062,7 +1128,8 @@
       "properties": {
         "name": "Muirhouse Slope",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1078,7 +1145,8 @@
       "properties": {
         "name": "Shawmoss Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1094,7 +1162,8 @@
       "properties": {
         "name": "Post Office",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1110,7 +1179,8 @@
       "properties": {
         "name": "Terminus",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1126,7 +1196,8 @@
       "properties": {
         "name": "Shields Road Bridge",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1142,7 +1213,8 @@
       "properties": {
         "name": "Offices (CLY)",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1158,7 +1230,8 @@
       "properties": {
         "name": "Marlow Terrace",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1174,7 +1247,8 @@
       "properties": {
         "name": "Trespass",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1190,7 +1264,8 @@
       "properties": {
         "name": "Shields depot",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1206,7 +1281,8 @@
       "properties": {
         "name": "Academy Park",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1220,9 +1296,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Richie’s slope",
+        "name": "Richie\u2019s slope",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1238,7 +1315,8 @@
       "properties": {
         "name": "Gate on M8",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1254,7 +1332,8 @@
       "properties": {
         "name": "Park here for M8",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1270,7 +1349,8 @@
       "properties": {
         "name": "Pit Stop garage",
         "type": "access_point",
-        "notes": "Ladder"
+        "notes": "Ladder",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1286,7 +1366,8 @@
       "properties": {
         "name": "Ibrox",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1302,7 +1383,8 @@
       "properties": {
         "name": "McDonalds",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1318,7 +1400,8 @@
       "properties": {
         "name": "Industrial estate big puddle",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1334,7 +1417,8 @@
       "properties": {
         "name": "Cardonald flats",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1350,7 +1434,8 @@
       "properties": {
         "name": "Cardonald offices",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1366,7 +1451,8 @@
       "properties": {
         "name": "Deanside bus stop",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1382,7 +1468,8 @@
       "properties": {
         "name": "Clyde Power",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1398,7 +1485,8 @@
       "properties": {
         "name": "No fence",
         "type": "access_point",
-        "notes": "Unofficial"
+        "notes": "Unofficial",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1414,7 +1502,8 @@
       "properties": {
         "name": "Motorway gate",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1430,7 +1519,8 @@
       "properties": {
         "name": "Corkerhill depot",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1446,7 +1536,8 @@
       "properties": {
         "name": "Linside Avenue",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1462,7 +1553,8 @@
       "properties": {
         "name": "Kinnell Crescent",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1478,7 +1570,8 @@
       "properties": {
         "name": "Strathclyde Street",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1494,7 +1587,8 @@
       "properties": {
         "name": "Queens Park Skatepark",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1510,7 +1604,8 @@
       "properties": {
         "name": "Shunter's Bothy",
         "type": "area",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -1550,7 +1645,8 @@
       "properties": {
         "name": "Cathcart Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1566,7 +1662,8 @@
       "properties": {
         "name": "Academy Park (Corkerhills)",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1582,7 +1679,8 @@
       "properties": {
         "name": "Carmyles Stairs",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1598,7 +1696,8 @@
       "properties": {
         "name": "Bridgegate",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1614,7 +1713,8 @@
       "properties": {
         "name": "Tannahill Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1630,7 +1730,8 @@
       "properties": {
         "name": "Prospect Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1646,7 +1747,8 @@
       "properties": {
         "name": "Kirktonholme Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1662,7 +1764,8 @@
       "properties": {
         "name": "Queensway",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1678,7 +1781,8 @@
       "properties": {
         "name": "Tennant Avenue",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1694,7 +1798,8 @@
       "properties": {
         "name": "Clydebridge Steelworks",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1710,7 +1815,8 @@
       "properties": {
         "name": "Crossmyloof RRAP",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1726,7 +1832,8 @@
       "properties": {
         "name": "Halfway Yard",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1742,7 +1849,8 @@
       "properties": {
         "name": "Kirkton Gate",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1758,7 +1866,8 @@
       "properties": {
         "name": "Kilmarnock Road",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1774,7 +1883,8 @@
       "properties": {
         "name": "Walking route",
         "type": "route",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -1822,7 +1932,8 @@
       "properties": {
         "name": "Path",
         "type": "route",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -1845,7 +1956,8 @@
       "properties": {
         "name": "House of Sher",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1861,7 +1973,8 @@
       "properties": {
         "name": "Salkeld Street",
         "type": "access_point",
-        "notes": "Main gate: 0534 Pedestrian gate: 4720"
+        "notes": "Main gate: 0534 Pedestrian gate: 4720",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1877,7 +1990,8 @@
       "properties": {
         "name": "Gate for Clydebridge Steelworks",
         "type": "access_point",
-        "notes": "ACCESS MUST BE PREARRANGED."
+        "notes": "ACCESS MUST BE PREARRANGED.",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1893,7 +2007,8 @@
       "properties": {
         "name": "New gate",
         "type": "access_point",
-        "notes": "New path to station built at the end of the road, with a gate next to loc EKE 2/68."
+        "notes": "New path to station built at the end of the road, with a gate next to loc EKE 2/68.",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1909,7 +2024,8 @@
       "properties": {
         "name": "New path",
         "type": "route",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -1937,7 +2053,8 @@
       "properties": {
         "name": "Muirhouse Relay Room",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1953,7 +2070,8 @@
       "properties": {
         "name": "Route to access from gate",
         "type": "route",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -2021,7 +2139,8 @@
       "properties": {
         "name": "Hairmyres New",
         "type": "access_point",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",

@@ -20,7 +20,8 @@
             "number": "7923399",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +50,8 @@
             "number": "7896510",
             "label": "AWS YE"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -86,7 +88,8 @@
             "number": "7923401",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -123,7 +126,8 @@
             "number": "7923402",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +164,8 @@
             "number": "7923403",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -189,7 +194,8 @@
             "number": "7896517",
             "label": "AWS YS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -226,7 +232,8 @@
             "number": "7923405",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +270,8 @@
             "number": "7923406",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -296,7 +304,8 @@
             "number": "7923407",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -333,7 +342,8 @@
             "number": "7923409",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -358,7 +368,8 @@
             "number": "7923408",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +402,8 @@
             "number": "7923410",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -416,7 +428,8 @@
             "number": "7896501",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +454,8 @@
             "number": "7896502",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -470,7 +484,8 @@
             "number": "7923411",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -499,7 +514,8 @@
             "number": "7923412",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -524,7 +540,8 @@
             "number": "7896506",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -557,7 +574,8 @@
             "number": "7923413",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -590,7 +608,8 @@
             "number": "7923414",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -623,7 +642,8 @@
             "number": "7923421",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -664,7 +684,8 @@
             "number": "7923420",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -693,7 +714,8 @@
             "number": "7923419",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -722,7 +744,8 @@
             "number": "7923418",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -738,7 +761,8 @@
         "name": "GB5162",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "19473821"
+        "equipment_number": "19473821",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +795,8 @@
             "number": "7923415",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -800,7 +825,8 @@
             "number": "7923416",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -829,7 +855,8 @@
             "number": "7923417",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -862,7 +889,8 @@
             "number": "7923422",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +919,8 @@
             "number": "7923424",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -920,7 +949,8 @@
             "number": "7923423",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -953,7 +983,8 @@
             "number": "7923425",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -986,7 +1017,8 @@
             "number": "7923426",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1019,7 +1051,8 @@
             "number": "7923429",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1035,7 +1068,8 @@
         "name": "GB5181",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7923431"
+        "equipment_number": "7923431",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1050,7 +1084,8 @@
       "properties": {
         "name": "GB5183",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1091,7 +1126,8 @@
             "number": "7923434",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1124,7 +1160,8 @@
             "number": "7923430",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1149,7 +1186,8 @@
             "number": "7887634",
             "label": "Banner B"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1174,7 +1212,8 @@
             "number": "7923435",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1207,7 +1246,8 @@
             "number": "7923433",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1232,7 +1272,8 @@
             "number": "3304570",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1261,7 +1302,8 @@
             "number": "3304551",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1290,7 +1332,8 @@
             "number": "3304544",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1319,7 +1362,8 @@
             "number": "18992452",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1334,7 +1378,8 @@
       "properties": {
         "name": "GMN128",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1367,7 +1412,8 @@
             "number": "18992450",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1392,7 +1438,8 @@
             "number": "18992469",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1417,7 +1464,8 @@
             "number": "18992470",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1442,7 +1490,8 @@
             "number": "18992468",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1475,7 +1524,8 @@
             "number": "18992467",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1504,7 +1554,8 @@
             "number": "18887086",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1533,7 +1584,8 @@
             "number": "18887087",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1562,7 +1614,8 @@
             "number": "18992437",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1591,7 +1644,8 @@
             "number": "18992443",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1624,7 +1678,8 @@
             "number": "18992438",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1665,7 +1720,8 @@
             "number": "18992440",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1690,7 +1746,8 @@
             "number": "18992439",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1706,7 +1763,8 @@
         "name": "GR836",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18886915"
+        "equipment_number": "18886915",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1722,7 +1780,8 @@
         "name": "GR827",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833649"
+        "equipment_number": "18833649",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1751,7 +1810,8 @@
             "number": "18992435",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1836,8 @@
             "number": "18992434",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1817,7 +1878,8 @@
             "number": "18992433",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1858,7 +1920,8 @@
             "number": "18992428",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1891,7 +1954,8 @@
             "number": "18992429",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1924,7 +1988,8 @@
             "number": "18992430",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1953,7 +2018,8 @@
             "number": "2586492",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -1982,7 +2048,8 @@
             "number": "18992426",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2007,7 +2074,8 @@
             "number": "18992425",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2032,7 +2100,8 @@
             "number": "18992424",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2065,7 +2134,8 @@
             "number": "18992422",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2102,7 +2172,8 @@
             "number": "18992423",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2118,7 +2189,8 @@
         "name": "GR787",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18833651"
+        "equipment_number": "18833651",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2155,7 +2227,8 @@
             "number": "18992419",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2180,7 +2253,8 @@
             "number": "18992418",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2205,7 +2279,8 @@
             "number": "18992417",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2258,7 +2333,8 @@
             "number": "18992414",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2287,7 +2363,8 @@
             "number": "18992415",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2324,7 +2401,8 @@
             "number": "18992416",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2349,7 +2427,8 @@
             "number": "18992413",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2374,7 +2453,8 @@
             "number": "18992411",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2403,7 +2483,8 @@
             "number": "18992412",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2428,7 +2509,8 @@
             "number": "18992410",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2465,7 +2547,8 @@
             "number": "18992408",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2498,7 +2581,8 @@
             "number": "18992409",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2531,7 +2615,8 @@
             "number": "18992403",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2568,7 +2653,8 @@
             "number": "18992404",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2605,7 +2691,8 @@
             "number": "18992405",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2638,7 +2725,8 @@
             "number": "18992399",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2671,7 +2759,8 @@
             "number": "18992400",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2704,7 +2793,8 @@
             "number": "18992401",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2733,7 +2823,8 @@
             "number": "18992398",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2762,7 +2853,8 @@
             "number": "1112864",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2791,7 +2883,8 @@
             "number": "18992393",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2816,7 +2909,8 @@
             "number": "18992392",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2845,7 +2939,8 @@
             "number": "18992395",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2882,7 +2977,8 @@
             "number": "18992394",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2907,7 +3003,8 @@
             "number": "18992444",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2940,7 +3037,8 @@
             "number": "18992465",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2973,7 +3071,8 @@
             "number": "18992466",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -2989,7 +3088,8 @@
         "name": "GR895",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18992464"
+        "equipment_number": "18992464",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3014,7 +3114,8 @@
             "number": "18992463",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3039,7 +3140,8 @@
             "number": "18992462",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3072,7 +3174,8 @@
             "number": "18992461",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3109,7 +3212,8 @@
             "number": "18992460",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3142,7 +3246,8 @@
             "number": "18992458",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3171,7 +3276,8 @@
             "number": "18992457",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3200,7 +3306,8 @@
             "number": "18992456",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3225,7 +3332,8 @@
             "number": "18992455",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3258,7 +3366,8 @@
             "number": "18992454",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3287,7 +3396,8 @@
             "number": "18992453",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3316,7 +3426,8 @@
             "number": "2643045",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3345,7 +3456,8 @@
             "number": "2643046",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3374,7 +3486,8 @@
             "number": "2643089",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3399,7 +3512,8 @@
             "number": "2643088",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3424,7 +3538,8 @@
             "number": "2643047",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3440,7 +3555,8 @@
         "name": "GG5606",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2151465"
+        "equipment_number": "2151465",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3469,7 +3585,8 @@
             "number": "2643049",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3498,7 +3615,8 @@
             "number": "2643050",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3523,7 +3641,8 @@
             "number": "2643051",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3548,7 +3667,8 @@
             "number": "2643052",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3573,7 +3693,8 @@
             "number": "2643058",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3598,7 +3719,8 @@
             "number": "2643092",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3627,7 +3749,8 @@
             "number": "2829076",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3652,7 +3775,8 @@
             "number": "2643093",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3681,7 +3805,8 @@
             "number": "2829077",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3702,7 +3827,8 @@
             "number": "2828976",
             "label": "Banner"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3731,7 +3857,8 @@
             "number": "2643054",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3760,7 +3887,8 @@
             "number": "2829079",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3789,7 +3917,8 @@
             "number": "2643090",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3805,7 +3934,8 @@
         "name": "GG5485",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642454"
+        "equipment_number": "2642454",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3830,7 +3960,8 @@
             "number": "2643082",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3855,7 +3986,8 @@
             "number": "2643083",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3871,7 +4003,8 @@
         "name": "GG5462",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642446"
+        "equipment_number": "2642446",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3896,7 +4029,8 @@
             "number": "2643039",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3921,7 +4055,8 @@
             "number": "2643030",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3937,7 +4072,8 @@
         "name": "GG5262",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642442"
+        "equipment_number": "2642442",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3970,7 +4106,8 @@
             "number": "2643021",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -3999,7 +4136,8 @@
             "number": "2643017",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4028,7 +4166,8 @@
             "number": "2643018",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4065,7 +4204,8 @@
             "number": "2643063",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4098,7 +4238,8 @@
             "number": "3303532",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4131,7 +4272,8 @@
             "number": "2643067",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4160,7 +4302,8 @@
             "number": "2643068",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4189,7 +4332,8 @@
             "number": "2643069",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4218,7 +4362,8 @@
             "number": "2643071",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4247,7 +4392,8 @@
             "number": "2643072",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4280,7 +4426,8 @@
             "number": "2643070",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4313,7 +4460,8 @@
             "number": "3303533",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4342,7 +4490,8 @@
             "number": "3303467",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4375,7 +4524,8 @@
             "number": "3303490",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4404,7 +4554,8 @@
             "number": "3303522",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4429,7 +4580,8 @@
             "number": "3178096",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4462,7 +4614,8 @@
             "number": "3303523",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4478,7 +4631,8 @@
         "name": "GS5937",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "3162314"
+        "equipment_number": "3162314",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4511,7 +4665,8 @@
             "number": "3303541",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4544,7 +4699,8 @@
             "number": "3304571",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4577,7 +4733,8 @@
             "number": "3304575",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4610,7 +4767,8 @@
             "number": "3304573",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4639,7 +4797,8 @@
             "number": "1369209",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4672,7 +4831,8 @@
             "number": "3304572",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4697,7 +4857,8 @@
             "number": "763144",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4722,7 +4883,8 @@
             "number": "3303631",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4755,7 +4917,8 @@
             "number": "3303630",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4788,7 +4951,8 @@
             "number": "3303626",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4817,7 +4981,8 @@
             "number": "3303625",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4850,7 +5015,8 @@
             "number": "3303624",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4883,7 +5049,8 @@
             "number": "3304662",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4920,7 +5087,8 @@
             "number": "7923432",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4949,7 +5117,8 @@
             "number": "18992391",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -4974,7 +5143,8 @@
             "number": "18886749",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5007,7 +5177,8 @@
             "number": "7923428",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5032,7 +5203,8 @@
             "number": "3303670",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5073,7 +5245,8 @@
             "number": "3303695",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5106,7 +5279,8 @@
             "number": "3304164",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5131,7 +5305,8 @@
             "number": "3304086",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5168,7 +5343,8 @@
             "number": "3304076",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5209,7 +5385,8 @@
             "number": "3303696",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5234,7 +5411,8 @@
             "number": "3303663",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5259,7 +5437,8 @@
             "number": "3303664",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5284,7 +5463,8 @@
             "number": "3303665",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5309,7 +5489,8 @@
             "number": "3303667",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5342,7 +5523,8 @@
             "number": "3303668",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5367,7 +5549,8 @@
             "number": "3303669",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5396,7 +5579,8 @@
             "number": "2586444",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5421,7 +5605,8 @@
             "number": "762925",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5454,7 +5639,8 @@
             "number": "2586447",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5483,7 +5669,8 @@
             "number": "762650",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5516,7 +5703,8 @@
             "number": "2586452",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5549,7 +5737,8 @@
             "number": "2586449",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5582,7 +5771,8 @@
             "number": "1748463",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5619,7 +5809,8 @@
             "number": "2586456",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5652,7 +5843,8 @@
             "number": "2586454",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5681,7 +5873,8 @@
             "number": "762855",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5706,7 +5899,8 @@
             "number": "1696626",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5735,7 +5929,8 @@
             "number": "762629",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5768,7 +5963,8 @@
             "number": "2586668",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5797,7 +5993,8 @@
             "number": "762856",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5822,7 +6019,8 @@
             "number": "1180378",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5851,7 +6049,8 @@
             "number": "762642",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5888,7 +6087,8 @@
             "number": "18668261",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5917,7 +6117,8 @@
             "number": "762631",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5942,7 +6143,8 @@
             "number": "1180374",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -5971,7 +6173,8 @@
             "number": "7923437",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6000,7 +6203,8 @@
             "number": "7923438",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6029,7 +6233,8 @@
             "number": "7923440",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6058,7 +6263,8 @@
             "number": "7923439",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6087,7 +6293,8 @@
             "number": "7923442",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6116,7 +6323,8 @@
             "number": "7923441",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6149,7 +6357,8 @@
             "number": "7923443",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6182,7 +6391,8 @@
             "number": "7923444",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6215,7 +6425,8 @@
             "number": "7923445",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6248,7 +6459,8 @@
             "number": "7923446",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6285,7 +6497,8 @@
             "number": "7923449",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6318,7 +6531,8 @@
             "number": "7923450",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6351,7 +6565,8 @@
             "number": "7923451",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6384,7 +6599,8 @@
             "number": "7923482",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6417,7 +6633,8 @@
             "number": "7923485",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6450,7 +6667,8 @@
             "number": "7923487",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6483,7 +6701,8 @@
             "number": "7923488",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6512,7 +6731,8 @@
             "number": "7923490",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6541,7 +6761,8 @@
             "number": "7923493",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6570,7 +6791,8 @@
             "number": "7923492",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6599,7 +6821,8 @@
             "number": "7923494",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6614,7 +6837,8 @@
       "properties": {
         "name": "GC5097",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6630,7 +6854,8 @@
         "name": "GC5099BR",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7890037"
+        "equipment_number": "7890037",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6671,7 +6896,8 @@
             "number": "7923489",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6708,7 +6934,8 @@
             "number": "7923486",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6737,7 +6964,8 @@
             "number": "7923484",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6770,7 +6998,8 @@
             "number": "7923481",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6803,7 +7032,8 @@
             "number": "7923483",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6840,7 +7070,8 @@
             "number": "7923480",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6873,7 +7104,8 @@
             "number": "7923466",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6906,7 +7138,8 @@
             "number": "7923465",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6935,7 +7168,8 @@
             "number": "7923464",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -6968,7 +7202,8 @@
             "number": "7923461",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7005,7 +7240,8 @@
             "number": "7923462",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7030,7 +7266,8 @@
             "number": "7895412",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7055,7 +7292,8 @@
             "number": "7895413",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7084,7 +7322,8 @@
             "number": "7895518",
             "label": "AWS YS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7113,7 +7352,8 @@
             "number": "7923459",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7142,7 +7382,8 @@
             "number": "7923458",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7167,7 +7408,8 @@
             "number": "7895514",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7192,7 +7434,8 @@
             "number": "7895513",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7221,7 +7464,8 @@
             "number": "7923457",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7250,7 +7494,8 @@
             "number": "7923456",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7275,7 +7520,8 @@
             "number": "7895510",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7304,7 +7550,8 @@
             "number": "7923455",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7337,7 +7584,8 @@
             "number": "7923454",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7362,7 +7610,8 @@
             "number": "7923453",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7378,7 +7627,8 @@
         "name": "GC5043",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "7895393"
+        "equipment_number": "7895393",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7411,7 +7661,8 @@
             "number": "7923479",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7436,7 +7687,8 @@
             "number": "7923478",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7465,7 +7717,8 @@
             "number": "7923477",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7498,7 +7751,8 @@
             "number": "7923476",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7527,7 +7781,8 @@
             "number": "7923475",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7556,7 +7811,8 @@
             "number": "7923474",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7585,7 +7841,8 @@
             "number": "7923473",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7614,7 +7871,8 @@
             "number": "7923472",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7643,7 +7901,8 @@
             "number": "7923471",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7668,7 +7927,8 @@
             "number": "7923470",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7693,7 +7953,8 @@
             "number": "7895297",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7722,7 +7983,8 @@
             "number": "7923468",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7747,7 +8009,8 @@
             "number": "7923467",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7776,7 +8039,8 @@
             "number": "3303615",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7805,7 +8069,8 @@
             "number": "1351105",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7842,7 +8107,8 @@
             "number": "7923436",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7871,7 +8137,8 @@
             "number": "2643016",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7908,7 +8175,8 @@
             "number": "18992441",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7933,7 +8201,8 @@
             "number": "18992459",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7962,7 +8231,8 @@
             "number": "7923397",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -7991,7 +8261,8 @@
             "number": "7923398",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8016,7 +8287,8 @@
             "number": "7923396",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8041,7 +8313,8 @@
             "number": "18839502",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8082,7 +8355,8 @@
             "number": "7887655",
             "label": "AWS 3"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8107,7 +8381,8 @@
             "number": "19659341",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8140,7 +8415,8 @@
             "number": "7923452",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8169,7 +8445,8 @@
             "number": "7923495",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8194,7 +8471,8 @@
             "number": "7923460",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8223,7 +8501,8 @@
             "number": "18992451",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8260,7 +8539,8 @@
             "number": "7923400",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8275,7 +8555,8 @@
       "properties": {
         "name": "GB5120",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8290,7 +8571,8 @@
       "properties": {
         "name": "GB5121",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8305,7 +8587,8 @@
       "properties": {
         "name": "GB5122",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8320,7 +8603,8 @@
       "properties": {
         "name": "GB5133",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8335,7 +8619,8 @@
       "properties": {
         "name": "GB5123",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8350,7 +8635,8 @@
       "properties": {
         "name": "GB5136",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8379,7 +8665,8 @@
             "number": "7896516",
             "label": "AWS YS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8416,7 +8703,8 @@
             "number": "7923404",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8431,7 +8719,8 @@
       "properties": {
         "name": "GB5150",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8460,7 +8749,8 @@
             "number": "7896332",
             "label": "AWS YS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8485,7 +8775,8 @@
             "number": "2643036",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8510,7 +8801,8 @@
             "number": "7923447",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8543,7 +8835,8 @@
             "number": "7923463",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8559,7 +8852,8 @@
         "name": "Fixed Distant board",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "1418230"
+        "equipment_number": "1418230",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8592,7 +8886,8 @@
             "number": "2643087",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8621,7 +8916,8 @@
             "number": "2643044",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8650,7 +8946,8 @@
             "number": "1387910",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8679,7 +8976,8 @@
             "number": "1387895",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8708,7 +9006,8 @@
             "number": "2829029",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8741,7 +9040,8 @@
             "number": "2643091",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8774,7 +9074,8 @@
             "number": "2643043",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8807,7 +9108,8 @@
             "number": "2643042",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8836,7 +9138,8 @@
             "number": "1387888",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8865,7 +9168,8 @@
             "number": "1387915",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8894,7 +9198,8 @@
             "number": "1387889",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8923,7 +9228,8 @@
             "number": "1387916",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8952,7 +9258,8 @@
             "number": "1387890",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -8985,7 +9292,8 @@
             "number": "2643086",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9018,7 +9326,8 @@
             "number": "2643041",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9043,7 +9352,8 @@
             "number": "1112832",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9068,7 +9378,8 @@
             "number": "1387902",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9093,7 +9404,8 @@
             "number": "1387891",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9118,7 +9430,8 @@
             "number": "1387896",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9143,7 +9456,8 @@
             "number": "1387897",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9168,7 +9482,8 @@
             "number": "1387898",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9193,7 +9508,8 @@
             "number": "2643082",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9222,7 +9538,8 @@
             "number": "2643035",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9251,7 +9568,8 @@
             "number": "2643034",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9276,7 +9594,8 @@
             "number": "2643033",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9305,7 +9624,8 @@
             "number": "2643040",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9321,7 +9641,8 @@
         "name": "GG5483",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642452"
+        "equipment_number": "2642452",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9346,7 +9667,8 @@
             "number": "1387899",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9371,7 +9693,8 @@
             "number": "1112835",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9400,7 +9723,8 @@
             "number": "2643037",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9425,7 +9749,8 @@
             "number": "1112837",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9450,7 +9775,8 @@
             "number": "1112836",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9479,7 +9805,8 @@
             "number": "2643038",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9494,7 +9821,8 @@
       "properties": {
         "name": "GG5461",
         "type": "Signals",
-        "notes": ""
+        "notes": "",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9510,7 +9838,8 @@
         "name": "GG5281 BR",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2415212"
+        "equipment_number": "2415212",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9535,7 +9864,8 @@
             "number": "1112857",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9551,7 +9881,8 @@
         "name": "GG5265",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2415197"
+        "equipment_number": "2415197",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9576,7 +9907,8 @@
             "number": "1112855",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9601,7 +9933,8 @@
             "number": "1112840",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9630,7 +9963,8 @@
             "number": "2643032",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9659,7 +9993,8 @@
             "number": "2643027",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9684,7 +10019,8 @@
             "number": "2643028",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9709,7 +10045,8 @@
             "number": "1112859",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9738,7 +10075,8 @@
             "number": "2643029",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9775,7 +10113,8 @@
             "number": "2643026",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9804,7 +10143,8 @@
             "number": "2642511",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9837,7 +10177,8 @@
             "number": "1112858",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9870,7 +10211,8 @@
             "number": "2643023",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9899,7 +10241,8 @@
             "number": "1109993",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9928,7 +10271,8 @@
             "number": "1109983",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -9969,7 +10313,8 @@
             "number": "18992387",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10002,7 +10347,8 @@
             "number": "2643024",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10031,7 +10377,8 @@
             "number": "1112856",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10047,7 +10394,8 @@
         "name": "GG5221 BR",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "2642436"
+        "equipment_number": "2642436",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10063,7 +10411,8 @@
         "name": "GG5214 BR",
         "type": "Signals",
         "notes": "",
-        "equipment_number": "18778493"
+        "equipment_number": "18778493",
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10096,7 +10445,8 @@
             "number": "18992389",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10129,7 +10479,8 @@
             "number": "18992388",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10158,7 +10509,8 @@
             "number": "18992396",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10199,7 +10551,8 @@
             "number": "18992397",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10228,7 +10581,8 @@
             "number": "2643060",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10257,7 +10611,8 @@
             "number": "2643062",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10294,7 +10649,8 @@
             "number": "2643061",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10331,7 +10687,8 @@
             "number": "2643059",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10364,7 +10721,8 @@
             "number": "2643064",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10393,7 +10751,8 @@
             "number": "2643065",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10426,7 +10785,8 @@
             "number": "3303466",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10463,7 +10823,8 @@
             "number": "3303465",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10500,7 +10861,8 @@
             "number": "3303464",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10529,7 +10891,8 @@
             "number": "3303462",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10558,7 +10921,8 @@
             "number": "3303491",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10603,7 +10967,8 @@
             "number": "3178289",
             "label": "TPWS OT"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10636,7 +11001,8 @@
             "number": "3303543",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10665,7 +11031,8 @@
             "number": "3303542",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10710,7 +11077,8 @@
             "number": "3178289",
             "label": "TPWS OT"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10747,7 +11115,8 @@
             "number": "3303493",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10780,7 +11149,8 @@
             "number": "3303495",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10813,7 +11183,8 @@
             "number": "3178294",
             "label": "TPWS OT"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10846,7 +11217,8 @@
             "number": "3303494",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10879,7 +11251,8 @@
             "number": "3303498",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10912,7 +11285,8 @@
             "number": "3178299",
             "label": "TPWS OT"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10945,7 +11319,8 @@
             "number": "3303496",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -10978,7 +11353,8 @@
             "number": "3303516",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11007,7 +11383,8 @@
             "number": "3178090",
             "label": "AWS 2"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11040,7 +11417,8 @@
             "number": "3303514",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11069,7 +11447,8 @@
             "number": "3303518",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11098,7 +11477,8 @@
             "number": "3178306",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11131,7 +11511,8 @@
             "number": "3303519",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11164,7 +11545,8 @@
             "number": "3303514",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11193,7 +11575,8 @@
             "number": "3178090",
             "label": "AWS 2"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11226,7 +11609,8 @@
             "number": "3303516",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11259,7 +11643,8 @@
             "number": "3303519",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11288,7 +11673,8 @@
             "number": "3178306",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11317,7 +11703,8 @@
             "number": "3303518",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11346,7 +11733,8 @@
             "number": "3303518",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11371,7 +11759,8 @@
             "number": "3178099",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11400,7 +11789,8 @@
             "number": "3303521",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11429,7 +11819,8 @@
             "number": "3303527",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11454,7 +11845,8 @@
             "number": "3178102",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11483,7 +11875,8 @@
             "number": "3303525",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11512,7 +11905,8 @@
             "number": "3303526",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11541,7 +11935,8 @@
             "number": "3178308",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11578,7 +11973,8 @@
             "number": "3303524",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11607,7 +12003,8 @@
             "number": "3303531",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11632,7 +12029,8 @@
             "number": "3178108",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11665,7 +12063,8 @@
             "number": "3303530",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11694,7 +12093,8 @@
             "number": "3303529",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11719,7 +12119,8 @@
             "number": "3178111",
             "label": "AWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11748,7 +12149,8 @@
             "number": "3303528",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11793,7 +12195,8 @@
             "number": "18992406",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11826,7 +12229,8 @@
             "number": "18992407",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11859,7 +12263,8 @@
             "number": "18992420",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11892,7 +12297,8 @@
             "number": "18992421",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11921,7 +12327,8 @@
             "number": "18992431",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11958,7 +12365,8 @@
             "number": "18992432",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -11999,7 +12407,8 @@
             "number": "18992436",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -12032,7 +12441,8 @@
             "number": "2586502",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -12069,7 +12479,8 @@
             "number": "18992442",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -12098,7 +12509,8 @@
             "number": "1110007",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -12135,7 +12547,8 @@
             "number": "18992445",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -12168,7 +12581,8 @@
             "number": "18886945",
             "label": "TPWS OT"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -12197,7 +12611,8 @@
             "number": "18992446",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -12234,7 +12649,8 @@
             "number": "18992447",
             "label": "SPTs"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -12263,7 +12679,8 @@
             "number": "18886936",
             "label": "TPWS"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -12300,7 +12717,8 @@
             "number": "18886794",
             "label": "TPWS OT"
           }
-        ]
+        ],
+        "section": "Central"
       },
       "geometry": {
         "type": "Point",
@@ -12315,7 +12733,8 @@
       "properties": {
         "name": "Gantry A",
         "type": "Signals",
-        "notes": "GG5520 GG5522 GG5524 GG5526 GG5528 GG5530 GG5532 GG5533 GG5531 GG5539 GG5527 GG5525 GG5523 GG5521"
+        "notes": "GG5520 GG5522 GG5524 GG5526 GG5528 GG5530 GG5532 GG5533 GG5531 GG5539 GG5527 GG5525 GG5523 GG5521",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12336,7 +12755,8 @@
       "properties": {
         "name": "Gantry B",
         "type": "Signals",
-        "notes": "GG5484 GG5486 GG5489 GG5487"
+        "notes": "GG5484 GG5486 GG5489 GG5487",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12357,7 +12777,8 @@
       "properties": {
         "name": "Gantry C",
         "type": "Signals",
-        "notes": "GG5284 GG5288 GG5290 GG5285 GG5283 GG5281"
+        "notes": "GG5284 GG5288 GG5290 GG5285 GG5283 GG5281",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12378,7 +12799,8 @@
       "properties": {
         "name": "Gantry D",
         "type": "Signals",
-        "notes": "GG5490 GG5483 GG5481"
+        "notes": "GG5490 GG5483 GG5481",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12399,7 +12821,8 @@
       "properties": {
         "name": "Gantry E",
         "type": "Signals",
-        "notes": "GG5464 GG5466 GG5470 GG5469 GG5467"
+        "notes": "GG5464 GG5466 GG5470 GG5469 GG5467",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12420,7 +12843,8 @@
       "properties": {
         "name": "Gantry F",
         "type": "Signals",
-        "notes": "GG5264 GG5268 GG5270 GG5265 GG5263 GG5261"
+        "notes": "GG5264 GG5268 GG5270 GG5265 GG5263 GG5261",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12441,7 +12865,8 @@
       "properties": {
         "name": "Gantry G",
         "type": "Signals",
-        "notes": "GG5244 GG5248 GG5250 GG5249 GG5245 GG5243 GG5241"
+        "notes": "GG5244 GG5248 GG5250 GG5249 GG5245 GG5243 GG5241",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12462,7 +12887,8 @@
       "properties": {
         "name": "Gantry H",
         "type": "Signals",
-        "notes": "GG5229 GG5225 GG5223 GG5221"
+        "notes": "GG5229 GG5225 GG5223 GG5221",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12483,7 +12909,8 @@
       "properties": {
         "name": "Gantry I",
         "type": "Signals",
-        "notes": "GG5224 GG5228"
+        "notes": "GG5224 GG5228",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12504,7 +12931,8 @@
       "properties": {
         "name": "Gantry",
         "type": "Signals",
-        "notes": "GR865 GR860 GR862"
+        "notes": "GR865 GR860 GR862",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12525,7 +12953,8 @@
       "properties": {
         "name": "Gantry",
         "type": "Signals",
-        "notes": "GR851 GR853 GR855"
+        "notes": "GR851 GR853 GR855",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12546,7 +12975,8 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR828 GR832"
+        "notes": "GR828 GR832",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12567,7 +12997,8 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR844 GR846"
+        "notes": "GR844 GR846",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12588,7 +13019,8 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR811 GR813"
+        "notes": "GR811 GR813",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12609,7 +13041,8 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR781 GR783"
+        "notes": "GR781 GR783",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12630,7 +13063,8 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GR755 GR757"
+        "notes": "GR755 GR757",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12651,7 +13085,8 @@
       "properties": {
         "name": "Cantilever",
         "type": "Signals",
-        "notes": "GG5205 GG5203"
+        "notes": "GG5205 GG5203",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12672,7 +13107,8 @@
       "properties": {
         "name": "Gantry",
         "type": "Signals",
-        "notes": "GG5215 GG5213"
+        "notes": "GG5215 GG5213",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12693,7 +13129,8 @@
       "properties": {
         "name": "Gantry M",
         "type": "Signals",
-        "notes": "GS5855 GS5857 GS5852 GS5850"
+        "notes": "GS5855 GS5857 GS5852 GS5850",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12714,7 +13151,8 @@
       "properties": {
         "name": "Gantry J",
         "type": "Signals",
-        "notes": "GG5831 GG5833"
+        "notes": "GG5831 GG5833",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12735,7 +13173,8 @@
       "properties": {
         "name": "Gantry F",
         "type": "Signals",
-        "notes": "GG5832 GG5830"
+        "notes": "GG5832 GG5830",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12756,7 +13195,8 @@
       "properties": {
         "name": "Gantry L",
         "type": "Signals",
-        "notes": "GG5835 GG5837"
+        "notes": "GG5835 GG5837",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12777,7 +13217,8 @@
       "properties": {
         "name": "Gantry 1",
         "type": "Signals",
-        "notes": "GS5860 GS5862 GS5864 GS5861 GS5863 GS5865"
+        "notes": "GS5860 GS5862 GS5864 GS5861 GS5863 GS5865",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12798,7 +13239,8 @@
       "properties": {
         "name": "Gantry 2A",
         "type": "Signals",
-        "notes": "GS5871 GS5873 GS5875"
+        "notes": "GS5871 GS5873 GS5875",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12819,7 +13261,8 @@
       "properties": {
         "name": "Gantry 2B",
         "type": "Signals",
-        "notes": "GS5870 GS5872 GS5874"
+        "notes": "GS5870 GS5872 GS5874",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12840,7 +13283,8 @@
       "properties": {
         "name": "Gantry 3A",
         "type": "Signals",
-        "notes": "GS5881 GS5883 GS5885"
+        "notes": "GS5881 GS5883 GS5885",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12861,7 +13305,8 @@
       "properties": {
         "name": "Gantry 3B",
         "type": "Signals",
-        "notes": "GS5880 GS5882 GS5884"
+        "notes": "GS5880 GS5882 GS5884",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12882,7 +13327,8 @@
       "properties": {
         "name": "Gantry 4A",
         "type": "Signals",
-        "notes": "GS5891 GS5893 GS5895"
+        "notes": "GS5891 GS5893 GS5895",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12903,7 +13349,8 @@
       "properties": {
         "name": "Gantry 4B",
         "type": "Signals",
-        "notes": "GS5890 GS5892 GS5894"
+        "notes": "GS5890 GS5892 GS5894",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12924,7 +13371,8 @@
       "properties": {
         "name": "Gantry 5",
         "type": "Signals",
-        "notes": "GS5900 GS5902 GS5904"
+        "notes": "GS5900 GS5902 GS5904",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12945,7 +13393,8 @@
       "properties": {
         "name": "Gantry 7",
         "type": "Signals",
-        "notes": "GS5910 GS5912 GS5914 GS5911 GS5913 GS5915"
+        "notes": "GS5910 GS5912 GS5914 GS5911 GS5913 GS5915",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",
@@ -12966,7 +13415,8 @@
       "properties": {
         "name": "Gantry 8",
         "type": "Signals",
-        "notes": "GG5921 GG5923 GG5925 GG5920 GG5922 GG5924"
+        "notes": "GG5921 GG5923 GG5925 GG5920 GG5922 GG5924",
+        "section": "Central"
       },
       "geometry": {
         "type": "LineString",

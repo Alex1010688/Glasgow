@@ -14,7 +14,8 @@
         "line_width": 3.401,
         "source_layer": "Chromium",
         "source_name": "Chromium contamination",
-        "source_styleUrl": "#poly-FF5252-3401-79-nodesc"
+        "source_styleUrl": "#poly-FF5252-3401-79-nodesc",
+        "section": "Central"
       },
       "geometry": {
         "type": "Polygon",
