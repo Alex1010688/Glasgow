@@ -1941,6 +1941,42 @@
         ]
       },
       "id": "node/8443444417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Street",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.251239383912791,
+          55.86238770440202
+        ]
+      },
+      "id": "manual/cowlairs-queen-street"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anniesland",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.321561537010647,
+          55.88966381508606
+        ]
+      },
+      "id": "manual/cowlairs-anniesland"
     }
   ]
 }

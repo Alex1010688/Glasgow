@@ -508,7 +508,7 @@
       lng: -4.2372892899668475,
       zoom: 15
     };
-    const DATA_CACHE_BUSTER = String(Date.now());
+    const DATA_VERSION = "2026-07-05-cowlairs-stations";
 
     /*
       GEOJSON LAYERS
@@ -1625,10 +1625,7 @@
     map.on("zoomend overlayadd overlayremove", updateLabelVisibility);
 
     async function loadLayer(layerConfig) {
-      const dataUrl = `${layerConfig.file}?v=${DATA_CACHE_BUSTER}`;
-      const response = await fetch(dataUrl, {
-        cache: "no-store"
-      });
+      const response = await fetch(`${layerConfig.file}?v=${DATA_VERSION}`);
 
       if (!response.ok) {
         throw new Error(`Could not load ${layerConfig.file}. HTTP status: ${response.status}`);
