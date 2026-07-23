@@ -233,7 +233,6 @@
       height: 28px;
       margin: 5px auto;
       object-fit: contain;
-      mix-blend-mode: multiply;
     }
 
     .measure-panel {
@@ -1456,7 +1455,7 @@
       measureButton = L.DomUtil.create("button", "measure-button", container);
       measureButton.type = "button";
       measureButton.title = "Measure distance";
-      measureButton.innerHTML = '<img class="measure-button-icon" src="ruler-icon.jpg" alt="" />';
+      measureButton.innerHTML = '<img class="measure-button-icon" src="ruler-icon.svg" alt="" />';
 
       measurePanel = L.DomUtil.create("div", "measure-panel", container);
       measureTotal = L.DomUtil.create("div", "measure-total", measurePanel);
