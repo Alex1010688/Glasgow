@@ -95,7 +95,8 @@
       border-bottom: 1px solid #ddd;
     }
 
-    .suggestion-item:hover {
+    .suggestion-item:hover,
+    .suggestion-item.highlighted {
       background: #eee;
     }
 
@@ -691,6 +692,8 @@
     const availableSections = new Set();
     let activeSection = localStorage.getItem(SECTION_STORAGE_KEY) || ALL_SECTIONS;
     let sectionPromptShown = false;
+    let currentSuggestionItems = [];
+    let highlightedSuggestionIndex = -1;
 
     LAYER_CONFIGS.forEach(layerConfig => {
       labelSettings[layerConfig.name] = !!layerConfig.showLabels;
@@ -1328,6 +1331,56 @@
       }
     };
 
+    function clearSuggestionHighlight() {
+      highlightedSuggestionIndex = -1;
+      document
+        .querySelectorAll(".suggestion-item.highlighted")
+        .forEach(item => item.classList.remove("highlighted"));
+    }
+
+    function updateSuggestionHighlight() {
+      const suggestionRows = Array.from(document.querySelectorAll(".suggestion-item"));
+
+      suggestionRows.forEach((row, index) => {
+        row.classList.toggle("highlighted", index === highlightedSuggestionIndex);
+      });
+
+      if (highlightedSuggestionIndex >= 0 && suggestionRows[highlightedSuggestionIndex]) {
+        suggestionRows[highlightedSuggestionIndex].scrollIntoView({
+          block: "nearest"
+        });
+      }
+    }
+
+    function moveSuggestionHighlight(direction) {
+      if (currentSuggestionItems.length === 0) {
+        return;
+      }
+
+      highlightedSuggestionIndex += direction;
+
+      if (highlightedSuggestionIndex < 0) {
+        highlightedSuggestionIndex = currentSuggestionItems.length - 1;
+      } else if (highlightedSuggestionIndex >= currentSuggestionItems.length) {
+        highlightedSuggestionIndex = 0;
+      }
+
+      updateSuggestionHighlight();
+    }
+
+    function selectSuggestion(item) {
+      if (!item) {
+        return false;
+      }
+
+      document.getElementById("searchBox").value = "";
+      document.getElementById("suggestions").style.display = "none";
+      currentSuggestionItems = [];
+      clearSuggestionHighlight();
+      zoomToLayer(item.layer);
+      return true;
+    }
+
     function updateSuggestions() {
       const searchText = document
         .getElementById("searchBox")
@@ -1338,6 +1391,8 @@
       const suggestionsBox = document.getElementById("suggestions");
 
       suggestionsBox.innerHTML = "";
+      currentSuggestionItems = [];
+      clearSuggestionHighlight();
 
       if (!searchText) {
         suggestionsBox.style.display = "none";
@@ -1359,21 +1414,26 @@
         .slice(0, 10)
         .map(result => result.item);
 
+      currentSuggestionItems = matches;
+
       if (matches.length === 0) {
         suggestionsBox.style.display = "none";
         return;
       }
 
-      matches.forEach(item => {
+      matches.forEach((item, index) => {
         const div = document.createElement("div");
 
         div.className = "suggestion-item";
         div.textContent = `${getFeatureName(item.feature)} — ${item.layerName}`;
 
+        div.onmouseenter = function() {
+          highlightedSuggestionIndex = index;
+          updateSuggestionHighlight();
+        };
+
         div.onclick = function() {
-          document.getElementById("searchBox").value = "";
-          suggestionsBox.style.display = "none";
-          zoomToLayer(item.layer);
+          selectSuggestion(item);
         };
 
         suggestionsBox.appendChild(div);
@@ -1383,13 +1443,35 @@
     }
 
     function handleSearchKey(event) {
+      if (event.key === "ArrowDown") {
+        event.preventDefault();
+        moveSuggestionHighlight(1);
+        return;
+      }
+
+      if (event.key === "ArrowUp") {
+        event.preventDefault();
+        moveSuggestionHighlight(-1);
+        return;
+      }
+
       if (event.key === "Enter") {
-        document.getElementById("suggestions").style.display = "none";
+        if (
+          highlightedSuggestionIndex >= 0 &&
+          currentSuggestionItems[highlightedSuggestionIndex]
+        ) {
+          event.preventDefault();
+          selectSuggestion(currentSuggestionItems[highlightedSuggestionIndex]);
+          return;
+        }
+
         searchFeature();
       }
 
       if (event.key === "Escape") {
         document.getElementById("suggestions").style.display = "none";
+        currentSuggestionItems = [];
+        clearSuggestionHighlight();
       }
     }
 
@@ -1399,6 +1481,8 @@
 
       searchBox.value = "";
       document.getElementById("suggestions").style.display = "none";
+      currentSuggestionItems = [];
+      clearSuggestionHighlight();
 
       if (!searchText) {
         return;
@@ -1432,6 +1516,8 @@
 
       if (!searchPanel.contains(event.target)) {
         document.getElementById("suggestions").style.display = "none";
+        currentSuggestionItems = [];
+        clearSuggestionHighlight();
       }
     });
 
