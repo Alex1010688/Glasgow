@@ -279,6 +279,40 @@
       opacity: 0.55;
     }
 
+    .measure-point-icon {
+      background: transparent;
+      border: none;
+    }
+
+    .measure-point-x {
+      position: relative;
+      display: block;
+      width: 16px;
+      height: 16px;
+    }
+
+    .measure-point-x::before,
+    .measure-point-x::after {
+      content: "";
+      position: absolute;
+      left: 7px;
+      top: 1px;
+      width: 3px;
+      height: 14px;
+      background: #ffffff;
+      border-radius: 2px;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.65);
+      transform-origin: center;
+    }
+
+    .measure-point-x::before {
+      transform: rotate(45deg);
+    }
+
+    .measure-point-x::after {
+      transform: rotate(-45deg);
+    }
+
     .info-button {
       position: absolute;
       right: 10px;
@@ -1321,20 +1355,6 @@
 
       measurementLayer.clearLayers();
 
-      if (measurementPoints.length > 0) {
-        measurementPoints.forEach(point => {
-          L.circleMarker(point, {
-            pane: "measurementPane",
-            radius: 5,
-            color: "#ffffff",
-            weight: 2,
-            opacity: 1,
-            fillColor: "#222222",
-            fillOpacity: 1
-          }).addTo(measurementLayer);
-        });
-      }
-
       if (measurementPoints.length > 1) {
         measurementLine = L.polyline(measurementPoints, {
           pane: "measurementPane",
@@ -1344,6 +1364,21 @@
           dashArray: "8 8",
           interactive: false
         }).addTo(measurementLayer);
+      }
+
+      if (measurementPoints.length > 0) {
+        measurementPoints.forEach(point => {
+          L.marker(point, {
+            pane: "measurementPane",
+            interactive: false,
+            icon: L.divIcon({
+              className: "measure-point-icon",
+              html: '<span class="measure-point-x"></span>',
+              iconSize: [16, 16],
+              iconAnchor: [8, 8]
+            })
+          }).addTo(measurementLayer);
+        });
       }
 
       if (measureTotal) {
