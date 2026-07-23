@@ -200,6 +200,85 @@
       background: #f4f4f4;
     }
 
+    .measure-control {
+      display: grid;
+      gap: 6px;
+    }
+
+    .measure-button {
+      background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      cursor: pointer;
+      width: 42px;
+      height: 42px;
+      font-size: 18px;
+      font-weight: bold;
+      line-height: 38px;
+      text-align: center;
+      box-shadow: none;
+    }
+
+    .measure-button:hover {
+      background: #f4f4f4;
+    }
+
+    .measure-button.active {
+      background: #e9f2ff;
+    }
+
+    .measure-panel {
+      display: none;
+      width: 180px;
+      background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      padding: 8px;
+      font-size: 13px;
+      line-height: 1.35;
+      box-sizing: border-box;
+    }
+
+    .measure-panel.open {
+      display: block;
+    }
+
+    .measure-total {
+      font-weight: bold;
+      margin-bottom: 6px;
+    }
+
+    .measure-hint {
+      color: #333;
+      margin-bottom: 8px;
+    }
+
+    .measure-actions {
+      display: flex;
+      gap: 5px;
+      flex-wrap: wrap;
+    }
+
+    .measure-actions button {
+      flex: 1 1 auto;
+      min-width: 48px;
+      border: 1px solid #555;
+      border-radius: 4px;
+      background: #f4f4f4;
+      cursor: pointer;
+      padding: 6px;
+      font-size: 13px;
+    }
+
+    .measure-actions button:hover {
+      background: #e8e8e8;
+    }
+
+    .measure-actions button:disabled {
+      cursor: default;
+      opacity: 0.55;
+    }
+
     .info-button {
       position: absolute;
       right: 10px;
@@ -419,6 +498,10 @@
       max-height: 260px;
       overflow-y: auto;
       }
+
+      .measure-panel {
+        width: 165px;
+      }
     }
   </style>
 </head>
@@ -625,6 +708,9 @@
 
     map.createPane("userLocationPane");
     map.getPane("userLocationPane").style.zIndex = 700;
+
+    map.createPane("measurementPane");
+    map.getPane("measurementPane").style.zIndex = 710;
 
     L.control.zoom({
       position: "bottomright"
@@ -1195,6 +1281,190 @@
 
     locateControl.addTo(map);
 
+    const measurementLayer = L.layerGroup([], {
+      pane: "measurementPane"
+    }).addTo(map);
+
+    let measurementActive = false;
+    let measurementPoints = [];
+    let measurementLine = null;
+    let measureButton = null;
+    let measurePanel = null;
+    let measureTotal = null;
+    let measureHint = null;
+    let measureUndoButton = null;
+    let measureClearButton = null;
+
+    function formatMeasurementDistance(distanceMetres) {
+      if (distanceMetres >= 1000) {
+        return `${(distanceMetres / 1000).toFixed(2)} km`;
+      }
+
+      return `${Math.round(distanceMetres)} m`;
+    }
+
+    function getMeasurementDistance() {
+      let total = 0;
+
+      for (let index = 1; index < measurementPoints.length; index += 1) {
+        total += measurementPoints[index - 1].distanceTo(measurementPoints[index]);
+      }
+
+      return total;
+    }
+
+    function updateMeasurementDisplay() {
+      if (measurementLine) {
+        measurementLayer.removeLayer(measurementLine);
+        measurementLine = null;
+      }
+
+      measurementLayer.clearLayers();
+
+      if (measurementPoints.length > 0) {
+        measurementPoints.forEach(point => {
+          L.circleMarker(point, {
+            pane: "measurementPane",
+            radius: 5,
+            color: "#ffffff",
+            weight: 2,
+            opacity: 1,
+            fillColor: "#ff9900",
+            fillOpacity: 1
+          }).addTo(measurementLayer);
+        });
+      }
+
+      if (measurementPoints.length > 1) {
+        measurementLine = L.polyline(measurementPoints, {
+          pane: "measurementPane",
+          color: "#ff9900",
+          weight: 4,
+          opacity: 0.95,
+          interactive: false
+        }).addTo(measurementLayer);
+      }
+
+      if (measureTotal) {
+        measureTotal.textContent = `Total: ${formatMeasurementDistance(getMeasurementDistance())}`;
+      }
+
+      if (measureHint) {
+        measureHint.textContent = measurementPoints.length === 0
+          ? "Tap the map to start measuring."
+          : "Tap more points to extend the measurement.";
+      }
+
+      if (measureUndoButton) {
+        measureUndoButton.disabled = measurementPoints.length === 0;
+      }
+
+      if (measureClearButton) {
+        measureClearButton.disabled = measurementPoints.length === 0;
+      }
+    }
+
+    function setMeasurementActive(isActive) {
+      measurementActive = isActive;
+
+      if (measureButton) {
+        measureButton.classList.toggle("active", measurementActive);
+        measureButton.title = measurementActive ? "Stop measuring" : "Measure distance";
+      }
+
+      if (measurePanel) {
+        measurePanel.classList.toggle("open", measurementActive);
+      }
+
+      map.getContainer().style.cursor = measurementActive ? "crosshair" : "";
+      updateMeasurementDisplay();
+    }
+
+    function clearMeasurement() {
+      measurementPoints = [];
+      updateMeasurementDisplay();
+    }
+
+    function finishMeasurement() {
+      setMeasurementActive(false);
+    }
+
+    function addMeasurementPoint(latlng) {
+      measurementPoints.push(latlng);
+      updateMeasurementDisplay();
+    }
+
+    map.on("click", function(event) {
+      if (!measurementActive) {
+        return;
+      }
+
+      addMeasurementPoint(event.latlng);
+    });
+
+    const measureControl = L.control({
+      position: "bottomleft"
+    });
+
+    measureControl.onAdd = function() {
+      const container = L.DomUtil.create("div", "measure-control");
+      measureButton = L.DomUtil.create("button", "measure-button", container);
+      measureButton.type = "button";
+      measureButton.title = "Measure distance";
+      measureButton.innerHTML = `
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
+          <path d="M4 17 17 4l3 3L7 20l-3-3Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+          <path d="m8 13 2 2m1-5 2 2m1-5 2 2" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      `;
+
+      measurePanel = L.DomUtil.create("div", "measure-panel", container);
+      measureTotal = L.DomUtil.create("div", "measure-total", measurePanel);
+      measureHint = L.DomUtil.create("div", "measure-hint", measurePanel);
+
+      const actions = L.DomUtil.create("div", "measure-actions", measurePanel);
+      measureUndoButton = L.DomUtil.create("button", "", actions);
+      measureUndoButton.type = "button";
+      measureUndoButton.textContent = "Undo";
+
+      measureClearButton = L.DomUtil.create("button", "", actions);
+      measureClearButton.type = "button";
+      measureClearButton.textContent = "Clear";
+
+      const doneButton = L.DomUtil.create("button", "", actions);
+      doneButton.type = "button";
+      doneButton.textContent = "Done";
+
+      L.DomEvent.disableClickPropagation(container);
+      L.DomEvent.disableScrollPropagation(container);
+
+      L.DomEvent.on(measureButton, "click", function(event) {
+        L.DomEvent.preventDefault(event);
+        setMeasurementActive(!measurementActive);
+      });
+
+      L.DomEvent.on(measureUndoButton, "click", function(event) {
+        L.DomEvent.preventDefault(event);
+        measurementPoints.pop();
+        updateMeasurementDisplay();
+      });
+
+      L.DomEvent.on(measureClearButton, "click", function(event) {
+        L.DomEvent.preventDefault(event);
+        clearMeasurement();
+      });
+
+      L.DomEvent.on(doneButton, "click", function(event) {
+        L.DomEvent.preventDefault(event);
+        finishMeasurement();
+      });
+
+      updateMeasurementDisplay();
+      return container;
+    };
+
+    measureControl.addTo(map);
+
     function openInfoModal() {
       document.getElementById("infoModal").classList.add("open");
     }
@@ -1215,6 +1485,11 @@
     };
 
     document.addEventListener("keydown", function(event) {
+      if (event.key === "Escape" && measurementActive) {
+        finishMeasurement();
+        return;
+      }
+
       if (event.key === "Escape") {
         closeInfoModal();
       }
