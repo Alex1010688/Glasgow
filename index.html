@@ -1337,6 +1337,24 @@
     let measureUndoButton = null;
     let measureClearButton = null;
 
+    function setAssetPanePointerEvents(enabled) {
+      const paneNames = new Set(
+        LAYER_CONFIGS
+          .map(layerConfig => layerConfig.pane)
+          .filter(Boolean)
+      );
+
+      paneNames.add("pointMarkerPane");
+
+      paneNames.forEach(paneName => {
+        const pane = map.getPane(paneName);
+
+        if (pane) {
+          pane.style.pointerEvents = enabled ? "" : "none";
+        }
+      });
+    }
+
     function formatMeasurementDistance(distanceMetres) {
       if (distanceMetres >= 1000) {
         return `${(distanceMetres / 1000).toFixed(2)} km`;
@@ -1410,6 +1428,7 @@
 
     function setMeasurementActive(isActive) {
       measurementActive = isActive;
+      setAssetPanePointerEvents(!measurementActive);
 
       if (measureButton) {
         measureButton.classList.toggle("active", measurementActive);
