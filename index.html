@@ -227,6 +227,15 @@
       background: #e9f2ff;
     }
 
+    .measure-button-icon {
+      display: block;
+      width: 28px;
+      height: 28px;
+      margin: 5px auto;
+      object-fit: contain;
+      mix-blend-mode: multiply;
+    }
+
     .measure-panel {
       display: none;
       width: 180px;
@@ -1447,12 +1456,7 @@
       measureButton = L.DomUtil.create("button", "measure-button", container);
       measureButton.type = "button";
       measureButton.title = "Measure distance";
-      measureButton.innerHTML = `
-        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
-          <path d="M4 17 17 4l3 3L7 20l-3-3Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
-          <path d="m8 13 2 2m1-5 2 2m1-5 2 2" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-        </svg>
-      `;
+      measureButton.innerHTML = '<img class="measure-button-icon" src="ruler-icon.jpg" alt="" />';
 
       measurePanel = L.DomUtil.create("div", "measure-panel", container);
       measureTotal = L.DomUtil.create("div", "measure-total", measurePanel);
