@@ -3304,6 +3304,38 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Polmadie West REB WCM2/100/34(U)",
+        "type": "Locs",
+        "notes": "",
+        "section": "Central"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.242923822775162,
+	      55.83704325806179
+            ],
+            [
+              -4.242944726820627,
+	      55.83702042587629 
+            ],
+            [
+              -4.242772196829551,
+  	      55.83696096657173 
+            ],
+            [
+              -4.242752998262284,
+	      55.83698447816308, 
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cook Street REB",
         "type": "Locs",
         "notes": "",
