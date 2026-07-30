@@ -1085,6 +1085,22 @@
         entries = [equipmentNumbers];
       }
 
+      entries = entries
+        .map(entry => {
+          if (entry && typeof entry === "object") {
+            return {
+              number: entry.number || entry.equipment_number || "",
+              name: entry.name || entry.label || ""
+            };
+          }
+
+          return {
+            number: entry,
+            name: ""
+          };
+        })
+        .filter(entry => !String(entry.name).toLowerCase().includes("stretcher"));
+
       if (entries.length === 0) {
         return "";
       }
@@ -1093,15 +1109,8 @@
 
       for (var i = 0; i < entries.length; i++) {
         var entry = entries[i];
-        var equipmentNumber = "";
-        var equipmentName = "";
-
-        if (entry && typeof entry === "object") {
-          equipmentNumber = entry.number || entry.equipment_number || "";
-          equipmentName = entry.name || entry.label || "";
-        } else {
-          equipmentNumber = entry;
-        }
+        var equipmentNumber = entry.number;
+        var equipmentName = entry.name;
 
         var paddedEquipmentNumber = padEquipmentNumber(equipmentNumber);
 
