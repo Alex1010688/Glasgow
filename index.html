@@ -1351,6 +1351,7 @@
     let measureHint = null;
     let measureUndoButton = null;
     let measureClearButton = null;
+    let lastMeasurementClick = null;
 
     function setAssetPanePointerEvents(enabled) {
       const paneNames = new Set(
@@ -1468,8 +1469,39 @@
     }
 
     function addMeasurementPoint(latlng) {
+      const now = Date.now();
+
+      if (
+        lastMeasurementClick &&
+        now - lastMeasurementClick.time < 100 &&
+        latlng.distanceTo(lastMeasurementClick.latlng) < 0.1
+      ) {
+        return;
+      }
+
+      lastMeasurementClick = {
+        latlng: latlng,
+        time: now
+      };
+
       measurementPoints.push(latlng);
       updateMeasurementDisplay();
+    }
+
+    function handleMeasurementFeatureClick(event) {
+      if (!measurementActive || !event.latlng) {
+        return;
+      }
+
+      if (event.originalEvent) {
+        L.DomEvent.stop(event.originalEvent);
+      }
+
+      addMeasurementPoint(event.latlng);
+
+      if (event.target && event.target.closePopup) {
+        setTimeout(() => event.target.closePopup(), 0);
+      }
     }
 
     map.on("click", function(event) {
@@ -2228,6 +2260,8 @@
           if (sectionName) {
             availableSections.add(sectionName);
           }
+
+          leafletLayer.on("click", handleMeasurementFeatureClick);
 
           leafletLayer.bindPopup(popupContent(feature, layerConfig.name));
 
