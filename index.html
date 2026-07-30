@@ -567,8 +567,8 @@
 
   <div id="sectionModal" class="info-modal" role="dialog" aria-modal="true" aria-labelledby="sectionModalTitle">
     <div class="info-dialog">
-      <h2 id="sectionModalTitle">Choose Section</h2>
-      <p>Which section do you wish to view? This can be changed in the future using the Layers menu.</p>
+      <h2 id="sectionModalTitle">Choose Sections</h2>
+      <p>Which sections do you wish to view? This can be changed in the future using the Layers menu.</p>
       <div id="initialSectionChoices" class="section-choice"></div>
       <label class="remember-section-choice">
         <input id="rememberSectionChoice" type="checkbox" />
@@ -649,7 +649,7 @@
       lng: -4.0870088,
       zoom: 13
     };
-    const DATA_VERSION = "2026-07-30-sunnyside-stations";
+    const DATA_VERSION = "2026-07-30-multi-section";
 
     /*
       GEOJSON LAYERS
@@ -824,7 +824,7 @@
     const labelledFeatures = [];
     const labelSettings = {};
     const availableSections = new Set();
-    let activeSection = localStorage.getItem(SECTION_STORAGE_KEY) || ALL_SECTIONS;
+    let activeSections = new Set();
     let sectionPromptShown = false;
     let currentSuggestionItems = [];
     let highlightedSuggestionIndex = -1;
@@ -879,7 +879,7 @@
 
     function featureMatchesActiveSection(feature) {
       const featureSection = getFeatureSection(feature);
-      return activeSection === ALL_SECTIONS || featureSection === activeSection;
+      return activeSections.size === 0 || activeSections.has(featureSection);
     }
 
     function isFeatureSearchable(item) {
@@ -1563,6 +1563,59 @@
       return [ALL_SECTIONS].concat(Array.from(availableSections).sort());
     }
 
+    function getSelectableSections() {
+      return Array.from(availableSections).sort();
+    }
+
+    function getStoredSections() {
+      const storedValue = localStorage.getItem(SECTION_STORAGE_KEY);
+
+      if (!storedValue) {
+        return null;
+      }
+
+      try {
+        const parsedValue = JSON.parse(storedValue);
+
+        if (Array.isArray(parsedValue)) {
+          return parsedValue;
+        }
+      } catch (error) {
+        // Older saved choices used a plain string rather than a JSON array.
+      }
+
+      return storedValue === ALL_SECTIONS ? [] : [storedValue];
+    }
+
+    function normaliseSectionSelection(sectionNames) {
+      const validSections = new Set(getSelectableSections());
+
+      return new Set(
+        (sectionNames || [])
+          .filter(sectionName => validSections.has(sectionName))
+      );
+    }
+
+    function sectionSelectionIsAll() {
+      return activeSections.size === 0;
+    }
+
+    function getActiveSectionList() {
+      return sectionSelectionIsAll() ? [] : Array.from(activeSections).sort();
+    }
+
+    function storeActiveSectionSelection() {
+      localStorage.setItem(SECTION_STORAGE_KEY, JSON.stringify(getActiveSectionList()));
+    }
+
+    function getSingleActiveSection() {
+      if (activeSections.size !== 1) {
+        return null;
+      }
+
+      return Array.from(activeSections)[0];
+    }
+
     function centreMapForSection(sectionName) {
       if (sectionName === CENTRAL_SECTION) {
         map.setView([CENTRAL_VIEW.lat, CENTRAL_VIEW.lng], CENTRAL_VIEW.zoom);
@@ -1572,6 +1625,16 @@
         map.setView([SUNNYSIDE_VIEW.lat, SUNNYSIDE_VIEW.lng], SUNNYSIDE_VIEW.zoom);
       } else if (sectionName === ALL_SECTIONS) {
         map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
+      }
+    }
+
+    function centreMapForActiveSections() {
+      const singleSection = getSingleActiveSection();
+
+      if (singleSection) {
+        centreMapForSection(singleSection);
+      } else {
+        centreMapForSection(ALL_SECTIONS);
       }
     }
 
@@ -1595,24 +1658,24 @@
       updateLabelVisibility();
     }
 
-    function setActiveSection(sectionName, options = {}) {
-      const validSections = getSectionOptions();
-      activeSection = validSections.includes(sectionName) ? sectionName : ALL_SECTIONS;
+    function setActiveSections(sectionNames, options = {}) {
+      activeSections = normaliseSectionSelection(sectionNames);
 
       applySectionFilter();
 
       if (options.remember) {
-        localStorage.setItem(SECTION_STORAGE_KEY, activeSection);
+        storeActiveSectionSelection();
       } else if (options.clearRemembered) {
         localStorage.removeItem(SECTION_STORAGE_KEY);
       } else if (localStorage.getItem(SECTION_STORAGE_KEY)) {
-        localStorage.setItem(SECTION_STORAGE_KEY, activeSection);
+        storeActiveSectionSelection();
       }
 
       buildMapControlPanel();
+      updateLabelVisibility();
 
       if (options.centreMap !== false) {
-        centreMapForSection(activeSection);
+        centreMapForActiveSections();
       }
     }
 
@@ -1628,13 +1691,31 @@
       choices.innerHTML = "";
 
       getSectionOptions().forEach(sectionName => {
-        const radio = document.createElement("input");
-        radio.type = "radio";
-        radio.name = "initial-section";
-        radio.value = sectionName;
-        radio.checked = sectionName === activeSection;
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.name = "initial-section";
+        checkbox.value = sectionName;
+        checkbox.checked = sectionName === ALL_SECTIONS
+          ? sectionSelectionIsAll()
+          : activeSections.has(sectionName);
 
-        const row = createControlRow(radio, sectionName);
+        checkbox.onchange = function() {
+          if (sectionName === ALL_SECTIONS && checkbox.checked) {
+            choices.querySelectorAll('input[name="initial-section"]').forEach(input => {
+              if (input.value !== ALL_SECTIONS) {
+                input.checked = false;
+              }
+            });
+          } else if (sectionName !== ALL_SECTIONS && checkbox.checked) {
+            const allCheckbox = choices.querySelector(`input[value="${ALL_SECTIONS}"]`);
+
+            if (allCheckbox) {
+              allCheckbox.checked = false;
+            }
+          }
+        };
+
+        const row = createControlRow(checkbox, sectionName);
         choices.appendChild(row);
       });
 
@@ -1643,11 +1724,14 @@
     }
 
     function closeSectionModal() {
-      const selected = document.querySelector('input[name="initial-section"]:checked');
+      const selected = Array.from(document.querySelectorAll('input[name="initial-section"]:checked'))
+        .map(input => input.value)
+        .filter(sectionName => sectionName !== ALL_SECTIONS);
+      const allSelected = !!document.querySelector('input[name="initial-section"][value="All sections"]:checked');
       const rememberChoice = document.getElementById("rememberSectionChoice").checked;
-      const sectionName = selected ? selected.value : ALL_SECTIONS;
+      const sectionNames = allSelected ? [] : selected;
 
-      setActiveSection(sectionName, {
+      setActiveSections(sectionNames, {
         remember: rememberChoice,
         clearRemembered: !rememberChoice
       });
@@ -1993,21 +2077,36 @@
       });
 
       getSectionOptions().forEach(sectionName => {
-        const radio = document.createElement("input");
-        radio.type = "radio";
-        radio.name = "map-section";
-        radio.checked = sectionName === activeSection;
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.checked = sectionName === ALL_SECTIONS
+          ? sectionSelectionIsAll()
+          : activeSections.has(sectionName);
 
-        radio.onchange = function() {
-          if (radio.checked) {
-            setActiveSection(sectionName, {
+        checkbox.onchange = function() {
+          if (sectionName === ALL_SECTIONS) {
+            setActiveSections([], {
               centreMap: true,
               clearRemembered: false
             });
+            return;
           }
+
+          const nextSections = new Set(activeSections);
+
+          if (checkbox.checked) {
+            nextSections.add(sectionName);
+          } else {
+            nextSections.delete(sectionName);
+          }
+
+          setActiveSections(Array.from(nextSections), {
+            centreMap: true,
+            clearRemembered: false
+          });
         };
 
-        sectionContainer.appendChild(createControlRow(radio, sectionName));
+        sectionContainer.appendChild(createControlRow(checkbox, sectionName));
       });
 
       const rememberCheckbox = document.createElement("input");
@@ -2016,7 +2115,7 @@
 
       rememberCheckbox.onchange = function() {
         if (rememberCheckbox.checked) {
-          localStorage.setItem(SECTION_STORAGE_KEY, activeSection);
+          storeActiveSectionSelection();
         } else {
           localStorage.removeItem(SECTION_STORAGE_KEY);
         }
@@ -2169,7 +2268,7 @@
       }
 
       buildMapControlPanel();
-      setActiveSection(activeSection, {
+      setActiveSections(getStoredSections() || [], {
         centreMap: !!localStorage.getItem(SECTION_STORAGE_KEY)
       });
 
