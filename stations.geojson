@@ -9,7 +9,7 @@
       "properties": {
         "@id": "node/22256341",
         "name": "Cardonald",
-        "name:gd": "Cair Dh\u00f2mhnaill",
+        "name:gd": "Cair Dhòmhnaill",
         "naptan:AtcoCode": "9100CDNL",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/cdo/",
@@ -101,7 +101,7 @@
       "properties": {
         "@id": "node/27482876",
         "name": "Paisley Canal",
-        "name:gd": "Can\u00e0l Ph\u00e0islig",
+        "name:gd": "Canàl Phàislig",
         "naptan:AtcoCode": "9100PSLYCAN",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/pcn/",
@@ -370,7 +370,7 @@
       "properties": {
         "@id": "node/29081540",
         "name": "Neilston",
-        "name:gd": "Baile N\u00e8ill",
+        "name:gd": "Baile Nèill",
         "naptan:AtcoCode": "9100NEILSTN",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/nei/",
@@ -400,7 +400,7 @@
       "properties": {
         "@id": "node/29108487",
         "name": "Maxwell Park",
-        "name:gd": "P\u00e0irc Maxwell",
+        "name:gd": "Pàirc Maxwell",
         "naptan:AtcoCode": "9100MAXWLPK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/max/",
@@ -554,7 +554,7 @@
       "properties": {
         "@id": "node/30004721",
         "name": "Mosspark",
-        "name:gd": "P\u00e0irc na M\u00f2na",
+        "name:gd": "Pàirc na Mòna",
         "naptan:AtcoCode": "9100MSSPARK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/mpk/",
@@ -706,7 +706,7 @@
       "properties": {
         "@id": "node/30564108",
         "name": "Kings Park",
-        "name:gd": "P\u00e0irc an R\u00ecgh",
+        "name:gd": "Pàirc an Rìgh",
         "naptan:AtcoCode": "9100KGPK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/kgp/",
@@ -890,7 +890,7 @@
       "properties": {
         "@id": "node/30669985",
         "name": "Queens Park",
-        "name:gd": "P\u00e0irc na Banrighinn",
+        "name:gd": "Pàirc na Banrighinn",
         "naptan:AtcoCode": "9100QUNPARK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/qpk/",
@@ -921,7 +921,7 @@
       "properties": {
         "@id": "node/30671368",
         "name": "Dumbreck",
-        "name:gd": "An D\u00f9n Breac",
+        "name:gd": "An Dùn Breac",
         "naptan:AtcoCode": "9100DUMBRCK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/dum/",
@@ -951,7 +951,7 @@
       "properties": {
         "@id": "node/165098109",
         "name": "Priesthill & Darnley",
-        "name:gd": "Cnoc an t-Sagairt \u204a Darnley",
+        "name:gd": "Cnoc an t-Sagairt ⁊ Darnley",
         "naptan:AtcoCode": "9100PHLD",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/ptl/",
@@ -981,7 +981,7 @@
       "properties": {
         "@id": "node/168325631",
         "name": "Whitecraigs",
-        "name:gd": "An Creagan B\u00e0n",
+        "name:gd": "An Creagan Bàn",
         "naptan:AtcoCode": "9100WTCR",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/wcr/",
@@ -1081,7 +1081,7 @@
         "brand:wikidata": "Q136406287",
         "fare_zone": "SPT Zone 1",
         "name": "Dalmarnock",
-        "name:gd": "Dail Me\u00e0rnaig",
+        "name:gd": "Dail Meàrnaig",
         "naptan:AtcoCode": "9100DLMRNOK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/dak/",
@@ -1178,7 +1178,7 @@
       "properties": {
         "@id": "node/3979339627",
         "name": "East Kilbride",
-        "name:gd": "Cille Bhr\u00ecghde an Ear",
+        "name:gd": "Cille Bhrìghde an Ear",
         "naptan:AtcoCode": "9100EKILBRD",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/ekl/",
@@ -1302,7 +1302,7 @@
         "fare_zone": "SPT Zone 1",
         "name": "Glasgow Central",
         "name:gd": "Glaschu Mheadhain",
-        "name:ko": "\uae00\ub798\uc2a4\uace0 \uc911\uc559\uc5ed",
+        "name:ko": "글래스고 중앙역",
         "naptan:AtcoCode:High_Level": "9100GLGCLL",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/glasgow-central/",
@@ -1334,7 +1334,7 @@
       "properties": {
         "@id": "node/7147294461",
         "name": "Muirend",
-        "name:gd": "Ceann an t-Sl\u00e8ibh",
+        "name:gd": "Ceann an t-Slèibh",
         "naptan:AtcoCode": "9100MUIREND",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/mui/",
@@ -1398,7 +1398,7 @@
         "brand:wikidata": "Q136406287",
         "fare_zone": "SPT Zone 2",
         "name": "Maryhill",
-        "name:gd": "Cnoc M\u00e0iri",
+        "name:gd": "Cnoc Màiri",
         "naptan:AtcoCode": "9100MRYHILL",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/myh/",
@@ -1505,7 +1505,7 @@
         "brand:wikidata": "Q136406287",
         "fare_zone": "SPT Zone 1",
         "name": "Alexandra Parade",
-        "name:gd": "Pair\u00e8ad Alexandra",
+        "name:gd": "Pairèad Alexandra",
         "naptan:AtcoCode": "9100ALXPD",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/axp/",
@@ -1603,7 +1603,7 @@
       "properties": {
         "@id": "node/3747498133",
         "name": "Lenzie",
-        "name:gd": "L\u00e8anaidh",
+        "name:gd": "Lèanaidh",
         "naptan:AtcoCode": "9100LENZIE",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/lnz/",
@@ -1775,7 +1775,7 @@
       "properties": {
         "@id": "node/7209241887",
         "name": "Gartcosh",
-        "name:gd": "Gart a' Ch\u00f2is",
+        "name:gd": "Gart a' Chòis",
         "naptan:AtcoCode": "9100GRTCSH",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/grh/",
@@ -1877,7 +1877,7 @@
         "brand:wikidata": "Q136406287",
         "fare_zone": "SPT Zone 2",
         "name": "Possilpark and Parkhouse",
-        "name:gd": "P\u00e0irc Phosail \u204a Taigh na P\u00e0irce",
+        "name:gd": "Pàirc Phosail ⁊ Taigh na Pàirce",
         "naptan:AtcoCode": "9100POSILPK",
         "network": "National Rail",
         "network:website": "https://www.nationalrail.co.uk/stations/ppk/",
@@ -1977,6 +1977,193 @@
         ]
       },
       "id": "manual/cowlairs-anniesland"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bellgrove",
+        "type": "Station",
+        "notes": "",
+        "crs": "BLG",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2243365,
+          55.8567027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duke Street",
+        "type": "Station",
+        "notes": "",
+        "crs": "DST",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2125984,
+          55.8586614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carntyne",
+        "type": "Station",
+        "notes": "",
+        "crs": "CAY",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1791751,
+          55.8548998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shettleston",
+        "type": "Station",
+        "notes": "",
+        "crs": "SLS",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1595853,
+          55.8536445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garrowhill",
+        "type": "Station",
+        "notes": "",
+        "crs": "GAR",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.129839,
+          55.855046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Easterhouse",
+        "type": "Station",
+        "notes": "",
+        "crs": "EST",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1068753,
+          55.8598473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blairhill",
+        "type": "Station",
+        "notes": "",
+        "crs": "BAI",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0427186,
+          55.8665156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coatbridge Sunnyside",
+        "type": "Station",
+        "notes": "",
+        "crs": "CBS",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0279569,
+          55.8669052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coatdyke",
+        "type": "Station",
+        "notes": "",
+        "crs": "COA",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0049999,
+          55.864404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airdrie",
+        "type": "Station",
+        "notes": "",
+        "crs": "ADR",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9822547,
+          55.8640839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drumgelloch",
+        "type": "Station",
+        "notes": "",
+        "crs": "DRU",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9483149,
+          55.8676763
+        ]
+      }
     }
   ]
 }
