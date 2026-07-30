@@ -643,7 +643,13 @@
       lng: -4.2372892899668475,
       zoom: 15
     };
-    const DATA_VERSION = "2026-07-05-cowlairs-stations";
+    const SUNNYSIDE_SECTION = "Sunnyside";
+    const SUNNYSIDE_VIEW = {
+      lat: 55.8644006,
+      lng: -4.0870088,
+      zoom: 13
+    };
+    const DATA_VERSION = "2026-07-30-sunnyside";
 
     /*
       GEOJSON LAYERS
@@ -1562,6 +1568,8 @@
         map.setView([CENTRAL_VIEW.lat, CENTRAL_VIEW.lng], CENTRAL_VIEW.zoom);
       } else if (sectionName === COWLAIRS_SECTION) {
         map.setView([COWLAIRS_VIEW.lat, COWLAIRS_VIEW.lng], COWLAIRS_VIEW.zoom);
+      } else if (sectionName === SUNNYSIDE_SECTION) {
+        map.setView([SUNNYSIDE_VIEW.lat, SUNNYSIDE_VIEW.lng], SUNNYSIDE_VIEW.zoom);
       } else if (sectionName === ALL_SECTIONS) {
         map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
       }

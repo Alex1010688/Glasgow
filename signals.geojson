@@ -19841,6 +19841,1423 @@
           55.85423
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS149",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000003142127",
+            "label": "Signal"
+          },
+          {
+            "number": "000006709841",
+            "label": "AWS SY"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9508805,
+          55.8666993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS152",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000003180651",
+            "label": "Signal"
+          },
+          {
+            "number": "000006709842",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000003180652",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9616528,
+          55.8660876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS155",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481080",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704597",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295310",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.980138,
+          55.8641861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS160",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000003142128",
+            "label": "Signal"
+          },
+          {
+            "number": "000003266595",
+            "label": "TPWS TS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9802279,
+          55.8641831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS154",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000003180664",
+            "label": "Signal"
+          },
+          {
+            "number": "000006709843",
+            "label": "AWS SY"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9802252,
+          55.8642689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS151",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481014",
+            "label": "Signal"
+          },
+          {
+            "number": "000001295352",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9835255,
+          55.8638808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS153",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000480992",
+            "label": "Signal"
+          },
+          {
+            "number": "000001295374",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9838595,
+          55.8639689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS157",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000003266593",
+            "label": "Signal"
+          },
+          {
+            "number": "000003266594",
+            "label": "TPWS TS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9828841,
+          55.8640627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS754",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000480997",
+            "label": "Position Light"
+          },
+          {
+            "number": "000001293605",
+            "label": "SPTs"
+          },
+          {
+            "number": "000000471171",
+            "label": "Banner"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.986499,
+          55.8637807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS156",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000002900735",
+            "label": "Signal"
+          },
+          {
+            "number": "000002900767",
+            "label": "Position Light"
+          },
+          {
+            "number": "000003141844",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704600",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295379",
+            "label": "SPTs"
+          },
+          {
+            "number": "000003141868",
+            "label": "Banner"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9893596,
+          55.8636479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS159",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000480967",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704608",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001293622",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0059916,
+          55.8646585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS158",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000480952",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704603",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295372",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0039861,
+          55.8641724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS158R",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000480956",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704605",
+            "label": "AWS SY"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0187781,
+          55.8679848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS164",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000480977",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704616",
+            "label": "AWS SY"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0264679,
+          55.8668382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS165",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000480970",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704619",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295387",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.028695,
+          55.866988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS163",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000001213697",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704610",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001294772",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0289499,
+          55.8664976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS176",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481074",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704622",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001293608",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0351877,
+          55.8681222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS177",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481078",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704625",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001293609",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0436871,
+          55.8663293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS182",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481070",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704628",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295355",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0484472,
+          55.8658757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS182R",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481082",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704631",
+            "label": "AWS SY"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0702169,
+          55.861639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS183R",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481096",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704636",
+            "label": "AWS SY"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0847898,
+          55.8585895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS183",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481060",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704634",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295363",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1074152,
+          55.8597979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS184",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481047",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704639",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295371",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1055537,
+          55.8598924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS184R",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481482",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704642",
+            "label": "AWS SY"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1255286,
+          55.8573162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS185",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481438",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704645",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295366",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1304132,
+          55.8547466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS762 LOS",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": "000000481455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1387832,
+          55.8532667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS763",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481459",
+            "label": "Position Light"
+          },
+          {
+            "number": "000000470509",
+            "label": "Banner"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1419804,
+          55.8533229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS765",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481460",
+            "label": "Position Light"
+          },
+          {
+            "number": "000000470510",
+            "label": "Banner"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1419766,
+          55.8533951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS188",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481407",
+            "label": "Signal"
+          },
+          {
+            "number": "000001295250",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1451429,
+          55.8535107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS186",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481396",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704647",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295251",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1451351,
+          55.8534517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS192",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481404",
+            "label": "Signal"
+          },
+          {
+            "number": "000001867594",
+            "label": "Position Light"
+          },
+          {
+            "number": "000001293611",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1453518,
+          55.8533473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS193",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481424",
+            "label": "Signal"
+          },
+          {
+            "number": "000001865213",
+            "label": "Position Light"
+          },
+          {
+            "number": "000001295254",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1564067,
+          55.8535332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS195",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481399",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704650",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295253",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1564067,
+          55.8535776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Exit signal",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1562645,
+          55.8534572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS774",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481422",
+            "label": "Position Light"
+          },
+          {
+            "number": "000001293613",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.157748,
+          55.8535317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS776",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481479",
+            "label": "Position Light"
+          },
+          {
+            "number": "000001293601",
+            "label": "SPTs"
+          },
+          {
+            "number": "000000470321",
+            "label": "Banner"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1588458,
+          55.8536208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS196",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481510",
+            "label": "Signal"
+          },
+          {
+            "number": "000001865214",
+            "label": "Position Light"
+          },
+          {
+            "number": "000001704652",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295259",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1640112,
+          55.8537743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS198",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481522",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704655",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295255",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1782343,
+          55.8549432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS205",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481518",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704661",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295257",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.180423,
+          55.8548394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS198R",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481476",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704658",
+            "label": "AWS SY"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1965972,
+          55.8555512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS207R",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481478",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704666",
+            "label": "AWS SY"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1966562,
+          55.8554993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS207",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000001110192",
+            "label": "Signal"
+          },
+          {
+            "number": "000001721679",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001295291",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2151967,
+          55.856624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS214",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481516",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704680",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001293607",
+            "label": "SPTs"
+          },
+          {
+            "number": "000000470553",
+            "label": "Banner"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2227522,
+          55.8565994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SPAD indicator",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2217906,
+          55.8564887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS786",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481485",
+            "label": "Position Light"
+          },
+          {
+            "number": "000002579381",
+            "label": "SPTs"
+          },
+          {
+            "number": "000000470376",
+            "label": "Banner"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2231371,
+          55.8564624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SPAD indicator",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2133942,
+          55.8581024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS783",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481721",
+            "label": "Signal"
+          },
+          {
+            "number": "000001293490",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2129807,
+          55.8584553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS213",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481750",
+            "label": "Signal"
+          },
+          {
+            "number": "000000487986",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704672",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001294766",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2127634,
+          55.8584771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS212",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000000481751",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704669",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001741186",
+            "label": "TPWS TS"
+          },
+          {
+            "number": "000001294777",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2117036,
+          55.8595671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS213R",
+        "type": "Signals",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": [
+          {
+            "number": "000001603365",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704674",
+            "label": "AWS SY"
+          },
+          {
+            "number": "000001704677",
+            "label": "AWS SY"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2174731,
+          55.8721703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OR Q",
+        "type": "Treadles",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2225006,
+          55.8565477
+        ]
+      }
     }
   ]
 }
