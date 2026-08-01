@@ -1,0 +1,8 @@
+name = "glasgow"
+main = "src/password-worker.js"
+compatibility_date = "2026-08-01"
+
+[assets]
+directory = "."
+binding = "ASSETS"
+run_worker_first = true

@@ -1,0 +1,8 @@
+.assetsignore
+.git
+.git/**
+.github
+.github/**
+src
+src/**
+wrangler.toml
