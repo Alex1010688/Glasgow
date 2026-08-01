@@ -21258,6 +21258,32 @@
           55.8565477
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YS163R",
+        "type": "Signals",
+        "notes": "",
+        "equipment_number": [
+          {
+            "number": "000000753329",
+            "label": "Signal"
+          },
+          {
+            "number": "000001704613",
+            "label": "AWS SY"
+          }
+        ],
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0301504,
+          55.8625184
+        ]
+      }
     }
   ]
 }
