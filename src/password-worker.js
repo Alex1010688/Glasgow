@@ -96,7 +96,7 @@ function loginPage(returnTo = "/", errorMessage = "") {
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Glasgow Signals</title>
+  <title>Glasgow Signals Map</title>
   <style>
     html, body {
       min-height: 100%;
@@ -127,6 +127,12 @@ function loginPage(returnTo = "/", errorMessage = "") {
       margin: 0 0 14px;
       font-size: 24px;
       line-height: 1.2;
+    }
+
+    .summary {
+      margin: -4px 0 18px;
+      color: #4b5563;
+      line-height: 1.4;
     }
 
     label {
@@ -180,7 +186,8 @@ function loginPage(returnTo = "/", errorMessage = "") {
 </head>
 <body>
   <form class="panel" method="post" action="/__login">
-    <h1>Glasgow Signals</h1>
+    <h1>Glasgow Signals Map</h1>
+    <p class="summary">Protected operational reference map for authorised railway staff.</p>
     ${errorHtml}
     <input type="hidden" name="returnTo" value="${escapeHtml(safeReturnTo)}" />
     <label for="password">Password</label>
