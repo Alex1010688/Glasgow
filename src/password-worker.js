@@ -1,6 +1,10 @@
 const COOKIE_NAME = "glasgow_signals_auth";
 const SESSION_SECONDS = 60 * 60 * 24 * 30;
 
+function normalisePassword(value) {
+  return String(value || "").normalize("NFKC").trim();
+}
+
 function escapeHtml(value) {
   return String(value)
     .replaceAll("&", "&amp;")
@@ -42,6 +46,14 @@ function parseCookies(header) {
   });
 
   return cookies;
+}
+
+function cookieDomainAttribute(hostname) {
+  if (hostname === "glasgowsignals.co.uk" || hostname.endsWith(".glasgowsignals.co.uk")) {
+    return "; Domain=glasgowsignals.co.uk";
+  }
+
+  return "";
 }
 
 async function sign(value, secret) {
@@ -131,6 +143,14 @@ function loginPage(returnTo = "/", errorMessage = "") {
       font-weight: bold;
     }
 
+    .show-password {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 10px;
+      font-weight: normal;
+    }
+
     input {
       width: 100%;
       box-sizing: border-box;
@@ -138,6 +158,10 @@ function loginPage(returnTo = "/", errorMessage = "") {
       border: 1px solid #777;
       border-radius: 4px;
       font-size: 16px;
+    }
+
+    .show-password input {
+      width: auto;
     }
 
     button {
@@ -169,8 +193,20 @@ function loginPage(returnTo = "/", errorMessage = "") {
     <input type="hidden" name="returnTo" value="${escapeHtml(safeReturnTo)}" />
     <label for="password">Password</label>
     <input id="password" name="password" type="password" autocomplete="current-password" autofocus required />
+    <label class="show-password">
+      <input id="showPassword" type="checkbox" />
+      Show password
+    </label>
     <button type="submit">Open map</button>
   </form>
+  <script>
+    const showPassword = document.getElementById("showPassword");
+    const password = document.getElementById("password");
+
+    showPassword.addEventListener("change", () => {
+      password.type = showPassword.checked ? "text" : "password";
+    });
+  </script>
 </body>
 </html>`, {
     headers: {
@@ -195,27 +231,32 @@ export default {
     const url = new URL(request.url);
     const password = env.SITE_PASSWORD;
 
-    if (!password) {
+    const configuredPassword = normalisePassword(password);
+
+    if (!configuredPassword) {
       return setupErrorPage();
     }
 
     if (url.pathname === "/__login" && request.method === "POST") {
       const formData = await request.formData();
-      const submittedPassword = String(formData.get("password") || "");
+      const submittedPassword = normalisePassword(formData.get("password"));
       const returnTo = String(formData.get("returnTo") || "/");
 
-      if (submittedPassword !== password) {
+      if (submittedPassword !== configuredPassword) {
         return loginPage(returnTo, "Password not recognised.");
       }
 
-      const token = await createToken(password);
+      const token = await createToken(configuredPassword);
       const redirectTo = returnTo.startsWith("/") ? returnTo : "/";
+      const redirectUrl = new URL(redirectTo, url.origin);
+
+      redirectUrl.searchParams.set("__login", "ok");
 
       return new Response(null, {
         status: 303,
         headers: {
-          "Location": redirectTo,
-          "Set-Cookie": `${COOKIE_NAME}=${token}; Max-Age=${SESSION_SECONDS}; Path=/; HttpOnly; Secure; SameSite=Lax`,
+          "Location": `${redirectUrl.pathname}${redirectUrl.search}${redirectUrl.hash}`,
+          "Set-Cookie": `${COOKIE_NAME}=${token}; Max-Age=${SESSION_SECONDS}; Path=/; HttpOnly; Secure; SameSite=Lax${cookieDomainAttribute(url.hostname)}`,
           "Cache-Control": "no-store"
         }
       });
@@ -226,7 +267,7 @@ export default {
         status: 303,
         headers: {
           "Location": "/",
-          "Set-Cookie": `${COOKIE_NAME}=; Max-Age=0; Path=/; HttpOnly; Secure; SameSite=Lax`,
+          "Set-Cookie": `${COOKIE_NAME}=; Max-Age=0; Path=/; HttpOnly; Secure; SameSite=Lax${cookieDomainAttribute(url.hostname)}`,
           "Cache-Control": "no-store"
         }
       });
@@ -234,10 +275,25 @@ export default {
 
     const cookies = parseCookies(request.headers.get("Cookie"));
 
-    if (!await tokenIsValid(cookies[COOKIE_NAME], password)) {
+    if (!await tokenIsValid(cookies[COOKIE_NAME], configuredPassword)) {
       const returnTo = `${url.pathname}${url.search}`;
+      const errorMessage = url.searchParams.get("__login") === "ok"
+        ? "Password was accepted, but this browser did not save the sign-in cookie. Please allow cookies for this site and try again."
+        : "";
 
-      return loginPage(returnTo);
+      return loginPage(returnTo, errorMessage);
+    }
+
+    if (url.searchParams.get("__login") === "ok") {
+      url.searchParams.delete("__login");
+
+      return new Response(null, {
+        status: 303,
+        headers: {
+          "Location": `${url.pathname}${url.search}${url.hash}`,
+          "Cache-Control": "no-store"
+        }
+      });
     }
 
     return env.ASSETS.fetch(request);
