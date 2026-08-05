@@ -130,9 +130,22 @@ function loginPage(returnTo = "/", errorMessage = "") {
     }
 
     .summary {
-      margin: -4px 0 18px;
+      margin: -4px 0 14px;
       color: #4b5563;
       line-height: 1.4;
+    }
+
+    .notice {
+      display: grid;
+      gap: 10px;
+      margin: 0 0 22px;
+      color: #374151;
+      font-size: 14px;
+      line-height: 1.45;
+    }
+
+    .notice p {
+      margin: 0;
     }
 
     label {
@@ -187,7 +200,13 @@ function loginPage(returnTo = "/", errorMessage = "") {
 <body>
   <form class="panel" method="post" action="/__login">
     <h1>Glasgow Signals Map</h1>
-    <p class="summary">Protected operational reference map for authorised railway staff.</p>
+    <p class="summary">Glasgow Signals Map is a reference map for authorised railway staff showing railway signalling asset locations for Glasgow DU.</p>
+    <div class="notice">
+      <p>Data has been obtained using M12s, AIVR footage, GeoRIMN, and the Hazard Directory.</p>
+      <p>The information shown in the map is for guidance only and must not be used for safety-critical decisions.</p>
+      <p>Current open faults may not be shown due to the constraints of the MyIM system.</p>
+      <p>Access is password protected and intended only for users who have been given permission to use it.</p>
+    </div>
     ${errorHtml}
     <input type="hidden" name="returnTo" value="${escapeHtml(safeReturnTo)}" />
     <label for="password">Password</label>
