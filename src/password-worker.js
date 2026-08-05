@@ -48,14 +48,6 @@ function parseCookies(header) {
   return cookies;
 }
 
-function cookieDomainAttribute(hostname) {
-  if (hostname === "glasgowsignals.co.uk" || hostname.endsWith(".glasgowsignals.co.uk")) {
-    return "; Domain=glasgowsignals.co.uk";
-  }
-
-  return "";
-}
-
 async function sign(value, secret) {
   const encoder = new TextEncoder();
   const key = await crypto.subtle.importKey(
@@ -231,6 +223,18 @@ export default {
     const url = new URL(request.url);
     const password = env.SITE_PASSWORD;
 
+    if (url.protocol !== "https:") {
+      url.protocol = "https:";
+
+      return new Response(null, {
+        status: 301,
+        headers: {
+          "Location": url.toString(),
+          "Cache-Control": "no-store"
+        }
+      });
+    }
+
     const configuredPassword = normalisePassword(password);
 
     if (!configuredPassword) {
@@ -256,7 +260,7 @@ export default {
         status: 303,
         headers: {
           "Location": `${redirectUrl.pathname}${redirectUrl.search}${redirectUrl.hash}`,
-          "Set-Cookie": `${COOKIE_NAME}=${token}; Max-Age=${SESSION_SECONDS}; Path=/; HttpOnly; Secure; SameSite=Lax${cookieDomainAttribute(url.hostname)}`,
+          "Set-Cookie": `${COOKIE_NAME}=${token}; Max-Age=${SESSION_SECONDS}; Path=/; HttpOnly; Secure; SameSite=Lax`,
           "Cache-Control": "no-store"
         }
       });
@@ -267,7 +271,7 @@ export default {
         status: 303,
         headers: {
           "Location": "/",
-          "Set-Cookie": `${COOKIE_NAME}=; Max-Age=0; Path=/; HttpOnly; Secure; SameSite=Lax${cookieDomainAttribute(url.hostname)}`,
+          "Set-Cookie": `${COOKIE_NAME}=; Max-Age=0; Path=/; HttpOnly; Secure; SameSite=Lax`,
           "Cache-Control": "no-store"
         }
       });
