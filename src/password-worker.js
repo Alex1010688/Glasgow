@@ -261,6 +261,18 @@ export default {
       });
     }
 
+    if (url.hostname === "www.glasgowsignals.co.uk") {
+      url.hostname = "glasgowsignals.co.uk";
+
+      return new Response(null, {
+        status: 301,
+        headers: {
+          "Location": url.toString(),
+          "Cache-Control": "no-store"
+        }
+      });
+    }
+
     const configuredPassword = normalisePassword(password);
 
     if (!configuredPassword) {
