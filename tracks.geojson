@@ -35607,14 +35607,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "2155T",
+        "name": "2157T",
         "type": "Tracks",
         "notes": "",
         "section": "Cowlairs",
         "colour": "#7cb342",
         "equipment_number": [
           {
-            "number": "488335",
+            "number": "487567",
             "label": "Track"
           }
         ]
