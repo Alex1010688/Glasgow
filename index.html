@@ -649,7 +649,13 @@
       lng: -4.0870088,
       zoom: 13
     };
-    const DATA_VERSION = "2026-08-14-axle-counter-colours";
+    const YOKER_SECTION = "Yoker";
+    const YOKER_VIEW = {
+      lat: 56.07995455,
+      lng: -4.5276284,
+      zoom: 10
+    };
+    const DATA_VERSION = "2026-08-14-yoker-points";
 
     /*
       GEOJSON LAYERS
@@ -1664,6 +1670,8 @@
         map.setView([COWLAIRS_VIEW.lat, COWLAIRS_VIEW.lng], COWLAIRS_VIEW.zoom);
       } else if (sectionName === SUNNYSIDE_SECTION) {
         map.setView([SUNNYSIDE_VIEW.lat, SUNNYSIDE_VIEW.lng], SUNNYSIDE_VIEW.zoom);
+      } else if (sectionName === YOKER_SECTION) {
+        map.setView([YOKER_VIEW.lat, YOKER_VIEW.lng], YOKER_VIEW.zoom);
       } else if (sectionName === ALL_SECTIONS) {
         map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
       }
