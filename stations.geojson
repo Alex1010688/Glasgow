@@ -2164,6 +2164,618 @@
           55.8676763
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bellgrove",
+        "type": "Station",
+        "notes": "",
+        "crs": "BLG",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2243365,
+          55.8567027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Street",
+        "type": "Station",
+        "notes": "",
+        "crs": "HST",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2399263,
+          55.8593458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glasgow Queen Street",
+        "type": "Station",
+        "notes": "",
+        "crs": "GLQ",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2511172,
+          55.8625587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charing Cross",
+        "type": "Station",
+        "notes": "",
+        "crs": "CHC",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2698131,
+          55.8646271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anderston",
+        "type": "Station",
+        "notes": "",
+        "crs": "AND",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2702586,
+          55.8597738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Exhibition Centre",
+        "type": "Station",
+        "notes": "",
+        "crs": "EXG",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2834977,
+          55.861503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Partick",
+        "type": "Station",
+        "notes": "",
+        "crs": "PTK",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3094365,
+          55.8699211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hyndland",
+        "type": "Station",
+        "notes": "",
+        "crs": "HYN",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3144853,
+          55.8796122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anniesland",
+        "type": "Station",
+        "notes": "",
+        "crs": "ANL",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3215698,
+          55.8899452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jordanhill",
+        "type": "Station",
+        "notes": "",
+        "crs": "JOR",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3246367,
+          55.8826544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scotstounhill",
+        "type": "Station",
+        "notes": "",
+        "crs": "SCH",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3529546,
+          55.8850131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garscadden",
+        "type": "Station",
+        "notes": "",
+        "crs": "GRS",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3644049,
+          55.8875152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yoker",
+        "type": "Station",
+        "notes": "",
+        "crs": "YOK",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3868495,
+          55.8927552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clydebank",
+        "type": "Station",
+        "notes": "",
+        "crs": "CYK",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4041552,
+          55.9005667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalmuir",
+        "type": "Station",
+        "notes": "",
+        "crs": "DMR",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4268526,
+          55.9120066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Singer",
+        "type": "Station",
+        "notes": "",
+        "crs": "SIN",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4054997,
+          55.9074847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drumry",
+        "type": "Station",
+        "notes": "",
+        "crs": "DMY",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3854827,
+          55.904597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drumchapel",
+        "type": "Station",
+        "notes": "",
+        "crs": "DMC",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3630209,
+          55.9048115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westerton",
+        "type": "Station",
+        "notes": "",
+        "crs": "WES",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3348113,
+          55.9047886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bearsden",
+        "type": "Station",
+        "notes": "",
+        "crs": "BRN",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3326044,
+          55.9169433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hillfoot",
+        "type": "Station",
+        "notes": "",
+        "crs": "HLF",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.319724,
+          55.9203329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milngavie",
+        "type": "Station",
+        "notes": "",
+        "crs": "MLN",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3143305,
+          55.9413032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilpatrick",
+        "type": "Station",
+        "notes": "",
+        "crs": "KPT",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452836,
+          55.9241104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bowling",
+        "type": "Station",
+        "notes": "",
+        "crs": "BWG",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4929182,
+          55.9310545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dumbarton East",
+        "type": "Station",
+        "notes": "",
+        "crs": "DBE",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5540413,
+          55.9423477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dumbarton Central",
+        "type": "Station",
+        "notes": "",
+        "crs": "DBC",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5676104,
+          55.9465247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalreoch",
+        "type": "Station",
+        "notes": "",
+        "crs": "DLR",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.577251,
+          55.9472801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Renton",
+        "type": "Station",
+        "notes": "",
+        "crs": "RTN",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5863543,
+          55.9703118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexandria",
+        "type": "Station",
+        "notes": "",
+        "crs": "ALX",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5773243,
+          55.9852719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balloch",
+        "type": "Station",
+        "notes": "",
+        "crs": "BLH",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5832835,
+          56.0023629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cardross",
+        "type": "Station",
+        "notes": "",
+        "crs": "CDR",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.652967,
+          55.9602378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Craigendoran",
+        "type": "Station",
+        "notes": "",
+        "crs": "CGD",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7119204,
+          55.9948435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helensburgh Central",
+        "type": "Station",
+        "notes": "",
+        "crs": "HLC",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7315696,
+          56.0038456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helensburgh Upper",
+        "type": "Station",
+        "notes": "",
+        "crs": "HLU",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7307717,
+          56.0124414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garelochhead",
+        "type": "Station",
+        "notes": "",
+        "crs": "GCH",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8253592,
+          56.0802337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arrochar & Tarbet",
+        "type": "Station",
+        "notes": "",
+        "crs": "ART",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7231172,
+          56.2033029
+        ]
+      }
     }
   ]
 }
