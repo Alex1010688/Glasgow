@@ -9891,11 +9891,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "577 T",
+        "name": "576 T",
         "type": "Tracks",
         "notes": "",
         "colour": "#0288d1",
-        "equipment_number": "764410",
+        "equipment_number": "764385",
         "section": "Central"
       },
       "geometry": {
