@@ -12175,21 +12175,29 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5885",
+        "name": "GS5880",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
           {
-            "number": "3162275",
+            "number": "3162266",
             "label": "Signal"
           },
           {
-            "number": "3178094",
+            "number": "3178087",
             "label": "AWS"
           },
           {
-            "number": "3303518",
+            "number": "3303499",
             "label": "SPTs"
+          },
+          {
+            "number": "3178302",
+            "label": "TPWS"
+          },
+          {
+            "number": "3178303",
+            "label": "TPWS+"
           }
         ],
         "section": "Central"
@@ -12489,20 +12497,20 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5885",
+        "name": "GS5900",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
           {
-            "number": "3162275",
+            "number": "3162282",
             "label": "Signal"
           },
           {
-            "number": "3178094",
+            "number": "3178100",
             "label": "AWS"
           },
           {
-            "number": "3303518",
+            "number": "3303520",
             "label": "SPTs"
           }
         ],
