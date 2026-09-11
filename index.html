@@ -1535,20 +1535,22 @@
         });
       }
 
-      if (measureTotal) {
-        const measuredDistance = getMeasurementDistance();
-        const previewDistance = getMeasurementPreviewDistance();
-        const totalDistance = measuredDistance + previewDistance;
+      const measuredDistance = getMeasurementDistance();
+      const previewDistance = getMeasurementPreviewDistance();
+      const totalDistance = measuredDistance + previewDistance;
 
-        measureTotal.textContent = previewDistance > 0
-          ? `Total: ${formatMeasurementDistance(totalDistance)} (${formatMeasurementDistance(previewDistance)} preview)`
-          : `Total: ${formatMeasurementDistance(measuredDistance)}`;
+      if (measureTotal) {
+        measureTotal.textContent = `Total: ${formatMeasurementDistance(totalDistance)}`;
       }
 
       if (measureHint) {
-        measureHint.textContent = measurementPoints.length === 0
-          ? "Tap the map to start measuring."
-          : "Move the pointer or drag the map to preview the next distance.";
+        if (measurementPoints.length === 0) {
+          measureHint.textContent = "Tap the map to start measuring.";
+        } else if (previewDistance > 0) {
+          measureHint.innerHTML = `Distance to next point: <strong>(${formatMeasurementDistance(previewDistance)})</strong>`;
+        } else {
+          measureHint.textContent = "Distance to next point:";
+        }
       }
 
       if (measureUndoButton) {
