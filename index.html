@@ -1425,6 +1425,9 @@
     let measurementActive = false;
     let measurementPoints = [];
     let measurementLine = null;
+    let measurementPreviewLine = null;
+    let measurementPreviewPoint = null;
+    let measurementPreviewFrame = null;
     let measureButton = null;
     let measurePanel = null;
     let measureTotal = null;
@@ -1469,10 +1472,25 @@
       return total;
     }
 
+    function getMeasurementPreviewDistance() {
+      if (!measurementPreviewPoint || measurementPoints.length === 0) {
+        return 0;
+      }
+
+      return measurementPoints[measurementPoints.length - 1].distanceTo(measurementPreviewPoint);
+    }
+
     function updateMeasurementDisplay() {
+      measurementPreviewFrame = null;
+
       if (measurementLine) {
         measurementLayer.removeLayer(measurementLine);
         measurementLine = null;
+      }
+
+      if (measurementPreviewLine) {
+        measurementLayer.removeLayer(measurementPreviewLine);
+        measurementPreviewLine = null;
       }
 
       measurementLayer.clearLayers();
@@ -1484,6 +1502,20 @@
           weight: 4,
           opacity: 0.95,
           dashArray: "8 8",
+          interactive: false
+        }).addTo(measurementLayer);
+      }
+
+      if (measurementPreviewPoint && measurementPoints.length > 0) {
+        measurementPreviewLine = L.polyline([
+          measurementPoints[measurementPoints.length - 1],
+          measurementPreviewPoint
+        ], {
+          pane: "measurementPane",
+          color: "#ffffff",
+          weight: 3,
+          opacity: 0.7,
+          dashArray: "3 8",
           interactive: false
         }).addTo(measurementLayer);
       }
@@ -1504,13 +1536,19 @@
       }
 
       if (measureTotal) {
-        measureTotal.textContent = `Total: ${formatMeasurementDistance(getMeasurementDistance())}`;
+        const measuredDistance = getMeasurementDistance();
+        const previewDistance = getMeasurementPreviewDistance();
+        const totalDistance = measuredDistance + previewDistance;
+
+        measureTotal.textContent = previewDistance > 0
+          ? `Total: ${formatMeasurementDistance(totalDistance)} (${formatMeasurementDistance(previewDistance)} preview)`
+          : `Total: ${formatMeasurementDistance(measuredDistance)}`;
       }
 
       if (measureHint) {
         measureHint.textContent = measurementPoints.length === 0
           ? "Tap the map to start measuring."
-          : "Tap more points to extend the measurement.";
+          : "Move the pointer or drag the map to preview the next distance.";
       }
 
       if (measureUndoButton) {
@@ -1524,6 +1562,11 @@
 
     function setMeasurementActive(isActive) {
       measurementActive = isActive;
+
+      if (!measurementActive) {
+        measurementPreviewPoint = null;
+      }
+
       setAssetPanePointerEvents(!measurementActive);
 
       if (measureButton) {
@@ -1541,6 +1584,7 @@
 
     function clearMeasurement() {
       measurementPoints = [];
+      measurementPreviewPoint = null;
       updateMeasurementDisplay();
     }
 
@@ -1565,7 +1609,47 @@
       };
 
       measurementPoints.push(latlng);
+      measurementPreviewPoint = null;
       updateMeasurementDisplay();
+    }
+
+    function updateMeasurementPreview(latlng) {
+      if (!measurementActive || measurementPoints.length === 0 || !latlng) {
+        return;
+      }
+
+      measurementPreviewPoint = latlng;
+      scheduleMeasurementDisplay();
+    }
+
+    function clearMeasurementPreview() {
+      if (!measurementPreviewPoint) {
+        return;
+      }
+
+      measurementPreviewPoint = null;
+      updateMeasurementDisplay();
+    }
+
+    function scheduleMeasurementDisplay() {
+      if (measurementPreviewFrame) {
+        return;
+      }
+
+      measurementPreviewFrame = window.requestAnimationFrame(updateMeasurementDisplay);
+    }
+
+    function getLatLngFromPointerEvent(event) {
+      const containerPoint = map.mouseEventToContainerPoint(event);
+      return map.containerPointToLatLng(containerPoint);
+    }
+
+    function getLatLngFromTouchEvent(event) {
+      if (!event.touches || event.touches.length === 0) {
+        return null;
+      }
+
+      return getLatLngFromPointerEvent(event.touches[0]);
     }
 
     function handleMeasurementFeatureClick(event) {
@@ -1591,6 +1675,22 @@
 
       addMeasurementPoint(event.latlng);
     });
+
+    map.on("mousemove", function(event) {
+      updateMeasurementPreview(event.latlng);
+    });
+
+    map.getContainer().addEventListener("pointermove", function(event) {
+      updateMeasurementPreview(getLatLngFromPointerEvent(event));
+    });
+
+    map.getContainer().addEventListener("touchmove", function(event) {
+      updateMeasurementPreview(getLatLngFromTouchEvent(event));
+    }, {
+      passive: true
+    });
+
+    map.getContainer().addEventListener("pointerleave", clearMeasurementPreview);
 
     const measureControl = L.control({
       position: "bottomleft"
@@ -1631,6 +1731,7 @@
       L.DomEvent.on(measureUndoButton, "click", function(event) {
         L.DomEvent.preventDefault(event);
         measurementPoints.pop();
+        measurementPreviewPoint = null;
         updateMeasurementDisplay();
       });
 
