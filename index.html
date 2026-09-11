@@ -2026,10 +2026,10 @@
         radiusCircle = L.circle(radiusCentre, {
           pane: "radiusPane",
           radius: radiusMetres,
-          color: "#0055ff",
+          color: "#ffffff",
           weight: 3,
           opacity: 0.95,
-          fillColor: "#0055ff",
+          fillColor: "#ffffff",
           fillOpacity: 0.12,
           interactive: false
         }).addTo(radiusLayer);
@@ -2064,7 +2064,7 @@
         finishMeasurement();
       }
 
-      setAssetPanePointerEvents(!radiusActive && !measurementActive);
+      setAssetPanePointerEvents(!measurementActive);
 
       if (radiusButton) {
         radiusButton.classList.toggle("active", radiusActive);
@@ -2094,7 +2094,24 @@
     }
 
     function finishRadius() {
+      clearRadius();
       setRadiusActive(false);
+    }
+
+    function handleRadiusFeatureClick(event) {
+      if (!radiusActive || !event.latlng) {
+        return;
+      }
+
+      if (event.originalEvent) {
+        L.DomEvent.stop(event.originalEvent);
+      }
+
+      setRadiusCentre(event.latlng);
+
+      if (event.target && event.target.closePopup) {
+        setTimeout(() => event.target.closePopup(), 0);
+      }
     }
 
     function finishRadiusTouch(event) {
@@ -2917,6 +2934,7 @@
           }
 
           leafletLayer.on("click", handleMeasurementFeatureClick);
+          leafletLayer.on("click", handleRadiusFeatureClick);
 
           leafletLayer.bindPopup(popupContent(feature, layerConfig.name));
 
