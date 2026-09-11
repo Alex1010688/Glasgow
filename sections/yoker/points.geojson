@@ -1,1 +1,1654 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"160B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.2295894,55.8574605]}},{"type":"Feature","properties":{"name":"160A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.2305697,55.8575132]}},{"type":"Feature","properties":{"name":"162","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.2323997,55.8576312]}},{"type":"Feature","properties":{"name":"163","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.2334887,55.8576531]}},{"type":"Feature","properties":{"name":"164A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.2397817,55.8567354]}},{"type":"Feature","properties":{"name":"164B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.2405206,55.8565698]}},{"type":"Feature","properties":{"name":"235","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.2945366,55.863224]}},{"type":"Feature","properties":{"name":"202B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.2817235,55.8606853]}},{"type":"Feature","properties":{"name":"202A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.2821624,55.8608208]}},{"type":"Feature","properties":{"name":"201A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.2804163,55.8603233]}},{"type":"Feature","properties":{"name":"201B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.2795366,55.8602714]}},{"type":"Feature","properties":{"name":"237","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3028079,55.8669363]}},{"type":"Feature","properties":{"name":"238B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3031351,55.8671191]}},{"type":"Feature","properties":{"name":"238A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3039036,55.8675029]}},{"type":"Feature","properties":{"name":"246A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3140467,55.8770365]}},{"type":"Feature","properties":{"name":"246B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3141701,55.8766762]}},{"type":"Feature","properties":{"name":"247B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3140306,55.8771449]}},{"type":"Feature","properties":{"name":"247A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3139057,55.8775691]}},{"type":"Feature","properties":{"name":"248B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3138574,55.8780182]}},{"type":"Feature","properties":{"name":"248A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3138387,55.8784929]}},{"type":"Feature","properties":{"name":"250B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3190338,55.8817323]}},{"type":"Feature","properties":{"name":"250A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3201,55.8818595]}},{"type":"Feature","properties":{"name":"251B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3203414,55.8819053]}},{"type":"Feature","properties":{"name":"251A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3211246,55.8820189]}},{"type":"Feature","properties":{"name":"252","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3212708,55.882049]}},{"type":"Feature","properties":{"name":"253","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.321248,55.8820843]}},{"type":"Feature","properties":{"name":"296","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3285148,55.8827836]}},{"type":"Feature","properties":{"name":"297B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3286985,55.8827881]}},{"type":"Feature","properties":{"name":"297A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3296856,55.8827738]}},{"type":"Feature","properties":{"name":"298","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3246826,55.8849964]}},{"type":"Feature","properties":{"name":"303A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3235758,55.8870346]}},{"type":"Feature","properties":{"name":"303B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3229562,55.8878521]}},{"type":"Feature","properties":{"name":"311A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3209834,55.8908321]}},{"type":"Feature","properties":{"name":"311B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3205381,55.8913961]}},{"type":"Feature","properties":{"name":"312","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3204375,55.8915405]}},{"type":"Feature","properties":{"name":"326","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3297228,55.9017735]}},{"type":"Feature","properties":{"name":"325","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3288984,55.9014117]}},{"type":"Feature","properties":{"name":"327A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3361795,55.9051819]}},{"type":"Feature","properties":{"name":"327B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3369775,55.9054638]}},{"type":"Feature","properties":{"name":"328","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3373248,55.90556]}},{"type":"Feature","properties":{"name":"316","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3373159,55.9154843]}},{"type":"Feature","properties":{"name":"317","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.314585,55.9243966]}},{"type":"Feature","properties":{"name":"318","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3129437,55.9386535]}},{"type":"Feature","properties":{"name":"332B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3663995,55.8880132]}},{"type":"Feature","properties":{"name":"332A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3674401,55.8882103]}},{"type":"Feature","properties":{"name":"333B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3676574,55.8882614]}},{"type":"Feature","properties":{"name":"333A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3689717,55.8884885]}},{"type":"Feature","properties":{"name":"334","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3698541,55.8886856]}},{"type":"Feature","properties":{"name":"337A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3813759,55.8912449]}},{"type":"Feature","properties":{"name":"337B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3821108,55.8914533]}},{"type":"Feature","properties":{"name":"338A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.3823924,55.8915232]}},{"type":"Feature","properties":{"name":"338B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.383346,55.8917684]}},{"type":"Feature","properties":{"name":"339A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4083994,55.9021016]}},{"type":"Feature","properties":{"name":"339B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4089224,55.9022512]}},{"type":"Feature","properties":{"name":"334A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.423394,55.9115061]}},{"type":"Feature","properties":{"name":"334B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4242819,55.911697]}},{"type":"Feature","properties":{"name":"345A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4253681,55.9118571]}},{"type":"Feature","properties":{"name":"345B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4259086,55.9119901]}},{"type":"Feature","properties":{"name":"346","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4285921,55.9124592]}},{"type":"Feature","properties":{"name":"347A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4286874,55.9124967]}},{"type":"Feature","properties":{"name":"347B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4294116,55.912738]}},{"type":"Feature","properties":{"name":"348","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4293794,55.9127613]}},{"type":"Feature","properties":{"name":"349A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4294642,55.9127951]}},{"type":"Feature","properties":{"name":"349B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4301428,55.9130274]}},{"type":"Feature","properties":{"name":"350A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4302742,55.9130981]}},{"type":"Feature","properties":{"name":"350B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4307559,55.9132672]}},{"type":"Feature","properties":{"name":"357A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4962953,55.9309621]}},{"type":"Feature","properties":{"name":"357B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.4978536,55.9308704]}},{"type":"Feature","properties":{"name":"370A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5614348,55.9463363]}},{"type":"Feature","properties":{"name":"370B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.562513,55.9464144]}},{"type":"Feature","properties":{"name":"371","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5637737,55.946506]}},{"type":"Feature","properties":{"name":"373A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5653052,55.946485]}},{"type":"Feature","properties":{"name":"373B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5666919,55.9463798]}},{"type":"Feature","properties":{"name":"376B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5702673,55.9465315]}},{"type":"Feature","properties":{"name":"376A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5691917,55.9464264]}},{"type":"Feature","properties":{"name":"377","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5709969,55.9465586]}},{"type":"Feature","properties":{"name":"378A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5711578,55.9465586]}},{"type":"Feature","properties":{"name":"378B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5721314,55.9466126]}},{"type":"Feature","properties":{"name":"383","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5779701,55.9475243]}},{"type":"Feature","properties":{"name":"384","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5779325,55.9475528]}},{"type":"Feature","properties":{"name":"385","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.5825194,55.9523428]}},{"type":"Feature","properties":{"name":"394","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.6998901,55.9915955]}},{"type":"Feature","properties":{"name":"395","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.7000926,55.9917298]}},{"type":"Feature","properties":{"name":"396B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.7050087,55.9937224]}},{"type":"Feature","properties":{"name":"396A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.7040407,55.9935378]}},{"type":"Feature","properties":{"name":"397A","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.7054837,55.9937569]}},{"type":"Feature","properties":{"name":"397B","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.707018,55.9938754]}},{"type":"Feature","properties":{"name":"398","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.7265877,56.003496]}},{"type":"Feature","properties":{"name":"400","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.7285163,56.0036887]}},{"type":"Feature","properties":{"name":"D15","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.8256674,56.0788594]}},{"type":"Feature","properties":{"name":"U15","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.8241586,56.0818455]}},{"type":"Feature","properties":{"name":"D16","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.7803748,56.1554052]}},{"type":"Feature","properties":{"name":"U16","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.779122,56.1582935]}},{"type":"Feature","properties":{"name":"D17","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.7260942,56.2023074]}},{"type":"Feature","properties":{"name":"U17","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.7215496,56.2038952]}},{"type":"Feature","properties":{"name":"D18","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.7204272,56.3007349]}},{"type":"Feature","properties":{"name":"U18","type":"Points","notes":"","equipment_number":"","section":"Yoker"},"geometry":{"type":"Point","coordinates":[-4.7223691,56.3033393]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "160B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2295894,
+          55.8574605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "160A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2305697,
+          55.8575132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "162",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2323997,
+          55.8576312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "163",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2334887,
+          55.8576531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "164A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2397817,
+          55.8567354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "164B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2405206,
+          55.8565698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "235",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2945366,
+          55.863224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "202B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2817235,
+          55.8606853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "202A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2821624,
+          55.8608208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "201A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2804163,
+          55.8603233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "201B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2795366,
+          55.8602714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "237",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3028079,
+          55.8669363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "238B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3031351,
+          55.8671191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "238A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3039036,
+          55.8675029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "246A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3140467,
+          55.8770365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "246B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3141701,
+          55.8766762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "247B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3140306,
+          55.8771449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "247A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3139057,
+          55.8775691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "248B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3138574,
+          55.8780182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "248A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3138387,
+          55.8784929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "250B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3190338,
+          55.8817323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "250A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3201,
+          55.8818595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "251B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3203414,
+          55.8819053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "251A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3211246,
+          55.8820189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "252",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3212708,
+          55.882049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "253",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.321248,
+          55.8820843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "296",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3285148,
+          55.8827836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "297B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3286985,
+          55.8827881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "297A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3296856,
+          55.8827738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "298",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3246826,
+          55.8849964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "303A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3235758,
+          55.8870346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "303B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3229562,
+          55.8878521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "311A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3209834,
+          55.8908321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "311B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3205381,
+          55.8913961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "312",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3204375,
+          55.8915405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "326",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3297228,
+          55.9017735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "325",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3288984,
+          55.9014117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "327A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3361795,
+          55.9051819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "327B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3369775,
+          55.9054638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "328",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3373248,
+          55.90556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "316",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3373159,
+          55.9154843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "317",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.314585,
+          55.9243966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "318",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3129437,
+          55.9386535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "332B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3663995,
+          55.8880132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "332A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3674401,
+          55.8882103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "333B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3676574,
+          55.8882614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "333A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3689717,
+          55.8884885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "334",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3698541,
+          55.8886856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "337A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3813759,
+          55.8912449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "337B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3821108,
+          55.8914533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "338A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3823924,
+          55.8915232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "338B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.383346,
+          55.8917684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "339A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4083994,
+          55.9021016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "339B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4089224,
+          55.9022512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "334A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.423394,
+          55.9115061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "334B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4242819,
+          55.911697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "345A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4253681,
+          55.9118571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "345B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4259086,
+          55.9119901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "346",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4285921,
+          55.9124592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "347A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4286874,
+          55.9124967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "347B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4294116,
+          55.912738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "348",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4293794,
+          55.9127613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "349A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4294642,
+          55.9127951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "349B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4301428,
+          55.9130274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "350A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4302742,
+          55.9130981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "350B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4307559,
+          55.9132672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "357A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4962953,
+          55.9309621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "357B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4978536,
+          55.9308704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "370A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5614348,
+          55.9463363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "370B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.562513,
+          55.9464144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "371",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5637737,
+          55.946506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "373A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5653052,
+          55.946485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "373B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5666919,
+          55.9463798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "376B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5702673,
+          55.9465315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "376A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5691917,
+          55.9464264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "377",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5709969,
+          55.9465586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "378A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5711578,
+          55.9465586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "378B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5721314,
+          55.9466126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "383",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5779701,
+          55.9475243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "384",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5779325,
+          55.9475528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "385",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5825194,
+          55.9523428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "394",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6998901,
+          55.9915955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "395",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7000926,
+          55.9917298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "396B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7050087,
+          55.9937224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "396A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7040407,
+          55.9935378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "397A",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7054837,
+          55.9937569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "397B",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.707018,
+          55.9938754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "398",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7265877,
+          56.003496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "400",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7285163,
+          56.0036887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D15",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8256674,
+          56.0788594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U15",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8241586,
+          56.0818455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D16",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7803748,
+          56.1554052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U16",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.779122,
+          56.1582935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D17",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7260942,
+          56.2023074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U17",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7215496,
+          56.2038952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "D18",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7204272,
+          56.3007349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U18",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7223691,
+          56.3033393
+        ]
+      }
+    }
+  ]
+}

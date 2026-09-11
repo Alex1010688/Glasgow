@@ -1,1 +1,341 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Queen Street","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.2500936,55.861964]}},{"type":"Feature","properties":{"name":"Pinkston Park","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.2434818,55.8738684]}},{"type":"Feature","properties":{"name":"Keppochhill Road RRAP","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.2424599,55.8764843]}},{"type":"Feature","properties":{"name":"Cowlairs","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.2382044,55.8820585]}},{"type":"Feature","properties":{"name":"Cowlairs Chord","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.2360962,55.8829161]}},{"type":"Feature","properties":{"name":"Cowlairs","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.2391754,55.8851997]}},{"type":"Feature","properties":{"name":"Cowlairs","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.2377913,55.8847574]}},{"type":"Feature","properties":{"name":"Old box","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.2422002,55.8892084]}},{"type":"Feature","properties":{"name":"Eastfield Down Passenger Loop","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.2403404,55.8884907]}},{"type":"Feature","properties":{"name":"Kirkintilloch Road","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.2313653,55.9006568]}},{"type":"Feature","properties":{"name":"Woodhill Church","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.2166334,55.9071514]}},{"type":"Feature","properties":{"name":"Cadder RRAP","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.1933216,55.9131121]}},{"type":"Feature","properties":{"name":"Crosshill Road (Cadder)","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.172201,55.9167602]}},{"type":"Feature","properties":{"name":"Easter Garnaber Road","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.1427387,55.9236185]}},{"type":"Feature","properties":{"name":"Mollins Road","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.0791335,55.9397134]}},{"type":"Feature","properties":{"name":"Cement Works","type":"access_point","notes":"Historical issues with access arrangements","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.0605062,55.9486774]}},{"type":"Feature","properties":{"name":"Croy Viaduct","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.0484092,55.951472]}},{"type":"Feature","properties":{"name":"Wester Dullatur","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.0175999,55.9681819]}},{"type":"Feature","properties":{"name":"Dullatur RRAP","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-4.0130326,55.9696079]}},{"type":"Feature","properties":{"name":"Castlecary RRAP","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-3.9475959,55.9812313]}},{"type":"Feature","properties":{"name":"Allandale","type":"access_point","notes":"","section":"Cowlairs"},"geometry":{"type":"Point","coordinates":[-3.9228425,55.9834802]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Street",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2500936,
+          55.861964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinkston Park",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2434818,
+          55.8738684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keppochhill Road RRAP",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2424599,
+          55.8764843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cowlairs",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2382044,
+          55.8820585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cowlairs Chord",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2360962,
+          55.8829161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cowlairs",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2391754,
+          55.8851997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cowlairs",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2377913,
+          55.8847574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old box",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2422002,
+          55.8892084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastfield Down Passenger Loop",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2403404,
+          55.8884907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirkintilloch Road",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2313653,
+          55.9006568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodhill Church",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2166334,
+          55.9071514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadder RRAP",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1933216,
+          55.9131121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crosshill Road (Cadder)",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.172201,
+          55.9167602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Easter Garnaber Road",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1427387,
+          55.9236185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mollins Road",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0791335,
+          55.9397134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cement Works",
+        "type": "access_point",
+        "notes": "Historical issues with access arrangements",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0605062,
+          55.9486774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Croy Viaduct",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0484092,
+          55.951472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wester Dullatur",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0175999,
+          55.9681819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dullatur RRAP",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0130326,
+          55.9696079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castlecary RRAP",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9475959,
+          55.9812313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allandale",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9228425,
+          55.9834802
+        ]
+      }
+    }
+  ]
+}

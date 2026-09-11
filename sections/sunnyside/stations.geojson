@@ -1,1 +1,195 @@
-{"type":"FeatureCollection","generator":"overpass-turbo","copyright":"The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.","timestamp":"2026-06-27T17:54:27Z","features":[{"type":"Feature","properties":{"name":"Bellgrove","type":"Station","notes":"","crs":"BLG","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.2243365,55.8567027]}},{"type":"Feature","properties":{"name":"Duke Street","type":"Station","notes":"","crs":"DST","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.2125984,55.8586614]}},{"type":"Feature","properties":{"name":"Carntyne","type":"Station","notes":"","crs":"CAY","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.1791751,55.8548998]}},{"type":"Feature","properties":{"name":"Shettleston","type":"Station","notes":"","crs":"SLS","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.1595853,55.8536445]}},{"type":"Feature","properties":{"name":"Garrowhill","type":"Station","notes":"","crs":"GAR","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.129839,55.855046]}},{"type":"Feature","properties":{"name":"Easterhouse","type":"Station","notes":"","crs":"EST","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.1068753,55.8598473]}},{"type":"Feature","properties":{"name":"Blairhill","type":"Station","notes":"","crs":"BAI","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.0427186,55.8665156]}},{"type":"Feature","properties":{"name":"Coatbridge Sunnyside","type":"Station","notes":"","crs":"CBS","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.0279569,55.8669052]}},{"type":"Feature","properties":{"name":"Coatdyke","type":"Station","notes":"","crs":"COA","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.0049999,55.864404]}},{"type":"Feature","properties":{"name":"Airdrie","type":"Station","notes":"","crs":"ADR","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-3.9822547,55.8640839]}},{"type":"Feature","properties":{"name":"Drumgelloch","type":"Station","notes":"","crs":"DRU","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-3.9483149,55.8676763]}}]}
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-27T17:54:27Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bellgrove",
+        "type": "Station",
+        "notes": "",
+        "crs": "BLG",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2243365,
+          55.8567027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duke Street",
+        "type": "Station",
+        "notes": "",
+        "crs": "DST",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2125984,
+          55.8586614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carntyne",
+        "type": "Station",
+        "notes": "",
+        "crs": "CAY",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1791751,
+          55.8548998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shettleston",
+        "type": "Station",
+        "notes": "",
+        "crs": "SLS",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1595853,
+          55.8536445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garrowhill",
+        "type": "Station",
+        "notes": "",
+        "crs": "GAR",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.129839,
+          55.855046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Easterhouse",
+        "type": "Station",
+        "notes": "",
+        "crs": "EST",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1068753,
+          55.8598473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blairhill",
+        "type": "Station",
+        "notes": "",
+        "crs": "BAI",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0427186,
+          55.8665156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coatbridge Sunnyside",
+        "type": "Station",
+        "notes": "",
+        "crs": "CBS",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0279569,
+          55.8669052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coatdyke",
+        "type": "Station",
+        "notes": "",
+        "crs": "COA",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0049999,
+          55.864404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airdrie",
+        "type": "Station",
+        "notes": "",
+        "crs": "ADR",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9822547,
+          55.8640839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drumgelloch",
+        "type": "Station",
+        "notes": "",
+        "crs": "DRU",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9483149,
+          55.8676763
+        ]
+      }
+    }
+  ]
+}

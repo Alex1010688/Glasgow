@@ -1,1 +1,229 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Calderigg Place","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-3.9509207,55.8665269]}},{"type":"Feature","properties":{"name":"Gartsherrie Road","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.0314514,55.8680911]}},{"type":"Feature","properties":{"name":"Drumpellier Park","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.0510429,55.8656256]}},{"type":"Feature","properties":{"name":"Hamiltons","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.0775189,55.8599565]}},{"type":"Feature","properties":{"name":"Gartcosh Road","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.0859901,55.8585485]}},{"type":"Feature","properties":{"name":"Manse Road","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.0924895,55.8588133]}},{"type":"Feature","properties":{"name":"Easterhouse Station RRAP","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.1060252,55.8596987]}},{"type":"Feature","properties":{"name":"East Hallhill Road","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.1224017,55.8584445]}},{"type":"Feature","properties":{"name":"Gartocher Terrace","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.1513144,55.8538878]}},{"type":"Feature","properties":{"name":"Shettleston Depot","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.1575945,55.8531851]}},{"type":"Feature","properties":{"name":"Duror Street","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.1714925,55.8542812]}},{"type":"Feature","properties":{"name":"Shettleston Road/Duke Street","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.1986164,55.8554729]}},{"type":"Feature","properties":{"name":"Bellgrove Junction","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.2211634,55.8562083]}},{"type":"Feature","properties":{"name":"Birkenshaw Street","type":"access_point","notes":"","section":"Sunnyside"},"geometry":{"type":"Point","coordinates":[-4.2097316,55.8617167]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calderigg Place",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9509207,
+          55.8665269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gartsherrie Road",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0314514,
+          55.8680911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drumpellier Park",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0510429,
+          55.8656256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamiltons",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0775189,
+          55.8599565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gartcosh Road",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0859901,
+          55.8585485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manse Road",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0924895,
+          55.8588133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Easterhouse Station RRAP",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1060252,
+          55.8596987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Hallhill Road",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1224017,
+          55.8584445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gartocher Terrace",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1513144,
+          55.8538878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shettleston Depot",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1575945,
+          55.8531851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duror Street",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1714925,
+          55.8542812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shettleston Road/Duke Street",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1986164,
+          55.8554729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bellgrove Junction",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2211634,
+          55.8562083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birkenshaw Street",
+        "type": "access_point",
+        "notes": "",
+        "section": "Sunnyside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2097316,
+          55.8617167
+        ]
+      }
+    }
+  ]
+}
