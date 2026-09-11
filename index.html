@@ -1435,6 +1435,7 @@
     let measureUndoButton = null;
     let measureClearButton = null;
     let lastMeasurementClick = null;
+    let suppressMeasurementClickUntil = 0;
 
     function setAssetPanePointerEvents(enabled) {
       const paneNames = new Set(
@@ -1646,12 +1647,39 @@
       return map.containerPointToLatLng(containerPoint);
     }
 
+    function getLatLngFromTouch(touch) {
+      return getLatLngFromPointerEvent(touch);
+    }
+
     function getLatLngFromTouchEvent(event) {
       if (!event.touches || event.touches.length === 0) {
         return null;
       }
 
-      return getLatLngFromPointerEvent(event.touches[0]);
+      return getLatLngFromTouch(event.touches[0]);
+    }
+
+    function getLatLngFromChangedTouchEvent(event) {
+      if (!event.changedTouches || event.changedTouches.length === 0) {
+        return measurementPreviewPoint;
+      }
+
+      return getLatLngFromTouch(event.changedTouches[0]);
+    }
+
+    function finishMeasurementTouch(event) {
+      if (!measurementActive || measurementPoints.length === 0) {
+        return;
+      }
+
+      const latlng = getLatLngFromChangedTouchEvent(event);
+
+      if (!latlng) {
+        return;
+      }
+
+      suppressMeasurementClickUntil = Date.now() + 500;
+      addMeasurementPoint(latlng);
     }
 
     function handleMeasurementFeatureClick(event) {
@@ -1671,7 +1699,7 @@
     }
 
     map.on("click", function(event) {
-      if (!measurementActive) {
+      if (!measurementActive || Date.now() < suppressMeasurementClickUntil) {
         return;
       }
 
@@ -1689,6 +1717,10 @@
     map.getContainer().addEventListener("touchmove", function(event) {
       updateMeasurementPreview(getLatLngFromTouchEvent(event));
     }, {
+      passive: true
+    });
+
+    map.getContainer().addEventListener("touchend", finishMeasurementTouch, {
       passive: true
     });
 
