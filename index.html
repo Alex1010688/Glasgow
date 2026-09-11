@@ -1543,9 +1543,13 @@
     let measureHint = null;
     let measureUndoButton = null;
     let measureClearButton = null;
+    const MEASUREMENT_EDGE_PAN_MARGIN = 55;
+    const MEASUREMENT_EDGE_PAN_MAX_STEP = 18;
     let lastMeasurementClick = null;
     let suppressMeasurementClickUntil = 0;
     let measurementDisabledMapDragging = false;
+    let measurementAutoPanFrame = null;
+    let measurementAutoPanPoint = null;
 
     function setAssetPanePointerEvents(enabled) {
       const paneNames = new Set(
@@ -1690,6 +1694,7 @@
 
       if (!measurementActive) {
         measurementPreviewPoint = null;
+        stopMeasurementAutoPan();
       }
 
       setAssetPanePointerEvents(!measurementActive && !radiusActive);
@@ -1748,6 +1753,8 @@
     }
 
     function clearMeasurementPreview() {
+      stopMeasurementAutoPan();
+
       if (!measurementPreviewPoint) {
         return;
       }
@@ -1767,6 +1774,74 @@
     function getLatLngFromPointerEvent(event) {
       const containerPoint = map.mouseEventToContainerPoint(event);
       return map.containerPointToLatLng(containerPoint);
+    }
+
+    function getEdgePanOffset(point) {
+      const rect = map.getContainer().getBoundingClientRect();
+      const x = point.clientX - rect.left;
+      const y = point.clientY - rect.top;
+      let panX = 0;
+      let panY = 0;
+
+      if (x < MEASUREMENT_EDGE_PAN_MARGIN) {
+        panX = -MEASUREMENT_EDGE_PAN_MAX_STEP * (1 - x / MEASUREMENT_EDGE_PAN_MARGIN);
+      } else if (x > rect.width - MEASUREMENT_EDGE_PAN_MARGIN) {
+        panX = MEASUREMENT_EDGE_PAN_MAX_STEP * (1 - (rect.width - x) / MEASUREMENT_EDGE_PAN_MARGIN);
+      }
+
+      if (y < MEASUREMENT_EDGE_PAN_MARGIN) {
+        panY = -MEASUREMENT_EDGE_PAN_MAX_STEP * (1 - y / MEASUREMENT_EDGE_PAN_MARGIN);
+      } else if (y > rect.height - MEASUREMENT_EDGE_PAN_MARGIN) {
+        panY = MEASUREMENT_EDGE_PAN_MAX_STEP * (1 - (rect.height - y) / MEASUREMENT_EDGE_PAN_MARGIN);
+      }
+
+      return [panX, panY];
+    }
+
+    function runMeasurementAutoPan() {
+      measurementAutoPanFrame = null;
+
+      if (!measurementActive || measurementPoints.length === 0 || !measurementAutoPanPoint) {
+        return;
+      }
+
+      const panOffset = getEdgePanOffset(measurementAutoPanPoint);
+
+      if (panOffset[0] === 0 && panOffset[1] === 0) {
+        measurementAutoPanPoint = null;
+        return;
+      }
+
+      map.panBy(panOffset, {
+        animate: false
+      });
+      updateMeasurementPreview(getLatLngFromPointerEvent(measurementAutoPanPoint));
+      measurementAutoPanFrame = window.requestAnimationFrame(runMeasurementAutoPan);
+    }
+
+    function updateMeasurementAutoPan(point) {
+      if (!measurementActive || measurementPoints.length === 0 || !point) {
+        stopMeasurementAutoPan();
+        return;
+      }
+
+      measurementAutoPanPoint = {
+        clientX: point.clientX,
+        clientY: point.clientY
+      };
+
+      if (!measurementAutoPanFrame) {
+        measurementAutoPanFrame = window.requestAnimationFrame(runMeasurementAutoPan);
+      }
+    }
+
+    function stopMeasurementAutoPan() {
+      measurementAutoPanPoint = null;
+
+      if (measurementAutoPanFrame) {
+        window.cancelAnimationFrame(measurementAutoPanFrame);
+        measurementAutoPanFrame = null;
+      }
     }
 
     function getLatLngFromTouch(touch) {
@@ -1800,6 +1875,7 @@
         return;
       }
 
+      stopMeasurementAutoPan();
       suppressMeasurementClickUntil = Date.now() + 500;
       addMeasurementPoint(latlng);
     }
@@ -1844,6 +1920,7 @@
       event.preventDefault();
       event.stopPropagation();
       updateMeasurementPreview(getLatLngFromTouchEvent(event));
+      updateMeasurementAutoPan(event.touches[0]);
     }, {
       passive: false
     });
