@@ -4049,28 +4049,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GG5613 BR",
-        "type": "Signals",
-        "notes": "",
-        "equipment_number": [
-          {
-            "number": "2828976",
-            "label": "Banner"
-          }
-        ],
-        "section": "Central"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.258831046949745,
-          55.85691002682357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "GG5615",
         "type": "Signals",
         "notes": "",
@@ -11659,41 +11637,29 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5862",
+        "name": "GS5863",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
           {
-            "number": "3162249",
+            "number": "3162251",
             "label": "Signal"
           },
           {
-            "number": "3178072",
+            "number": "3178069",
             "label": "AWS"
           },
           {
-            "number": "3178291",
-            "label": "TPWS OS (2"
+            "number": "3162252",
+            "label": "RTI"
           },
           {
-            "number": "3178290",
+            "number": "3178278",
             "label": "TPWS OS -"
           },
           {
-            "number": "3178292",
-            "label": "TPWS OS(1)"
-          },
-          {
-            "number": "3178293",
-            "label": "TPWS OS(2)"
-          },
-          {
-            "number": "3178289",
+            "number": "3178277",
             "label": "TPWS OT"
-          },
-          {
-            "number": "3162250",
-            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -11773,29 +11739,41 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5863",
+        "name": "GS5862",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
           {
-            "number": "3162251",
+            "number": "3162249",
             "label": "Signal"
           },
           {
-            "number": "3178069",
+            "number": "3178072",
             "label": "AWS"
           },
           {
-            "number": "3162252",
-            "label": "RTI"
+            "number": "3178291",
+            "label": "TPWS OS (2"
           },
           {
-            "number": "3178278",
+            "number": "3178290",
             "label": "TPWS OS -"
           },
           {
-            "number": "3178277",
+            "number": "3178292",
+            "label": "TPWS OS(1)"
+          },
+          {
+            "number": "3178293",
+            "label": "TPWS OS(2)"
+          },
+          {
+            "number": "3178289",
             "label": "TPWS OT"
+          },
+          {
+            "number": "3162250",
+            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12073,7 +12051,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5880",
+        "name": "GS5885",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
@@ -12289,7 +12267,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5881",
+        "name": "GS5891",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
@@ -12327,7 +12305,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5883",
+        "name": "GS5893",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
@@ -12357,7 +12335,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5880",
+        "name": "GS5895",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
@@ -12391,7 +12369,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5884",
+        "name": "GS5894",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
@@ -12410,10 +12388,6 @@
           {
             "number": "3303519",
             "label": "SPTs"
-          },
-          {
-            "number": "3162273",
-            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12429,7 +12403,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5882",
+        "name": "GS5892",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
@@ -12448,10 +12422,6 @@
           {
             "number": "3162278",
             "label": "Banner"
-          },
-          {
-            "number": "3162270",
-            "label": "Banner"
           }
         ],
         "section": "Central"
@@ -12467,7 +12437,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GS5885",
+        "name": "GS5890",
         "type": "Signals",
         "notes": "",
         "equipment_number": [
@@ -19823,8 +19793,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.25936,
-          55.85438
+          -4.2593604,
+          55.8543867
         ]
       }
     },
@@ -19845,8 +19815,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.25936,
-          55.85423
+          -4.2593604,
+          55.8542354
         ]
       }
     },
