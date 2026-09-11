@@ -1545,6 +1545,7 @@
     let measureClearButton = null;
     let lastMeasurementClick = null;
     let suppressMeasurementClickUntil = 0;
+    let measurementDisabledMapDragging = false;
 
     function setAssetPanePointerEvents(enabled) {
       const paneNames = new Set(
@@ -1677,6 +1678,14 @@
 
       if (measurementActive && radiusActive) {
         finishRadius();
+      }
+
+      if (measurementActive && map.dragging.enabled()) {
+        map.dragging.disable();
+        measurementDisabledMapDragging = true;
+      } else if (!measurementActive && measurementDisabledMapDragging) {
+        map.dragging.enable();
+        measurementDisabledMapDragging = false;
       }
 
       if (!measurementActive) {
@@ -1828,9 +1837,15 @@
     });
 
     map.getContainer().addEventListener("touchmove", function(event) {
+      if (!measurementActive || measurementPoints.length === 0) {
+        return;
+      }
+
+      event.preventDefault();
+      event.stopPropagation();
       updateMeasurementPreview(getLatLngFromTouchEvent(event));
     }, {
-      passive: true
+      passive: false
     });
 
     map.getContainer().addEventListener("touchend", finishMeasurementTouch, {
