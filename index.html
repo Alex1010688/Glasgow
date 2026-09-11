@@ -321,6 +321,111 @@
       transform: rotate(-45deg);
     }
 
+    .radius-control {
+      display: grid;
+      gap: 6px;
+    }
+
+    .radius-button {
+      background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      cursor: pointer;
+      width: 42px;
+      height: 42px;
+      font-size: 20px;
+      font-weight: bold;
+      line-height: 38px;
+      text-align: center;
+      box-shadow: none;
+    }
+
+    .radius-button:hover {
+      background: #f4f4f4;
+    }
+
+    .radius-button.active {
+      background: #e9f2ff;
+    }
+
+    .radius-panel {
+      display: none;
+      width: 180px;
+      background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      padding: 8px;
+      font-size: 13px;
+      line-height: 1.35;
+      box-sizing: border-box;
+    }
+
+    .radius-panel.open {
+      display: block;
+    }
+
+    .radius-row {
+      display: grid;
+      gap: 4px;
+      margin-bottom: 8px;
+    }
+
+    .radius-row input {
+      width: 100%;
+      box-sizing: border-box;
+      border: 1px solid #555;
+      border-radius: 4px;
+      padding: 6px;
+      font-size: 13px;
+    }
+
+    .radius-summary {
+      font-weight: bold;
+      margin-bottom: 6px;
+    }
+
+    .radius-hint {
+      color: #333;
+      margin-bottom: 8px;
+    }
+
+    .radius-actions {
+      display: flex;
+      gap: 5px;
+      flex-wrap: wrap;
+    }
+
+    .radius-actions button {
+      flex: 1 1 auto;
+      min-width: 48px;
+      border: 1px solid #555;
+      border-radius: 4px;
+      background: #f4f4f4;
+      cursor: pointer;
+      padding: 6px;
+      font-size: 13px;
+    }
+
+    .radius-actions button:hover {
+      background: #e8e8e8;
+    }
+
+    .radius-centre-icon {
+      background: transparent;
+      border: none;
+    }
+
+    .radius-centre-dot {
+      display: block;
+      width: 12px;
+      height: 12px;
+      border: 2px solid #ffffff;
+      border-radius: 50%;
+      box-sizing: border-box;
+      background: #0055ff;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.65);
+    }
+
     .info-button {
       position: absolute;
       right: 10px;
@@ -541,7 +646,8 @@
       overflow-y: auto;
       }
 
-      .measure-panel {
+      .measure-panel,
+      .radius-panel {
         width: 165px;
       }
     }
@@ -779,6 +885,9 @@
 
     map.createPane("measurementPane");
     map.getPane("measurementPane").style.zIndex = 710;
+
+    map.createPane("radiusPane");
+    map.getPane("radiusPane").style.zIndex = 705;
 
     L.control.zoom({
       position: "bottomright"
@@ -1566,11 +1675,15 @@
     function setMeasurementActive(isActive) {
       measurementActive = isActive;
 
+      if (measurementActive && radiusActive) {
+        finishRadius();
+      }
+
       if (!measurementActive) {
         measurementPreviewPoint = null;
       }
 
-      setAssetPanePointerEvents(!measurementActive);
+      setAssetPanePointerEvents(!measurementActive && !radiusActive);
 
       if (measureButton) {
         measureButton.classList.toggle("active", measurementActive);
@@ -1756,6 +1869,7 @@
 
       L.DomEvent.disableClickPropagation(container);
       L.DomEvent.disableScrollPropagation(container);
+      L.DomEvent.on(container, "touchend", L.DomEvent.stopPropagation);
 
       L.DomEvent.on(measureButton, "click", function(event) {
         L.DomEvent.preventDefault(event);
@@ -1784,6 +1898,211 @@
     };
 
     measureControl.addTo(map);
+
+    const radiusLayer = L.layerGroup([], {
+      pane: "radiusPane"
+    }).addTo(map);
+
+    const DEFAULT_RADIUS_METRES = 20;
+    let radiusActive = false;
+    let radiusCentre = null;
+    let radiusMetres = DEFAULT_RADIUS_METRES;
+    let radiusCircle = null;
+    let radiusCentreMarker = null;
+    let radiusButton = null;
+    let radiusPanel = null;
+    let radiusInput = null;
+    let radiusSummary = null;
+    let radiusHint = null;
+    let suppressRadiusClickUntil = 0;
+
+    function getRadiusValue() {
+      const value = Number(radiusInput ? radiusInput.value : radiusMetres);
+
+      if (Number.isFinite(value) && value > 0) {
+        return value;
+      }
+
+      return DEFAULT_RADIUS_METRES;
+    }
+
+    function updateRadiusDisplay() {
+      radiusMetres = getRadiusValue();
+      radiusLayer.clearLayers();
+      radiusCircle = null;
+      radiusCentreMarker = null;
+
+      if (radiusCentre) {
+        radiusCircle = L.circle(radiusCentre, {
+          pane: "radiusPane",
+          radius: radiusMetres,
+          color: "#0055ff",
+          weight: 3,
+          opacity: 0.95,
+          fillColor: "#0055ff",
+          fillOpacity: 0.12,
+          interactive: false
+        }).addTo(radiusLayer);
+
+        radiusCentreMarker = L.marker(radiusCentre, {
+          pane: "radiusPane",
+          interactive: false,
+          icon: L.divIcon({
+            className: "radius-centre-icon",
+            html: '<span class="radius-centre-dot"></span>',
+            iconSize: [12, 12],
+            iconAnchor: [6, 6]
+          })
+        }).addTo(radiusLayer);
+      }
+
+      if (radiusSummary) {
+        radiusSummary.textContent = `Radius: ${formatMeasurementDistance(radiusMetres)}`;
+      }
+
+      if (radiusHint) {
+        radiusHint.textContent = radiusCentre
+          ? "Tap the map to move the centre point."
+          : "Tap the map to place the centre point.";
+      }
+    }
+
+    function setRadiusActive(isActive) {
+      radiusActive = isActive;
+
+      if (radiusActive && measurementActive) {
+        finishMeasurement();
+      }
+
+      setAssetPanePointerEvents(!radiusActive && !measurementActive);
+
+      if (radiusButton) {
+        radiusButton.classList.toggle("active", radiusActive);
+        radiusButton.title = radiusActive ? "Stop drawing radius" : "Draw radius";
+      }
+
+      if (radiusPanel) {
+        radiusPanel.classList.toggle("open", radiusActive);
+      }
+
+      map.getContainer().style.cursor = measurementActive || radiusActive ? "crosshair" : "";
+      updateRadiusDisplay();
+    }
+
+    function setRadiusCentre(latlng) {
+      if (!radiusActive || !latlng) {
+        return;
+      }
+
+      radiusCentre = latlng;
+      updateRadiusDisplay();
+    }
+
+    function clearRadius() {
+      radiusCentre = null;
+      updateRadiusDisplay();
+    }
+
+    function finishRadius() {
+      setRadiusActive(false);
+    }
+
+    function finishRadiusTouch(event) {
+      if (!radiusActive) {
+        return;
+      }
+
+      const latlng = getLatLngFromChangedTouchEvent(event);
+
+      if (!latlng) {
+        return;
+      }
+
+      suppressRadiusClickUntil = Date.now() + 500;
+      setRadiusCentre(latlng);
+    }
+
+    map.on("click", function(event) {
+      if (!radiusActive || Date.now() < suppressRadiusClickUntil) {
+        return;
+      }
+
+      setRadiusCentre(event.latlng);
+    });
+
+    map.getContainer().addEventListener("touchend", finishRadiusTouch, {
+      passive: true
+    });
+
+    const radiusControl = L.control({
+      position: "bottomleft"
+    });
+
+    radiusControl.onAdd = function() {
+      const container = L.DomUtil.create("div", "radius-control");
+      radiusButton = L.DomUtil.create("button", "radius-button", container);
+      radiusButton.type = "button";
+      radiusButton.title = "Draw radius";
+      radiusButton.textContent = "R";
+
+      radiusPanel = L.DomUtil.create("div", "radius-panel", container);
+      radiusSummary = L.DomUtil.create("div", "radius-summary", radiusPanel);
+
+      const radiusRow = L.DomUtil.create("label", "radius-row", radiusPanel);
+      radiusRow.appendChild(document.createTextNode("Radius metres"));
+      radiusInput = L.DomUtil.create("input", "", radiusRow);
+      radiusInput.type = "number";
+      radiusInput.min = "1";
+      radiusInput.step = "1";
+      radiusInput.value = String(DEFAULT_RADIUS_METRES);
+
+      radiusHint = L.DomUtil.create("div", "radius-hint", radiusPanel);
+
+      const actions = L.DomUtil.create("div", "radius-actions", radiusPanel);
+      const exclusionButton = L.DomUtil.create("button", "", actions);
+      exclusionButton.type = "button";
+      exclusionButton.textContent = "20 m";
+
+      const clearButton = L.DomUtil.create("button", "", actions);
+      clearButton.type = "button";
+      clearButton.textContent = "Clear";
+
+      const doneButton = L.DomUtil.create("button", "", actions);
+      doneButton.type = "button";
+      doneButton.textContent = "Done";
+
+      L.DomEvent.disableClickPropagation(container);
+      L.DomEvent.disableScrollPropagation(container);
+      L.DomEvent.on(container, "touchend", L.DomEvent.stopPropagation);
+
+      L.DomEvent.on(radiusButton, "click", function(event) {
+        L.DomEvent.preventDefault(event);
+        setRadiusActive(!radiusActive);
+      });
+
+      L.DomEvent.on(radiusInput, "input", updateRadiusDisplay);
+
+      L.DomEvent.on(exclusionButton, "click", function(event) {
+        L.DomEvent.preventDefault(event);
+        radiusInput.value = String(DEFAULT_RADIUS_METRES);
+        updateRadiusDisplay();
+      });
+
+      L.DomEvent.on(clearButton, "click", function(event) {
+        L.DomEvent.preventDefault(event);
+        clearRadius();
+      });
+
+      L.DomEvent.on(doneButton, "click", function(event) {
+        L.DomEvent.preventDefault(event);
+        finishRadius();
+      });
+
+      updateRadiusDisplay();
+      return container;
+    };
+
+    radiusControl.addTo(map);
 
     function openInfoModal() {
       document.getElementById("infoModal").classList.add("open");
