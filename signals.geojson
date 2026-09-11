@@ -12056,20 +12056,16 @@
         "notes": "",
         "equipment_number": [
           {
-            "number": "3162281",
+            "number": "3162274",
             "label": "Signal"
           },
           {
-            "number": "3178091",
+            "number": "3178084",
             "label": "AWS"
           },
           {
-            "number": "3178301",
-            "label": "TPWS"
-          },
-          {
-            "number": "3303516",
-            "label": "SPTs"
+            "number": "3303513",
+            "label": "SPT"
           }
         ],
         "section": "Central"
@@ -12090,16 +12086,16 @@
         "notes": "",
         "equipment_number": [
           {
-            "number": "3162279",
+            "number": "3162271",
             "label": "Signal"
           },
           {
-            "number": "3178089",
-            "label": "AWS 1"
+            "number": "3178297",
+            "label": "TPWS"
           },
           {
-            "number": "3178090",
-            "label": "AWS 2"
+            "number": "3178083",
+            "label": "AWS"
           }
         ],
         "section": "Central"
@@ -12120,24 +12116,20 @@
         "notes": "",
         "equipment_number": [
           {
-            "number": "3162276",
+            "number": "3162267",
             "label": "Signal"
           },
           {
-            "number": "3178088",
+            "number": "3162268",
+            "label": "Feather"
+          },
+          {
+            "number": "3178082",
             "label": "AWS"
           },
           {
-            "number": "19613104",
-            "label": "TPWS"
-          },
-          {
-            "number": "3303514",
-            "label": "SPTs"
-          },
-          {
-            "number": "3162268",
-            "label": "Banner"
+            "number": "3303500",
+            "label": "SPT"
           }
         ],
         "section": "Central"
@@ -12196,24 +12188,20 @@
         "notes": "",
         "equipment_number": [
           {
-            "number": "3162277",
+            "number": "3162269",
             "label": "Signal"
           },
           {
-            "number": "3178093",
-            "label": "AWS"
+            "number": "3162270",
+            "label": "Feather"
           },
           {
-            "number": "3178306",
+            "number": "3178304",
             "label": "TPWS"
           },
           {
-            "number": "3162278",
-            "label": "Banner"
-          },
-          {
-            "number": "3162270",
-            "label": "Banner"
+            "number": "3178086",
+            "label": "AWS"
           }
         ],
         "section": "Central"
@@ -12234,24 +12222,20 @@
         "notes": "",
         "equipment_number": [
           {
-            "number": "3162280",
+            "number": "3162272",
             "label": "Signal"
           },
           {
-            "number": "3178092",
+            "number": "3162273",
+            "label": "Feather"
+          },
+          {
+            "number": "3178085",
             "label": "AWS"
           },
           {
-            "number": "3178305",
-            "label": "TPWS"
-          },
-          {
-            "number": "3303519",
-            "label": "SPTs"
-          },
-          {
-            "number": "3162273",
-            "label": "Banner"
+            "number": "3303501",
+            "label": "SPT"
           }
         ],
         "section": "Central"
@@ -12276,20 +12260,16 @@
             "label": "Signal"
           },
           {
-            "number": "3178088",
-            "label": "AWS"
-          },
-          {
             "number": "19613104",
             "label": "TPWS"
           },
           {
-            "number": "3303514",
-            "label": "SPTs"
+            "number": "3178088",
+            "label": "AWS"
           },
           {
-            "number": "3162268",
-            "label": "Banner"
+            "number": "3303514",
+            "label": "SPT"
           }
         ],
         "section": "Central"
@@ -19784,8 +19764,12 @@
         "notes": "",
         "equipment_number": [
           {
+            "number": "2642456",
+            "label": "Signal"
+          },
+          {
             "number": "2642457",
-            "label": "Banner"
+            "label": "Feather"
           }
         ],
         "section": "Central"
@@ -19806,8 +19790,16 @@
         "notes": "",
         "equipment_number": [
           {
+            "number": "2642458",
+            "label": "Signal"
+          },
+          {
             "number": "2642459",
-            "label": "Banner"
+            "label": "Feather"
+          },
+          {
+            "number": "2643085",
+            "label": "SPT"
           }
         ],
         "section": "Central"
