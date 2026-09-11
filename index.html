@@ -655,7 +655,20 @@
       lng: -4.5276284,
       zoom: 10
     };
-    const DATA_VERSION = "2026-08-14-yoker-stations";
+    const DATA_VERSION = "2026-09-11-section-split";
+    const SEARCH_SUGGESTION_LIMIT = 10;
+    const SECTION_NAMES = [
+      CENTRAL_SECTION,
+      COWLAIRS_SECTION,
+      SUNNYSIDE_SECTION,
+      YOKER_SECTION
+    ];
+    const SECTION_FILE_SLUGS = {
+      [CENTRAL_SECTION]: "central",
+      [COWLAIRS_SECTION]: "cowlairs",
+      [SUNNYSIDE_SECTION]: "sunnyside",
+      [YOKER_SECTION]: "yoker"
+    };
 
     /*
       GEOJSON LAYERS
@@ -730,7 +743,8 @@
 
     const map = L.map("map", {
       zoomControl: false,
-      maxZoom: MAX_MAP_ZOOM
+      maxZoom: MAX_MAP_ZOOM,
+      preferCanvas: true
     }).setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
 
     /*
@@ -829,7 +843,7 @@
     const allFeatures = [];
     const labelledFeatures = [];
     const labelSettings = {};
-    const availableSections = new Set();
+    const availableSections = new Set(SECTION_NAMES);
     let activeSections = new Set();
     let sectionPromptShown = false;
     let currentSuggestionItems = [];
@@ -861,21 +875,7 @@
     }
 
     function getSearchText(item) {
-      const p = item.feature.properties || {};
-
-      return [
-        item.layerName,
-        p.name,
-        p.Name,
-        p["ref:crs"],
-        p.type,
-        p.Type,
-        p.section,
-        p.Section
-      ]
-        .filter(Boolean)
-        .join(" ")
-        .toLowerCase();
+      return item.searchText;
     }
 
     function getFeatureSection(feature) {
@@ -888,12 +888,17 @@
       return activeSections.size === 0 || activeSections.has(featureSection);
     }
 
+    function itemMatchesActiveSection(item) {
+      return activeSections.size === 0 || activeSections.has(item.section);
+    }
+
     function isFeatureSearchable(item) {
-      return featureMatchesActiveSection(item.feature) && map.hasLayer(item.layer);
+      const parentLayer = overlayMaps[item.layerName];
+      return !!parentLayer && map.hasLayer(parentLayer) && parentLayer.hasLayer(item.layer);
     }
 
     function getPrimarySearchName(item) {
-      return getFeatureName(item.feature).toLowerCase();
+      return item.primaryName;
     }
 
     function getSearchLayerPriority(layerName) {
@@ -917,9 +922,9 @@
     }
 
     function getSearchRank(item, searchText) {
-      const primaryName = normaliseSearchValue(getPrimarySearchName(item));
+      const primaryName = getPrimarySearchName(item);
       const searchable = getSearchText(item);
-      const layerPriority = getSearchLayerPriority(item.layerName);
+      const layerPriority = item.layerPriority;
 
       if (primaryName === searchText) {
         return 0 + layerPriority / 100;
@@ -929,7 +934,7 @@
         return 1 + layerPriority / 100;
       }
 
-      if (searchable.split(/\s+/).includes(searchText)) {
+      if (item.searchWords.has(searchText)) {
         return 2 + layerPriority / 100;
       }
 
@@ -938,6 +943,75 @@
       }
 
       return 999;
+    }
+
+    function createFeatureItem(feature, leafletLayer, layerName) {
+      const p = feature.properties || {};
+      const searchText = normaliseSearchValue([
+        layerName,
+        p.name,
+        p.Name,
+        p["ref:crs"],
+        p.type,
+        p.Type,
+        p.section,
+        p.Section
+      ]
+        .filter(Boolean)
+        .join(" "));
+
+      return {
+        feature: feature,
+        layer: leafletLayer,
+        layerName: layerName,
+        section: getFeatureSection(feature),
+        primaryName: normaliseSearchValue(getFeatureName(feature)),
+        searchText: searchText,
+        searchWords: new Set(searchText.split(/\s+/).filter(Boolean)),
+        layerPriority: getSearchLayerPriority(layerName)
+      };
+    }
+
+    function addRankedSearchMatch(matches, match, limit) {
+      const maxMatches = limit || 1;
+      let insertAt = matches.length;
+
+      while (insertAt > 0 && match.rank < matches[insertAt - 1].rank) {
+        insertAt--;
+      }
+
+      if (insertAt < maxMatches) {
+        matches.splice(insertAt, 0, match);
+
+        if (matches.length > maxMatches) {
+          matches.length = maxMatches;
+        }
+      } else if (matches.length < maxMatches) {
+        matches.push(match);
+      }
+    }
+
+    function getSearchMatches(searchText, limit) {
+      const matches = [];
+
+      allFeatures.forEach(item => {
+        if (!isFeatureSearchable(item)) {
+          return;
+        }
+
+        const rank = getSearchRank(item, searchText);
+
+        if (rank >= 999) {
+          return;
+        }
+
+        addRankedSearchMatch(matches, {
+          item: item,
+          rank: rank
+        }, limit);
+      });
+
+      return matches.map(result => result.item);
     }
 
     function getFeatureColour(feature, layerConfig) {
@@ -1695,7 +1769,7 @@
           return;
         }
 
-        if (featureMatchesActiveSection(item.feature)) {
+        if (itemMatchesActiveSection(item)) {
           if (!parentLayer.hasLayer(item.layer)) {
             parentLayer.addLayer(item.layer);
           }
@@ -1707,10 +1781,8 @@
       updateLabelVisibility();
     }
 
-    function setActiveSections(sectionNames, options = {}) {
+    async function setActiveSections(sectionNames, options = {}) {
       activeSections = normaliseSectionSelection(sectionNames);
-
-      applySectionFilter();
 
       if (options.remember) {
         storeActiveSectionSelection();
@@ -1720,8 +1792,16 @@
         storeActiveSectionSelection();
       }
 
+      if (!layersLoaded) {
+        await loadAllLayers({
+          centreMap: options.centreMap !== false
+        });
+        return;
+      }
+
+      await loadMissingActiveSectionFiles();
+      applySectionFilter();
       buildMapControlPanel();
-      updateLabelVisibility();
 
       if (options.centreMap !== false) {
         centreMapForActiveSections();
@@ -1873,20 +1953,7 @@
         return;
       }
 
-      const matches = allFeatures
-        .filter(isFeatureSearchable)
-        .map(item => {
-          return {
-            item: item,
-            rank: getSearchRank(item, searchText)
-          };
-        })
-        .filter(result => result.rank < 999)
-        .sort((a, b) => {
-          return a.rank - b.rank;
-        })
-        .slice(0, 10)
-        .map(result => result.item);
+      const matches = getSearchMatches(searchText, SEARCH_SUGGESTION_LIMIT);
 
       currentSuggestionItems = matches;
 
@@ -1962,20 +2029,8 @@
         return;
       }
 
-      const rankedMatches = allFeatures
-        .filter(isFeatureSearchable)
-        .map(item => {
-          return {
-            item: item,
-            rank: getSearchRank(item, searchText)
-          };
-        })
-        .filter(result => result.rank < 999)
-        .sort((a, b) => {
-          return a.rank - b.rank;
-        });
-
-      const found = rankedMatches.length > 0 ? rankedMatches[0].item : null;
+      const matches = getSearchMatches(searchText, 1);
+      const found = matches.length > 0 ? matches[0] : null;
 
       if (!found) {
         alert("No matching item found");
@@ -2230,16 +2285,63 @@
 
     map.on("zoomend overlayadd overlayremove", updateLabelVisibility);
 
-    async function loadLayer(layerConfig) {
-      const response = await fetch(`${layerConfig.file}?v=${DATA_VERSION}`);
+    let layersLoaded = false;
+    let layerLoading = false;
+    const loadedLayerFiles = {};
 
-      if (!response.ok) {
-        throw new Error(`Could not load ${layerConfig.file}. HTTP status: ${response.status}`);
+    function getSectionsToLoad() {
+      return sectionSelectionIsAll()
+        ? SECTION_NAMES
+        : Array.from(activeSections).sort();
+    }
+
+    function getSectionLayerFile(layerConfig, sectionName) {
+      return `sections/${SECTION_FILE_SLUGS[sectionName]}/${layerConfig.file}`;
+    }
+
+    function getLayerFilesForActiveSections(layerConfig) {
+      return getSectionsToLoad().map(sectionName => {
+        return getSectionLayerFile(layerConfig, sectionName);
+      });
+    }
+
+    async function loadLayerFileIntoLayer(layerConfig, layer, file) {
+      loadedLayerFiles[layerConfig.name] = loadedLayerFiles[layerConfig.name] || new Set();
+
+      if (loadedLayerFiles[layerConfig.name].has(file)) {
+        return;
       }
 
-      const data = await response.json();
+      const response = await fetch(`${file}?v=${DATA_VERSION}`);
 
-      const layer = L.geoJSON(data, {
+      if (!response.ok) {
+        throw new Error(`Could not load ${file}. HTTP status: ${response.status}`);
+      }
+
+      layer.addData(await response.json());
+      loadedLayerFiles[layerConfig.name].add(file);
+    }
+
+    async function loadMissingActiveSectionFiles() {
+      const loads = [];
+
+      LAYER_CONFIGS.forEach(layerConfig => {
+        const layer = overlayMaps[layerConfig.name];
+
+        if (!layer) {
+          return;
+        }
+
+        getLayerFilesForActiveSections(layerConfig).forEach(file => {
+          loads.push(loadLayerFileIntoLayer(layerConfig, layer, file));
+        });
+      });
+
+      await Promise.all(loads);
+    }
+
+    async function loadLayer(layerConfig) {
+      const layer = L.geoJSON(null, {
         pane: layerConfig.pane,
 
         style: function(feature) {
@@ -2264,6 +2366,7 @@
 
         onEachFeature: function(feature, leafletLayer) {
           const sectionName = getFeatureSection(feature);
+          const featureItem = createFeatureItem(feature, leafletLayer, layerConfig.name);
 
           if (sectionName) {
             availableSections.add(sectionName);
@@ -2281,17 +2384,8 @@
             opacity: 1
           });
 
-          labelledFeatures.push({
-            feature: feature,
-            layer: leafletLayer,
-            layerName: layerConfig.name
-          });
-
-          allFeatures.push({
-            feature: feature,
-            layer: leafletLayer,
-            layerName: layerConfig.name
-          });
+          labelledFeatures.push(featureItem);
+          allFeatures.push(featureItem);
         }
       });
 
@@ -2301,29 +2395,41 @@
         layer.addTo(map);
       }
 
+      await Promise.all(
+        getLayerFilesForActiveSections(layerConfig).map(file => {
+          return loadLayerFileIntoLayer(layerConfig, layer, file);
+        })
+      );
+
       return layer;
     }
 
-    async function loadAllLayers() {
-      const loadedLayers = [];
+    async function loadAllLayers(options = {}) {
+      if (layersLoaded || layerLoading) {
+        return;
+      }
+
       const loadErrors = [];
+      layerLoading = true;
 
       for (const layerConfig of LAYER_CONFIGS) {
         try {
-          const layer = await loadLayer(layerConfig);
-          loadedLayers.push(layer);
+          await loadLayer(layerConfig);
         } catch (error) {
           console.error(error);
           loadErrors.push(`${layerConfig.name}: ${error.message}`);
         }
       }
 
-      buildMapControlPanel();
-      setActiveSections(getStoredSections() || [], {
-        centreMap: !!localStorage.getItem(SECTION_STORAGE_KEY)
-      });
+      layersLoaded = true;
+      layerLoading = false;
 
-      updateLabelVisibility();
+      buildMapControlPanel();
+      applySectionFilter();
+
+      if (options.centreMap) {
+        centreMapForActiveSections();
+      }
 
       if (localStorage.getItem("railMapInfoSeen") !== "true") {
         openInfoModal();
@@ -2339,7 +2445,25 @@
       }
     }
 
-    loadAllLayers();
+    function initialiseMap() {
+      const storedSections = getStoredSections();
+
+      if (storedSections) {
+        activeSections = normaliseSectionSelection(storedSections);
+        loadAllLayers({
+          centreMap: true
+        });
+        return;
+      }
+
+      if (localStorage.getItem("railMapInfoSeen") !== "true") {
+        openInfoModal();
+      } else {
+        maybeOpenSectionModal();
+      }
+    }
+
+    initialiseMap();
   </script>
 </body>
 </html>
