@@ -227,7 +227,8 @@
       background: #e9f2ff;
     }
 
-    .measure-button-icon {
+    .measure-button-icon,
+    .control-button-icon {
       display: block;
       width: 28px;
       height: 28px;
@@ -657,7 +658,9 @@
 <body>
   <div id="map"></div>
 
-  <button id="infoButton" class="info-button" type="button" title="Map information">i</button>
+  <button id="infoButton" class="info-button" type="button" title="Map information">
+    <img class="control-button-icon" src="information-icon.svg" alt="" />
+  </button>
 
   <div id="infoModal" class="info-modal" role="dialog" aria-modal="true" aria-labelledby="infoModalTitle">
     <div class="info-dialog">
@@ -1515,7 +1518,7 @@
       const button = L.DomUtil.create("button", "locate-button");
       button.type = "button";
       button.title = "Show my location";
-      button.innerHTML = "⌖";
+      button.innerHTML = '<img class="control-button-icon" src="current-location-icon.svg" alt="" />';
 
       L.DomEvent.disableClickPropagation(button);
       L.DomEvent.on(button, "click", function(event) {
@@ -2131,7 +2134,7 @@
       radiusButton = L.DomUtil.create("button", "radius-button", container);
       radiusButton.type = "button";
       radiusButton.title = "Draw radius";
-      radiusButton.textContent = "R";
+      radiusButton.innerHTML = '<img class="control-button-icon" src="compass-divider-icon.svg" alt="" />';
 
       radiusPanel = L.DomUtil.create("div", "radius-panel", container);
       radiusSummary = L.DomUtil.create("div", "radius-summary", radiusPanel);
