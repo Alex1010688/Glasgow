@@ -2953,15 +2953,17 @@
         pointToLayer: function(feature, latlng) {
           if (layerConfig.iconType === "brLogo") {
             return L.marker(latlng, {
-              pane: layerConfig.pane,
-              icon: createBrStationIcon()
+              pane: "pointMarkerPane",
+              icon: createBrStationIcon(),
+              zIndexOffset: layerConfig.zIndex
             });
           }
 
           if (layerConfig.iconType === "levelCrossing") {
             return L.marker(latlng, {
-              pane: layerConfig.pane,
-              icon: createLevelCrossingIcon()
+              pane: "pointMarkerPane",
+              icon: createLevelCrossingIcon(),
+              zIndexOffset: layerConfig.zIndex
             });
           }
 
