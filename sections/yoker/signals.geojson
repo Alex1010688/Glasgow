@@ -1,890 +1,10 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF140",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2358035,
-          55.8574952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF142",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2350954,
-          55.8575298
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF143",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2390108,
-          55.8568192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF149",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2429496,
-          55.8562181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF149R",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2481521,
-          55.8543554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF150",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2515101,
-          55.8509329
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF150R",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2485048,
-          55.8538887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF215",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2250822,
-          55.8567446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF216",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2359938,
-          55.8579734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF217",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.240413,
-          55.8596005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF222",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2424143,
-          55.8609981
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF223",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2450595,
-          55.8617086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF224",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2491705,
-          55.862301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF225",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2521585,
-          55.8624773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF226",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2596436,
-          55.8635158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF227",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2605699,
-          55.8635344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF228",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2697529,
-          55.8647125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF229",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2706809,
-          55.8646372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF303",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2169852,
-          55.8386189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF305",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2176372,
-          55.8425581
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF306",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2207197,
-          55.8452885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF307",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2215912,
-          55.8458708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF308",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2239924,
-          55.8478061
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF309",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2257317,
-          55.8487917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF310",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2320495,
-          55.8507706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF311",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2344072,
-          55.8511907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF312",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2376745,
-          55.853105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF313",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2385113,
-          55.8534302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF314",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2433407,
-          55.8562444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF315",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2450585,
-          55.856874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF316",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2498772,
-          55.8576015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF317",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2523958,
-          55.8578574
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF318",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2590908,
-          55.8585926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF319",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2602307,
-          55.8586422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF320",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2645684,
-          55.8591131
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF321",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2661939,
-          55.8591658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF322",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2693715,
-          55.8596587
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF323",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2714987,
-          55.8598525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF324",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2767391,
-          55.8602924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF325",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2795125,
-          55.8602058
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF326",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2819714,
-          55.8608787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF329",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2842835,
-          55.8614758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF333",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2881874,
-          55.862241
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF334",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2871011,
-          55.8625813
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF336",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2967168,
-          55.8646614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF473",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2818891,
-          55.8638933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF476",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2871703,
-          55.8631513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF477",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2910837,
-          55.8631197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF478",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2960231,
-          55.8633167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF493",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3018567,
-          55.8662045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF494",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3045343,
-          55.8679213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF496",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3082664,
-          55.8694519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF497",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3101047,
-          55.8703349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF786",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2226736,
-          55.856442
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "YF795",
-        "type": "Signals",
-        "notes": "",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2294814,
-          55.8574721
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "YF796",
+        "name": "YH408",
         "type": "Signals",
         "notes": "",
         "section": "Yoker"
@@ -892,15 +12,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2306187,
-          55.8575053
+          -4.3135313,
+          55.939494
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "YF797",
+        "name": "YH410",
         "type": "Signals",
         "notes": "",
         "section": "Yoker"
@@ -908,15 +28,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2323836,
-          55.8576212
+          -4.3133932,
+          55.9395233
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "YF798",
+        "name": "YH489",
         "type": "Signals",
         "notes": "",
         "section": "Yoker"
@@ -924,15 +44,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2405611,
-          55.8565453
+          -4.3189756,
+          55.8816546
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "YF826",
+        "name": "YH498",
         "type": "Signals",
         "notes": "",
         "section": "Yoker"
@@ -940,15 +60,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.277175,
-          55.8602036
+          -4.311665,
+          55.8728139
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "YF827",
+        "name": "YH499",
         "type": "Signals",
         "notes": "",
         "section": "Yoker"
@@ -956,15 +76,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2795072,
-          55.8602743
+          -4.312674,
+          55.873895
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "YF828",
+        "name": "YH503",
         "type": "Signals",
         "notes": "",
         "section": "Yoker"
@@ -972,15 +92,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2823241,
-          55.8608779
+          -4.3139512,
+          55.8779809
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "YF830",
+        "name": "YH504",
         "type": "Signals",
         "notes": "",
         "section": "Yoker"
@@ -988,15 +108,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2824328,
-          55.8608863
+          -4.3140076,
+          55.8790288
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "YF831",
+        "name": "YH505",
         "type": "Signals",
         "notes": "",
         "section": "Yoker"
@@ -1004,15 +124,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.3016867,
-          55.866338
+          -4.3186403,
+          55.8815545
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "YF833",
+        "name": "YH505 BR",
         "type": "Signals",
         "notes": "",
         "section": "Yoker"
@@ -1020,15 +140,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.3017766,
-          55.8662996
+          -4.3154059,
+          55.8803108
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "YF834",
+        "name": "YH506",
         "type": "Signals",
         "notes": "",
         "section": "Yoker"
@@ -1036,10 +156,5 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.3039589,
-          55.867503
-        ]
-      }
-    }
-  ]
-}
+          -4.3230052,
+          55.8827165
