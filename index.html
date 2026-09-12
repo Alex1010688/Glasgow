@@ -2005,7 +2005,6 @@
     let radiusInput = null;
     let radiusSummary = null;
     let radiusHint = null;
-    let suppressRadiusClickUntil = 0;
 
     function getRadiusValue() {
       const value = Number(radiusInput ? radiusInput.value : radiusMetres);
@@ -2115,31 +2114,12 @@
       }
     }
 
-    function finishRadiusTouch(event) {
+    map.on("click", function(event) {
       if (!radiusActive) {
         return;
       }
 
-      const latlng = getLatLngFromChangedTouchEvent(event);
-
-      if (!latlng) {
-        return;
-      }
-
-      suppressRadiusClickUntil = Date.now() + 500;
-      setRadiusCentre(latlng);
-    }
-
-    map.on("click", function(event) {
-      if (!radiusActive || Date.now() < suppressRadiusClickUntil) {
-        return;
-      }
-
       setRadiusCentre(event.latlng);
-    });
-
-    map.getContainer().addEventListener("touchend", finishRadiusTouch, {
-      passive: true
     });
 
     const radiusControl = L.control({
