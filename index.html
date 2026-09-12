@@ -1416,7 +1416,7 @@
       const name = getFeatureName(feature);
 
       const code = p.code || p.Code || p["ref:crs"] || "";
-      const type = p.type || p.Type || layerName || "";
+      const type = p.type || p.Type || "";
       const notes = p.notes || p.Notes || "";
 
       const description =
@@ -1449,6 +1449,10 @@
 
       if (code) {
         html += `<div class="popup-row"><strong>Code:</strong> ${code}</div>`;
+      }
+
+      if (layerName === "Level Crossings" && type) {
+        html += `<div class="popup-row"><strong>Type:</strong> ${type}</div>`;
       }
 
       if (notes) {
