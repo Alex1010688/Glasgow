@@ -4,6 +4,51 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Greenfoot",
+        "type": "Manned-CCTV",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0310768,
+          55.9017728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heatherbell",
+        "type": "Manned-CCTV",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0451896,
+          55.881653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heathfield",
+        "type": "UWC-Telephones",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1036217,
+          55.8894259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ardmore East",
         "type": "AHB",
         "section": "Yoker"

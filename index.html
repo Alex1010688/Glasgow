@@ -782,7 +782,7 @@
       lng: -5.035,
       zoom: 9
     };
-    const DATA_VERSION = "2026-09-12-level-crossings";
+    const DATA_VERSION = "2026-09-12-cowlairs-crossings";
     const SEARCH_SUGGESTION_LIMIT = 10;
     const SECTION_NAMES = [
       CENTRAL_SECTION,
@@ -830,7 +830,12 @@
         zIndex: 642,
         showOnLoad: true,
         showLabels: false,
-        iconType: "levelCrossing"
+        iconType: "levelCrossing",
+        sections: [
+          COWLAIRS_SECTION,
+          YOKER_SECTION,
+          FORT_WILLIAM_SECTION
+        ]
       },
 
       {
@@ -2906,7 +2911,11 @@
     }
 
     function getLayerFilesForActiveSections(layerConfig) {
-      return getSectionsToLoad().map(sectionName => {
+      const sections = getSectionsToLoad().filter(sectionName => {
+        return !Array.isArray(layerConfig.sections) || layerConfig.sections.includes(sectionName);
+      });
+
+      return sections.map(sectionName => {
         return getSectionLayerFile(layerConfig, sectionName);
       });
     }
