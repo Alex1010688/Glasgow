@@ -812,7 +812,8 @@
         pane: "accessPane",
         zIndex: 650,
         showOnLoad: true,
-        showLabels: false
+        showLabels: false,
+        alsoShowLayers: ["Level Crossings"]
       },
       {
         name: "Stations",
@@ -2763,12 +2764,23 @@
         checkbox.onchange = function() {
           if (checkbox.checked) {
             layer.addTo(map);
+
+            if (Array.isArray(layerConfig.alsoShowLayers)) {
+              layerConfig.alsoShowLayers.forEach(layerName => {
+                const linkedLayer = overlayMaps[layerName];
+
+                if (linkedLayer) {
+                  linkedLayer.addTo(map);
+                }
+              });
+            }
           } else {
             map.removeLayer(layer);
           }
 
           applySectionFilter();
           updateLabelVisibility();
+          buildMapControlPanel();
         };
 
         overlayContainer.appendChild(createControlRow(checkbox, layerConfig.name));
