@@ -2318,6 +2318,12 @@
     function sectionSelectionIsAll() {
       return activeSections.size === 0;
     }
+    
+    function multipleSectionsSelected() {
+      return sectionSelectionIsAll()
+        ? SECTION_NAMES.length > 1
+        : activeSections.size > 1;
+    }
 
     function getActiveSectionList() {
       return sectionSelectionIsAll() ? [] : Array.from(activeSections).sort();
@@ -2560,9 +2566,10 @@
 
       matches.forEach((item, index) => {
         const div = document.createElement("div");
-
         div.className = "suggestion-item";
-        div.textContent = `${getFeatureName(item.feature)} — ${item.layerName}`;
+        div.textContent = multipleSectionsSelected() && item.section
+          ? `${getFeatureName(item.feature)} - ${item.layerName} - ${item.section}`
+          : `${getFeatureName(item.feature)} - ${item.layerName}`;
 
         div.onmouseenter = function() {
           highlightedSuggestionIndex = index;
