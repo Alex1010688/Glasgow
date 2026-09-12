@@ -2399,13 +2399,9 @@
         return;
       }
 
-      await loadMissingActiveSectionFiles();
-      applySectionFilter();
-      buildMapControlPanel();
-
-      if (options.centreMap !== false) {
-        centreMapForActiveSections();
-      }
+      await reloadLayersForActiveSections({
+        centreMap: options.centreMap !== false
+      });
     }
 
     function openSectionModal() {
@@ -2967,7 +2963,7 @@
       await Promise.all(loads);
     }
 
-    async function loadLayer(layerConfig) {
+    async function loadLayer(layerConfig, showLayer = layerConfig.showOnLoad) {
       const layer = L.geoJSON(null, {
         pane: layerConfig.pane,
 
@@ -3034,7 +3030,7 @@
 
       overlayMaps[layerConfig.name] = layer;
 
-      if (layerConfig.showOnLoad) {
+      if (showLayer) {
         layer.addTo(map);
       }
 
@@ -3045,6 +3041,68 @@
       );
 
       return layer;
+    }
+
+    async function reloadLayersForActiveSections(options = {}) {
+      if (layerLoading) {
+        return;
+      }
+
+      const previouslyVisibleLayers = {};
+      const loadErrors = [];
+
+      LAYER_CONFIGS.forEach(layerConfig => {
+        const existingLayer = overlayMaps[layerConfig.name];
+
+        previouslyVisibleLayers[layerConfig.name] = existingLayer
+          ? map.hasLayer(existingLayer)
+          : layerConfig.showOnLoad;
+
+        if (existingLayer) {
+          map.removeLayer(existingLayer);
+          existingLayer.clearLayers();
+        }
+
+        delete overlayMaps[layerConfig.name];
+        delete loadedLayerFiles[layerConfig.name];
+      });
+
+      // Release references to features from sections that are no longer selected.
+      // This prevents hidden markers, popups and labels accumulating in memory.
+      allFeatures.length = 0;
+      labelledFeatures.length = 0;
+
+      layersLoaded = false;
+      layerLoading = true;
+
+      for (const layerConfig of LAYER_CONFIGS) {
+        try {
+          await loadLayer(
+            layerConfig,
+            previouslyVisibleLayers[layerConfig.name]
+          );
+        } catch (error) {
+          console.error(error);
+          loadErrors.push(`${layerConfig.name}: ${error.message}`);
+        }
+      }
+
+      layersLoaded = true;
+      layerLoading = false;
+
+      buildMapControlPanel();
+      applySectionFilter();
+
+      if (options.centreMap) {
+        centreMapForActiveSections();
+      }
+
+      if (loadErrors.length > 0) {
+        alert(
+          "Some layers could not be loaded:\n\n" +
+          loadErrors.join("\n")
+        );
+      }
     }
 
     async function loadAllLayers(options = {}) {
