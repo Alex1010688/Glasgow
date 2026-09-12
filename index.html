@@ -155,6 +155,18 @@
       filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.65));
     }
 
+    .level-crossing-icon {
+      background: transparent;
+      border: none;
+    }
+
+    .level-crossing-marker {
+      width: 18px;
+      height: auto;
+      display: block;
+      filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.65));
+    }
+
     .solid-circle-marker {
       display: block;
       width: 10px;
@@ -764,19 +776,27 @@
       lng: -4.5276284,
       zoom: 10
     };
-    const DATA_VERSION = "2026-09-11-asset-number-fixes";
+    const FORT_WILLIAM_SECTION = "Fort William";
+    const FORT_WILLIAM_VIEW = {
+      lat: 56.404,
+      lng: -5.035,
+      zoom: 9
+    };
+    const DATA_VERSION = "2026-09-12-level-crossings";
     const SEARCH_SUGGESTION_LIMIT = 10;
     const SECTION_NAMES = [
       CENTRAL_SECTION,
       COWLAIRS_SECTION,
       SUNNYSIDE_SECTION,
-      YOKER_SECTION
+      YOKER_SECTION,
+      FORT_WILLIAM_SECTION
     ];
     const SECTION_FILE_SLUGS = {
       [CENTRAL_SECTION]: "central",
       [COWLAIRS_SECTION]: "cowlairs",
       [SUNNYSIDE_SECTION]: "sunnyside",
-      [YOKER_SECTION]: "yoker"
+      [YOKER_SECTION]: "yoker",
+      [FORT_WILLIAM_SECTION]: "fort-william"
     };
 
     /*
@@ -802,6 +822,15 @@
         showOnLoad: true,
         showLabels: false,
         iconType: "brLogo"
+      },
+      {
+        name: "Level Crossings",
+        file: "level-crossings.geojson",
+        pane: "levelCrossingsPane",
+        zIndex: 642,
+        showOnLoad: true,
+        showLabels: false,
+        iconType: "levelCrossing"
       },
 
       {
@@ -1177,6 +1206,16 @@
         iconSize: [30, 20],
         iconAnchor: [15, 10],
         popupAnchor: [0, -10]
+      });
+    }
+
+    function createLevelCrossingIcon() {
+      return L.divIcon({
+        className: "level-crossing-icon",
+        html: '<img class="level-crossing-marker" src="level-crossing-icon.svg" alt="Level crossing" />',
+        iconSize: [30, 30],
+        iconAnchor: [15, 15],
+        popupAnchor: [0, -15]
       });
     }
 
@@ -2295,6 +2334,8 @@
         map.setView([SUNNYSIDE_VIEW.lat, SUNNYSIDE_VIEW.lng], SUNNYSIDE_VIEW.zoom);
       } else if (sectionName === YOKER_SECTION) {
         map.setView([YOKER_VIEW.lat, YOKER_VIEW.lng], YOKER_VIEW.zoom);
+      } else if (sectionName === FORT_WILLIAM_SECTION) {
+        map.setView([FORT_WILLIAM_VIEW.lat, FORT_WILLIAM_VIEW.lng], FORT_WILLIAM_VIEW.zoom);
       } else if (sectionName === ALL_SECTIONS) {
         map.setView([DEFAULT_LAT, DEFAULT_LNG], DEFAULT_ZOOM);
       }
@@ -2914,6 +2955,13 @@
             return L.marker(latlng, {
               pane: layerConfig.pane,
               icon: createBrStationIcon()
+            });
+          }
+
+          if (layerConfig.iconType === "levelCrossing") {
+            return L.marker(latlng, {
+              pane: layerConfig.pane,
+              icon: createLevelCrossingIcon()
             });
           }
 

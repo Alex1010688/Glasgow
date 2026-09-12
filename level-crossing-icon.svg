@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 270" role="img" aria-label="Level crossing warning sign">
+  <path d="M150 18 285 248H15L150 18Z" fill="#ffffff" stroke="#cf1238" stroke-width="28" stroke-linejoin="round"/>
+  <path d="M76 184H224" stroke="#050505" stroke-width="13" stroke-linecap="square"/>
+  <path d="M88 118 76 134V210H100V134L88 118Z" fill="#050505"/>
+  <path d="M119 118 107 134V210H131V134L119 118Z" fill="#050505"/>
+  <path d="M150 118 138 134V210H162V134L150 118Z" fill="#050505"/>
+  <path d="M181 118 169 134V210H193V134L181 118Z" fill="#050505"/>
+  <path d="M212 118 200 134V210H224V134L212 118Z" fill="#050505"/>
+  <path d="M76 149H224M76 178H224" stroke="#050505" stroke-width="13" stroke-linecap="square"/>
+</svg>

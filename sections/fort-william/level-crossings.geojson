@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Church",
+        "type": "UWC",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.2521, 56.4317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalmally Hotel",
+        "type": "UWC",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.9627, 56.3962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boat House",
+        "type": "UWC",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.0507, 56.397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lagnagrabh",
+        "type": "UWC",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.2074, 56.4282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taynuilt Public",
+        "type": "UWC",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.2389, 56.4309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achnalarig",
+        "type": "UWC+telephones",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.4386, 56.422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teanga Bhuie",
+        "type": "UWC+telephones",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.4397, 56.4201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glencruiten",
+        "type": "UWC+telephones",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.447, 56.4117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridge Of Orchy",
+        "type": "UWC+telephones",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.7647, 56.5173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilchurn Castle",
+        "type": "UWC+telephones",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.0187, 56.4069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airds",
+        "type": "UWC+telephones",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.2477, 56.4309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkhill",
+        "type": "UWC+telephones",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.2693, 56.4372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ach-na-cloich 1",
+        "type": "UWC+telephones",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.325, 56.4476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Culnadalloch 2",
+        "type": "UWC+telephones",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.3324, 56.4478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Culnadalloch 1",
+        "type": "UWC+telephones",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.3343, 56.4484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achaleven",
+        "type": "UWC+telephones",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.3734, 56.4542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalmally Station",
+        "type": "UWC",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.9837, 56.4011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taynuilt Private",
+        "type": "UWC",
+        "section": "Fort William"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.2405, 56.4309]
+      }
+    }
+  ]
+}
