@@ -1899,6 +1899,8 @@
     }
 
     map.on("click", function(event) {
+      closeMapControls();
+
       if (!measurementActive || Date.now() < suppressMeasurementClickUntil) {
         return;
       }
@@ -2118,6 +2120,8 @@
     }
 
     map.on("click", function(event) {
+      closeMapControls();
+
       if (!radiusActive) {
         return;
       }
@@ -2607,6 +2611,18 @@
       button.classList.toggle("open", isOpen);
     }
 
+    function closeMapControls() {
+      const button = document.getElementById("mapControlsButton");
+      const content = document.getElementById("mapControlsContent");
+
+      if (!button || !content) {
+        return;
+      }
+
+      content.classList.remove("open");
+      button.classList.remove("open");
+    }
+
     function switchBaseLayer(baseLayerName) {
       const selectedBaseLayer = baseMaps[baseLayerName];
 
@@ -2929,6 +2945,12 @@
             className: "feature-label",
             opacity: 1
           });
+
+          if (layerConfig.iconType === "brLogo") {
+            leafletLayer.on("click", function() {
+              leafletLayer.openTooltip();
+            });
+          }
 
           labelledFeatures.push(featureItem);
           allFeatures.push(featureItem);
