@@ -70,7 +70,25 @@
           -4.2584361,
           55.8583132
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalmarnock",
+        "type": "Station",
+        "notes": "",
+        "crs": "DAK",
+        "section": "Yoker"
       },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2174709,
+          55.8421847
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
