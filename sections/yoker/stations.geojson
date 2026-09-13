@@ -58,6 +58,22 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Glasgow Central",
+        "type": "Station",
+        "notes": "",
+        "crs": "GLC",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2584361,
+          55.8583132
+        ]
+      },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Charing Cross",
         "type": "Station",
         "notes": "",
