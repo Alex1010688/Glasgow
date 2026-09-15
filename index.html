@@ -2869,7 +2869,7 @@
         checkbox.onchange = function() {
           if (sectionName === ALL_SECTIONS) {
             setActiveSections([], {
-              centreMap: true,
+              centreMap: false,
               clearRemembered: false
             });
             return;
@@ -2884,7 +2884,7 @@
           }
 
           setActiveSections(Array.from(nextSections), {
-            centreMap: true,
+            centreMap: false,
             clearRemembered: false
           });
         };
