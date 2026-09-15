@@ -7,6 +7,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Anniesland",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.321561537010647,
+          55.88966381508606
+        ]
+      },
+      "id": "manual/cowlairs-anniesland"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/30618416",
         "brand": "Scotland's Railway",
         "brand:wikidata": "Q136406287",
@@ -81,51 +99,17 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/3049056215",
-        "name": "Bishopbriggs",
-        "name:gd": "Drochaid an Easbaig",
-        "naptan:AtcoCode": "9100BSHB",
-        "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/bbg/",
-        "network:wikidata": "Q26334",
-        "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/bbg",
-        "operator:wikidata": "Q18356161",
-        "public_transport": "station",
-        "railway": "station",
-        "railway:position": "mi:3.2",
-        "railway:position:exact": "mi:3.2375",
-        "ref:crs": "BBG",
-        "source": "NPE",
-        "train": "yes",
-        "wikidata": "Q1856000",
-        "wikipedia": "en:Bishopbriggs railway station",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2245231,
-          55.9039668
-        ]
-      },
-      "id": "node/3049056215"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/3727609000",
+        "@id": "node/8443444417",
         "brand": "Scotland's Railway",
         "brand:wikidata": "Q136406287",
-        "fare_zone": "SPT Zone 1",
-        "name": "Alexandra Parade",
-        "name:gd": "Pairèad Alexandra",
-        "naptan:AtcoCode": "9100ALXPD",
+        "fare_zone": "SPT Zone 2",
+        "name": "Gilshochill",
+        "naptan:AtcoCode": "9100LAMBH",
         "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/axp/",
+        "network:website": "https://www.nationalrail.co.uk/stations/gsc/",
         "network:wikidata": "Q26334",
         "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/axp",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/gsc",
         "operator:wikidata": "Q18356161",
         "owner": "Network Rail",
         "owner:wikidata": "Q1501071",
@@ -133,118 +117,112 @@
         "public_transport": "station",
         "public_transport:version": "2",
         "railway": "station",
-        "ref:crs": "AXP",
+        "ref:crs": "GSC",
         "train": "yes",
-        "wheelchair": "no",
-        "wikidata": "Q2371477",
-        "wikipedia": "en:Alexandra Parade railway station",
+        "wikidata": "Q1841206",
+        "wikipedia": "en:Gilshochill railway station",
         "section": "Cowlairs"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2106693,
-          55.863615
+          -4.2824637,
+          55.8972879
         ]
       },
-      "id": "node/3727609000"
+      "id": "node/8443444417"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/3727609004",
-        "name": "Cumbernauld",
-        "name:gd": "Comar nan Allt",
-        "naptan:AtcoCode": "9100CMBRNLD",
+        "@id": "node/7287514086",
+        "brand": "Scotland's Railway",
+        "brand:wikidata": "Q136406287",
+        "fare_zone": "SPT Zone 2",
+        "name": "Possilpark and Parkhouse",
+        "name:gd": "Pàirc Phosail ⁊ Taigh na Pàirce",
+        "naptan:AtcoCode": "9100POSILPK",
         "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/cub/",
+        "network:website": "https://www.nationalrail.co.uk/stations/ppk/",
         "network:wikidata": "Q26334",
         "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/cub",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/ppk",
         "operator:wikidata": "Q18356161",
+        "owner": "Network Rail",
+        "owner:wikidata": "Q1501071",
+        "platforms": "2",
         "public_transport": "station",
+        "public_transport:version": "2",
         "railway": "station",
-        "ref:crs": "CUB",
-        "source": "Gps",
+        "ref:crs": "PPK",
         "train": "yes",
-        "wheelchair": "yes",
-        "wikidata": "Q2347472",
-        "wikipedia": "en:Cumbernauld railway station",
+        "wikidata": "Q1895384",
+        "wikipedia": "en:Possilpark & Parkhouse railway station",
         "section": "Cowlairs"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9803047,
-          55.941902
+          -4.2583527,
+          55.890141
         ]
       },
-      "id": "node/3727609004"
+      "id": "node/7287514086"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/3747498132",
-        "name": "Croy",
-        "name:gd": "Crothaidh",
-        "naptan:AtcoCode": "9100CROY",
-        "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/cro/",
-        "network:wikidata": "Q26334",
-        "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/cro",
-        "operator:wikidata": "Q18356161",
+        "name": "Queen Street",
         "public_transport": "station",
         "railway": "station",
-        "railway:position": "mi:11.5",
-        "ref:crs": "CRO",
         "train": "yes",
-        "wikidata": "Q2832500",
-        "wikipedia": "en:Croy railway station",
         "section": "Cowlairs"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0362565,
-          55.9556324
+          -4.251239383912791,
+          55.86238770440202
         ]
       },
-      "id": "node/3747498132"
+      "id": "manual/cowlairs-queen-street"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/3747498133",
-        "name": "Lenzie",
-        "name:gd": "Lèanaidh",
-        "naptan:AtcoCode": "9100LENZIE",
+        "@id": "node/7287514085",
+        "brand": "Scotland's Railway",
+        "brand:wikidata": "Q136406287",
+        "fare_zone": "SPT Zone 2",
+        "name": "Ashfield",
+        "name:gd": "Achadh an Uinnsinn",
+        "naptan:AtcoCode": "9100ASFIELD",
         "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/lnz/",
+        "network:website": "https://www.nationalrail.co.uk/stations/asf/",
         "network:wikidata": "Q26334",
         "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/lnz",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/asf",
         "operator:wikidata": "Q18356161",
+        "owner": "Network Rail",
+        "owner:wikidata": "Q1501071",
+        "platforms": "2",
         "public_transport": "station",
+        "public_transport:version": "2",
         "railway": "station",
-        "railway:position": "mi:6.25",
-        "railway:position:exact": "mi:6.250",
-        "ref:crs": "LNZ",
-        "source": "NPE",
+        "ref:crs": "ASF",
         "train": "yes",
-        "wheelchair": "yes",
-        "wikidata": "Q1893288",
-        "wikipedia": "en:Lenzie railway station",
+        "wikidata": "Q2800303",
+        "wikipedia": "en:Ashfield railway station (Scotland)",
         "section": "Cowlairs"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.1539264,
-          55.9213422
+          -4.2484588,
+          55.8888403
         ]
       },
-      "id": "node/3747498133"
+      "id": "node/7287514085"
     },
     {
       "type": "Feature",
@@ -288,63 +266,35 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4293990193",
-        "name": "Greenfaulds",
-        "name:gd": "A' Bhuaile Ghlas",
-        "naptan:AtcoCode": "9100GRNFLDS",
+        "@id": "node/3049056215",
+        "name": "Bishopbriggs",
+        "name:gd": "Drochaid an Easbaig",
+        "naptan:AtcoCode": "9100BSHB",
         "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/grl/",
+        "network:website": "https://www.nationalrail.co.uk/stations/bbg/",
         "network:wikidata": "Q26334",
         "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/grl",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/bbg",
         "operator:wikidata": "Q18356161",
         "public_transport": "station",
         "railway": "station",
-        "ref:crs": "GRL",
-        "source": "gps",
+        "railway:position": "mi:3.2",
+        "railway:position:exact": "mi:3.2375",
+        "ref:crs": "BBG",
+        "source": "NPE",
         "train": "yes",
-        "wikidata": "Q4989890",
-        "wikipedia": "en:Greenfaulds railway station",
+        "wikidata": "Q1856000",
+        "wikipedia": "en:Bishopbriggs railway station",
         "section": "Cowlairs"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9935101,
-          55.934965
+          -4.2245231,
+          55.9039668
         ]
       },
-      "id": "node/4293990193"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7057902640",
-        "name": "Robroyston",
-        "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/rrn/",
-        "network:wikidata": "Q26334",
-        "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/rrn",
-        "operator:wikidata": "Q18356161",
-        "public_transport": "station",
-        "railway": "station",
-        "ref:crs": "RRN",
-        "start_date": "2019-12-15",
-        "train": "yes",
-        "wheelchair": "yes",
-        "wikidata": "Q56755068",
-        "wikipedia": "en:Robroyston railway station",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1743912,
-          55.886885
-        ]
-      },
-      "id": "node/7057902640"
+      "id": "node/3049056215"
     },
     {
       "type": "Feature",
@@ -387,33 +337,104 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7209241887",
-        "name": "Gartcosh",
-        "name:gd": "Gart a' Chòis",
-        "naptan:AtcoCode": "9100GRTCSH",
+        "@id": "node/3727609000",
+        "brand": "Scotland's Railway",
+        "brand:wikidata": "Q136406287",
+        "fare_zone": "SPT Zone 1",
+        "name": "Alexandra Parade",
+        "name:gd": "Pairèad Alexandra",
+        "naptan:AtcoCode": "9100ALXPD",
         "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/grh/",
+        "network:website": "https://www.nationalrail.co.uk/stations/axp/",
         "network:wikidata": "Q26334",
         "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/grh",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/axp",
         "operator:wikidata": "Q18356161",
+        "owner": "Network Rail",
+        "owner:wikidata": "Q1501071",
+        "platforms": "2",
         "public_transport": "station",
+        "public_transport:version": "2",
         "railway": "station",
-        "ref:crs": "GRH",
+        "ref:crs": "AXP",
         "train": "yes",
-        "wheelchair": "yes",
-        "wikidata": "Q2770943",
-        "wikipedia": "en:Gartcosh railway station",
+        "wheelchair": "no",
+        "wikidata": "Q2371477",
+        "wikipedia": "en:Alexandra Parade railway station",
         "section": "Cowlairs"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0793828,
-          55.8856215
+          -4.2106693,
+          55.863615
         ]
       },
-      "id": "node/7209241887"
+      "id": "node/3727609000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7057902640",
+        "name": "Robroyston",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/rrn/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/rrn",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "ref:crs": "RRN",
+        "start_date": "2019-12-15",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q56755068",
+        "wikipedia": "en:Robroyston railway station",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1743912,
+          55.886885
+        ]
+      },
+      "id": "node/7057902640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3747498133",
+        "name": "Lenzie",
+        "name:gd": "Lèanaidh",
+        "naptan:AtcoCode": "9100LENZIE",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/lnz/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/lnz",
+        "operator:wikidata": "Q18356161",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position": "mi:6.25",
+        "railway:position:exact": "mi:6.250",
+        "ref:crs": "LNZ",
+        "source": "NPE",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q1893288",
+        "wikipedia": "en:Lenzie railway station",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1539264,
+          55.9213422
+        ]
+      },
+      "id": "node/3747498133"
     },
     {
       "type": "Feature",
@@ -449,148 +470,127 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7287514085",
-        "brand": "Scotland's Railway",
-        "brand:wikidata": "Q136406287",
-        "fare_zone": "SPT Zone 2",
-        "name": "Ashfield",
-        "name:gd": "Achadh an Uinnsinn",
-        "naptan:AtcoCode": "9100ASFIELD",
+        "@id": "node/7209241887",
+        "name": "Gartcosh",
+        "name:gd": "Gart a' Chòis",
+        "naptan:AtcoCode": "9100GRTCSH",
         "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/asf/",
+        "network:website": "https://www.nationalrail.co.uk/stations/grh/",
         "network:wikidata": "Q26334",
         "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/asf",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/grh",
         "operator:wikidata": "Q18356161",
-        "owner": "Network Rail",
-        "owner:wikidata": "Q1501071",
-        "platforms": "2",
         "public_transport": "station",
-        "public_transport:version": "2",
         "railway": "station",
-        "ref:crs": "ASF",
+        "ref:crs": "GRH",
         "train": "yes",
-        "wikidata": "Q2800303",
-        "wikipedia": "en:Ashfield railway station (Scotland)",
+        "wheelchair": "yes",
+        "wikidata": "Q2770943",
+        "wikipedia": "en:Gartcosh railway station",
         "section": "Cowlairs"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2484588,
-          55.8888403
+          -4.0793828,
+          55.8856215
         ]
       },
-      "id": "node/7287514085"
+      "id": "node/7209241887"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/7287514086",
-        "brand": "Scotland's Railway",
-        "brand:wikidata": "Q136406287",
-        "fare_zone": "SPT Zone 2",
-        "name": "Possilpark and Parkhouse",
-        "name:gd": "Pàirc Phosail ⁊ Taigh na Pàirce",
-        "naptan:AtcoCode": "9100POSILPK",
+        "@id": "node/3747498132",
+        "name": "Croy",
+        "name:gd": "Crothaidh",
+        "naptan:AtcoCode": "9100CROY",
         "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/ppk/",
+        "network:website": "https://www.nationalrail.co.uk/stations/cro/",
         "network:wikidata": "Q26334",
         "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/ppk",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/cro",
         "operator:wikidata": "Q18356161",
-        "owner": "Network Rail",
-        "owner:wikidata": "Q1501071",
-        "platforms": "2",
         "public_transport": "station",
-        "public_transport:version": "2",
         "railway": "station",
-        "ref:crs": "PPK",
+        "railway:position": "mi:11.5",
+        "ref:crs": "CRO",
         "train": "yes",
-        "wikidata": "Q1895384",
-        "wikipedia": "en:Possilpark & Parkhouse railway station",
+        "wikidata": "Q2832500",
+        "wikipedia": "en:Croy railway station",
         "section": "Cowlairs"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2583527,
-          55.890141
+          -4.0362565,
+          55.9556324
         ]
       },
-      "id": "node/7287514086"
+      "id": "node/3747498132"
     },
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8443444417",
-        "brand": "Scotland's Railway",
-        "brand:wikidata": "Q136406287",
-        "fare_zone": "SPT Zone 2",
-        "name": "Gilshochill",
-        "naptan:AtcoCode": "9100LAMBH",
+        "@id": "node/4293990193",
+        "name": "Greenfaulds",
+        "name:gd": "A' Bhuaile Ghlas",
+        "naptan:AtcoCode": "9100GRNFLDS",
         "network": "National Rail",
-        "network:website": "https://www.nationalrail.co.uk/stations/gsc/",
+        "network:website": "https://www.nationalrail.co.uk/stations/grl/",
         "network:wikidata": "Q26334",
         "operator": "ScotRail",
-        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/gsc",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/grl",
         "operator:wikidata": "Q18356161",
-        "owner": "Network Rail",
-        "owner:wikidata": "Q1501071",
-        "platforms": "2",
         "public_transport": "station",
-        "public_transport:version": "2",
         "railway": "station",
-        "ref:crs": "GSC",
+        "ref:crs": "GRL",
+        "source": "gps",
         "train": "yes",
-        "wikidata": "Q1841206",
-        "wikipedia": "en:Gilshochill railway station",
+        "wikidata": "Q4989890",
+        "wikipedia": "en:Greenfaulds railway station",
         "section": "Cowlairs"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2824637,
-          55.8972879
+          -3.9935101,
+          55.934965
         ]
       },
-      "id": "node/8443444417"
+      "id": "node/4293990193"
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Queen Street",
+        "@id": "node/3727609004",
+        "name": "Cumbernauld",
+        "name:gd": "Comar nan Allt",
+        "naptan:AtcoCode": "9100CMBRNLD",
+        "network": "National Rail",
+        "network:website": "https://www.nationalrail.co.uk/stations/cub/",
+        "network:wikidata": "Q26334",
+        "operator": "ScotRail",
+        "operator:website": "https://www.scotrail.co.uk/plan-your-journey/stations-and-facilities/cub",
+        "operator:wikidata": "Q18356161",
         "public_transport": "station",
         "railway": "station",
+        "ref:crs": "CUB",
+        "source": "Gps",
         "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q2347472",
+        "wikipedia": "en:Cumbernauld railway station",
         "section": "Cowlairs"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.251239383912791,
-          55.86238770440202
+          -3.9803047,
+          55.941902
         ]
       },
-      "id": "manual/cowlairs-queen-street"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Anniesland",
-        "public_transport": "station",
-        "railway": "station",
-        "train": "yes",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.321561537010647,
-          55.88966381508606
-        ]
-      },
-      "id": "manual/cowlairs-anniesland"
+      "id": "node/3727609004"
     }
   ]
 }

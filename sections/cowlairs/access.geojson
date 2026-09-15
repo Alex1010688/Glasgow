@@ -52,7 +52,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cowlairs",
+        "name": "Old box",
         "type": "access_point",
         "notes": "",
         "section": "Cowlairs"
@@ -60,15 +60,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2382044,
-          55.8820585
+          -4.2422002,
+          55.8892084
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cowlairs Chord",
+        "name": "Eastfield Down Passenger Loop",
         "type": "access_point",
         "notes": "",
         "section": "Cowlairs"
@@ -76,8 +76,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2360962,
-          55.8829161
+          -4.2403404,
+          55.8884907
         ]
       }
     },
@@ -108,6 +108,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.2382044,
+          55.8820585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cowlairs",
+        "type": "access_point",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.2377913,
           55.8847574
         ]
@@ -116,7 +132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Old box",
+        "name": "Cowlairs Chord",
         "type": "access_point",
         "notes": "",
         "section": "Cowlairs"
@@ -124,24 +140,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2422002,
-          55.8892084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Eastfield Down Passenger Loop",
-        "type": "access_point",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2403404,
-          55.8884907
+          -4.2360962,
+          55.8829161
         ]
       }
     },

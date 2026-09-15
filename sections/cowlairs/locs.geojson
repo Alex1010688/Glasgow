@@ -4,1206 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EG16/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9181992,
-          55.9837188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG16/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9303723,
-          55.9826909
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG16/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.932561,
-          55.9825026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG15/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9521972,
-          55.9812343
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG15/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9616108,
-          55.9816896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG14/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9709181,
-          55.9809483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG13/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9872585,
-          55.9767119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG13/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9953876,
-          55.9742197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG13/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0040113,
-          55.9715705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG12/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0177723,
-          55.9682118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG12/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0208975,
-          55.9668221
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG12/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0264241,
-          55.962957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG11/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0312748,
-          55.9592098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG11/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0438369,
-          55.9523531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG11/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0460449,
-          55.9518145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG10/5",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0554978,
-          55.9496656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG10/4",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.06004,
-          55.9485122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG10/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.061821,
-          55.947958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG10/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0655539,
-          55.9467356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG10/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0683507,
-          55.9455843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG9/5",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.069938,
-          55.9448409
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG9/4",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0721343,
-          55.9436876
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG9/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0761063,
-          55.9415363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG9/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0819958,
-          55.9383692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG9/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0863656,
-          55.9363737
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG8/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0927204,
-          55.93414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG8/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0993401,
-          55.9324302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG7/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1163156,
-          55.9290644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG7/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1331653,
-          55.9260711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG6/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1472981,
-          55.922773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG6/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1546017,
-          55.9211145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG5/6",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1644943,
-          55.9184325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG5/5",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1674309,
-          55.9176879
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG5/4",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1707142,
-          55.9169549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG5/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1742601,
-          55.9163221
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG5/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.177647,
-          55.9157963
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG5/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1834092,
-          55.9149272
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG4/5",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1902346,
-          55.9138841
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG4/4",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1935043,
-          55.9133694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG4/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1957037,
-          55.9129861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG4/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1993009,
-          55.9124176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG4/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2028817,
-          55.9117147
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG3/4",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.209331,
-          55.9098846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG3/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2143371,
-          55.9079814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG3/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2236546,
-          55.9043701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG3/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2262071,
-          55.9033883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG2/7",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2322184,
-          55.9002768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG2/6",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2374325,
-          55.8960188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG2/5",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2400035,
-          55.8932852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG2/4",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2403898,
-          55.8925693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG2/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2407639,
-          55.8914999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG2/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2408712,
-          55.8909028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "SR1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2404059,
-          55.8897859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG2/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2409748,
-          55.8899248
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH8/4",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2410281,
-          55.8900391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG1/9 CASES A-E",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2408591,
-          55.8886418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG1/6 CASE F",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2404206,
-          55.8884673
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG1/8",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.240613,
-          55.8877599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG1/7",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2402113,
-          55.8868372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "EG1/6",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2397002,
-          55.885754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "SB0/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2389157,
-          55.8855562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH8/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2428493,
-          55.888961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH8/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2437344,
-          55.888776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH8/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2455027,
-          55.8887283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH7/4",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2469457,
-          55.8887824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH7/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2488568,
-          55.8889381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH7/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.256607,
-          55.8899677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH7/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2686207,
-          55.8916047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH6/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.274068,
-          55.893487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH6/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.276702,
-          55.8946841
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH6/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2879645,
-          55.8984645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH5/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2958621,
-          55.8986404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH5/2",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3032649,
-          55.8966437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH5/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3059922,
-          55.8957297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MH4/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3095245,
-          55.8945564
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "MH4/1",
         "type": "Locs",
         "notes": "",
@@ -1214,70 +14,6 @@
         "coordinates": [
           -4.3229262,
           55.8987657
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AB00.26",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3064238,
-          55.8946365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AB00.63",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3119518,
-          55.8934829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AB00.88",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3158741,
-          55.8936653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AB01.28",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3196936,
-          55.892256
         ]
       }
     },
@@ -1300,6 +36,582 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "AB01.28",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3196936,
+          55.892256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AB00.88",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3158741,
+          55.8936653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AB00.63",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3119518,
+          55.8934829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH4/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3095245,
+          55.8945564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AB00.26",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3064238,
+          55.8946365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH5/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3059922,
+          55.8957297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH5/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3032649,
+          55.8966437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH5/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2958621,
+          55.8986404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH6/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2879645,
+          55.8984645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH6/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.276702,
+          55.8946841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH6/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.274068,
+          55.893487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH7/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2686207,
+          55.8916047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH7/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.256607,
+          55.8899677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG0/1 Queen Street Equipment Room",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2501819,
+          55.8642961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH7/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2488568,
+          55.8889381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG0/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2479108,
+          55.8679617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH7/4",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2469457,
+          55.8887824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH8/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2455027,
+          55.8887283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH8/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2437344,
+          55.888776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG0/4",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2436699,
+          55.8739552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH8/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2428493,
+          55.888961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG1/1 CASE C",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2415264,
+          55.8774278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG1/1 CASE A&B",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2413494,
+          55.8773819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MH8/4",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2410281,
+          55.8900391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG2/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2409748,
+          55.8899248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG2/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2408712,
+          55.8909028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG1/9 CASES A-E",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2408591,
+          55.8886418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG2/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2407639,
+          55.8914999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG1/8",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.240613,
+          55.8877599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG1/6 CASE F",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2404206,
+          55.8884673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SR1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2404059,
+          55.8897859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG2/4",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2403898,
+          55.8925693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG1/7",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2402113,
+          55.8868372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG2/5",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2400035,
+          55.8932852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG1/6",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2397002,
+          55.885754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG1/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2395087,
+          55.8800856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "EG1/5",
         "type": "Locs",
         "notes": "",
@@ -1310,6 +622,22 @@
         "coordinates": [
           -4.2393506,
           55.8849948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SB0/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2389157,
+          55.8855562
         ]
       }
     },
@@ -1364,7 +692,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "EG1/2",
+        "name": "SB0/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1372,15 +700,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2395087,
-          55.8800856
+          -4.2379339,
+          55.8848861
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "SB0/6",
+        "name": "EG2/6",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1388,56 +716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2308298,
-          55.8818293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "SB0/5",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2319469,
-          55.8821317
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "SB0/4",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2331422,
-          55.8824204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "SB0/3",
-        "type": "Locs",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.23438,
-          55.8828582
+          -4.2374325,
+          55.8960188
         ]
       }
     },
@@ -1460,7 +740,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SB0/2",
+        "name": "SB0/3",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1468,15 +748,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2379339,
-          55.8848861
+          -4.23438,
+          55.8828582
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "EG1/1 CASE A&B",
+        "name": "SB0/4",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1484,15 +764,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2413494,
-          55.8773819
+          -4.2331422,
+          55.8824204
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "EG1/1 CASE C",
+        "name": "EG2/7",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1500,15 +780,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2415264,
-          55.8774278
+          -4.2322184,
+          55.9002768
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "EG0/4",
+        "name": "SB0/5",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1516,15 +796,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2436699,
-          55.8739552
+          -4.2319469,
+          55.8821317
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "EG0/2",
+        "name": "SB0/6",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1532,15 +812,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2479108,
-          55.8679617
+          -4.2308298,
+          55.8818293
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "EG0/1 Queen Street Equipment Room",
+        "name": "SB0/7",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1548,15 +828,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2501819,
-          55.8642961
+          -4.2280157,
+          55.8809488
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "SB1/3",
+        "name": "SB0/8",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1564,15 +844,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2134219,
-          55.8663875
+          -4.2269321,
+          55.8805148
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "SB1/2",
+        "name": "EG3/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1580,15 +860,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2173445,
-          55.871462
+          -4.2262071,
+          55.9033883
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "SB0/11",
+        "name": "SB0/9",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1596,8 +876,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2227568,
-          55.8773568
+          -4.2254864,
+          55.8796256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S103/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2245297,
+          55.878714
         ]
       }
     },
@@ -1620,7 +916,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "S103/3",
+        "name": "EG3/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1628,8 +924,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2245297,
-          55.878714
+          -4.2236546,
+          55.9043701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SB0/11",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2227568,
+          55.8773568
         ]
       }
     },
@@ -1668,6 +980,102 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "SB1/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2173445,
+          55.871462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG3/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2143371,
+          55.9079814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SB1/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2134219,
+          55.8663875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG3/4",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.209331,
+          55.9098846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG4/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2028817,
+          55.9117147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG4/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1993009,
+          55.9124176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "S102/1",
         "type": "Locs",
         "notes": "",
@@ -1678,6 +1086,54 @@
         "coordinates": [
           -4.1960227,
           55.8798906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG4/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1957037,
+          55.9129861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG4/4",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1935043,
+          55.9133694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG4/5",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1902346,
+          55.9138841
         ]
       }
     },
@@ -1700,6 +1156,86 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "EG5/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1834092,
+          55.9149272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG5/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.177647,
+          55.9157963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG5/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1742601,
+          55.9163221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG5/4",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1707142,
+          55.9169549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG5/5",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1674309,
+          55.9176879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "S100/2",
         "type": "Locs",
         "notes": "",
@@ -1716,7 +1252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SB0/9",
+        "name": "EG5/6",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1724,15 +1260,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2254864,
-          55.8796256
+          -4.1644943,
+          55.9184325
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "SB0/8",
+        "name": "EG6/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1740,15 +1276,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2269321,
-          55.8805148
+          -4.1546017,
+          55.9211145
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "SB0/7",
+        "name": "EG6/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1756,15 +1292,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2280157,
-          55.8809488
+          -4.1472981,
+          55.922773
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P104/1",
+        "name": "S100/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1772,15 +1308,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9439599,
-          55.9759282
+          -4.1445864,
+          55.8899977
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P103/2",
+        "name": "EG7/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1788,15 +1324,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9557524,
-          55.965393
+          -4.1331653,
+          55.9260711
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P103/1",
+        "name": "S99/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1804,15 +1340,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9582294,
-          55.9635201
+          -4.12638,
+          55.8907818
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P102/3",
+        "name": "EG7/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1820,15 +1356,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9616835,
-          55.9581162
+          -4.1163156,
+          55.9290644
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P102/2",
+        "name": "EG8/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1836,15 +1372,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9645246,
-          55.9528486
+          -4.0993401,
+          55.9324302
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P102/1",
+        "name": "S98/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1852,15 +1388,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9649752,
-          55.9501604
+          -4.0985714,
+          55.8886895
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P101/3",
+        "name": "S98/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1868,15 +1404,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9744787,
-          55.9442822
+          -4.0946157,
+          55.8880866
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P101/2",
+        "name": "EG8/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1884,15 +1420,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9786415,
-          55.9426509
+          -4.0927204,
+          55.93414
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P101/1",
+        "name": "EG9/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1900,15 +1436,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9819782,
-          55.941314
+          -4.0863656,
+          55.9363737
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P99/1",
+        "name": "S97/3",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1916,15 +1452,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0180922,
-          55.9207689
+          -4.0863159,
+          55.8867855
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P98/2",
+        "name": "EG9/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1932,15 +1468,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0257785,
-          55.9127719
+          -4.0819958,
+          55.9383692
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P99/2",
+        "name": "S97/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1948,15 +1484,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0153133,
-          55.9221534
+          -4.0774756,
+          55.885403
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P99/3",
+        "name": "EG9/3",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1964,15 +1500,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0119484,
-          55.9239097
+          -4.0761063,
+          55.9415363
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P100/1",
+        "name": "EG9/4",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1980,15 +1516,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9969649,
-          55.9329683
+          -4.0721343,
+          55.9436876
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P99/4",
+        "name": "S97/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -1996,15 +1532,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.003618,
-          55.92894
+          -4.0719342,
+          55.884582
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P98/1",
+        "name": "EG9/5",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2012,15 +1548,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0282869,
-          55.906034
+          -4.069938,
+          55.9448409
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P97/4 REB",
+        "name": "EG10/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2028,15 +1564,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0315676,
-          55.9015251
+          -4.0683507,
+          55.9455843
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P97/3",
+        "name": "S0/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2044,15 +1580,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0326775,
-          55.9005199
+          -4.0682062,
+          55.8844607
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P97/2",
+        "name": "G96/5",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2060,15 +1596,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0391154,
-          55.8950148
+          -4.0669292,
+          55.8837493
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P97/1",
+        "name": "EG10/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2076,8 +1612,184 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0412978,
-          55.8931422
+          -4.0655539,
+          55.9467356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG10/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.061821,
+          55.947958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S0/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0616057,
+          55.8857585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "G96/4",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0612985,
+          55.8828681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG10/4",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06004,
+          55.9485122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "G96/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0559794,
+          55.8816787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG10/5",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0554978,
+          55.9496656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "S0/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.046484,
+          55.890038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG11/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0460449,
+          55.9518145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P96/4",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0446226,
+          55.8870898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P/",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0440102,
+          55.8893271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG11/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0438369,
+          55.9523531
         ]
       }
     },
@@ -2116,7 +1828,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "P/",
+        "name": "P97/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2124,15 +1836,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0440102,
-          55.8893271
+          -4.0412978,
+          55.8931422
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "P96/4",
+        "name": "P97/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2140,15 +1852,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0446226,
-          55.8870898
+          -4.0391154,
+          55.8950148
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "S0/3",
+        "name": "P97/3",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2156,15 +1868,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.046484,
-          55.890038
+          -4.0326775,
+          55.9005199
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "S0/2",
+        "name": "P97/4 REB",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2172,15 +1884,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0616057,
-          55.8857585
+          -4.0315676,
+          55.9015251
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "S0/1",
+        "name": "EG11/3",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2188,15 +1900,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0682062,
-          55.8844607
+          -4.0312748,
+          55.9592098
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "S97/1",
+        "name": "P98/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2204,15 +1916,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0719342,
-          55.884582
+          -4.0282869,
+          55.906034
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "G96/5",
+        "name": "EG12/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2220,15 +1932,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0669292,
-          55.8837493
+          -4.0264241,
+          55.962957
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "G96/4",
+        "name": "P98/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2236,15 +1948,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0612985,
-          55.8828681
+          -4.0257785,
+          55.9127719
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "G96/3",
+        "name": "EG12/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2252,15 +1964,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0559794,
-          55.8816787
+          -4.0208975,
+          55.9668221
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "S97/2",
+        "name": "P99/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2268,15 +1980,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0774756,
-          55.885403
+          -4.0180922,
+          55.9207689
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "S97/3",
+        "name": "EG12/3",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2284,15 +1996,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0863159,
-          55.8867855
+          -4.0177723,
+          55.9682118
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "S98/1",
+        "name": "P99/2",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2300,15 +2012,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0946157,
-          55.8880866
+          -4.0153133,
+          55.9221534
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "S98/2",
+        "name": "P99/3",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2316,15 +2028,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0985714,
-          55.8886895
+          -4.0119484,
+          55.9239097
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "S99/1",
+        "name": "EG13/1",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2332,15 +2044,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.12638,
-          55.8907818
+          -4.0040113,
+          55.9715705
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "S100/1",
+        "name": "P99/4",
         "type": "Locs",
         "notes": "",
         "section": "Cowlairs"
@@ -2348,8 +2060,296 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.1445864,
-          55.8899977
+          -4.003618,
+          55.92894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P100/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9969649,
+          55.9329683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG13/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9953876,
+          55.9742197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG13/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9872585,
+          55.9767119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P101/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9819782,
+          55.941314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P101/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9786415,
+          55.9426509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P101/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9744787,
+          55.9442822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG14/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9709181,
+          55.9809483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P102/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9649752,
+          55.9501604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P102/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9645246,
+          55.9528486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P102/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9616835,
+          55.9581162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG15/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9616108,
+          55.9816896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P103/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9582294,
+          55.9635201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P103/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9557524,
+          55.965393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG15/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9521972,
+          55.9812343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "P104/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9439599,
+          55.9759282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG16/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.932561,
+          55.9825026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG16/2",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9303723,
+          55.9826909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EG16/3",
+        "type": "Locs",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9181992,
+          55.9837188
         ]
       }
     }

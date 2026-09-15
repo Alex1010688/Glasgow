@@ -4,61 +4,16 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ardmore East",
-        "type": "AHB",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.6832, 55.9728]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cardross",
-        "type": "AHB",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.6537, 55.9605]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bainfield",
-        "type": "UWC",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.6492, 55.9581]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Lochan Na Bi",
-        "type": "UWC",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.7382, 56.443]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Arnibea",
+        "name": "High Balernock",
         "type": "UWC+telephones",
         "section": "Yoker"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.7615, 56.446]
+        "coordinates": [
+          -4.8131,
+          56.0574
+        ]
       }
     },
     {
@@ -70,67 +25,25 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.8103, 56.4365]
+        "coordinates": [
+          -4.8103,
+          56.4365
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Geilston",
+        "name": "Arnibea",
         "type": "UWC+telephones",
         "section": "Yoker"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.6631, 55.9619]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Geilston Farm",
-        "type": "UWC+telephones",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.6701, 55.9629]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Brooks",
-        "type": "UWC+telephones",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.6752, 55.9651]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Moss Road",
-        "type": "AHB",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.6902, 55.9818]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Woodend",
-        "type": "UWC+telephones",
-        "section": "Yoker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-4.7438, 56.0152]
+        "coordinates": [
+          -4.7615,
+          56.446
+        ]
       }
     },
     {
@@ -142,19 +55,145 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.7583, 56.0184]
+        "coordinates": [
+          -4.7583,
+          56.0184
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "High Balernock",
+        "name": "Woodend",
         "type": "UWC+telephones",
         "section": "Yoker"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.8131, 56.0574]
+        "coordinates": [
+          -4.7438,
+          56.0152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lochan Na Bi",
+        "type": "UWC",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7382,
+          56.443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moss Road",
+        "type": "AHB",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6902,
+          55.9818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardmore East",
+        "type": "AHB",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6832,
+          55.9728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooks",
+        "type": "UWC+telephones",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6752,
+          55.9651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geilston Farm",
+        "type": "UWC+telephones",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6701,
+          55.9629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geilston",
+        "type": "UWC+telephones",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6631,
+          55.9619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cardross",
+        "type": "AHB",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6537,
+          55.9605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bainfield",
+        "type": "UWC",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6492,
+          55.9581
+        ]
       }
     }
   ]

@@ -4,21 +4,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CQ58",
+        "name": "CE316",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "18262925",
-            "label": "AWS YE"
+            "number": "1831068",
+            "label": "AWS"
           },
           {
-            "number": "18262926",
-            "label": "AWS YS"
-          },
-          {
-            "number": "18262892",
+            "number": "1831105",
             "label": "Signal"
           }
         ]
@@ -26,29 +22,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2478592,
-          55.8679747
+          -4.3229197,
+          55.8987508
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "CQ57",
+        "name": "CE486",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "18262932",
-            "label": "AWS"
-          },
-          {
-            "number": "18262895",
+            "number": "17749955",
             "label": "Signal"
           },
           {
-            "number": "18262924",
+            "number": "17749956",
             "label": "TPWS"
           }
         ]
@@ -56,29 +48,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2477573,
-          55.867956
+          -4.3204557,
+          55.8914364
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "CQ249",
+        "name": "CE484",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "18262931",
+            "number": "17749951",
             "label": "AWS"
           },
           {
-            "number": "18262894",
+            "number": "17749948",
             "label": "Signal"
           },
           {
-            "number": "18262923",
+            "number": "17749949",
             "label": "TPWS"
           }
         ]
@@ -86,71 +78,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2478766,
-          55.8679408
+          -4.3182178,
+          55.8932235
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "CQ57",
+        "name": "CE481",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "18262932",
+            "number": "17749938",
             "label": "AWS"
           },
           {
-            "number": "18262895",
-            "label": "Signal"
-          },
-          {
-            "number": "18262924",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.247776,
-          55.867925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CQ251",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "18262929",
-            "label": "AWS"
-          },
-          {
-            "number": "18262890",
+            "number": "17749941",
             "label": "RTI"
           },
           {
-            "number": "18262888",
-            "label": "RTI"
-          },
-          {
-            "number": "18262886",
-            "label": "Position Light"
-          },
-          {
-            "number": "18262884",
+            "number": "17749939",
             "label": "Signal"
           },
           {
-            "number": "18262921",
+            "number": "17749940",
             "label": "TPWS"
           }
         ]
@@ -158,50 +112,224 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.249012,
-          55.8663579
+          -4.3139065,
+          55.8935553
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "CQ59",
+        "name": "CE482",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "18262930",
+            "number": "1829399",
             "label": "AWS"
           },
           {
-            "number": "18262891",
-            "label": "RTI"
-          },
-          {
-            "number": "18262889",
-            "label": "RTI"
-          },
-          {
-            "number": "18262887",
-            "label": "Position Light"
-          },
-          {
-            "number": "18262885",
+            "number": "1831118",
             "label": "Signal"
-          },
-          {
-            "number": "18262922",
-            "label": "TPWS"
           }
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2488833,
-          55.8663382
+          -4.3118208,
+          55.8934629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE480",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1829398",
+            "label": "AWS"
+          },
+          {
+            "number": "1831117",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3064715,
+          55.8947407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE314",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1831069",
+            "label": "AWS"
+          },
+          {
+            "number": "2580781",
+            "label": "SPTs"
+          },
+          {
+            "number": "1831114",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3058849,
+          55.895748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE313",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1831070",
+            "label": "AWS"
+          },
+          {
+            "number": "17749960",
+            "label": "RTI"
+          },
+          {
+            "number": "17749959",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2962136,
+          55.8986364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE313BR",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "17749961",
+            "label": "Banner"
+          },
+          {
+            "number": "19269953",
+            "label": "Banner"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2938501,
+          55.8988124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE311",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1831071",
+            "label": "AWS"
+          },
+          {
+            "number": "1831116",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.276889,
+          55.8948097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE310",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "484354",
+            "label": "AWS"
+          },
+          {
+            "number": "483605",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2737255,
+          55.8934791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE308",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "484351",
+            "label": "AWS"
+          },
+          {
+            "number": "483707",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2567343,
+          55.8900754
         ]
       }
     },
@@ -288,6 +416,56 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CQ83",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262854",
+            "label": "Stencil"
+          },
+          {
+            "number": "18262855",
+            "label": "Stencil"
+          },
+          {
+            "number": "18262856",
+            "label": "Stencil"
+          },
+          {
+            "number": "1370056",
+            "label": "SPTs"
+          },
+          {
+            "number": "18262879",
+            "label": "RTI"
+          },
+          {
+            "number": "18262872",
+            "label": "Signal"
+          },
+          {
+            "number": "18262911",
+            "label": "TPWS TS"
+          },
+          {
+            "number": "18262912",
+            "label": "TPWS TS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2506444,
+          55.8639023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CQ85",
         "type": "Signals",
         "notes": "",
@@ -328,6 +506,52 @@
         "coordinates": [
           -4.2506135,
           55.8637358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ84",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262857",
+            "label": "Stencil"
+          },
+          {
+            "number": "18262858",
+            "label": "Stencil"
+          },
+          {
+            "number": "18262859",
+            "label": "Stencil"
+          },
+          {
+            "number": "18262880",
+            "label": "RTI"
+          },
+          {
+            "number": "18262873",
+            "label": "Signal"
+          },
+          {
+            "number": "18262913",
+            "label": "TPWS TS"
+          },
+          {
+            "number": "18262914",
+            "label": "TPWS TS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2505935,
+          55.863897
         ]
       }
     },
@@ -422,96 +646,298 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CQ83",
+        "name": "CE307",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "18262854",
-            "label": "Stencil"
+            "number": "484375",
+            "label": "AWS"
           },
           {
-            "number": "18262855",
-            "label": "Stencil"
-          },
-          {
-            "number": "18262856",
-            "label": "Stencil"
-          },
-          {
-            "number": "1370056",
-            "label": "SPTs"
-          },
-          {
-            "number": "18262879",
-            "label": "RTI"
-          },
-          {
-            "number": "18262872",
+            "number": "1468686",
             "label": "Signal"
-          },
-          {
-            "number": "18262911",
-            "label": "TPWS TS"
-          },
-          {
-            "number": "18262912",
-            "label": "TPWS TS"
           }
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2506444,
-          55.8639023
+          -4.2491759,
+          55.8888798
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "CQ84",
+        "name": "CQ251",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "18262857",
-            "label": "Stencil"
+            "number": "18262929",
+            "label": "AWS"
           },
           {
-            "number": "18262858",
-            "label": "Stencil"
-          },
-          {
-            "number": "18262859",
-            "label": "Stencil"
-          },
-          {
-            "number": "18262880",
+            "number": "18262890",
             "label": "RTI"
           },
           {
-            "number": "18262873",
+            "number": "18262888",
+            "label": "RTI"
+          },
+          {
+            "number": "18262886",
+            "label": "Position Light"
+          },
+          {
+            "number": "18262884",
             "label": "Signal"
           },
           {
-            "number": "18262913",
-            "label": "TPWS TS"
-          },
-          {
-            "number": "18262914",
-            "label": "TPWS TS"
+            "number": "18262921",
+            "label": "TPWS"
           }
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2505935,
-          55.863897
+          -4.249012,
+          55.8663579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ59",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262930",
+            "label": "AWS"
+          },
+          {
+            "number": "18262891",
+            "label": "RTI"
+          },
+          {
+            "number": "18262889",
+            "label": "RTI"
+          },
+          {
+            "number": "18262887",
+            "label": "Position Light"
+          },
+          {
+            "number": "18262885",
+            "label": "Signal"
+          },
+          {
+            "number": "18262922",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2488833,
+          55.8663382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ249",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262931",
+            "label": "AWS"
+          },
+          {
+            "number": "18262894",
+            "label": "Signal"
+          },
+          {
+            "number": "18262923",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2478766,
+          55.8679408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ58",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262925",
+            "label": "AWS YE"
+          },
+          {
+            "number": "18262926",
+            "label": "AWS YS"
+          },
+          {
+            "number": "18262892",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2478592,
+          55.8679747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ57",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262932",
+            "label": "AWS"
+          },
+          {
+            "number": "18262895",
+            "label": "Signal"
+          },
+          {
+            "number": "18262924",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.247776,
+          55.867925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ57",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18262932",
+            "label": "AWS"
+          },
+          {
+            "number": "18262895",
+            "label": "Signal"
+          },
+          {
+            "number": "18262924",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2477573,
+          55.867956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE306",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "484350",
+            "label": "AWS"
+          },
+          {
+            "number": "2589648",
+            "label": "SPTs"
+          },
+          {
+            "number": "494979",
+            "label": "RTI"
+          },
+          {
+            "number": "483611",
+            "label": "Signal"
+          },
+          {
+            "number": "1110124",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2471447,
+          55.8887791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE608",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "19001069",
+            "label": "SPTs"
+          },
+          {
+            "number": "1540370",
+            "label": "RTI"
+          },
+          {
+            "number": "1540355",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2458089,
+          55.8886377
         ]
       }
     },
@@ -552,40 +978,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CQ55",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1468906",
-            "label": "AWS"
-          },
-          {
-            "number": "1295666",
-            "label": "SPTs"
-          },
-          {
-            "number": "18262899",
-            "label": "Signal"
-          },
-          {
-            "number": "1972801",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2437585,
-          55.8738671
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "CQ56",
         "type": "Signals",
         "notes": "",
@@ -620,6 +1012,74 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CE302",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1694973",
+            "label": "AWS"
+          },
+          {
+            "number": "2589588",
+            "label": "SPTs"
+          },
+          {
+            "number": "483589",
+            "label": "Signal"
+          },
+          {
+            "number": "1113002",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2438722,
+          55.8886382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ55",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1468906",
+            "label": "AWS"
+          },
+          {
+            "number": "1295666",
+            "label": "SPTs"
+          },
+          {
+            "number": "18262899",
+            "label": "Signal"
+          },
+          {
+            "number": "1972801",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2437585,
+          55.8738671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CQ248",
         "type": "Signals",
         "notes": "",
@@ -648,6 +1108,66 @@
         "coordinates": [
           -4.2437344,
           55.8739145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE604",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580787",
+            "label": "SPTs"
+          },
+          {
+            "number": "488285",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2431537,
+          55.8886013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE305",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "483966",
+            "label": "AWS"
+          },
+          {
+            "number": "2589628",
+            "label": "SPTs"
+          },
+          {
+            "number": "488295",
+            "label": "Signal"
+          },
+          {
+            "number": "1113012",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2429,
+          55.8888416
         ]
       }
     },
@@ -730,29 +1250,29 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CQ53",
+        "name": "CE304",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "1112731",
+            "number": "483966",
             "label": "AWS"
           },
           {
-            "number": "2580557",
+            "number": "2589608",
             "label": "SPTs"
           },
           {
-            "number": "494502",
-            "label": "RTI"
+            "number": "2580780",
+            "label": "SPTs"
           },
           {
-            "number": "479818",
+            "number": "488275",
             "label": "Signal"
           },
           {
-            "number": "1110089",
+            "number": "1113004",
             "label": "TPWS"
           }
         ]
@@ -760,288 +1280,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2388188,
-          55.8812688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CQ245",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112730",
-            "label": "AWS"
-          },
-          {
-            "number": "2580801",
-            "label": "SPTs"
-          },
-          {
-            "number": "479809",
-            "label": "Signal"
-          },
-          {
-            "number": "1110088",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2389636,
-          55.8812989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CQ241",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580800",
-            "label": "SPTs"
-          },
-          {
-            "number": "494508",
-            "label": "RTI"
-          },
-          {
-            "number": "479806",
-            "label": "Signal"
-          },
-          {
-            "number": "1112980",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.238674,
-          55.88135
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CQ427",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1468904",
-            "label": "AWS"
-          },
-          {
-            "number": "2580802",
-            "label": "SPTs"
-          },
-          {
-            "number": "494797",
-            "label": "RTI"
-          },
-          {
-            "number": "479386",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2380445,
-          55.8819845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC52",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112729",
-            "label": "AWS"
-          },
-          {
-            "number": "2589306",
-            "label": "SPTs"
-          },
-          {
-            "number": "494483",
-            "label": "RTI"
-          },
-          {
-            "number": "479790",
-            "label": "Signal"
-          },
-          {
-            "number": "2521265",
-            "label": "Position Light"
-          },
-          {
-            "number": "1822595",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2387386,
-          55.8831189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC238",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112570",
-            "label": "AWS"
-          },
-          {
-            "number": "2589162",
-            "label": "SPTs"
-          },
-          {
-            "number": "494479",
-            "label": "RTI"
-          },
-          {
-            "number": "479792",
-            "label": "Signal"
-          },
-          {
-            "number": "2521222",
-            "label": "Position Light"
-          },
-          {
-            "number": "1821003",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2385884,
-          55.883122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC240",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2589189",
-            "label": "SPTs"
-          },
-          {
-            "number": "468726",
-            "label": "RTI"
-          },
-          {
-            "number": "488319",
-            "label": "Signal"
-          },
-          {
-            "number": "1822593",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2384207,
-          55.883149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC535",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580772",
-            "label": "SPTs"
-          },
-          {
-            "number": "494500",
-            "label": "RTI"
-          },
-          {
-            "number": "479800",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2393166,
-          55.8850026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC605",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580773",
-            "label": "SPTs"
-          },
-          {
-            "number": "2746268",
-            "label": "RTI"
-          },
-          {
-            "number": "483614",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2405939,
-          55.8875123
+          -4.2411416,
+          55.8900798
         ]
       }
     },
@@ -1080,230 +1320,6 @@
         "coordinates": [
           -4.2410652,
           55.8880331
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC532",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580769",
-            "label": "SPTs"
-          },
-          {
-            "number": "488290",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2405408,
-          55.888346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC531",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580768",
-            "label": "SPTs"
-          },
-          {
-            "number": "488289",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2404644,
-          55.8883678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC529",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580767",
-            "label": "SPTs"
-          },
-          {
-            "number": "488291",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2404456,
-          55.8886927
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC235",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "488318",
-            "label": "Signal"
-          },
-          {
-            "number": "1593287",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2405663,
-          55.8885664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC237",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1694923",
-            "label": "AWS"
-          },
-          {
-            "number": "471874",
-            "label": "RTI"
-          },
-          {
-            "number": "488286",
-            "label": "Signal"
-          },
-          {
-            "number": "1110115",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2407259,
-          55.8885874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC51",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112580",
-            "label": "AWS"
-          },
-          {
-            "number": "2580761",
-            "label": "SPTs"
-          },
-          {
-            "number": "494521",
-            "label": "RTI"
-          },
-          {
-            "number": "479853",
-            "label": "Signal"
-          },
-          {
-            "number": "1593307",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2406575,
-          55.8885889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC525",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580765",
-            "label": "SPTs"
-          },
-          {
-            "number": "488287",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.240565,
-          55.88935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC523",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "488288",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2406387,
-          55.889353
         ]
       }
     },
@@ -1386,81 +1402,25 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CC533",
+        "name": "CC237",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "2580770",
-            "label": "SPTs"
-          },
-          {
-            "number": "1806178",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2404308,
-          55.8900673
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CC527",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580778",
-            "label": "SPTs"
-          },
-          {
-            "number": "488277",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2405033,
-          55.8900778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE304",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "483966",
+            "number": "1694923",
             "label": "AWS"
           },
           {
-            "number": "2589608",
-            "label": "SPTs"
+            "number": "471874",
+            "label": "RTI"
           },
           {
-            "number": "2580780",
-            "label": "SPTs"
-          },
-          {
-            "number": "488275",
+            "number": "488286",
             "label": "Signal"
           },
           {
-            "number": "1113004",
+            "number": "1110115",
             "label": "TPWS"
           }
         ]
@@ -1468,8 +1428,176 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2411416,
-          55.8900798
+          -4.2407259,
+          55.8885874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC51",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112580",
+            "label": "AWS"
+          },
+          {
+            "number": "2580761",
+            "label": "SPTs"
+          },
+          {
+            "number": "494521",
+            "label": "RTI"
+          },
+          {
+            "number": "479853",
+            "label": "Signal"
+          },
+          {
+            "number": "1593307",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2406575,
+          55.8885889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC523",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488288",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2406387,
+          55.889353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC605",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580773",
+            "label": "SPTs"
+          },
+          {
+            "number": "2746268",
+            "label": "RTI"
+          },
+          {
+            "number": "483614",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2405939,
+          55.8875123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC235",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488318",
+            "label": "Signal"
+          },
+          {
+            "number": "1593287",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2405663,
+          55.8885664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC525",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580765",
+            "label": "SPTs"
+          },
+          {
+            "number": "488287",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.240565,
+          55.88935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC532",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580769",
+            "label": "SPTs"
+          },
+          {
+            "number": "488290",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2405408,
+          55.888346
         ]
       }
     },
@@ -1506,25 +1634,211 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CS426",
+        "name": "CC527",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "1112746",
-            "label": "AWS"
+            "number": "2580778",
+            "label": "SPTs"
           },
           {
-            "number": "1780913",
+            "number": "488277",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2405033,
+          55.8900778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC531",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580768",
+            "label": "SPTs"
+          },
+          {
+            "number": "488289",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2404644,
+          55.8883678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC529",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580767",
+            "label": "SPTs"
+          },
+          {
+            "number": "488291",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2404456,
+          55.8886927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC533",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580770",
+            "label": "SPTs"
+          },
+          {
+            "number": "1806178",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2404308,
+          55.8900673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE521",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580785",
+            "label": "SPTs"
+          },
+          {
+            "number": "480030",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2396896,
+          55.8937081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE519",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580539",
+            "label": "SPTs"
+          },
+          {
+            "number": "488294",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2395541,
+          55.8936893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC535",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580772",
+            "label": "SPTs"
+          },
+          {
+            "number": "494500",
             "label": "RTI"
           },
           {
-            "number": "1468692",
+            "number": "479800",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2393166,
+          55.8850026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ245",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112730",
+            "label": "AWS"
+          },
+          {
+            "number": "2580801",
+            "label": "SPTs"
+          },
+          {
+            "number": "479809",
             "label": "Signal"
           },
           {
-            "number": "1800866",
+            "number": "1110088",
             "label": "TPWS"
           }
         ]
@@ -1532,8 +1846,198 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2348629,
-          55.8828953
+          -4.2389636,
+          55.8812989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ53",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112731",
+            "label": "AWS"
+          },
+          {
+            "number": "2580557",
+            "label": "SPTs"
+          },
+          {
+            "number": "494502",
+            "label": "RTI"
+          },
+          {
+            "number": "479818",
+            "label": "Signal"
+          },
+          {
+            "number": "1110089",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2388188,
+          55.8812688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC52",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112729",
+            "label": "AWS"
+          },
+          {
+            "number": "2589306",
+            "label": "SPTs"
+          },
+          {
+            "number": "494483",
+            "label": "RTI"
+          },
+          {
+            "number": "479790",
+            "label": "Signal"
+          },
+          {
+            "number": "2521265",
+            "label": "Position Light"
+          },
+          {
+            "number": "1822595",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2387386,
+          55.8831189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CQ241",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580800",
+            "label": "SPTs"
+          },
+          {
+            "number": "494508",
+            "label": "RTI"
+          },
+          {
+            "number": "479806",
+            "label": "Signal"
+          },
+          {
+            "number": "1112980",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.238674,
+          55.88135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC238",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112570",
+            "label": "AWS"
+          },
+          {
+            "number": "2589162",
+            "label": "SPTs"
+          },
+          {
+            "number": "494479",
+            "label": "RTI"
+          },
+          {
+            "number": "479792",
+            "label": "Signal"
+          },
+          {
+            "number": "2521222",
+            "label": "Position Light"
+          },
+          {
+            "number": "1821003",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2385884,
+          55.883122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CC240",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2589189",
+            "label": "SPTs"
+          },
+          {
+            "number": "468726",
+            "label": "RTI"
+          },
+          {
+            "number": "488319",
+            "label": "Signal"
+          },
+          {
+            "number": "1822593",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2384207,
+          55.883149
         ]
       }
     },
@@ -1582,6 +2086,40 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CQ427",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1468904",
+            "label": "AWS"
+          },
+          {
+            "number": "2580802",
+            "label": "SPTs"
+          },
+          {
+            "number": "494797",
+            "label": "RTI"
+          },
+          {
+            "number": "479386",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2380445,
+          55.8819845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CC402",
         "type": "Signals",
         "notes": "",
@@ -1618,6 +2156,198 @@
         "coordinates": [
           -4.2379793,
           55.8850678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE48",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1468640",
+            "label": "AWS"
+          },
+          {
+            "number": "2589752",
+            "label": "SPTs"
+          },
+          {
+            "number": "480020",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2373057,
+          55.8960941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE226",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112581",
+            "label": "AWS"
+          },
+          {
+            "number": "2589537",
+            "label": "SPTs"
+          },
+          {
+            "number": "488085",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2372654,
+          55.8960749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE225",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1694964",
+            "label": "AWS"
+          },
+          {
+            "number": "2589514",
+            "label": "SPTs"
+          },
+          {
+            "number": "468814",
+            "label": "RTI"
+          },
+          {
+            "number": "488273",
+            "label": "Signal"
+          },
+          {
+            "number": "1110107",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2372427,
+          55.8960967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE47",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112582",
+            "label": "AWS"
+          },
+          {
+            "number": "10338612",
+            "label": "SPTs"
+          },
+          {
+            "number": "18761405",
+            "label": "RTI"
+          },
+          {
+            "number": "1468693",
+            "label": "Signal"
+          },
+          {
+            "number": "1110126",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2371903,
+          55.8960802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS426 BR",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1780563",
+            "label": "Banner"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2361772,
+          55.8828521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS426",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112746",
+            "label": "AWS"
+          },
+          {
+            "number": "1780913",
+            "label": "RTI"
+          },
+          {
+            "number": "1468692",
+            "label": "Signal"
+          },
+          {
+            "number": "1800866",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2348629,
+          55.8828953
         ]
       }
     },
@@ -1696,6 +2426,70 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CE46",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1721616",
+            "label": "AWS"
+          },
+          {
+            "number": "2580784",
+            "label": "SPTs"
+          },
+          {
+            "number": "480031",
+            "label": "Signal"
+          },
+          {
+            "number": "19655848",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2321589,
+          55.9002874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE224",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112583",
+            "label": "AWS"
+          },
+          {
+            "number": "2589494",
+            "label": "SPTs"
+          },
+          {
+            "number": "488109",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2321079,
+          55.900261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CS322",
         "type": "Signals",
         "notes": "",
@@ -1762,246 +2556,6 @@
         "coordinates": [
           -4.2306135,
           55.8819588
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE302",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1694973",
-            "label": "AWS"
-          },
-          {
-            "number": "2589588",
-            "label": "SPTs"
-          },
-          {
-            "number": "483589",
-            "label": "Signal"
-          },
-          {
-            "number": "1113002",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2438722,
-          55.8886382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE604",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580787",
-            "label": "SPTs"
-          },
-          {
-            "number": "488285",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2431537,
-          55.8886013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE305",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "483966",
-            "label": "AWS"
-          },
-          {
-            "number": "2589628",
-            "label": "SPTs"
-          },
-          {
-            "number": "488295",
-            "label": "Signal"
-          },
-          {
-            "number": "1113012",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2429,
-          55.8888416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE608",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "19001069",
-            "label": "SPTs"
-          },
-          {
-            "number": "1540370",
-            "label": "RTI"
-          },
-          {
-            "number": "1540355",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2458089,
-          55.8886377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE306",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "484350",
-            "label": "AWS"
-          },
-          {
-            "number": "2589648",
-            "label": "SPTs"
-          },
-          {
-            "number": "494979",
-            "label": "RTI"
-          },
-          {
-            "number": "483611",
-            "label": "Signal"
-          },
-          {
-            "number": "1110124",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2471447,
-          55.8887791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE307",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "484375",
-            "label": "AWS"
-          },
-          {
-            "number": "1468686",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2491759,
-          55.8888798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE308",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "484351",
-            "label": "AWS"
-          },
-          {
-            "number": "483707",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2567343,
-          55.8900754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE310",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "484354",
-            "label": "AWS"
-          },
-          {
-            "number": "483605",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2737255,
-          55.8934791
         ]
       }
     },
@@ -2148,6 +2702,92 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CE223",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1721608",
+            "label": "AWS"
+          },
+          {
+            "number": "2589473",
+            "label": "SPTs"
+          },
+          {
+            "number": "488108",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2263491,
+          55.9033213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE45",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112601",
+            "label": "AWS"
+          },
+          {
+            "number": "2589750",
+            "label": "SPTs"
+          },
+          {
+            "number": "480035",
+            "label": "Signal"
+          },
+          {
+            "number": "1863587",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2262553,
+          55.9032461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS619",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488266",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2248169,
+          55.8788112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CS324",
         "type": "Signals",
         "notes": "",
@@ -2224,6 +2864,66 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CE44",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112576",
+            "label": "AWS"
+          },
+          {
+            "number": "2589738",
+            "label": "SPTs"
+          },
+          {
+            "number": "480009",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2239073,
+          55.9042515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CE222",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112609",
+            "label": "AWS"
+          },
+          {
+            "number": "2589452",
+            "label": "SPTs"
+          },
+          {
+            "number": "488304",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2235211,
+          55.9043237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CS325",
         "type": "Signals",
         "notes": "",
@@ -2248,6 +2948,100 @@
         "coordinates": [
           -4.2227775,
           55.8773663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS446",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1694933",
+            "label": "AWS"
+          },
+          {
+            "number": "2589285",
+            "label": "SPTs"
+          },
+          {
+            "number": "488504",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2218846,
+          55.8760451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS445",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1694932",
+            "label": "AWS"
+          },
+          {
+            "number": "2589264",
+            "label": "SPTs"
+          },
+          {
+            "number": "468930",
+            "label": "RTI"
+          },
+          {
+            "number": "488305",
+            "label": "Signal"
+          },
+          {
+            "number": "1972804",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2216758,
+          55.8758502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS621",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "7698882",
+            "label": "SPTs"
+          },
+          {
+            "number": "488293",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2175466,
+          55.8750636
         ]
       }
     },
@@ -2304,1550 +3098,6 @@
         "coordinates": [
           -4.2147022,
           55.8667641
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CS621",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "7698882",
-            "label": "SPTs"
-          },
-          {
-            "number": "488293",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2175466,
-          55.8750636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CS619",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "488266",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2248169,
-          55.8788112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CS445",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1694932",
-            "label": "AWS"
-          },
-          {
-            "number": "2589264",
-            "label": "SPTs"
-          },
-          {
-            "number": "468930",
-            "label": "RTI"
-          },
-          {
-            "number": "488305",
-            "label": "Signal"
-          },
-          {
-            "number": "1972804",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2216758,
-          55.8758502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CS446",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1694933",
-            "label": "AWS"
-          },
-          {
-            "number": "2589285",
-            "label": "SPTs"
-          },
-          {
-            "number": "488504",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2218846,
-          55.8760451
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN442",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1695151",
-            "label": "AWS"
-          },
-          {
-            "number": "488503",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1836371,
-          55.8833318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CS443",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1694931",
-            "label": "AWS"
-          },
-          {
-            "number": "488506",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1963336,
-          55.8797165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN440",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112539",
-            "label": "AWS"
-          },
-          {
-            "number": "2589766",
-            "label": "SPTs"
-          },
-          {
-            "number": "488481",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1650656,
-          55.8890068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN441",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112538",
-            "label": "AWS"
-          },
-          {
-            "number": "2589767",
-            "label": "SPTs"
-          },
-          {
-            "number": "488480",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1650481,
-          55.8889181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN438",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1695150",
-            "label": "AWS"
-          },
-          {
-            "number": "488496",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0984686,
-          55.8886706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN436",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1695148",
-            "label": "AWS"
-          },
-          {
-            "number": "2589765",
-            "label": "SPTs"
-          },
-          {
-            "number": "468724",
-            "label": "RTI"
-          },
-          {
-            "number": "488300",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0772815,
-          55.8853702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN434",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1721618",
-            "label": "AWS"
-          },
-          {
-            "number": "2589764",
-            "label": "SPTs"
-          },
-          {
-            "number": "488499",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0614619,
-          55.8857891
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN439",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "488514",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1448014,
-          55.8898976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN437",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1695149",
-            "label": "AWS"
-          },
-          {
-            "number": "2580793",
-            "label": "SPTs"
-          },
-          {
-            "number": "488502",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0863524,
-          55.886686
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN483",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112519",
-            "label": "AWS"
-          },
-          {
-            "number": "2589769",
-            "label": "SPTs"
-          },
-          {
-            "number": "488312",
-            "label": "Signal"
-          },
-          {
-            "number": "1112970",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.067156,
-          55.883686
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN481",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112518",
-            "label": "AWS"
-          },
-          {
-            "number": "19683736",
-            "label": "SPTs"
-          },
-          {
-            "number": "488511",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0614831,
-          55.8827969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN435",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1695147",
-            "label": "AWS"
-          },
-          {
-            "number": "2580792",
-            "label": "SPTs"
-          },
-          {
-            "number": "488301",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0675691,
-          55.8844213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN433",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1695145",
-            "label": "AWS"
-          },
-          {
-            "number": "2589763",
-            "label": "SPTs"
-          },
-          {
-            "number": "488500",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0464405,
-          55.8899427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN432",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1695144",
-            "label": "AWS"
-          },
-          {
-            "number": "2589762",
-            "label": "SPTs"
-          },
-          {
-            "number": "468747",
-            "label": "RTI"
-          },
-          {
-            "number": "488298",
-            "label": "Signal"
-          },
-          {
-            "number": "488314",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0435174,
-          55.8915413
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN351",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2589754",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0439416,
-          55.8893709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN451",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2589768",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.03266,
-          55.9004701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN353",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580788",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0326064,
-          55.9004468
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN354",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2589756",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0281137,
-          55.9059622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN356",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0180896,
-          55.9206226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN357",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0154611,
-          55.9220729
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN359",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2589758",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9965908,
-          55.9331809
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN362",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2589759",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9818583,
-          55.9412075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN363",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2589760",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9798357,
-          55.9421646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN364",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2589761",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9648076,
-          55.9501512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN365",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9645076,
-          55.9529288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN367",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1731967",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.955257,
-          55.9657621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN352",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2589755",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0390002,
-          55.8949171
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN358",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2589757",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0034944,
-          55.9288724
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN366",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1731966",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9581319,
-          55.9634971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CN368",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "19712295",
-            "label": "SPTs"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9444774,
-          55.9753929
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE311",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1831071",
-            "label": "AWS"
-          },
-          {
-            "number": "1831116",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.276889,
-          55.8948097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE313BR",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "17749961",
-            "label": "Banner"
-          },
-          {
-            "number": "19269953",
-            "label": "Banner"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2938501,
-          55.8988124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE313",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1831070",
-            "label": "AWS"
-          },
-          {
-            "number": "17749960",
-            "label": "RTI"
-          },
-          {
-            "number": "17749959",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2962136,
-          55.8986364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE480",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1829398",
-            "label": "AWS"
-          },
-          {
-            "number": "1831117",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3064715,
-          55.8947407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE314",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1831069",
-            "label": "AWS"
-          },
-          {
-            "number": "2580781",
-            "label": "SPTs"
-          },
-          {
-            "number": "1831114",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3058849,
-          55.895748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE316",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1831068",
-            "label": "AWS"
-          },
-          {
-            "number": "1831105",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3229197,
-          55.8987508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE482",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1829399",
-            "label": "AWS"
-          },
-          {
-            "number": "1831118",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3118208,
-          55.8934629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE481",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "17749938",
-            "label": "AWS"
-          },
-          {
-            "number": "17749941",
-            "label": "RTI"
-          },
-          {
-            "number": "17749939",
-            "label": "Signal"
-          },
-          {
-            "number": "17749940",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3139065,
-          55.8935553
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE486",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "17749955",
-            "label": "Signal"
-          },
-          {
-            "number": "17749956",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3204557,
-          55.8914364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE484",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "17749951",
-            "label": "AWS"
-          },
-          {
-            "number": "17749948",
-            "label": "Signal"
-          },
-          {
-            "number": "17749949",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.3182178,
-          55.8932235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CS426 BR",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1780563",
-            "label": "Banner"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2361772,
-          55.8828521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE521",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580785",
-            "label": "SPTs"
-          },
-          {
-            "number": "480030",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2396896,
-          55.8937081
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE519",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "2580539",
-            "label": "SPTs"
-          },
-          {
-            "number": "488294",
-            "label": "Position Light"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2395541,
-          55.8936893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE48",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1468640",
-            "label": "AWS"
-          },
-          {
-            "number": "2589752",
-            "label": "SPTs"
-          },
-          {
-            "number": "480020",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2373057,
-          55.8960941
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE226",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112581",
-            "label": "AWS"
-          },
-          {
-            "number": "2589537",
-            "label": "SPTs"
-          },
-          {
-            "number": "488085",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2372654,
-          55.8960749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE47",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112582",
-            "label": "AWS"
-          },
-          {
-            "number": "10338612",
-            "label": "SPTs"
-          },
-          {
-            "number": "18761405",
-            "label": "RTI"
-          },
-          {
-            "number": "1468693",
-            "label": "Signal"
-          },
-          {
-            "number": "1110126",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2371903,
-          55.8960802
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE225",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1694964",
-            "label": "AWS"
-          },
-          {
-            "number": "2589514",
-            "label": "SPTs"
-          },
-          {
-            "number": "468814",
-            "label": "RTI"
-          },
-          {
-            "number": "488273",
-            "label": "Signal"
-          },
-          {
-            "number": "1110107",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2372427,
-          55.8960967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE46",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1721616",
-            "label": "AWS"
-          },
-          {
-            "number": "2580784",
-            "label": "SPTs"
-          },
-          {
-            "number": "480031",
-            "label": "Signal"
-          },
-          {
-            "number": "19655848",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2321589,
-          55.9002874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE224",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112583",
-            "label": "AWS"
-          },
-          {
-            "number": "2589494",
-            "label": "SPTs"
-          },
-          {
-            "number": "488109",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2321079,
-          55.900261
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE223",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1721608",
-            "label": "AWS"
-          },
-          {
-            "number": "2589473",
-            "label": "SPTs"
-          },
-          {
-            "number": "488108",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2263491,
-          55.9033213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE45",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112601",
-            "label": "AWS"
-          },
-          {
-            "number": "2589750",
-            "label": "SPTs"
-          },
-          {
-            "number": "480035",
-            "label": "Signal"
-          },
-          {
-            "number": "1863587",
-            "label": "TPWS"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2262553,
-          55.9032461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE44",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112576",
-            "label": "AWS"
-          },
-          {
-            "number": "2589738",
-            "label": "SPTs"
-          },
-          {
-            "number": "480009",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2239073,
-          55.9042515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CE222",
-        "type": "Signals",
-        "notes": "",
-        "section": "Cowlairs",
-        "equipment_number": [
-          {
-            "number": "1112609",
-            "label": "AWS"
-          },
-          {
-            "number": "2589452",
-            "label": "SPTs"
-          },
-          {
-            "number": "488304",
-            "label": "Signal"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2235211,
-          55.9043237
         ]
       }
     },
@@ -4080,6 +3330,32 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CS443",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1694931",
+            "label": "AWS"
+          },
+          {
+            "number": "488506",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1963336,
+          55.8797165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CE515",
         "type": "Signals",
         "notes": "",
@@ -4140,21 +3416,25 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CE215",
+        "name": "CE217",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "468787",
-            "label": "RTI"
+            "number": "1721606",
+            "label": "AWS"
           },
           {
-            "number": "488317",
+            "number": "2589333",
+            "label": "SPTs"
+          },
+          {
+            "number": "485911",
             "label": "Signal"
           },
           {
-            "number": "1110129",
+            "number": "1110131",
             "label": "TPWS"
           }
         ]
@@ -4162,8 +3442,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.1899749,
-          55.9137178
+          -4.1900165,
+          55.9138012
         ]
       }
     },
@@ -4208,25 +3488,21 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CE217",
+        "name": "CE215",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "1721606",
-            "label": "AWS"
+            "number": "468787",
+            "label": "RTI"
           },
           {
-            "number": "2589333",
-            "label": "SPTs"
-          },
-          {
-            "number": "485911",
+            "number": "488317",
             "label": "Signal"
           },
           {
-            "number": "1110131",
+            "number": "1110129",
             "label": "TPWS"
           }
         ]
@@ -4234,8 +3510,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.1900165,
-          55.9138012
+          -4.1899749,
+          55.9137178
         ]
       }
     },
@@ -4262,6 +3538,58 @@
         "coordinates": [
           -4.1891662,
           55.9137956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG508",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580573",
+            "label": "SPTs"
+          },
+          {
+            "number": "488380",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1841171,
+          55.9145221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN442",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1695151",
+            "label": "AWS"
+          },
+          {
+            "number": "488503",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1836371,
+          55.8833318
         ]
       }
     },
@@ -4518,6 +3846,66 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CN440",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112539",
+            "label": "AWS"
+          },
+          {
+            "number": "2589766",
+            "label": "SPTs"
+          },
+          {
+            "number": "488481",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1650656,
+          55.8890068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN441",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112538",
+            "label": "AWS"
+          },
+          {
+            "number": "2589767",
+            "label": "SPTs"
+          },
+          {
+            "number": "488480",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1650481,
+          55.8889181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CG36",
         "type": "Signals",
         "notes": "",
@@ -4636,6 +4024,28 @@
         "coordinates": [
           -4.1472488,
           55.9229438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN439",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "488514",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1448014,
+          55.8898976
         ]
       }
     },
@@ -4766,6 +4176,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CG27",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112607",
+            "label": "AWS"
+          },
+          {
+            "number": "18779021",
+            "label": "SPTs"
+          },
+          {
+            "number": "480051",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0994939,
+          55.9324148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CG26",
         "type": "Signals",
         "notes": "",
@@ -4796,21 +4236,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CG27",
+        "name": "CN438",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "1112607",
+            "number": "1695150",
             "label": "AWS"
           },
           {
-            "number": "18779021",
-            "label": "SPTs"
-          },
-          {
-            "number": "480051",
+            "number": "488496",
             "label": "Signal"
           }
         ]
@@ -4818,8 +4254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0994939,
-          55.9324148
+          -4.0984686,
+          55.8886706
         ]
       }
     },
@@ -4856,6 +4292,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CN437",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1695149",
+            "label": "AWS"
+          },
+          {
+            "number": "2580793",
+            "label": "SPTs"
+          },
+          {
+            "number": "488502",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0863524,
+          55.886686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CG23",
         "type": "Signals",
         "notes": "",
@@ -4880,6 +4346,40 @@
         "coordinates": [
           -4.0822391,
           55.938255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN436",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1695148",
+            "label": "AWS"
+          },
+          {
+            "number": "2589765",
+            "label": "SPTs"
+          },
+          {
+            "number": "468724",
+            "label": "RTI"
+          },
+          {
+            "number": "488300",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0772815,
+          55.8853702
         ]
       }
     },
@@ -4920,21 +4420,55 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CG203",
+        "name": "CN435",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "18779026",
+            "number": "1695147",
+            "label": "AWS"
+          },
+          {
+            "number": "2580792",
             "label": "SPTs"
           },
           {
-            "number": "479963",
+            "number": "488301",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0675691,
+          55.8844213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN483",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112519",
+            "label": "AWS"
+          },
+          {
+            "number": "2589769",
+            "label": "SPTs"
+          },
+          {
+            "number": "488312",
             "label": "Signal"
           },
           {
-            "number": "1112972",
+            "number": "1112970",
             "label": "TPWS"
           }
         ]
@@ -4942,8 +4476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0618569,
-          55.9479859
+          -4.067156,
+          55.883686
         ]
       }
     },
@@ -4974,6 +4508,96 @@
         "coordinates": [
           -4.0618891,
           55.9480197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG203",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "18779026",
+            "label": "SPTs"
+          },
+          {
+            "number": "479963",
+            "label": "Signal"
+          },
+          {
+            "number": "1112972",
+            "label": "TPWS"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0618569,
+          55.9479859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN481",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112518",
+            "label": "AWS"
+          },
+          {
+            "number": "19683736",
+            "label": "SPTs"
+          },
+          {
+            "number": "488511",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0614831,
+          55.8827969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN434",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1721618",
+            "label": "AWS"
+          },
+          {
+            "number": "2589764",
+            "label": "SPTs"
+          },
+          {
+            "number": "488499",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0614619,
+          55.8857891
         ]
       }
     },
@@ -5034,6 +4658,36 @@
         "coordinates": [
           -4.0601376,
           55.9486197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN433",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1695145",
+            "label": "AWS"
+          },
+          {
+            "number": "2589763",
+            "label": "SPTs"
+          },
+          {
+            "number": "488500",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0464405,
+          55.8899427
         ]
       }
     },
@@ -5112,6 +4766,132 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CN351",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2589754",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0439416,
+          55.8893709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN432",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1695144",
+            "label": "AWS"
+          },
+          {
+            "number": "2589762",
+            "label": "SPTs"
+          },
+          {
+            "number": "468747",
+            "label": "RTI"
+          },
+          {
+            "number": "488298",
+            "label": "Signal"
+          },
+          {
+            "number": "488314",
+            "label": "Position Light"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0435174,
+          55.8915413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN352",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2589755",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0390002,
+          55.8949171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN451",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2589768",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.03266,
+          55.9004701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN353",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2580788",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0326064,
+          55.9004468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CG17",
         "type": "Signals",
         "notes": "",
@@ -5176,30 +4956,22 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CG13",
+        "name": "CN354",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "1112634",
-            "label": "AWS"
-          },
-          {
-            "number": "18779034",
+            "number": "2589756",
             "label": "SPTs"
-          },
-          {
-            "number": "479988",
-            "label": "Signal"
           }
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0179703,
-          55.9681457
+          -4.0281137,
+          55.9059622
         ]
       }
     },
@@ -5230,6 +5002,68 @@
         "coordinates": [
           -4.0208635,
           55.9670052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN356",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0180896,
+          55.9206226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CG13",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1112634",
+            "label": "AWS"
+          },
+          {
+            "number": "18779034",
+            "label": "SPTs"
+          },
+          {
+            "number": "479988",
+            "label": "Signal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0179703,
+          55.9681457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN357",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0154611,
+          55.9220729
         ]
       }
     },
@@ -5296,6 +5130,50 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CN358",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2589757",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0034944,
+          55.9288724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN359",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2589758",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9965908,
+          55.9331809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CG10",
         "type": "Signals",
         "notes": "",
@@ -5350,6 +5228,50 @@
         "coordinates": [
           -3.9875014,
           55.9766587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN362",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2589759",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9818583,
+          55.9412075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN363",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2589760",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9798357,
+          55.9421646
         ]
       }
     },
@@ -5416,6 +5338,88 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CN364",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "2589761",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9648076,
+          55.9501512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN365",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9645076,
+          55.9529288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN366",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1731966",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9581319,
+          55.9634971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN367",
+        "type": "Signals",
+        "notes": "",
+        "section": "Cowlairs",
+        "equipment_number": [
+          {
+            "number": "1731967",
+            "label": "SPTs"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.955257,
+          55.9657621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CG5",
         "type": "Signals",
         "notes": "",
@@ -5476,22 +5480,22 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CG2",
+        "name": "CN368",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "1112521",
-            "label": "AWS"
+            "number": "19712295",
+            "label": "SPTs"
           }
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.9302545,
-          55.9827976
+          -3.9444774,
+          55.9753929
         ]
       }
     },
@@ -5528,26 +5532,22 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CG508",
+        "name": "CG2",
         "type": "Signals",
         "notes": "",
         "section": "Cowlairs",
         "equipment_number": [
           {
-            "number": "2580573",
-            "label": "SPTs"
-          },
-          {
-            "number": "488380",
-            "label": "Position Light"
+            "number": "1112521",
+            "label": "AWS"
           }
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.1841171,
-          55.9145221
+          -3.9302545,
+          55.9827976
         ]
       }
     }

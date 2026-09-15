@@ -4,482 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "AE8/6",
-        "type": "Locs",
-        "notes": "Equipment: 000000480957<br>LOC:AE8/6(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 008.1698:008.1698VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 008.1698<br>Quality: matched<br>Source: 68(1) T 008.0900-009.0243",
-        "section": "Sunnyside",
-        "equipment_number": "000000480957"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0188752,
-          55.8679996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE8/5",
-        "type": "Locs",
-        "notes": "Equipment: 000000480959<br>LOC:AE8/5(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM22100 008.1171:008.1171VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 008.1171<br>Quality: matched<br>Source: 69 T 008.0741-008.1208",
-        "section": "Sunnyside",
-        "equipment_number": "000000480959"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0263315,
-          55.8668414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE9/2",
-        "type": "Locs",
-        "notes": "Equipment: 000000480960<br>LOC:AE9/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 009.1112:009.1112VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 009.1112<br>Quality: matched<br>Source: 68(2) T 009.0243-009.1281",
-        "section": "Sunnyside",
-        "equipment_number": "000000480960"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0039398,
-          55.864168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE9/1",
-        "type": "Locs",
-        "notes": "Equipment: 000000480968<br>LOC:AE9/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 009.0936:009.0936VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 009.0936<br>Quality: matched<br>Source: 68(2) T 009.0243-009.1281",
-        "section": "Sunnyside",
-        "equipment_number": "000000480968"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0062008,
-          55.8648244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE8/2",
-        "type": "Locs",
-        "notes": "Equipment: 000000480972<br>LOC:AE8/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM22100 008.0837:008.0837VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 008.0837<br>Quality: matched<br>Source: 69 T 008.0741-008.1208",
-        "section": "Sunnyside",
-        "equipment_number": "000000480972"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0308209,
-          55.8676383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE8/4",
-        "type": "Locs",
-        "notes": "Equipment: 000000480978<br>LOC:AE8/4(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM22100 008.1008:008.1008VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 008.1008<br>Quality: matched<br>Source: 69 T 008.0741-008.1208",
-        "section": "Sunnyside",
-        "equipment_number": "000000480978"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0279003,
-          55.8668344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE8/3",
-        "type": "Locs",
-        "notes": "Equipment: 000000480983<br>LOC:AE8/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM22100 008.0900:008.0900VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 008.0900<br>Quality: matched<br>Source: 69 T 008.0741-008.1208",
-        "section": "Sunnyside",
-        "equipment_number": "000000480983"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0287027,
-          55.8669271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE10/3",
-        "type": "Locs",
-        "notes": "Equipment: 000000480990<br>LOC:AE10/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM23100 010.0767:010.0767VD01<br>ELR: NEM2<br>Track: 3100<br>Mileage: 010.0767<br>Quality: matched<br>Source: 56 T 010.0760-010.0851",
-        "section": "Sunnyside",
-        "equipment_number": "000000480990"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9841343,
-          55.8640567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE10/4",
-        "type": "Locs",
-        "notes": "Equipment: 000000481001<br>LOC:AE10/4(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM23100 010.0969:010.0969VD01<br>ELR: NEM2<br>Track: 3100<br>Mileage: 010.0969<br>Quality: matched<br>Source: 55 T 010.0760-010.1034",
-        "section": "Sunnyside",
-        "equipment_number": "000000481001"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9835675,
-          55.8640982
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE9/3",
-        "type": "Locs",
-        "notes": "Equipment: 000000481009<br>LOC:AE9/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 009.1322:009.1322VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 009.1322<br>Quality: matched<br>Source: 66 T 009.1281-010.0179",
-        "section": "Sunnyside",
-        "equipment_number": "000000481009"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0011233,
-          55.8635264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE10/2",
-        "type": "Locs",
-        "notes": "Equipment: 000000481021<br>LOC:AE10/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 010.0643:010.0643VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 010.0643<br>Quality: fallback<br>Source: nearest 1100 58 T 010.0384-010.0594; gap 49 yd",
-        "section": "Sunnyside",
-        "equipment_number": "000000481021"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9863699,
-          55.8638771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE10/1",
-        "type": "Locs",
-        "notes": "Equipment: 000000481024<br>LOC:AE10/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 010.0367:010.0367VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 010.0367<br>Quality: matched<br>Source: 62 T 010.0299-010.0379",
-        "section": "Sunnyside",
-        "equipment_number": "000000481024"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.989527,
-          55.8636336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE5/2",
-        "type": "Locs",
-        "notes": "Equipment: 000000481027<br>LOC:AE5/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 005.0780:005.0780VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 005.0780<br>Quality: matched<br>Source: 114(2) T 004.1232-005.0968",
-        "section": "Sunnyside",
-        "equipment_number": "000000481027"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1052716,
-          55.8598776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE6/1",
-        "type": "Locs",
-        "notes": "Equipment: 000000481029<br>LOC:AE6/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 006.0029:006.0029VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 006.0029<br>Quality: matched<br>Source: 108(1) T 005.0968-006.0400",
-        "section": "Sunnyside",
-        "equipment_number": "000000481029"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0907255,
-          55.8587021
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE6/2",
-        "type": "Locs",
-        "notes": "Equipment: 000000481041<br>LOC:AE6/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 006.0453:006.0453VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 006.0453<br>Quality: matched<br>Source: 108(2) T 006.0400-006.1648",
-        "section": "Sunnyside",
-        "equipment_number": "000000481041"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0845069,
-          55.8586781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE7/2",
-        "type": "Locs",
-        "notes": "Equipment: 000000481063<br>LOC:AE7/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 007.1352:007.1352VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 007.1352<br>Quality: matched<br>Source: 102 T 007.1247-008.0458",
-        "section": "Sunnyside",
-        "equipment_number": "000000481063"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0478803,
-          55.8659547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE7/3",
-        "type": "Locs",
-        "notes": "Equipment: 000000481069<br>LOC:AE7/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM22100 007.1643:007.1643VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 007.1643<br>Quality: matched<br>Source: 99 T 007.1596-008.0503",
-        "section": "Sunnyside",
-        "equipment_number": "000000481069"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0436816,
-          55.866426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE6/3",
-        "type": "Locs",
-        "notes": "Equipment: 000000481085<br>LOC:AE6/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 006.1422:006.1422VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 006.1422<br>Quality: matched<br>Source: 108(2) T 006.0400-006.1648",
-        "section": "Sunnyside",
-        "equipment_number": "000000481085"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0714123,
-          55.8612709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE7/1",
-        "type": "Locs",
-        "notes": "Equipment: 000000481089<br>LOC:AE7/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 007.1042:007.1042VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 007.1042<br>Quality: fallback<br>Source: nearest 1100 102 T 007.1247-008.0458; gap 205 yd",
-        "section": "Sunnyside",
-        "equipment_number": "000000481089"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0523496,
-          55.8654576
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE3/7",
-        "type": "Locs",
-        "notes": "Equipment: 000000481398<br>LOC:AE3/7(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21900 003.1395:003.1395VD01<br>ELR: NEM2<br>Track: 1900<br>Mileage: 003.1395<br>Quality: fallback<br>Source: nearest 1100 134 T 003.0282-003.1515; gap 0 yd",
-        "section": "Sunnyside",
-        "equipment_number": "000000481398"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.145244,
-          55.853521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE3/5",
-        "type": "Locs",
-        "notes": "Equipment: 000000481408<br>LOC:AE3/5(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0799:003.0799VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0799<br>Quality: matched<br>Source: 134 T 003.0282-003.1515",
-        "section": "Sunnyside",
-        "equipment_number": "000000481408"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1539042,
-          55.8536356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE3/4T",
-        "type": "Locs",
-        "notes": "Equipment: 000000481420<br>LOC:AE3/4T(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0657:003.0657VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0657<br>Quality: matched<br>Source: 134 T 003.0282-003.1515",
-        "section": "Sunnyside",
-        "equipment_number": "000000481420"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1559591,
-          55.8536639
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE3/4",
-        "type": "Locs",
-        "notes": "Equipment: 000000481421<br>LOC:AE3/4(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0647:003.0647VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0647<br>Quality: matched<br>Source: 134 T 003.0282-003.1515",
-        "section": "Sunnyside",
-        "equipment_number": "000000481421"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1561055,
-          55.8536772
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE4/3",
-        "type": "Locs",
-        "notes": "Equipment: 000000481428<br>LOC:AE4/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 004.1092:004.1092VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 004.1092<br>Quality: matched<br>Source: 114(1) T 003.1592-004.1232",
-        "section": "Sunnyside",
-        "equipment_number": "000000481428"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1256156,
-          55.8572895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE4/1",
-        "type": "Locs",
-        "notes": "Equipment: 000000481456<br>LOC:AE4/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 004.0007:004.0007VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 004.0007<br>Quality: matched<br>Source: 114(1) T 003.1592-004.1232",
-        "section": "Sunnyside",
-        "equipment_number": "000000481456"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1390443,
-          55.8533491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE3/8",
-        "type": "Locs",
-        "notes": "Equipment: 000000481458<br>LOC:AE3/8(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.1632:003.1632VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.1632<br>Quality: matched<br>Source: 114(1) T 003.1592-004.1232",
-        "section": "Sunnyside",
-        "equipment_number": "000000481458"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1418903,
-          55.8534011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE2/1",
-        "type": "Locs",
-        "notes": "Equipment: 000000481473<br>LOC:AE2/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 001.0717:001.0717VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 001.0717<br>Quality: matched<br>Source: 154(1) T 000.1585-001.1448",
-        "section": "Sunnyside",
-        "equipment_number": "000000481473"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1804595,
-          55.8549193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE1/2",
-        "type": "Locs",
-        "notes": "Equipment: 000000481477<br>LOC:AE1/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 001.1372:001.1372VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 001.1372<br>Quality: matched<br>Source: 154(1) T 000.1585-001.1448",
-        "section": "Sunnyside",
-        "equipment_number": "000000481477"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1963941,
-          55.85554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "AE0/7",
         "type": "Locs",
         "notes": "Equipment: 000000481488<br>LOC:AE0/7(AH) FINNIESTON INTERLOCKIN<br>Reference: NEM21100 000.1168:000.1168VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 000.1168<br>Quality: fallback<br>Source: nearest 1100 166 T 000.1320-000.1585; gap 152 yd",
@@ -491,108 +15,6 @@
         "coordinates": [
           -4.2248232,
           55.8569117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE0/9",
-        "type": "Locs",
-        "notes": "Equipment: 000000481492<br>LOC:AE0/9(AH) FINNIESTON INTERLOCKIN<br>Reference: NEM22100 000.1582:000.1582VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 000.1582<br>Quality: matched<br>Source: 165 T 000.1320-000.1620",
-        "section": "Sunnyside",
-        "equipment_number": "000000481492"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.2186267,
-          55.8566306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE3/2",
-        "type": "Locs",
-        "notes": "Equipment: 000000481505<br>LOC:AE3/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0255:003.0255VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0255<br>Quality: matched<br>Source: 144 T 003.0017-003.0282",
-        "section": "Sunnyside",
-        "equipment_number": "000000481505"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1617203,
-          55.8537466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE3/1",
-        "type": "Locs",
-        "notes": "Equipment: 000000481511<br>LOC:AE3/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0092:003.0092VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0092<br>Quality: matched<br>Source: 144 T 003.0017-003.0282",
-        "section": "Sunnyside",
-        "equipment_number": "000000481511"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1640843,
-          55.8537875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE3/3",
-        "type": "Locs",
-        "notes": "Equipment: 000000481514<br>LOC:AE3/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0526:003.0526VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0526<br>Quality: matched<br>Source: 134 T 003.0282-003.1515",
-        "section": "Sunnyside",
-        "equipment_number": "000000481514"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1578379,
-          55.8536894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE2/2",
-        "type": "Locs",
-        "notes": "Equipment: 000000481523<br>LOC:AE2/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 002.0859:002.0859VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 002.0859<br>Quality: matched<br>Source: 154(2) T 001.1445-002.0869",
-        "section": "Sunnyside",
-        "equipment_number": "000000481523"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1783961,
-          55.8549491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE2/3",
-        "type": "Locs",
-        "notes": "Equipment: 000000481534<br>LOC:AE2/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 002.1664:002.1664VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 002.1664<br>Quality: matched<br>Source: 148 T 002.1058-002.1676",
-        "section": "Sunnyside",
-        "equipment_number": "000000481534"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1669103,
-          55.8538411
         ]
       }
     },
@@ -616,6 +38,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "AE0/9",
+        "type": "Locs",
+        "notes": "Equipment: 000000481492<br>LOC:AE0/9(AH) FINNIESTON INTERLOCKIN<br>Reference: NEM22100 000.1582:000.1582VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 000.1582<br>Quality: matched<br>Source: 165 T 000.1320-000.1620",
+        "section": "Sunnyside",
+        "equipment_number": "000000481492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2186267,
+          55.8566306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "AE1/1",
         "type": "Locs",
         "notes": "Equipment: 000001109505<br>LOC:AE1/1(AH) BELLGROVE JN<br>Reference: NEM21100 001.0064:001.0064VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 001.0064<br>Quality: matched<br>Source: 154(1) T 000.1585-001.1448",
@@ -627,125 +66,6 @@
         "coordinates": [
           -4.215146,
           55.8567332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE4/2",
-        "type": "Locs",
-        "notes": "Equipment: 000001109507<br>LOC:AE4/2(AH) GARROWHILL<br>Reference: NEM21100 004.0643:004.0643VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 004.0643<br>Quality: matched<br>Source: 114(1) T 003.1592-004.1232",
-        "section": "Sunnyside",
-        "equipment_number": "000001109507"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1303891,
-          55.8548547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE8/1",
-        "type": "Locs",
-        "notes": "Equipment: 000001109509<br>LOC:AE8/1(AH) SUNNYSIDE<br>Reference: NEM21100 008.0490:008.0490VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 008.0490<br>Quality: matched<br>Source: 98 T 008.0458-008.0756",
-        "section": "Sunnyside",
-        "equipment_number": "000001109509"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0352423,
-          55.868118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE5/1",
-        "type": "Locs",
-        "notes": "Equipment: 000001109517<br>LOC:AE5/1(AH) EASTERHOUSE<br>Reference: NEM21100 005.0602:005.0602VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 005.0602<br>Quality: matched<br>Source: 114(2) T 004.1232-005.0968",
-        "section": "Sunnyside",
-        "equipment_number": "000001109517"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.1078346,
-          55.8598692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE10/5",
-        "type": "Locs",
-        "notes": "Equipment: 000006713008<br>LOC:AE10/5(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 010.1100:010.1100VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 010.1100<br>Quality: fallback<br>Source: nearest 1100 50(1) T 010.1232-010.1233; gap 132 yd",
-        "section": "Sunnyside",
-        "equipment_number": "000006713008"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9801024,
-          55.8642611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE11/2",
-        "type": "Locs",
-        "notes": "Equipment: 000006713011<br>LOC:AE11/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 010.1500:010.1500VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 010.1500<br>Quality: matched<br>Source: 50(2) T 010.1232-011.0574",
-        "section": "Sunnyside",
-        "equipment_number": "000006713011"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9506266,
-          55.8668825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "AE11/1",
-        "type": "Locs",
-        "notes": "Equipment: 000006713009<br>LOC:AE11/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 010.1300:010.1300VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 010.1300<br>Quality: matched<br>Source: 50(2) T 010.1232-011.0574",
-        "section": "Sunnyside",
-        "equipment_number": "000006713009"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.9617499,
-          55.8661025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "W0/1",
-        "type": "Locs",
-        "notes": "",
-        "section": "Sunnyside",
-        "equipment_number": "000000802032"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0295947,
-          55.867166
         ]
       }
     },
@@ -803,6 +123,431 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "AE1/2",
+        "type": "Locs",
+        "notes": "Equipment: 000000481477<br>LOC:AE1/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 001.1372:001.1372VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 001.1372<br>Quality: matched<br>Source: 154(1) T 000.1585-001.1448",
+        "section": "Sunnyside",
+        "equipment_number": "000000481477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1963941,
+          55.85554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE2/1",
+        "type": "Locs",
+        "notes": "Equipment: 000000481473<br>LOC:AE2/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 001.0717:001.0717VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 001.0717<br>Quality: matched<br>Source: 154(1) T 000.1585-001.1448",
+        "section": "Sunnyside",
+        "equipment_number": "000000481473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1804595,
+          55.8549193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE2/2",
+        "type": "Locs",
+        "notes": "Equipment: 000000481523<br>LOC:AE2/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 002.0859:002.0859VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 002.0859<br>Quality: matched<br>Source: 154(2) T 001.1445-002.0869",
+        "section": "Sunnyside",
+        "equipment_number": "000000481523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1783961,
+          55.8549491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE2/3",
+        "type": "Locs",
+        "notes": "Equipment: 000000481534<br>LOC:AE2/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 002.1664:002.1664VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 002.1664<br>Quality: matched<br>Source: 148 T 002.1058-002.1676",
+        "section": "Sunnyside",
+        "equipment_number": "000000481534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1669103,
+          55.8538411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE3/1",
+        "type": "Locs",
+        "notes": "Equipment: 000000481511<br>LOC:AE3/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0092:003.0092VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0092<br>Quality: matched<br>Source: 144 T 003.0017-003.0282",
+        "section": "Sunnyside",
+        "equipment_number": "000000481511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1640843,
+          55.8537875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE3/2",
+        "type": "Locs",
+        "notes": "Equipment: 000000481505<br>LOC:AE3/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0255:003.0255VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0255<br>Quality: matched<br>Source: 144 T 003.0017-003.0282",
+        "section": "Sunnyside",
+        "equipment_number": "000000481505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1617203,
+          55.8537466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE3/3",
+        "type": "Locs",
+        "notes": "Equipment: 000000481514<br>LOC:AE3/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0526:003.0526VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0526<br>Quality: matched<br>Source: 134 T 003.0282-003.1515",
+        "section": "Sunnyside",
+        "equipment_number": "000000481514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1578379,
+          55.8536894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE3/4",
+        "type": "Locs",
+        "notes": "Equipment: 000000481421<br>LOC:AE3/4(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0647:003.0647VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0647<br>Quality: matched<br>Source: 134 T 003.0282-003.1515",
+        "section": "Sunnyside",
+        "equipment_number": "000000481421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1561055,
+          55.8536772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE3/4T",
+        "type": "Locs",
+        "notes": "Equipment: 000000481420<br>LOC:AE3/4T(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0657:003.0657VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0657<br>Quality: matched<br>Source: 134 T 003.0282-003.1515",
+        "section": "Sunnyside",
+        "equipment_number": "000000481420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1559591,
+          55.8536639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE3/5",
+        "type": "Locs",
+        "notes": "Equipment: 000000481408<br>LOC:AE3/5(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.0799:003.0799VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.0799<br>Quality: matched<br>Source: 134 T 003.0282-003.1515",
+        "section": "Sunnyside",
+        "equipment_number": "000000481408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1539042,
+          55.8536356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE3/7",
+        "type": "Locs",
+        "notes": "Equipment: 000000481398<br>LOC:AE3/7(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21900 003.1395:003.1395VD01<br>ELR: NEM2<br>Track: 1900<br>Mileage: 003.1395<br>Quality: fallback<br>Source: nearest 1100 134 T 003.0282-003.1515; gap 0 yd",
+        "section": "Sunnyside",
+        "equipment_number": "000000481398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.145244,
+          55.853521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE3/8",
+        "type": "Locs",
+        "notes": "Equipment: 000000481458<br>LOC:AE3/8(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 003.1632:003.1632VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 003.1632<br>Quality: matched<br>Source: 114(1) T 003.1592-004.1232",
+        "section": "Sunnyside",
+        "equipment_number": "000000481458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1418903,
+          55.8534011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE4/1",
+        "type": "Locs",
+        "notes": "Equipment: 000000481456<br>LOC:AE4/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 004.0007:004.0007VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 004.0007<br>Quality: matched<br>Source: 114(1) T 003.1592-004.1232",
+        "section": "Sunnyside",
+        "equipment_number": "000000481456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1390443,
+          55.8533491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE4/2",
+        "type": "Locs",
+        "notes": "Equipment: 000001109507<br>LOC:AE4/2(AH) GARROWHILL<br>Reference: NEM21100 004.0643:004.0643VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 004.0643<br>Quality: matched<br>Source: 114(1) T 003.1592-004.1232",
+        "section": "Sunnyside",
+        "equipment_number": "000001109507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1303891,
+          55.8548547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE4/3",
+        "type": "Locs",
+        "notes": "Equipment: 000000481428<br>LOC:AE4/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 004.1092:004.1092VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 004.1092<br>Quality: matched<br>Source: 114(1) T 003.1592-004.1232",
+        "section": "Sunnyside",
+        "equipment_number": "000000481428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1256156,
+          55.8572895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE5/1",
+        "type": "Locs",
+        "notes": "Equipment: 000001109517<br>LOC:AE5/1(AH) EASTERHOUSE<br>Reference: NEM21100 005.0602:005.0602VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 005.0602<br>Quality: matched<br>Source: 114(2) T 004.1232-005.0968",
+        "section": "Sunnyside",
+        "equipment_number": "000001109517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1078346,
+          55.8598692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE5/2",
+        "type": "Locs",
+        "notes": "Equipment: 000000481027<br>LOC:AE5/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 005.0780:005.0780VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 005.0780<br>Quality: matched<br>Source: 114(2) T 004.1232-005.0968",
+        "section": "Sunnyside",
+        "equipment_number": "000000481027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1052716,
+          55.8598776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE6/1",
+        "type": "Locs",
+        "notes": "Equipment: 000000481029<br>LOC:AE6/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 006.0029:006.0029VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 006.0029<br>Quality: matched<br>Source: 108(1) T 005.0968-006.0400",
+        "section": "Sunnyside",
+        "equipment_number": "000000481029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0907255,
+          55.8587021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE6/2",
+        "type": "Locs",
+        "notes": "Equipment: 000000481041<br>LOC:AE6/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 006.0453:006.0453VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 006.0453<br>Quality: matched<br>Source: 108(2) T 006.0400-006.1648",
+        "section": "Sunnyside",
+        "equipment_number": "000000481041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0845069,
+          55.8586781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE6/3",
+        "type": "Locs",
+        "notes": "Equipment: 000000481085<br>LOC:AE6/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 006.1422:006.1422VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 006.1422<br>Quality: matched<br>Source: 108(2) T 006.0400-006.1648",
+        "section": "Sunnyside",
+        "equipment_number": "000000481085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0714123,
+          55.8612709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE7/1",
+        "type": "Locs",
+        "notes": "Equipment: 000000481089<br>LOC:AE7/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 007.1042:007.1042VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 007.1042<br>Quality: fallback<br>Source: nearest 1100 102 T 007.1247-008.0458; gap 205 yd",
+        "section": "Sunnyside",
+        "equipment_number": "000000481089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0523496,
+          55.8654576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE7/2",
+        "type": "Locs",
+        "notes": "Equipment: 000000481063<br>LOC:AE7/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 007.1352:007.1352VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 007.1352<br>Quality: matched<br>Source: 102 T 007.1247-008.0458",
+        "section": "Sunnyside",
+        "equipment_number": "000000481063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0478803,
+          55.8659547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE7/3",
+        "type": "Locs",
+        "notes": "Equipment: 000000481069<br>LOC:AE7/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM22100 007.1643:007.1643VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 007.1643<br>Quality: matched<br>Source: 99 T 007.1596-008.0503",
+        "section": "Sunnyside",
+        "equipment_number": "000000481069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0436816,
+          55.866426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE8/1",
+        "type": "Locs",
+        "notes": "Equipment: 000001109509<br>LOC:AE8/1(AH) SUNNYSIDE<br>Reference: NEM21100 008.0490:008.0490VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 008.0490<br>Quality: matched<br>Source: 98 T 008.0458-008.0756",
+        "section": "Sunnyside",
+        "equipment_number": "000001109509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0352423,
+          55.868118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE8/2",
+        "type": "Locs",
+        "notes": "Equipment: 000000480972<br>LOC:AE8/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM22100 008.0837:008.0837VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 008.0837<br>Quality: matched<br>Source: 69 T 008.0741-008.1208",
+        "section": "Sunnyside",
+        "equipment_number": "000000480972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0308209,
+          55.8676383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "W0/2",
         "type": "Locs",
         "notes": "",
@@ -814,6 +559,261 @@
         "coordinates": [
           -4.0300216,
           55.8625147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "W0/1",
+        "type": "Locs",
+        "notes": "",
+        "section": "Sunnyside",
+        "equipment_number": "000000802032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0295947,
+          55.867166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE8/3",
+        "type": "Locs",
+        "notes": "Equipment: 000000480983<br>LOC:AE8/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM22100 008.0900:008.0900VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 008.0900<br>Quality: matched<br>Source: 69 T 008.0741-008.1208",
+        "section": "Sunnyside",
+        "equipment_number": "000000480983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0287027,
+          55.8669271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE8/4",
+        "type": "Locs",
+        "notes": "Equipment: 000000480978<br>LOC:AE8/4(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM22100 008.1008:008.1008VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 008.1008<br>Quality: matched<br>Source: 69 T 008.0741-008.1208",
+        "section": "Sunnyside",
+        "equipment_number": "000000480978"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0279003,
+          55.8668344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE8/5",
+        "type": "Locs",
+        "notes": "Equipment: 000000480959<br>LOC:AE8/5(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM22100 008.1171:008.1171VD01<br>ELR: NEM2<br>Track: 2100<br>Mileage: 008.1171<br>Quality: matched<br>Source: 69 T 008.0741-008.1208",
+        "section": "Sunnyside",
+        "equipment_number": "000000480959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0263315,
+          55.8668414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE8/6",
+        "type": "Locs",
+        "notes": "Equipment: 000000480957<br>LOC:AE8/6(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 008.1698:008.1698VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 008.1698<br>Quality: matched<br>Source: 68(1) T 008.0900-009.0243",
+        "section": "Sunnyside",
+        "equipment_number": "000000480957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0188752,
+          55.8679996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE9/1",
+        "type": "Locs",
+        "notes": "Equipment: 000000480968<br>LOC:AE9/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 009.0936:009.0936VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 009.0936<br>Quality: matched<br>Source: 68(2) T 009.0243-009.1281",
+        "section": "Sunnyside",
+        "equipment_number": "000000480968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0062008,
+          55.8648244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE9/2",
+        "type": "Locs",
+        "notes": "Equipment: 000000480960<br>LOC:AE9/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 009.1112:009.1112VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 009.1112<br>Quality: matched<br>Source: 68(2) T 009.0243-009.1281",
+        "section": "Sunnyside",
+        "equipment_number": "000000480960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0039398,
+          55.864168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE9/3",
+        "type": "Locs",
+        "notes": "Equipment: 000000481009<br>LOC:AE9/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 009.1322:009.1322VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 009.1322<br>Quality: matched<br>Source: 66 T 009.1281-010.0179",
+        "section": "Sunnyside",
+        "equipment_number": "000000481009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0011233,
+          55.8635264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE10/1",
+        "type": "Locs",
+        "notes": "Equipment: 000000481024<br>LOC:AE10/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 010.0367:010.0367VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 010.0367<br>Quality: matched<br>Source: 62 T 010.0299-010.0379",
+        "section": "Sunnyside",
+        "equipment_number": "000000481024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.989527,
+          55.8636336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE10/2",
+        "type": "Locs",
+        "notes": "Equipment: 000000481021<br>LOC:AE10/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 010.0643:010.0643VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 010.0643<br>Quality: fallback<br>Source: nearest 1100 58 T 010.0384-010.0594; gap 49 yd",
+        "section": "Sunnyside",
+        "equipment_number": "000000481021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9863699,
+          55.8638771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE10/3",
+        "type": "Locs",
+        "notes": "Equipment: 000000480990<br>LOC:AE10/3(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM23100 010.0767:010.0767VD01<br>ELR: NEM2<br>Track: 3100<br>Mileage: 010.0767<br>Quality: matched<br>Source: 56 T 010.0760-010.0851",
+        "section": "Sunnyside",
+        "equipment_number": "000000480990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9841343,
+          55.8640567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE10/4",
+        "type": "Locs",
+        "notes": "Equipment: 000000481001<br>LOC:AE10/4(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM23100 010.0969:010.0969VD01<br>ELR: NEM2<br>Track: 3100<br>Mileage: 010.0969<br>Quality: matched<br>Source: 55 T 010.0760-010.1034",
+        "section": "Sunnyside",
+        "equipment_number": "000000481001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9835675,
+          55.8640982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE10/5",
+        "type": "Locs",
+        "notes": "Equipment: 000006713008<br>LOC:AE10/5(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 010.1100:010.1100VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 010.1100<br>Quality: fallback<br>Source: nearest 1100 50(1) T 010.1232-010.1233; gap 132 yd",
+        "section": "Sunnyside",
+        "equipment_number": "000006713008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9801024,
+          55.8642611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE11/1",
+        "type": "Locs",
+        "notes": "Equipment: 000006713009<br>LOC:AE11/1(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 010.1300:010.1300VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 010.1300<br>Quality: matched<br>Source: 50(2) T 010.1232-011.0574",
+        "section": "Sunnyside",
+        "equipment_number": "000006713009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9617499,
+          55.8661025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AE11/2",
+        "type": "Locs",
+        "notes": "Equipment: 000006713011<br>LOC:AE11/2(AH) SUNNYSIDE INTERLOCKING<br>Reference: NEM21100 010.1500:010.1500VD01<br>ELR: NEM2<br>Track: 1100<br>Mileage: 010.1500<br>Quality: matched<br>Source: 50(2) T 010.1232-011.0574",
+        "section": "Sunnyside",
+        "equipment_number": "000006713011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9506266,
+          55.8668825
         ]
       }
     }
