@@ -2313,7 +2313,7 @@
     });
 
     function getSectionOptions() {
-      return [ALL_SECTIONS].concat(Array.from(availableSections).sort());
+      return [ALL_SECTIONS].concat(getSelectableSections());
     }
 
     function getSelectableSections() {
