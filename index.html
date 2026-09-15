@@ -782,7 +782,7 @@
       lng: -5.035,
       zoom: 9
     };
-    const DATA_VERSION = "2026-09-12-yoker-yh-signals";
+    const DATA_VERSION = "2026-09-15-yoker-sunnyside-visual";
     const SEARCH_SUGGESTION_LIMIT = 10;
     const SECTION_NAMES = [
       CENTRAL_SECTION,
@@ -798,10 +798,19 @@
       [YOKER_SECTION]: "yoker",
       [FORT_WILLIAM_SECTION]: "fort-william"
     };
+    const VISUAL_SECTION_GROUPS = {
+      [YOKER_SECTION]: [
+        YOKER_SECTION,
+        SUNNYSIDE_SECTION
+      ]
+    };
+    const HIDDEN_SECTION_OPTIONS = new Set([
+      SUNNYSIDE_SECTION
+    ]);
 
     /*
       GEOJSON LAYERS
-      These filenames assume all .geojson files are in the same folder as index.html.
+      These filenames are loaded from each selected section folder under sections/.
       Layer order below controls the order in the layer box.
     */
     const LAYER_CONFIGS = [
@@ -1031,13 +1040,38 @@
       return p.section || p.Section || "";
     }
 
+    function getSelectableSectionName(sectionName) {
+      if (sectionName === SUNNYSIDE_SECTION) {
+        return YOKER_SECTION;
+      }
+
+      return sectionName;
+    }
+
+    function getVisualSectionSet(sectionNames) {
+      const sections = new Set();
+
+      (sectionNames || []).forEach(sectionName => {
+        const visualSections = VISUAL_SECTION_GROUPS[sectionName] || [sectionName];
+        visualSections.forEach(visualSection => sections.add(visualSection));
+      });
+
+      return sections;
+    }
+
+    function getActiveVisualSectionSet() {
+      return sectionSelectionIsAll()
+        ? new Set(SECTION_NAMES)
+        : getVisualSectionSet(activeSections);
+    }
+
     function featureMatchesActiveSection(feature) {
       const featureSection = getFeatureSection(feature);
-      return activeSections.size === 0 || activeSections.has(featureSection);
+      return getActiveVisualSectionSet().has(featureSection);
     }
 
     function itemMatchesActiveSection(item) {
-      return activeSections.size === 0 || activeSections.has(item.section);
+      return getActiveVisualSectionSet().has(item.section);
     }
 
     function isFeatureSearchable(item) {
@@ -2283,7 +2317,17 @@
     }
 
     function getSelectableSections() {
-      return Array.from(availableSections).sort();
+      const sections = new Set();
+
+      availableSections.forEach(sectionName => {
+        const selectableName = getSelectableSectionName(sectionName);
+
+        if (!HIDDEN_SECTION_OPTIONS.has(selectableName)) {
+          sections.add(selectableName);
+        }
+      });
+
+      return Array.from(sections).sort();
     }
 
     function getStoredSections() {
@@ -2311,6 +2355,7 @@
 
       return new Set(
         (sectionNames || [])
+          .map(getSelectableSectionName)
           .filter(sectionName => validSections.has(sectionName))
       );
     }
@@ -2916,9 +2961,11 @@
     const loadedLayerFiles = {};
 
     function getSectionsToLoad() {
-      return sectionSelectionIsAll()
+      const sections = sectionSelectionIsAll()
         ? SECTION_NAMES
-        : Array.from(activeSections).sort();
+        : Array.from(getVisualSectionSet(activeSections));
+
+      return sections.sort();
     }
 
     function getSectionLayerFile(layerConfig, sectionName) {
