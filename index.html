@@ -1993,10 +1993,18 @@
 
     map.on("mousemove", function(event) {
       updateMeasurementPreview(event.latlng);
+
+      if (event.originalEvent) {
+        updateMeasurementAutoPan(event.originalEvent);
+      }
     });
 
     map.getContainer().addEventListener("pointermove", function(event) {
       updateMeasurementPreview(getLatLngFromPointerEvent(event));
+
+      if (event.pointerType !== "touch") {
+        updateMeasurementAutoPan(event);
+      }
     });
 
     map.getContainer().addEventListener("touchmove", function(event) {
