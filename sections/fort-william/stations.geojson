@@ -1,4 +1,556 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "name": "Crianlarich, Oban, Fort William and Mallaig stations",
+  "attribution": "© OpenStreetMap contributors",
+  "license": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "source": "https://www.openstreetmap.org/copyright",
+  "retrieved": "2026-09-20",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crianlarich",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Crianlarich junction",
+        "source": "OpenStreetMap",
+        "osm_id": "6749038713",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/6749038713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6184447,
+          56.3903333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyndrum Lower",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Oban",
+        "source": "OpenStreetMap",
+        "osm_id": "7197486218",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/7197486218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7134443,
+          56.4336045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalmally",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Oban",
+        "source": "OpenStreetMap",
+        "osm_id": "3280375234",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/3280375234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9825597,
+          56.4009781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Awe",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Oban",
+        "source": "OpenStreetMap",
+        "osm_id": "7197531029",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/7197531029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0416851,
+          56.4018224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls of Cruachan",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Oban",
+        "source": "OpenStreetMap",
+        "osm_id": "7197531031",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/7197531031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1127256,
+          56.3940171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taynuilt",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Oban",
+        "source": "OpenStreetMap",
+        "osm_id": "6749038715",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/6749038715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2398162,
+          56.4308516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Connel Ferry",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Oban",
+        "source": "OpenStreetMap",
+        "osm_id": "7197486220",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/7197486220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3832916,
+          56.4524716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oban",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Oban",
+        "source": "OpenStreetMap",
+        "osm_id": "6749038720",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/6749038720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4745782,
+          56.4122069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Tyndrum",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "6749417266",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/6749417266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7039393,
+          56.4348066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridge of Orchy",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "6750131461",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/6750131461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7643193,
+          56.5163947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rannoch",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "4934159784",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/4934159784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5769511,
+          56.6861502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corrour",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "6750131460",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/6750131460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6907677,
+          56.760277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulloch",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "4297364009",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/4297364009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.701135,
+          56.8840987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roy Bridge",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "7197562014",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/7197562014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8371115,
+          56.8883373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spean Bridge",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "27034858",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/27034858"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.9216232,
+          56.8898718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort William",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "26530357",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/26530357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1053126,
+          56.8205581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banavie",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "26530416",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/26530416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0958983,
+          56.8438445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corpach",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "7197486219",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/7197486219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1221182,
+          56.8427664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Eil Outward Bound",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "26559752",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/26559752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1929207,
+          56.8554042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locheilside",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "26555628",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/26555628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2903522,
+          56.8559844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenfinnan",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "6746638804",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/6746638804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4493089,
+          56.872438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lochailort",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "26543523",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/26543523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6632962,
+          56.8814375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beasdale",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "7209299488",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/7209299488"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7639221,
+          56.9000736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arisaig",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "7197531030",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/7197531030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8396337,
+          56.9129624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morar",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "7149921984",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/7149921984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8220885,
+          56.9689555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mallaig",
+        "type": "Stations",
+        "notes": "",
+        "section": "West Highland",
+        "branch": "Fort William and Mallaig",
+        "source": "OpenStreetMap",
+        "osm_id": "7149927234",
+        "osm_type": "node",
+        "osm_url": "https://www.openstreetmap.org/node/7149927234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8302296,
+          57.0055416
+        ]
+      }
+    }
+  ]
 }
