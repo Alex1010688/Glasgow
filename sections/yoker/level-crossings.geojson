@@ -170,7 +170,7 @@
       "type": "Feature",
       "properties": {
         "name": "Cardross",
-        "type": "AHB",
+        "type": "CCTV",
         "section": "Yoker"
       },
       "geometry": {
