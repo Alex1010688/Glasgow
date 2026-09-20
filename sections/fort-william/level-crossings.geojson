@@ -259,6 +259,51 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Arrivain",
+        "type": "UWC+telephones",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8103,
+          56.4365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arnibea",
+        "type": "UWC+telephones",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7615,
+          56.446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lochan Na Bi",
+        "type": "UWC",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7382,
+          56.443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bridge Of Orchy",
         "type": "UWC+telephones",
         "section": "Fort William"
