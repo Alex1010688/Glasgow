@@ -315,6 +315,890 @@
           56.5173
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morar",
+        "type": "AHB",
+        "section": "Fort William",
+        "notes": "Source assessment: June 2019.",
+        "elr": "MLG2",
+        "mileage": "36 miles 55 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/morar-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.821833,
+          56.968469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annat East",
+        "type": "MCB",
+        "section": "Fort William",
+        "notes": "Source assessment: February 2021.",
+        "elr": "MLG2",
+        "mileage": "2 miles 0 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/annat-east-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.140092,
+          56.842993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banavie",
+        "type": "MCB",
+        "section": "Fort William",
+        "notes": "Source assessment: February 2020.",
+        "elr": "MLG2",
+        "mileage": "0 miles 19 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/banavie-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.094929,
+          56.843282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annat West",
+        "type": "MCB",
+        "section": "Fort William",
+        "notes": "Source assessment: February 2021.",
+        "elr": "MLG2",
+        "mileage": "2 miles 19 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/annat-west-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.142392,
+          56.842946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sea Access 2",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: March 2021.",
+        "elr": "MLG2",
+        "mileage": "1 miles 37 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/sea-access-2-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.125723,
+          56.842877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locheilside",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: February 2021.",
+        "elr": "MLG2",
+        "mileage": "7 miles 73 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/locheilside-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.287928,
+          56.855682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salmon Path",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: February 2021.",
+        "elr": "MLG2",
+        "mileage": "9 miles 7 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/salmon-path-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.318424,
+          56.859082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arisaig South",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: March 2021.",
+        "elr": "MLG2",
+        "mileage": "32 miles 0 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/arisaig-south-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.838771,
+          56.912922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulloch Station",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: May 2020.",
+        "elr": "WHL0",
+        "mileage": "81 miles 64 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/tulloch-station-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.702197,
+          56.884075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenfinnan East",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: March 2021.",
+        "elr": "MLG2",
+        "mileage": "14 miles 56 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/glenfinnan-east-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.449014,
+          56.872365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenfinnan West",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: March 2021.",
+        "elr": "MLG2",
+        "mileage": "14 miles 60 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/glenfinnan-west-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.450246,
+          56.872752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arisaig North",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: March 2021.",
+        "elr": "MLG2",
+        "mileage": "32 miles 4 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/arisaig-north-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.840181,
+          56.913014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corrour Station",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: December 2014.",
+        "elr": "WHL0",
+        "mileage": "71 miles 58 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/corrour-station-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.691225,
+          56.7605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canal Tow Path South",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: May 2020.",
+        "elr": "MLG2",
+        "mileage": "0 miles 26 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/canal-tow-path-south-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0967,
+          56.844138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canal Tow Path North",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: May 2020.",
+        "elr": "MLG2",
+        "mileage": "0 miles 29 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/canal-tow-path-north-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.097453,
+          56.84439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timonie Farm",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: September 2018.",
+        "elr": "MLG2",
+        "mileage": "1 miles 2 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/timonie-farm-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.114315,
+          56.843459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mcphees",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: May 2018.",
+        "elr": "MLG2",
+        "mileage": "1 miles 57 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/mcphees-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.13252,
+          56.843174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altdaroch Farm",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: June 2018.",
+        "elr": "MLG2",
+        "mileage": "8 miles 45 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/altdaroch-farm-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.305539,
+          56.856548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camus Aird",
+        "type": "UWC",
+        "section": "Fort William",
+        "notes": "Source assessment: April 2018.",
+        "elr": "MLG2",
+        "mileage": "37 miles 5 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/camus-aird-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.822164,
+          56.973619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stepps Cottage",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: June 2019.",
+        "elr": "MLG2",
+        "mileage": "0 miles 46 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/stepps-cottage-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.102997,
+          56.845049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orival",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: August 2019.",
+        "elr": "MLG2",
+        "mileage": "1 miles 66 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/orival-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.135529,
+          56.843099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fassfern 1",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: May 2020.",
+        "elr": "MLG2",
+        "mileage": "6 miles 4 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/fassfern-1-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.240158,
+          56.8551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fassfern 2",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: May 2020.",
+        "elr": "MLG2",
+        "mileage": "6 miles 22 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/fassfern-2-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.245876,
+          56.855103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drumbeg Farm",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: January 2020.",
+        "elr": "MLG2",
+        "mileage": "7 miles 26 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/drumbeg-farm-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.273218,
+          56.855067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corriebeg Farm 1",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: February 2019.",
+        "elr": "MLG2",
+        "mileage": "7 miles 42 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/corriebeg-farm-1-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.278369,
+          56.855173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corriebeg 2",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: September 2020.",
+        "elr": "MLG2",
+        "mileage": "7 miles 68 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/corriebeg-2-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.286962,
+          56.85556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camus An Eng Farm 1",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: December 2018.",
+        "elr": "MLG2",
+        "mileage": "9 miles 15 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/camus-an-eng-farm-1-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.321183,
+          56.859486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camus An Eng Farm 2",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: November 2019.",
+        "elr": "MLG2",
+        "mileage": "9 miles 22 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/camus-an-eng-farm-2-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.323451,
+          56.859625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camus An Eng Farm 3",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: February 2021.",
+        "elr": "MLG2",
+        "mileage": "9 miles 29 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/camus-an-eng-farm-3-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.32565,
+          56.859743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heads Of Locheil",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: February 2021.",
+        "elr": "MLG2",
+        "mileage": "9 miles 37 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/heads-of-locheil-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.327847,
+          56.859864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Creag Mhor",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: February 2021.",
+        "elr": "MLG2",
+        "mileage": "33 miles 79 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/creag-mhor-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.820179,
+          56.931281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macleans",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: October 2019.",
+        "elr": "MLG2",
+        "mileage": "36 miles 34 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/macleans-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.816609,
+          56.965772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pollock",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: September 2018.",
+        "elr": "WHL0",
+        "mileage": "71 miles 59 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/pollock-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.691437,
+          56.76066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keppoch 1",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: June 2020.",
+        "elr": "WHL0",
+        "mileage": "87 miles 47 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/keppoch-1-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.841661,
+          56.888696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millens",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: July 2019.",
+        "elr": "WHL0",
+        "mileage": "88 miles 26 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/millens-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.861213,
+          56.888258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kerreays",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: July 2019.",
+        "elr": "WHL0",
+        "mileage": "88 miles 49 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/kerreays-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.868553,
+          56.889212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inverlochy Farm",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: December 2019.",
+        "elr": "WHL0",
+        "mileage": "97 miles 65 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/inverlochy-farm-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.071575,
+          56.834484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corpach",
+        "type": "AHB",
+        "section": "Fort William",
+        "notes": "Source assessment: January 2021.",
+        "elr": "MLG2",
+        "mileage": "1 miles 28 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/corpach-public-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.123093,
+          56.842776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch Eil Outward Bound",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: March 2021.",
+        "elr": "MLG2",
+        "mileage": "4 miles 20 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/loch-eil-outward-bound-private-level-crossing-highland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.19254,
+          56.855337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rannoch",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Public footpath and private user-worked crossing records share the same coordinates and mileage; combined into one pin. Source assessments: January 2019, February 2020.",
+        "elr": "WHL0",
+        "mileage": "64 miles 29 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/rannoch-private-level-crossing-perth-and-kinross",
+        "source_urls": [
+          "https://abcrailwayguide.uk/rannoch-private-level-crossing-perth-and-kinross",
+          "https://abcrailwayguide.uk/rannoch-public-level-crossing-perth-and-kinross"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.577313,
+          56.684627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inverhaggernie Lower",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: February 2020.",
+        "elr": "OBN2",
+        "mileage": "31 miles 0 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/inverhaggernie-lower-private-level-crossing-stirling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.642389,
+          56.403541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyndrum Lower Station",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: September 2018.",
+        "elr": "OBN2",
+        "mileage": "34 miles 75 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/tyndrum-lower-station-private-level-crossing-stirling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.71448,
+          56.43396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inverhaggernie Upper",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: November 2018.",
+        "elr": "WHL0",
+        "mileage": "37 miles 56 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/inverhaggernie-upper-private-level-crossing-stirling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.633948,
+          56.406113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirkton Farm",
+        "type": "UWC+telephones",
+        "section": "Fort William",
+        "notes": "Source assessment: January 2020.",
+        "elr": "WHL0",
+        "mileage": "39 miles 17 chains",
+        "source": "The ABC Railway Guide",
+        "source_url": "https://abcrailwayguide.uk/kirkton-farm-private-level-crossing-stirling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.658893,
+          56.422864
+        ]
+      }
     }
-  ]
+  ],
 }
