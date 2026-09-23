@@ -212,13 +212,6 @@
       background: #f4f4f4;
     }
 
-    .mileage-control { position: relative; }
-    .mileage-control > .measure-button { position: relative; overflow: hidden; }
-    .mileage-control .control-button-icon {
-      position: absolute; width: 40px; height: 40px; left: 50%; top: 50%; margin: 0;
-      /* Centre the visible artwork, excluding the PNG's transparent padding. */
-      transform: translate(-41.83%, -56.74%);
-    }
     .mileage-panel {
       position: absolute; left: 48px; bottom: 0; width: min(280px, calc(100vw - 76px));
       box-sizing: border-box; padding: 10px; background: white;
@@ -3222,10 +3215,29 @@
         matches.forEach(location => {
           const content = document.createElement("div");
           appendMileageRows(content, [location]);
-          L.circleMarker([location.lat, location.lng], {
-            pane: "mileageSearchPane", radius: 9, color: "#ffff00", weight: 0,
-            fillColor: "#ffff00", fillOpacity: 1
-          }).bindPopup(content).addTo(mileageSearchLayer);
+          L.marker([location.lat, location.lng], {
+  pane: "mileageSearchPane",
+  icon: L.divIcon({
+    className: "",
+    html: `
+      <svg width="26" height="32" viewBox="0 0 26 32" aria-hidden="true">
+        <path
+          d="M3 3 H23 V18 H17 L13 29 L9 18 H3 Z"
+          fill="#ffff00"
+          stroke="#000000"
+          stroke-width="2"
+          stroke-linejoin="round"
+        />
+      </svg>
+    `,
+    iconSize: [26, 32],
+
+    // Exact point is the tip at x=13, y=29
+    iconAnchor: [13, 29],
+
+    popupAnchor: [0, -29]
+  })
+}).bindPopup(content).addTo(mileageSearchLayer);
         });
         const bounds = L.latLngBounds(matches.map(location => [location.lat, location.lng]));
         map.fitBounds(bounds, { maxZoom: 17, padding: [50, 50] });
