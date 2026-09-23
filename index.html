@@ -213,11 +213,21 @@
     }
 
     .mileage-panel {
-      position: absolute; left: 48px; bottom: 0; width: min(280px, calc(100vw - 76px));
-      box-sizing: border-box; padding: 10px; background: white;
-      border: 2px solid rgba(0, 0, 0, 0.2); border-radius: 4px;
-      font: 13px/1.35 Arial, sans-serif;
-    }
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+
+  width: min(280px, calc(100vw - 20px));
+  box-sizing: border-box;
+  padding: 10px;
+  background: white;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  font: 13px/1.35 Arial, sans-serif;
+
+  z-index: 1400;
+  pointer-events: auto;
+}
     .mileage-panel p { margin: 6px 0; }
     .mileage-fields { display: grid; grid-template-columns: 1.2fr 1fr 1fr; gap: 6px; margin: 8px 0; }
     .mileage-fields input { display: block; width: 100%; box-sizing: border-box; padding: 6px 3px; font-size: 16px; }
@@ -3174,7 +3184,11 @@
       mileageButton.setAttribute("aria-label", "Mileage mode");
       mileageButton.setAttribute("aria-pressed", "false");
       mileageButton.innerHTML = '<img class="control-button-icon" src="mileage-icon.png" alt="" />';
-      mileagePanel = L.DomUtil.create("form", "mileage-panel", container);
+      mileagePanel = L.DomUtil.create(
+  "form",
+  "mileage-panel",
+  document.querySelector(".search-wrapper")
+);
       mileagePanel.hidden = true;
       mileagePanel.innerHTML = `
         <strong>Mileage</strong>
@@ -3187,6 +3201,8 @@
         <button type="submit">Find mileage</button>
         <div class="mileage-search-status" role="status" aria-live="polite"></div>`;
       mileageSearchStatus = mileagePanel.querySelector(".mileage-search-status");
+      L.DomEvent.disableClickPropagation(mileagePanel);
+      L.DomEvent.disableScrollPropagation(mileagePanel);
       L.DomEvent.disableClickPropagation(container);
       L.DomEvent.disableScrollPropagation(container);
       L.DomEvent.on(container, "touchend", L.DomEvent.stopPropagation);
