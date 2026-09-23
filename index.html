@@ -212,6 +212,26 @@
       background: #f4f4f4;
     }
 
+    .mileage-control { position: relative; }
+    .mileage-control > .measure-button { position: relative; overflow: hidden; }
+    .mileage-control .control-button-icon {
+      position: absolute; width: 40px; height: 40px; left: 50%; top: 50%; margin: 0;
+      /* Centre the visible artwork, excluding the PNG's transparent padding. */
+      transform: translate(-41.83%, -56.74%);
+    }
+    .mileage-panel {
+      position: absolute; left: 48px; bottom: 0; width: min(280px, calc(100vw - 76px));
+      box-sizing: border-box; padding: 10px; background: white;
+      border: 2px solid rgba(0, 0, 0, 0.2); border-radius: 4px;
+      font: 13px/1.35 Arial, sans-serif;
+    }
+    .mileage-panel p { margin: 6px 0; }
+    .mileage-fields { display: grid; grid-template-columns: 1.2fr 1fr 1fr; gap: 6px; margin: 8px 0; }
+    .mileage-fields input { display: block; width: 100%; box-sizing: border-box; padding: 6px 3px; font-size: 16px; }
+    .mileage-fields input[name="elr"] { text-transform: uppercase; }
+    .mileage-panel button { min-height: 36px; cursor: pointer; }
+    .mileage-search-status { margin-top: 6px; }
+
     .measure-control {
       display: grid;
       gap: 6px;
@@ -680,6 +700,7 @@
       <p>The information shown on this map is for guidance only and must not be used for safety-critical decisions.</p>
       <p>MyIM links only refer to the main item of equipment. They may not show faults allocated to associated equipment, such as stretcher bars or backdrives. Current open faults are also not shown. These limitations are due to restrictions with how faults are stored within MyIM.</p>
       <p>Attempts have been made to show all equipment, but it is possible some may have been missed.</p>
+      <p>Contains Network Rail information licensed under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank" rel="noopener noreferrer">Open Government Licence v3.0</a>. <a href="https://github.com/openraildata/network-rail-gis" target="_blank" rel="noopener noreferrer">Mileage data source</a>.</p>
       <p>For corrections, suggestions, or errors, email <a href="mailto:alex.corcoran@networkrail.co.uk">alex.corcoran@networkrail.co.uk</a>.</p>
       <p>This information can be viewed again using the icon in the bottom right corner.</p>
       <button id="infoModalClose" type="button">Close</button>
@@ -739,6 +760,7 @@
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="mileage-lookup.js?v=2026-09-23-v3"></script>
 
   <script>
     /*
@@ -1487,6 +1509,7 @@
 
       let html = `<div class="popup-title">${name}</div>`;
 
+
       if (code) {
         html += `<div class="popup-row"><strong>Code:</strong> ${code}</div>`;
       }
@@ -1764,6 +1787,7 @@
 
     function setMeasurementActive(isActive) {
       measurementActive = isActive;
+      if (isActive && mileageActive) setMileageActive(false);
 
       if (measurementActive && radiusActive) {
         finishRadius();
@@ -2155,6 +2179,7 @@
 
     function setRadiusActive(isActive) {
       radiusActive = isActive;
+      if (isActive && mileageActive) setMileageActive(false);
 
       if (radiusActive && measurementActive) {
         finishMeasurement();
@@ -3037,6 +3062,179 @@
       await Promise.all(loads);
     }
 
+    const mileageIndexes = new Map();
+
+    function loadMileageIndex(sectionName) {
+      const slug = SECTION_FILE_SLUGS[sectionName];
+      if (!slug) return Promise.reject(new Error("Unknown mileage section"));
+      if (!mileageIndexes.has(slug)) {
+        const request = fetch(`sections/${slug}/mileage.json?v=2026-09-23-v2`)
+          .then(response => {
+            if (!response.ok) throw new Error(`Mileage data: HTTP ${response.status}`);
+            return response.json();
+          })
+          .then(data => {
+            if (data.version !== 1 || !Array.isArray(data.links)) throw new Error("Invalid mileage data");
+            return RailMileage.createIndex(data.links);
+          })
+          .catch(error => {
+            mileageIndexes.delete(slug); // A later tap can retry a failed request.
+            throw error;
+          });
+        mileageIndexes.set(slug, request);
+      }
+      return mileageIndexes.get(slug);
+    }
+
+    let mileageActive = false;
+    let mileageSearchId = 0;
+    map.createPane("mileageSearchPane");
+    map.getPane("mileageSearchPane").style.zIndex = 720;
+    const mileageSearchLayer = L.layerGroup().addTo(map);
+    let mileageButton, mileagePanel, mileageSearchStatus;
+
+    function setMileageActive(active) {
+      mileageActive = active;
+      mileageSearchId++;
+      mileageButton.classList.toggle("active", active);
+      mileageButton.setAttribute("aria-pressed", String(active));
+      mileagePanel.hidden = !active;
+      if (active) {
+        if (measurementActive) finishMeasurement();
+        if (radiusActive) finishRadius();
+      } else {
+        mileageSearchLayer.clearLayers();
+        mileageSearchStatus.textContent = "";
+      }
+      map.closePopup();
+      // Restore baseline content so turning the mode off cannot leave mileages
+      // behind in an asset popup opened by search or a later tap.
+      allFeatures.forEach(item => item.layer.setPopupContent(popupContent(item.feature, item.layerName)));
+    }
+
+    function appendMileageRows(container, locations) {
+      if (locations.length > 1) {
+        const note = document.createElement("div");
+        note.textContent = "Possible mileages (approx.):";
+        container.append(note);
+      }
+      locations.forEach(location => {
+        const row = document.createElement("div");
+        const label = document.createElement("strong");
+        label.textContent = `${location.elr}: `;
+        row.append(label, document.createTextNode(location.mileage));
+        container.append(row);
+      });
+      if (locations.length === 1) {
+        const note = document.createElement("small");
+        note.textContent = "Approximate mileage";
+        container.append(note);
+      }
+    }
+
+    function bindAssetMileage(feature, leafletLayer, layerName) {
+      let requestId = 0;
+      leafletLayer.on("popupclose", () => { requestId++; });
+      async function updateMileage(event) {
+        if (!mileageActive || measurementActive || radiusActive) return;
+        const popup = leafletLayer.getPopup();
+        if (!popup || !leafletLayer.isPopupOpen()) return;
+        // Point assets use their stored position, not the edge of the icon that
+        // was tapped. Lines use the clicked position along the asset.
+        const coords = feature.geometry?.type === "Point" ? feature.geometry.coordinates : null;
+        const position = coords ? L.latLng(coords[1], coords[0]) : (event.latlng || popup.getLatLng());
+        if (!position) return;
+        const currentRequest = ++requestId;
+        const content = document.createElement("div");
+        content.innerHTML = popupContent(feature, layerName);
+        const result = document.createElement("div");
+        result.className = "popup-row";
+        result.setAttribute("role", "status");
+        result.setAttribute("aria-live", "polite");
+        result.textContent = "Looking up ELR and mileage…";
+        content.querySelector(".popup-title").after(result);
+        leafletLayer.setPopupContent(content);
+        try {
+          const index = await loadMileageIndex(getFeatureSection(feature));
+          if (currentRequest !== requestId || !mileageActive || !leafletLayer.isPopupOpen()) return;
+          const location = index.lookup(position);
+          result.replaceChildren();
+          if (location.status === "ok") appendMileageRows(result, location.locations);
+          else result.remove();
+        } catch (error) {
+          if (currentRequest !== requestId || !mileageActive || !leafletLayer.isPopupOpen()) return;
+          result.textContent = "Could not load mileage data. Tap the asset to retry.";
+          console.warn("Mileage lookup failed", error);
+        }
+        popup.update();
+      }
+      leafletLayer.on("popupopen", updateMileage);
+      leafletLayer.on("click", updateMileage);
+    }
+
+    const mileageControl = L.control({ position: "bottomleft" });
+    mileageControl.onAdd = function() {
+      const container = L.DomUtil.create("div", "mileage-control");
+      mileageButton = L.DomUtil.create("button", "measure-button", container);
+      mileageButton.type = "button";
+      mileageButton.title = "Show mileages and search by mileage";
+      mileageButton.setAttribute("aria-label", "Mileage mode");
+      mileageButton.setAttribute("aria-pressed", "false");
+      mileageButton.innerHTML = '<img class="control-button-icon" src="mileage-icon.png" alt="" />';
+      mileagePanel = L.DomUtil.create("form", "mileage-panel", container);
+      mileagePanel.hidden = true;
+      mileagePanel.innerHTML = `
+        <strong>Mileage</strong>
+        <p>Click the track to show mileage that location</p>
+        <div class="mileage-fields">
+          <label>ELR<input name="elr" aria-label="ELR" placeholder="ABC1" required maxlength="4" pattern="[A-Za-z0-9]{2,4}" autocomplete="off"></label>
+          <label>Miles<input name="miles" aria-label="Miles" type="number" min="0" step="1" value="0" required></label>
+          <label>Yards<input name="yards" aria-label="Yards" type="number" min="0" max="1759" step="1" value="0" required></label>
+        </div>
+        <button type="submit">Find mileage</button>
+        <div class="mileage-search-status" role="status" aria-live="polite"></div>`;
+      mileageSearchStatus = mileagePanel.querySelector(".mileage-search-status");
+      L.DomEvent.disableClickPropagation(container);
+      L.DomEvent.disableScrollPropagation(container);
+      L.DomEvent.on(container, "touchend", L.DomEvent.stopPropagation);
+      mileageButton.addEventListener("click", () => setMileageActive(!mileageActive));
+      mileagePanel.addEventListener("submit", async function(event) {
+        event.preventDefault();
+        if (!mileageActive || !mileagePanel.reportValidity()) return;
+        const fields = new FormData(mileagePanel);
+        const elr = String(fields.get("elr")).trim().toUpperCase();
+        const yards = Number(fields.get("miles")) * 1760 + Number(fields.get("yards"));
+        const currentSearch = ++mileageSearchId;
+        mileageSearchLayer.clearLayers();
+        map.closePopup();
+        mileageSearchStatus.textContent = "Searching mapped area…";
+        const indexes = await Promise.allSettled(SECTION_NAMES.map(loadMileageIndex));
+        if (currentSearch !== mileageSearchId || !mileageActive) return;
+        const partial = indexes.some(result => result.status === "rejected");
+        const matches = RailMileage.uniqueLocations(indexes.flatMap(result =>
+          result.status === "fulfilled" ? result.value.findMileage(elr, yards) : []));
+        if (!matches.length) {
+          mileageSearchStatus.textContent = partial
+            ? "Some mileage data could not load. Try Find mileage again."
+            : "No matching mileage in the mapped area. Check the ELR, miles and yards.";
+          return;
+        }
+        matches.forEach(location => {
+          const content = document.createElement("div");
+          appendMileageRows(content, [location]);
+          L.circleMarker([location.lat, location.lng], {
+            pane: "mileageSearchPane", radius: 9, color: "#ffff00", weight: 0,
+            fillColor: "#ffff00", fillOpacity: 1
+          }).bindPopup(content).addTo(mileageSearchLayer);
+        });
+        const bounds = L.latLngBounds(matches.map(location => [location.lat, location.lng]));
+        map.fitBounds(bounds, { maxZoom: 17, padding: [50, 50] });
+        mileageSearchStatus.textContent = `${matches.length === 1 ? "Location shown" : `${matches.length} possible locations shown`}: ${elr} ${RailMileage.formatMileage(yards)}.${partial ? " Some data could not load; results may be incomplete." : ""}`;
+      });
+      return container;
+    };
+    mileageControl.addTo(map);
+
     async function loadLayer(layerConfig, showLayer = layerConfig.showOnLoad) {
       const layer = L.geoJSON(null, {
         pane: layerConfig.pane,
@@ -3082,6 +3280,7 @@
           leafletLayer.on("click", handleRadiusFeatureClick);
 
           leafletLayer.bindPopup(popupContent(feature, layerConfig.name));
+          bindAssetMileage(feature, leafletLayer, layerConfig.name);
 
           leafletLayer.bindTooltip(getFeatureName(feature), {
             permanent: false,
