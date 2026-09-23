@@ -232,7 +232,11 @@
     .mileage-fields { display: grid; grid-template-columns: 1.2fr 1fr 1fr; gap: 6px; margin: 8px 0; }
     .mileage-fields input { display: block; width: 100%; box-sizing: border-box; padding: 6px 3px; font-size: 16px; }
     .mileage-fields input[name="elr"] { text-transform: uppercase; }
-    .mileage-panel button { min-height: 36px; cursor: pointer; }
+    .mileage-panel button {
+  cursor: pointer;
+  color: #111;
+  white-space: nowrap;
+}
     .mileage-search-status { margin-top: 6px; }
 
     .measure-control {
