@@ -21,6 +21,40 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Garelochhead GF",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8248172,
+          56.0810939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garelochhead GF",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8242834,
+          56.0816836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "U15",
         "type": "Points",
         "notes": "",
@@ -38,6 +72,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Glen Douglas Groundframe",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7804064,
+          56.1550556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "D16",
         "type": "Points",
         "notes": "",
@@ -49,6 +100,23 @@
         "coordinates": [
           -4.7803748,
           56.1554052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glen Douglas Groundframe",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7802614,
+          56.1555517
         ]
       }
     },
@@ -106,6 +174,23 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Arrochar Groundframe",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7263486,
+          56.2021348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "D17",
         "type": "Points",
         "notes": "",
@@ -117,6 +202,23 @@
         "coordinates": [
           -4.7260942,
           56.2023074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arrochar Groundframe",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7253723,
+          56.2025228
         ]
       }
     },
@@ -151,6 +253,40 @@
         "coordinates": [
           -4.7215496,
           56.2038952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardlui Groundframe",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7215005,
+          56.3019588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardlui Groundframe",
+        "type": "Points",
+        "notes": "",
+        "equipment_number": "",
+        "section": "Yoker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7212886,
+          56.3016196
         ]
       }
     },
@@ -200,8 +336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.7054837,
-          55.9937569
+          -4.705371,
+          55.9937374
         ]
       }
     },
@@ -404,8 +540,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.5691917,
-          55.9464264
+          -4.5697161,
+          55.9464775
         ]
       }
     },
@@ -1526,8 +1662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.28039,
-          55.86033
+          -4.2802594,
+          55.8602977
         ]
       }
     },
@@ -1543,8 +1679,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2795366,
-          55.8602714
+          -4.2791852,
+          55.860221
         ]
       }
     },

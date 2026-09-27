@@ -1,4 +1,4686 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "749 T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2156216,
+            55.8365654
+          ],
+          [
+            -4.2157558,
+            55.8368019
+          ],
+          [
+            -4.2159113,
+            55.8370339
+          ],
+          [
+            -4.2160723,
+            55.8372342
+          ],
+          [
+            -4.2162386,
+            55.8374571
+          ],
+          [
+            -4.216496,
+            55.8377855
+          ],
+          [
+            -4.2166355,
+            55.8379903
+          ],
+          [
+            -4.2167696,
+            55.8382132
+          ],
+          [
+            -4.2168876,
+            55.8384451
+          ],
+          [
+            -4.2169467,
+            55.8386078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "750T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2172897,
+            55.8402931
+          ],
+          [
+            -4.2171448,
+            55.8393624
+          ],
+          [
+            -4.2170483,
+            55.8389617
+          ],
+          [
+            -4.2169467,
+            55.8386078
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "752T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2172897,
+            55.8402931
+          ],
+          [
+            -4.2173996,
+            55.8415137
+          ],
+          [
+            -4.2174425,
+            55.8418744
+          ],
+          [
+            -4.2175055,
+            55.8422336
+          ],
+          [
+            -4.2175565,
+            55.8423533
+          ],
+          [
+            -4.2176692,
+            55.8426358
+          ],
+          [
+            -4.2177953,
+            55.8428458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "753T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2193764,
+            55.8442102
+          ],
+          [
+            -4.2183518,
+            55.8434452
+          ],
+          [
+            -4.2181212,
+            55.8432344
+          ],
+          [
+            -4.217904,
+            55.843006
+          ],
+          [
+            -4.2177953,
+            55.8428458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "754T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2215652,
+            55.8458739
+          ],
+          [
+            -4.2193764,
+            55.8442102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "756T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2256883,
+            55.8488062
+          ],
+          [
+            -4.2253182,
+            55.8486165
+          ],
+          [
+            -4.2249695,
+            55.8484057
+          ],
+          [
+            -4.2247173,
+            55.84824
+          ],
+          [
+            -4.2242077,
+            55.8478515
+          ],
+          [
+            -4.2234621,
+            55.8472764
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "755T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2234621,
+            55.8472764
+          ],
+          [
+            -4.2215652,
+            55.8458739
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "758T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2281919,
+            55.8495686
+          ],
+          [
+            -4.2265692,
+            55.849159
+          ],
+          [
+            -4.2261239,
+            55.8489934
+          ],
+          [
+            -4.2256883,
+            55.8488062
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "759T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.234385,
+            55.8512025
+          ],
+          [
+            -4.2339049,
+            55.85107
+          ],
+          [
+            -4.2334972,
+            55.8509827
+          ],
+          [
+            -4.2323613,
+            55.850787
+          ],
+          [
+            -4.232077,
+            55.8507087
+          ],
+          [
+            -4.2316532,
+            55.8505717
+          ],
+          [
+            -4.2311516,
+            55.8503971
+          ],
+          [
+            -4.2301458,
+            55.8500582
+          ],
+          [
+            -4.2292574,
+            55.8498179
+          ],
+          [
+            -4.2281919,
+            55.8495686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "760T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2364153,
+            55.8522239
+          ],
+          [
+            -4.2354698,
+            55.8516962
+          ],
+          [
+            -4.2351506,
+            55.8515125
+          ],
+          [
+            -4.2347617,
+            55.8513469
+          ],
+          [
+            -4.234385,
+            55.8512025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "761T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2391713,
+            55.8538815
+          ],
+          [
+            -4.2383263,
+            55.8533267
+          ],
+          [
+            -4.2364153,
+            55.8522239
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "762T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2391713,
+            55.8538815
+          ],
+          [
+            -4.2397183,
+            55.8542213
+          ],
+          [
+            -4.2403325,
+            55.8545581
+          ],
+          [
+            -4.2412431,
+            55.8550505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "763T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2450599,
+            55.8568622
+          ],
+          [
+            -4.2442003,
+            55.8565845
+          ],
+          [
+            -4.2435243,
+            55.8562653
+          ],
+          [
+            -4.2412431,
+            55.8550505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "764T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2476979,
+            55.8572695
+          ],
+          [
+            -4.2459651,
+            55.8570391
+          ],
+          [
+            -4.2454341,
+            55.8569525
+          ],
+          [
+            -4.2450599,
+            55.8568622
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "765T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2517882,
+            55.8577504
+          ],
+          [
+            -4.2512471,
+            55.8576772
+          ],
+          [
+            -4.250274,
+            55.857565
+          ],
+          [
+            -4.249613,
+            55.857517
+          ],
+          [
+            -4.2476979,
+            55.8572695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "766T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2543136,
+            55.8580723
+          ],
+          [
+            -4.252354,
+            55.857847
+          ],
+          [
+            -4.2517882,
+            55.8577504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "767T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2575666,
+            55.8583779
+          ],
+          [
+            -4.257295,
+            55.858367
+          ],
+          [
+            -4.2562921,
+            55.858281
+          ],
+          [
+            -4.255257,
+            55.85818
+          ],
+          [
+            -4.2543136,
+            55.8580723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "768T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2583914,
+            55.8584262
+          ],
+          [
+            -4.2580119,
+            55.858393
+          ],
+          [
+            -4.2575666,
+            55.8583907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "768T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2612882,
+            55.8586978
+          ],
+          [
+            -4.2609878,
+            55.8586587
+          ],
+          [
+            -4.2583914,
+            55.8584262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "769T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2631939,
+            55.8589085
+          ],
+          [
+            -4.261825,
+            55.858784
+          ],
+          [
+            -4.2612882,
+            55.8586978
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "770T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2661899,
+            55.8591765
+          ],
+          [
+            -4.2631939,
+            55.8589085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "771T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2682968,
+            55.8594234
+          ],
+          [
+            -4.2673782,
+            55.8592947
+          ],
+          [
+            -4.2656213,
+            55.8591298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "772T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.271503,
+            55.859839
+          ],
+          [
+            -4.271062,
+            55.859773
+          ],
+          [
+            -4.2704488,
+            55.8596983
+          ],
+          [
+            -4.268938,
+            55.859523
+          ],
+          [
+            -4.2682968,
+            55.8594234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "773T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.273711,
+            55.860116
+          ],
+          [
+            -4.27326,
+            55.860078
+          ],
+          [
+            -4.2725801,
+            55.8599922
+          ],
+          [
+            -4.271503,
+            55.859839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "774T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2751718,
+            55.8601668
+          ],
+          [
+            -4.2745326,
+            55.8601572
+          ],
+          [
+            -4.273711,
+            55.860116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "775T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2791616,
+            55.8601812
+          ],
+          [
+            -4.278949,
+            55.860171
+          ],
+          [
+            -4.2780927,
+            55.8601684
+          ],
+          [
+            -4.2751718,
+            55.8601668
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "776T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2791616,
+            55.8601812
+          ],
+          [
+            -4.279847,
+            55.860233
+          ],
+          [
+            -4.280162,
+            55.8602839
+          ],
+          [
+            -4.280335,
+            55.860317
+          ],
+          [
+            -4.280162,
+            55.8602839
+          ],
+          [
+            -4.279702,
+            55.8602433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "777T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.280335,
+            55.860317
+          ],
+          [
+            -4.280846,
+            55.860417
+          ],
+          [
+            -4.2812604,
+            55.8605298
+          ],
+          [
+            -4.2817351,
+            55.8606901
+          ],
+          [
+            -4.2822541,
+            55.8608745
+          ],
+          [
+            -4.2817337,
+            55.8606894
+          ],
+          [
+            -4.2824137,
+            55.8608949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "783T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2848722,
+            55.8616178
+          ],
+          [
+            -4.2843223,
+            55.861523
+          ],
+          [
+            -4.284038,
+            55.8614628
+          ],
+          [
+            -4.2836706,
+            55.8613694
+          ],
+          [
+            -4.2832709,
+            55.8612325
+          ],
+          [
+            -4.282646,
+            55.8609811
+          ],
+          [
+            -4.2824137,
+            55.8608949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "784T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2870555,
+            55.8620047
+          ],
+          [
+            -4.2848722,
+            55.8616178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "778T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2845509,
+            55.8616221
+          ],
+          [
+            -4.284065,
+            55.861523
+          ],
+          [
+            -4.2836068,
+            55.8613993
+          ],
+          [
+            -4.28328,
+            55.861289
+          ],
+          [
+            -4.2822541,
+            55.8608745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "780T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2875937,
+            55.8621587
+          ],
+          [
+            -4.2871431,
+            55.8620744
+          ],
+          [
+            -4.28478,
+            55.8616605
+          ],
+          [
+            -4.2845509,
+            55.8616221
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "781T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.290025,
+            55.862714
+          ],
+          [
+            -4.288065,
+            55.862254
+          ],
+          [
+            -4.2875937,
+            55.8621587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "782T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2925611,
+            55.8631649
+          ],
+          [
+            -4.292093,
+            55.86311
+          ],
+          [
+            -4.2914842,
+            55.8630242
+          ],
+          [
+            -4.2909008,
+            55.8629113
+          ],
+          [
+            -4.290013,
+            55.8627111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "381T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.292748,
+            55.8632381
+          ],
+          [
+            -4.293267,
+            55.863244
+          ],
+          [
+            -4.2937297,
+            55.8632411
+          ],
+          [
+            -4.2938732,
+            55.8632374
+          ],
+          [
+            -4.2945813,
+            55.8632253
+          ],
+          [
+            -4.2936197,
+            55.86322
+          ],
+          [
+            -4.2931034,
+            55.8632027
+          ],
+          [
+            -4.2925611,
+            55.8631649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "383T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3018262,
+            55.8662161
+          ],
+          [
+            -4.3014842,
+            55.8659068
+          ],
+          [
+            -4.3006071,
+            55.8650527
+          ],
+          [
+            -4.3002853,
+            55.8647667
+          ],
+          [
+            -4.2997676,
+            55.8643934
+          ],
+          [
+            -4.2992553,
+            55.8641135
+          ],
+          [
+            -4.2987108,
+            55.8638772
+          ],
+          [
+            -4.2980376,
+            55.8636431
+          ],
+          [
+            -4.2972825,
+            55.863455
+          ],
+          [
+            -4.2969218,
+            55.8633812
+          ],
+          [
+            -4.2961895,
+            55.8632751
+          ],
+          [
+            -4.2957363,
+            55.863236
+          ],
+          [
+            -4.2951655,
+            55.8632209
+          ],
+          [
+            -4.2945813,
+            55.8632253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "385T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3031738,
+            55.8670933
+          ],
+          [
+            -4.3025233,
+            55.8667147
+          ],
+          [
+            -4.30218,
+            55.866492
+          ],
+          [
+            -4.301893,
+            55.8662745
+          ],
+          [
+            -4.3018262,
+            55.8662161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "387T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3035215,
+            55.8673072
+          ],
+          [
+            -4.3038755,
+            55.8674863
+          ],
+          [
+            -4.3039359,
+            55.8675194
+          ],
+          [
+            -4.3031738,
+            55.8670933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "393T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3106861,
+            55.8709983
+          ],
+          [
+            -4.3102731,
+            55.8705333
+          ],
+          [
+            -4.3100209,
+            55.8703181
+          ],
+          [
+            -4.3097956,
+            55.8701495
+          ],
+          [
+            -4.3094282,
+            55.8699132
+          ],
+          [
+            -4.3089829,
+            55.869677
+          ],
+          [
+            -4.3084197,
+            55.8694392
+          ],
+          [
+            -4.3077384,
+            55.8692134
+          ],
+          [
+            -4.3070437,
+            55.8690163
+          ],
+          [
+            -4.3065153,
+            55.8688372
+          ],
+          [
+            -4.3061264,
+            55.8686747
+          ],
+          [
+            -4.3057026,
+            55.868479
+          ],
+          [
+            -4.3054022,
+            55.8683165
+          ],
+          [
+            -4.3046753,
+            55.8679237
+          ],
+          [
+            -4.3039359,
+            55.8675194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "738T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2188013,
+            55.8438409
+          ],
+          [
+            -4.2207312,
+            55.8452865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "737T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2223887,
+            55.8465342
+          ],
+          [
+            -4.2207312,
+            55.8452865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "736T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2240479,
+            55.8477832
+          ],
+          [
+            -4.2223887,
+            55.8465342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "735T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2295278,
+            55.8499208
+          ],
+          [
+            -4.2270494,
+            55.8493215
+          ],
+          [
+            -4.2265478,
+            55.849177
+          ],
+          [
+            -4.2260275,
+            55.8489812
+          ],
+          [
+            -4.225429,
+            55.848706
+          ],
+          [
+            -4.2250297,
+            55.8484783
+          ],
+          [
+            -4.2245657,
+            55.8481651
+          ],
+          [
+            -4.2240479,
+            55.8477832
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "723T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2320052,
+            55.8507184
+          ],
+          [
+            -4.2317048,
+            55.8506295
+          ],
+          [
+            -4.2312193,
+            55.8504594
+          ],
+          [
+            -4.230731,
+            55.850282
+          ],
+          [
+            -4.2302135,
+            55.8501131
+          ],
+          [
+            -4.2295278,
+            55.8499208
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "722T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2342958,
+            55.8512182
+          ],
+          [
+            -4.234041,
+            55.8511369
+          ],
+          [
+            -4.2336575,
+            55.8510481
+          ],
+          [
+            -4.233349,
+            55.8509864
+          ],
+          [
+            -4.2325739,
+            55.8508494
+          ],
+          [
+            -4.2320052,
+            55.8507184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "721T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2384747,
+            55.8534661
+          ],
+          [
+            -4.2379168,
+            55.8531379
+          ],
+          [
+            -4.2357147,
+            55.8518687
+          ],
+          [
+            -4.2350871,
+            55.8515209
+          ],
+          [
+            -4.234792,
+            55.8513914
+          ],
+          [
+            -4.2342958,
+            55.8512182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "720T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2414641,
+            55.8552155
+          ],
+          [
+            -4.2396992,
+            55.8542625
+          ],
+          [
+            -4.2394176,
+            55.8540804
+          ],
+          [
+            -4.2387363,
+            55.8536377
+          ],
+          [
+            -4.2384747,
+            55.8534661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "719T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2436153,
+            55.8563838
+          ],
+          [
+            -4.2414641,
+            55.8552155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "718T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2436153,
+            55.8563838
+          ],
+          [
+            -4.2440998,
+            55.85662
+          ],
+          [
+            -4.2445531,
+            55.8567879
+          ],
+          [
+            -4.245024,
+            55.856934
+          ],
+          [
+            -4.2455254,
+            55.8570144
+          ],
+          [
+            -4.2466868,
+            55.857168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "717T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2495474,
+            55.8575466
+          ],
+          [
+            -4.2466868,
+            55.857168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "716T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2556682,
+            55.8582586
+          ],
+          [
+            -4.2523744,
+            55.8578823
+          ],
+          [
+            -4.2517951,
+            55.8578296
+          ],
+          [
+            -4.250977,
+            55.8577393
+          ],
+          [
+            -4.2495474,
+            55.8575466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "715T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.258571,
+            55.8585326
+          ],
+          [
+            -4.258196,
+            55.858481
+          ],
+          [
+            -4.2556682,
+            55.8582586
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "714T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.260822,
+            55.8587388
+          ],
+          [
+            -4.2601327,
+            55.8586966
+          ],
+          [
+            -4.2591765,
+            55.8586131
+          ],
+          [
+            -4.258571,
+            55.8585326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "713T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.260822,
+            55.8587388
+          ],
+          [
+            -4.261256,
+            55.85877
+          ],
+          [
+            -4.2637717,
+            55.858997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "712T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2665515,
+            55.8592467
+          ],
+          [
+            -4.2637717,
+            55.858997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "711T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2693605,
+            55.8596546
+          ],
+          [
+            -4.2683145,
+            55.8594649
+          ],
+          [
+            -4.2676667,
+            55.8593663
+          ],
+          [
+            -4.2673435,
+            55.8593264
+          ],
+          [
+            -4.2665515,
+            55.8592467
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "710T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2720993,
+            55.8599662
+          ],
+          [
+            -4.2717305,
+            55.859924
+          ],
+          [
+            -4.2707569,
+            55.8598435
+          ],
+          [
+            -4.2704216,
+            55.8598104
+          ],
+          [
+            -4.2700367,
+            55.8597637
+          ],
+          [
+            -4.2693605,
+            55.8596546
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "709T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2749923,
+            55.8602052
+          ],
+          [
+            -4.2746544,
+            55.8602006
+          ],
+          [
+            -4.27382,
+            55.860159
+          ],
+          [
+            -4.2734608,
+            55.8601337
+          ],
+          [
+            -4.2730089,
+            55.860087
+          ],
+          [
+            -4.2720993,
+            55.8599662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "708T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.279141,
+            55.860217
+          ],
+          [
+            -4.2767437,
+            55.8602064
+          ],
+          [
+            -4.274967,
+            55.860207
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "707T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.279702,
+            55.8602433
+          ],
+          [
+            -4.2791114,
+            55.8602175
+          ],
+          [
+            -4.2797162,
+            55.8602581
+          ],
+          [
+            -4.2800434,
+            55.860298
+          ],
+          [
+            -4.2805182,
+            55.8603831
+          ],
+          [
+            -4.2807918,
+            55.8604388
+          ],
+          [
+            -4.2812236,
+            55.8605532
+          ],
+          [
+            -4.2815616,
+            55.8606661
+          ],
+          [
+            -4.2819894,
+            55.860852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "706T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.283563,
+            55.8618004
+          ],
+          [
+            -4.2833801,
+            55.8616896
+          ],
+          [
+            -4.2825862,
+            55.8611884
+          ],
+          [
+            -4.2822174,
+            55.8609641
+          ],
+          [
+            -4.2819894,
+            55.860852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "705T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2870856,
+            55.8625491
+          ],
+          [
+            -4.2856104,
+            55.8624001
+          ],
+          [
+            -4.285106,
+            55.862335
+          ],
+          [
+            -4.2846287,
+            55.8622405
+          ],
+          [
+            -4.2841942,
+            55.8620975
+          ],
+          [
+            -4.2838857,
+            55.8619681
+          ],
+          [
+            -4.283563,
+            55.8618004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "704T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2927414,
+            55.8636458
+          ],
+          [
+            -4.2920655,
+            55.8633599
+          ],
+          [
+            -4.291415,
+            55.863151
+          ],
+          [
+            -4.2908746,
+            55.8630122
+          ],
+          [
+            -4.2903623,
+            55.8629083
+          ],
+          [
+            -4.2895656,
+            55.8628044
+          ],
+          [
+            -4.2870856,
+            55.8625491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "703T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2967309,
+            55.8646374
+          ],
+          [
+            -4.2942016,
+            55.8641136
+          ],
+          [
+            -4.2935444,
+            55.863951
+          ],
+          [
+            -4.2927414,
+            55.8636458
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "702T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.301714,
+            55.8663228
+          ],
+          [
+            -4.3005485,
+            55.8656849
+          ],
+          [
+            -4.300003,
+            55.865443
+          ],
+          [
+            -4.299328,
+            55.865212
+          ],
+          [
+            -4.2986898,
+            55.8650438
+          ],
+          [
+            -4.2973165,
+            55.8647578
+          ],
+          [
+            -4.2967309,
+            55.8646374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "384T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3029532,
+            55.8670166
+          ],
+          [
+            -4.302583,
+            55.8668003
+          ],
+          [
+            -4.3023081,
+            55.8666299
+          ],
+          [
+            -4.3020144,
+            55.8664327
+          ],
+          [
+            -4.3018146,
+            55.8662882
+          ],
+          [
+            -4.3020144,
+            55.8664327
+          ],
+          [
+            -4.3023081,
+            55.8666299
+          ],
+          [
+            -4.302583,
+            55.8668003
+          ],
+          [
+            -4.301714,
+            55.8663228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "386T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3035215,
+            55.8673072
+          ],
+          [
+            -4.3031664,
+            55.8671299
+          ],
+          [
+            -4.3029532,
+            55.8670166
+          ],
+          [
+            -4.3041508,
+            55.8676837
+          ],
+          [
+            -4.3045517,
+            55.8679027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "388T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3064692,
+            55.868859
+          ],
+          [
+            -4.3060642,
+            55.8686866
+          ],
+          [
+            -4.3056806,
+            55.8685075
+          ],
+          [
+            -4.3051201,
+            55.868199
+          ],
+          [
+            -4.3045517,
+            55.8679027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "392T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3082824,
+            55.8694286
+          ],
+          [
+            -4.3075528,
+            55.8691968
+          ],
+          [
+            -4.3070647,
+            55.8690599
+          ],
+          [
+            -4.3067187,
+            55.868947
+          ],
+          [
+            -4.3064692,
+            55.868859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "394T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3112445,
+            55.8719454
+          ],
+          [
+            -4.3109816,
+            55.8714999
+          ],
+          [
+            -4.3107335,
+            55.8711538
+          ],
+          [
+            -4.3105243,
+            55.8708844
+          ],
+          [
+            -4.3103084,
+            55.8706482
+          ],
+          [
+            -4.3100563,
+            55.8703991
+          ],
+          [
+            -4.3098243,
+            55.8702208
+          ],
+          [
+            -4.3095279,
+            55.8700206
+          ],
+          [
+            -4.3092449,
+            55.8698528
+          ],
+          [
+            -4.3089123,
+            55.8696843
+          ],
+          [
+            -4.3085475,
+            55.8695263
+          ],
+          [
+            -4.3082824,
+            55.8694286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "377T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.292748,
+            55.8632381
+          ],
+          [
+            -4.2922106,
+            55.8632139
+          ],
+          [
+            -4.2911002,
+            55.8631507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "207T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.291092,
+            55.863146
+          ],
+          [
+            -4.290487,
+            55.863128
+          ],
+          [
+            -4.290081,
+            55.863129
+          ],
+          [
+            -4.289502,
+            55.863138
+          ],
+          [
+            -4.2891638,
+            55.8631413
+          ],
+          [
+            -4.28867,
+            55.86314
+          ],
+          [
+            -4.28748,
+            55.863112
+          ],
+          [
+            -4.286993,
+            55.863107
+          ],
+          [
+            -4.2864507,
+            55.863115
+          ],
+          [
+            -4.2860283,
+            55.8631436
+          ],
+          [
+            -4.2855844,
+            55.8631932
+          ],
+          [
+            -4.2850412,
+            55.8632775
+          ],
+          [
+            -4.2846134,
+            55.8633641
+          ],
+          [
+            -4.2843029,
+            55.8634439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "205(3)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.281901,
+            55.86392
+          ],
+          [
+            -4.2822938,
+            55.8638709
+          ],
+          [
+            -4.2828034,
+            55.8637926
+          ],
+          [
+            -4.2831173,
+            55.8637384
+          ],
+          [
+            -4.2835759,
+            55.86363
+          ],
+          [
+            -4.2839273,
+            55.8635352
+          ],
+          [
+            -4.2843029,
+            55.8634439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "205(2)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.275991,
+            55.864384
+          ],
+          [
+            -4.2819341,
+            55.8639171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "205(1)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2716895,
+            55.8647151
+          ],
+          [
+            -4.272608,
+            55.864648
+          ],
+          [
+            -4.275991,
+            55.864384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "201T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.267861,
+            55.864421
+          ],
+          [
+            -4.269723,
+            55.864642
+          ],
+          [
+            -4.270376,
+            55.864707
+          ],
+          [
+            -4.270989,
+            55.864732
+          ],
+          [
+            -4.271713,
+            55.864714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "197(2)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2651725,
+            55.8640995
+          ],
+          [
+            -4.267861,
+            55.864421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "197(1)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.260799,
+            55.863587
+          ],
+          [
+            -4.2651725,
+            55.8640995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "195(2)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.256822,
+            55.863117
+          ],
+          [
+            -4.260799,
+            55.863587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "195(1)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2525553,
+            55.8625485
+          ],
+          [
+            -4.2532876,
+            55.8626449
+          ],
+          [
+            -4.2539393,
+            55.8627472
+          ],
+          [
+            -4.254547,
+            55.862845
+          ],
+          [
+            -4.256822,
+            55.863117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "193T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2519462,
+            55.8624906
+          ],
+          [
+            -4.2526872,
+            55.8625663
+          ],
+          [
+            -4.253329,
+            55.862651
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "189T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2506602,
+            55.862376
+          ],
+          [
+            -4.2519462,
+            55.8624906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "185T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.245062,
+            55.861712
+          ],
+          [
+            -4.247118,
+            55.861996
+          ],
+          [
+            -4.24855,
+            55.862179
+          ],
+          [
+            -4.250631,
+            55.862374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "187T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.243938,
+            55.861501
+          ],
+          [
+            -4.2443233,
+            55.8615845
+          ],
+          [
+            -4.244612,
+            55.861639
+          ],
+          [
+            -4.245062,
+            55.861712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "185T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2413555,
+            55.8604292
+          ],
+          [
+            -4.2417605,
+            55.8606836
+          ],
+          [
+            -4.2420314,
+            55.8608311
+          ],
+          [
+            -4.2424445,
+            55.8610125
+          ],
+          [
+            -4.242816,
+            55.861162
+          ],
+          [
+            -4.2432974,
+            55.8613286
+          ],
+          [
+            -4.243938,
+            55.861501
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "183T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2413555,
+            55.8604292
+          ],
+          [
+            -4.2410953,
+            55.8602387
+          ],
+          [
+            -4.2406152,
+            55.8598157
+          ],
+          [
+            -4.2402142,
+            55.8595056
+          ],
+          [
+            -4.2399192,
+            55.8592949
+          ],
+          [
+            -4.239541,
+            55.8590706
+          ],
+          [
+            -4.238938,
+            55.858768
+          ],
+          [
+            -4.238379,
+            55.858533
+          ],
+          [
+            -4.2378109,
+            55.8583299
+          ],
+          [
+            -4.237168,
+            55.858147
+          ],
+          [
+            -4.2365664,
+            55.8580048
+          ],
+          [
+            -4.2358798,
+            55.8578904
+          ],
+          [
+            -4.235244,
+            55.857808
+          ],
+          [
+            -4.234572,
+            55.857749
+          ],
+          [
+            -4.2339298,
+            55.8577052
+          ],
+          [
+            -4.2338091,
+            55.8576977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "179T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2323193,
+            55.8576249
+          ],
+          [
+            -4.2325969,
+            55.8576377
+          ],
+          [
+            -4.2338091,
+            55.8576977
+          ],
+          [
+            -4.2325969,
+            55.8576377
+          ],
+          [
+            -4.233372,
+            55.857652
+          ],
+          [
+            -4.2338119,
+            55.8576497
+          ],
+          [
+            -4.2340848,
+            55.8576439
+          ],
+          [
+            -4.234503,
+            55.857622
+          ],
+          [
+            -4.2348399,
+            55.8575886
+          ],
+          [
+            -4.2351047,
+            55.8575518
+          ],
+          [
+            -4.2348399,
+            55.8575886
+          ],
+          [
+            -4.234503,
+            55.857622
+          ],
+          [
+            -4.2340848,
+            55.8576439
+          ],
+          [
+            -4.2338119,
+            55.8576497
+          ],
+          [
+            -4.233372,
+            55.857652
+          ],
+          [
+            -4.2340801,
+            55.8576618
+          ],
+          [
+            -4.2341257,
+            55.8576633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "177T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2308798,
+            55.8575368
+          ],
+          [
+            -4.2323193,
+            55.8576249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "175T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2300219,
+            55.8574854
+          ],
+          [
+            -4.2306978,
+            55.8575216
+          ],
+          [
+            -4.2308798,
+            55.8575368
+          ],
+          [
+            -4.2306951,
+            55.8575216
+          ],
+          [
+            -4.2292407,
+            55.8573978
+          ],
+          [
+            -4.2287599,
+            55.8573462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "173T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2251038,
+            55.8567914
+          ],
+          [
+            -4.2256805,
+            55.8569073
+          ],
+          [
+            -4.2261124,
+            55.8569856
+          ],
+          [
+            -4.2266944,
+            55.8570669
+          ],
+          [
+            -4.2287599,
+            55.8573462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "167T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2227971,
+            55.8564888
+          ],
+          [
+            -4.2233685,
+            55.8565415
+          ],
+          [
+            -4.223847,
+            55.856597
+          ],
+          [
+            -4.2243501,
+            55.8566635
+          ],
+          [
+            -4.2248785,
+            55.8567433
+          ],
+          [
+            -4.2251038,
+            55.8567914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "338(1)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2481161,
+            55.8543492
+          ],
+          [
+            -4.2489972,
+            55.8535348
+          ],
+          [
+            -4.2496543,
+            55.852928
+          ],
+          [
+            -4.2501532,
+            55.8524538
+          ],
+          [
+            -4.2503356,
+            55.8522761
+          ],
+          [
+            -4.2504509,
+            55.8521534
+          ],
+          [
+            -4.2506347,
+            55.8519456
+          ],
+          [
+            -4.2509444,
+            55.8516038
+          ],
+          [
+            -4.2514259,
+            55.8511228
+          ],
+          [
+            -4.2522204,
+            55.8503497
+          ],
+          [
+            -4.2524355,
+            55.8501608
+          ],
+          [
+            -4.2528282,
+            55.8498222
+          ],
+          [
+            -4.2530556,
+            55.8496358
+          ],
+          [
+            -4.2532938,
+            55.8494554
+          ],
+          [
+            -4.2535051,
+            55.8493022
+          ],
+          [
+            -4.2538286,
+            55.8491025
+          ],
+          [
+            -4.254152,
+            55.848933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "328T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.235783,
+            55.8574661
+          ],
+          [
+            -4.2352572,
+            55.8575624
+          ],
+          [
+            -4.2350199,
+            55.8576008
+          ],
+          [
+            -4.2348107,
+            55.8576294
+          ],
+          [
+            -4.2345505,
+            55.857652
+          ],
+          [
+            -4.234337,
+            55.857661
+          ],
+          [
+            -4.2341257,
+            55.8576633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "332T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2396064,
+            55.8567661
+          ],
+          [
+            -4.235783,
+            55.8574661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "334T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2401737,
+            55.8566464
+          ],
+          [
+            -4.2398492,
+            55.8567239
+          ],
+          [
+            -4.2396064,
+            55.8567661
+          ],
+          [
+            -4.2398492,
+            55.8567239
+          ],
+          [
+            -4.2406136,
+            55.8565854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "336T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2429418,
+            55.8562
+          ],
+          [
+            -4.2406136,
+            55.8565854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "338(2)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2481161,
+            55.8543492
+          ],
+          [
+            -4.247817,
+            55.854627
+          ],
+          [
+            -4.2476041,
+            55.8547976
+          ],
+          [
+            -4.2474285,
+            55.8549166
+          ],
+          [
+            -4.2471669,
+            55.8550701
+          ],
+          [
+            -4.2468813,
+            55.8552244
+          ],
+          [
+            -4.2466466,
+            55.8553411
+          ],
+          [
+            -4.2463864,
+            55.855457
+          ],
+          [
+            -4.2460927,
+            55.8555692
+          ],
+          [
+            -4.2457789,
+            55.8556738
+          ],
+          [
+            -4.245457,
+            55.8557611
+          ],
+          [
+            -4.2451875,
+            55.8558236
+          ],
+          [
+            -4.2448442,
+            55.8558853
+          ],
+          [
+            -4.2443868,
+            55.8559614
+          ],
+          [
+            -4.2429418,
+            55.8562
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "329T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2390219,
+            55.856837
+          ],
+          [
+            -4.2351047,
+            55.8575518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "333T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2397595,
+            55.8567076
+          ],
+          [
+            -4.2390219,
+            55.856837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "335T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2397595,
+            55.8567076
+          ],
+          [
+            -4.240503,
+            55.8565735
+          ],
+          [
+            -4.2405963,
+            55.8565548
+          ],
+          [
+            -4.240503,
+            55.8565735
+          ],
+          [
+            -4.2401737,
+            55.8566464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "337(1)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#7cb342"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2485375,
+            55.8538977
+          ],
+          [
+            -4.2479568,
+            55.8544367
+          ],
+          [
+            -4.2477301,
+            55.8546429
+          ],
+          [
+            -4.2474927,
+            55.8548221
+          ],
+          [
+            -4.2472138,
+            55.8549967
+          ],
+          [
+            -4.2468007,
+            55.8552285
+          ],
+          [
+            -4.2462401,
+            55.85548
+          ],
+          [
+            -4.2459263,
+            55.8555944
+          ],
+          [
+            -4.2455374,
+            55.8557073
+          ],
+          [
+            -4.2452048,
+            55.8557856
+          ],
+          [
+            -4.2448132,
+            55.8558548
+          ],
+          [
+            -4.2405963,
+            55.8565548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "337(2)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#a52714"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.254118,
+            55.8489115
+          ],
+          [
+            -4.2539471,
+            55.8489949
+          ],
+          [
+            -4.2537548,
+            55.8490978
+          ],
+          [
+            -4.253519,
+            55.849245
+          ],
+          [
+            -4.2530629,
+            55.849575
+          ],
+          [
+            -4.2524881,
+            55.8500524
+          ],
+          [
+            -4.2521506,
+            55.850357
+          ],
+          [
+            -4.2518346,
+            55.85066
+          ],
+          [
+            -4.251059,
+            55.8514227
+          ],
+          [
+            -4.2507854,
+            55.851705
+          ],
+          [
+            -4.2503643,
+            55.852174
+          ],
+          [
+            -4.250198,
+            55.8523471
+          ],
+          [
+            -4.2496964,
+            55.8528274
+          ],
+          [
+            -4.2485375,
+            55.8538977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "382T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2923147,
+            55.8632532
+          ],
+          [
+            -4.29278,
+            55.8632735
+          ],
+          [
+            -4.29335,
+            55.863275
+          ],
+          [
+            -4.293703,
+            55.863271
+          ],
+          [
+            -4.2946173,
+            55.8632547
+          ],
+          [
+            -4.295194,
+            55.8632487
+          ],
+          [
+            -4.295587,
+            55.86326
+          ],
+          [
+            -4.2959759,
+            55.8632863
+          ],
+          [
+            -4.2962776,
+            55.8633172
+          ],
+          [
+            -4.2966652,
+            55.8633714
+          ],
+          [
+            -4.2970555,
+            55.8634384
+          ],
+          [
+            -4.2975396,
+            55.8635437
+          ],
+          [
+            -4.2978655,
+            55.8636303
+          ],
+          [
+            -4.2982705,
+            55.8637552
+          ],
+          [
+            -4.2987091,
+            55.8639177
+          ],
+          [
+            -4.2989934,
+            55.8640397
+          ],
+          [
+            -4.2992401,
+            55.8641563
+          ],
+          [
+            -4.299452,
+            55.8642707
+          ],
+          [
+            -4.299676,
+            55.8644017
+          ],
+          [
+            -4.2998691,
+            55.8645221
+          ],
+          [
+            -4.300073,
+            55.8646643
+          ],
+          [
+            -4.3003117,
+            55.8648502
+          ],
+          [
+            -4.3004807,
+            55.8649969
+          ],
+          [
+            -4.3006698,
+            55.8651753
+          ],
+          [
+            -4.3012719,
+            55.8657931
+          ],
+          [
+            -4.3015133,
+            55.8660317
+          ],
+          [
+            -4.3016622,
+            55.8661634
+          ],
+          [
+            -4.3018146,
+            55.8662882
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "206T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.28434,
+            55.863474
+          ],
+          [
+            -4.2847287,
+            55.8633706
+          ],
+          [
+            -4.2854126,
+            55.8632494
+          ],
+          [
+            -4.2858874,
+            55.8631892
+          ],
+          [
+            -4.2865043,
+            55.8631441
+          ],
+          [
+            -4.2868758,
+            55.8631343
+          ],
+          [
+            -4.2873022,
+            55.8631343
+          ],
+          [
+            -4.2877274,
+            55.8631441
+          ],
+          [
+            -4.288693,
+            55.8631681
+          ],
+          [
+            -4.289177,
+            55.863173
+          ],
+          [
+            -4.2897149,
+            55.8631636
+          ],
+          [
+            -4.2901414,
+            55.8631561
+          ],
+          [
+            -4.2906925,
+            55.8631644
+          ],
+          [
+            -4.2913993,
+            55.8631967
+          ],
+          [
+            -4.2923147,
+            55.8632532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "204(1)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.279828,
+            55.864119
+          ],
+          [
+            -4.2817516,
+            55.8639646
+          ],
+          [
+            -4.2821526,
+            55.8639232
+          ],
+          [
+            -4.282512,
+            55.863882
+          ],
+          [
+            -4.28288,
+            55.863825
+          ],
+          [
+            -4.283242,
+            55.863753
+          ],
+          [
+            -4.283498,
+            55.863694
+          ],
+          [
+            -4.28408,
+            55.863542
+          ],
+          [
+            -4.28434,
+            55.863474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "204(3)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2712347,
+            55.8647666
+          ],
+          [
+            -4.271434,
+            55.864765
+          ],
+          [
+            -4.271765,
+            55.864753
+          ],
+          [
+            -4.2721171,
+            55.8647274
+          ],
+          [
+            -4.275629,
+            55.864448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "202T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.268437,
+            55.864522
+          ],
+          [
+            -4.269496,
+            55.864648
+          ],
+          [
+            -4.269977,
+            55.864702
+          ],
+          [
+            -4.270542,
+            55.864748
+          ],
+          [
+            -4.270939,
+            55.864765
+          ],
+          [
+            -4.2712347,
+            55.8647666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "198T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.267258,
+            55.864382
+          ],
+          [
+            -4.268437,
+            55.864522
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "196(1)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.262679,
+            55.863844
+          ],
+          [
+            -4.267258,
+            55.864382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "196(2)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2575016,
+            55.8632298
+          ],
+          [
+            -4.262679,
+            55.863844
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "194(1)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.254973,
+            55.862927
+          ],
+          [
+            -4.255631,
+            55.863006
+          ],
+          [
+            -4.2567786,
+            55.8631408
+          ],
+          [
+            -4.257493,
+            55.863228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "194(2)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.252537,
+            55.862603
+          ],
+          [
+            -4.252955,
+            55.862637
+          ],
+          [
+            -4.253276,
+            55.862676
+          ],
+          [
+            -4.253669,
+            55.862729
+          ],
+          [
+            -4.253943,
+            55.862777
+          ],
+          [
+            -4.2543137,
+            55.8628383
+          ],
+          [
+            -4.254688,
+            55.862892
+          ],
+          [
+            -4.254973,
+            55.862927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "204(2)T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.279786,
+            55.864123
+          ],
+          [
+            -4.275629,
+            55.864448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "192T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.249162,
+            55.862282
+          ],
+          [
+            -4.249508,
+            55.862323
+          ],
+          [
+            -4.2498446,
+            55.8623556
+          ],
+          [
+            -4.2505178,
+            55.8624204
+          ],
+          [
+            -4.2522,
+            55.862582
+          ],
+          [
+            -4.252537,
+            55.862603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "190T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2477294,
+            55.8621089
+          ],
+          [
+            -4.248212,
+            55.862173
+          ],
+          [
+            -4.248635,
+            55.862222
+          ],
+          [
+            -4.249162,
+            55.862282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "188T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.242917,
+            55.861226
+          ],
+          [
+            -4.2432604,
+            55.8613449
+          ],
+          [
+            -4.243505,
+            55.861416
+          ],
+          [
+            -4.243761,
+            55.861486
+          ],
+          [
+            -4.2440195,
+            55.8615496
+          ],
+          [
+            -4.244389,
+            55.861625
+          ],
+          [
+            -4.2448107,
+            55.8616971
+          ],
+          [
+            -4.245059,
+            55.861739
+          ],
+          [
+            -4.245408,
+            55.861785
+          ],
+          [
+            -4.2463905,
+            55.8619184
+          ],
+          [
+            -4.2477294,
+            55.8621089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "186T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2417369,
+            55.8607112
+          ],
+          [
+            -4.242156,
+            55.860931
+          ],
+          [
+            -4.2424316,
+            55.8610454
+          ],
+          [
+            -4.242656,
+            55.861136
+          ],
+          [
+            -4.242917,
+            55.861226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "184T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.238492,
+            55.858614
+          ],
+          [
+            -4.238866,
+            55.858775
+          ],
+          [
+            -4.239156,
+            55.858914
+          ],
+          [
+            -4.239483,
+            55.859089
+          ],
+          [
+            -4.239783,
+            55.859265
+          ],
+          [
+            -4.240029,
+            55.859425
+          ],
+          [
+            -4.24026,
+            55.85959
+          ],
+          [
+            -4.240617,
+            55.859877
+          ],
+          [
+            -4.240871,
+            55.860094
+          ],
+          [
+            -4.24106,
+            55.860255
+          ],
+          [
+            -4.241369,
+            55.860483
+          ],
+          [
+            -4.241715,
+            55.860697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "182T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.235991,
+            55.857936
+          ],
+          [
+            -4.2364162,
+            55.8580073
+          ],
+          [
+            -4.237047,
+            55.858151
+          ],
+          [
+            -4.2377573,
+            55.858349
+          ],
+          [
+            -4.238317,
+            55.858545
+          ],
+          [
+            -4.238492,
+            55.858614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "178T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.233753,
+            55.857772
+          ],
+          [
+            -4.234419,
+            55.857786
+          ],
+          [
+            -4.234947,
+            55.857814
+          ],
+          [
+            -4.235315,
+            55.857847
+          ],
+          [
+            -4.235991,
+            55.857936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "176T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.233753,
+            55.857772
+          ],
+          [
+            -4.233136,
+            55.857751
+          ],
+          [
+            -4.2325351,
+            55.8577076
+          ],
+          [
+            -4.231632,
+            55.857636
+          ],
+          [
+            -4.230111,
+            55.857505
+          ],
+          [
+            -4.2294478,
+            55.8574472
+          ],
+          [
+            -4.2295894,
+            55.8574605
+          ],
+          [
+            -4.2300219,
+            55.8574854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "174T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2255122,
+            55.8569368
+          ],
+          [
+            -4.2260486,
+            55.8570121
+          ],
+          [
+            -4.2277813,
+            55.8572484
+          ],
+          [
+            -4.2283097,
+            55.8573237
+          ],
+          [
+            -4.2290259,
+            55.857411
+          ],
+          [
+            -4.2294478,
+            55.8574472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "172T",
+        "type": "Tracks",
+        "notes": "",
+        "section": "Yoker",
+        "colour": "#ffd600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.2225053,
+            55.8565424
+          ],
+          [
+            -4.223171,
+            55.856618
+          ],
+          [
+            -4.2238142,
+            55.8567035
+          ],
+          [
+            -4.2243668,
+            55.8567757
+          ],
+          [
+            -4.2247906,
+            55.8568375
+          ],
+          [
+            -4.2255122,
+            55.8569368
+          ]
+        ]
+      }
+    }
+  ]
 }
