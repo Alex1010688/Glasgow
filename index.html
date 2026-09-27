@@ -232,10 +232,12 @@
     .mileage-fields { display: grid; grid-template-columns: 1.2fr 1fr 1fr; gap: 6px; margin: 8px 0; }
     .mileage-fields input { display: block; width: 100%; box-sizing: border-box; padding: 6px 3px; font-size: 16px; }
     .mileage-fields input[name="elr"] { text-transform: uppercase; }
+    .mileage-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; align-items: stretch; }
     .mileage-panel button {
   cursor: pointer;
   color: #111;
   white-space: nowrap;
+  padding: 6px;
 }
     .mileage-search-status { margin-top: 6px; }
 
@@ -3202,7 +3204,10 @@
           <label>Miles<input name="miles" aria-label="Miles" type="number" min="0" step="1" value="0" required></label>
           <label>Yards<input name="yards" aria-label="Yards" type="number" min="0" max="1759" step="1" value="0" required></label>
         </div>
-        <button type="submit">Find mileage</button>
+        <div class="mileage-actions">
+          <button type="submit">Find mileage</button>
+          <button type="button" data-mileage-done>Done</button>
+        </div>
         <div class="mileage-search-status" role="status" aria-live="polite"></div>`;
       mileageSearchStatus = mileagePanel.querySelector(".mileage-search-status");
       L.DomEvent.disableClickPropagation(mileagePanel);
@@ -3211,6 +3216,7 @@
       L.DomEvent.disableScrollPropagation(container);
       L.DomEvent.on(container, "touchend", L.DomEvent.stopPropagation);
       mileageButton.addEventListener("click", () => setMileageActive(!mileageActive));
+      mileagePanel.querySelector("[data-mileage-done]").addEventListener("click", () => setMileageActive(false));
       mileagePanel.addEventListener("submit", async function(event) {
         event.preventDefault();
         if (!mileageActive || !mileagePanel.reportValidity()) return;
