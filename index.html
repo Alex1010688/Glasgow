@@ -1001,11 +1001,12 @@
     );
 
     const roadLabels = L.tileLayer(
-      "https://services.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}",
+      "https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png?key=cb1_40mf_1_5f8a90d515281762788611d7",
       {
         maxZoom: MAX_MAP_ZOOM,
-        maxNativeZoom: 19,
-        attribution: "Labels &copy; Esri"
+        maxNativeZoom: 20,
+        subdomains: "abcd",
+        attribution: "&copy; OpenStreetMap contributors &copy; CARTO"
       }
     );
 
