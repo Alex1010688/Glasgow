@@ -23775,7 +23775,7 @@
         "name": "4352(X)",
         "type": "Axle Counters",
         "notes": "",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "equipment_number": [
           {
             "number": "19659316",
@@ -24192,7 +24192,7 @@
         "name": "4399(X)",
         "type": "Axle Counters",
         "notes": "",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "section": "Central"
       },
       "geometry": {
@@ -24327,7 +24327,7 @@
         "name": "4402(X)",
         "type": "Axle Counters",
         "notes": "",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "equipment_number": [
           {
             "number": "7896482",
@@ -24548,7 +24548,7 @@
         "name": "4403(X)",
         "type": "Axle Counters",
         "notes": "",
-        "colour": "#fff176",
+        "colour": "#4fc3f7",
         "equipment_number": [
           {
             "number": "7896481",
@@ -24609,7 +24609,7 @@
         "name": "4404(X)",
         "type": "Axle Counters",
         "notes": "",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "equipment_number": [
           {
             "number": "7896480",
@@ -24674,7 +24674,7 @@
         "name": "4405(X)",
         "type": "Axle Counters",
         "notes": "",
-        "colour": "#fff176",
+        "colour": "#4fc3f7",
         "equipment_number": [
           {
             "number": "7896466",
@@ -24904,7 +24904,7 @@
         "name": "4601(X)",
         "type": "Axle Counters",
         "notes": "",
-        "colour": "#fff176",
+        "colour": "#4fc3f7",
         "section": "Central"
       },
       "geometry": {
@@ -25019,7 +25019,7 @@
         "name": "4620(X)",
         "type": "Axle Counters",
         "notes": "Hybrid",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "section": "Central"
       },
       "geometry": {
@@ -25129,7 +25129,7 @@
         "name": "4624(X)",
         "type": "Axle Counters",
         "notes": "Hybrid - K-type",
-        "colour": "#fff176",
+        "colour": "#4fc3f7",
         "section": "Central"
       },
       "geometry": {
@@ -25192,7 +25192,7 @@
         "name": "4626(X)",
         "type": "Axle Counters",
         "notes": "Hybrid - K-type",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "section": "Central"
       },
       "geometry": {
@@ -25215,7 +25215,7 @@
         "name": "4630(X)",
         "type": "Axle Counters",
         "notes": "Hybrid - K-type",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "section": "Central"
       },
       "geometry": {
@@ -25238,7 +25238,7 @@
         "name": "4632(X)",
         "type": "Axle Counters",
         "notes": "Hybrid - K-type",
-        "colour": "#fff176",
+        "colour": "#4fc3f7",
         "section": "Central"
       },
       "geometry": {
@@ -32803,7 +32803,7 @@
         "name": "4498(X)",
         "type": "Axle Counters",
         "notes": "",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "equipment_number": [
           {
             "number": "7895450",
@@ -33334,7 +33334,7 @@
         "name": "4607(X)",
         "type": "Axle Counters",
         "notes": "",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "section": "Central"
       },
       "geometry": {
@@ -33409,7 +33409,7 @@
         "name": "4608(X)",
         "type": "Axle Counters",
         "notes": "K type",
-        "colour": "#fff176",
+        "colour": "#4fc3f7",
         "section": "Central"
       },
       "geometry": {
@@ -33463,7 +33463,7 @@
         "name": "4610(X)",
         "type": "Axle Counters",
         "notes": "K type",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "section": "Central"
       },
       "geometry": {
@@ -33541,7 +33541,7 @@
         "name": "4612(X)",
         "type": "Axle Counters",
         "notes": "K type",
-        "colour": "#fff176",
+        "colour": "#4fc3f7",
         "section": "Central"
       },
       "geometry": {
@@ -33611,7 +33611,7 @@
         "name": "4614(X)",
         "type": "Axle Counters",
         "notes": "Hybrid",
-        "colour": "#fff176",
+        "colour": "#4fc3f7",
         "section": "Central"
       },
       "geometry": {
@@ -33697,7 +33697,7 @@
         "name": "4616(X)",
         "type": "Axle Counters",
         "notes": "Hybrid",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "section": "Central"
       },
       "geometry": {
@@ -33767,7 +33767,7 @@
         "name": "4618(X)",
         "type": "Axle Counters",
         "notes": "Hybrid",
-        "colour": "#fff176",
+        "colour": "#4fc3f7",
         "section": "Central"
       },
       "geometry": {
@@ -33829,7 +33829,7 @@
         "name": "4628(X)",
         "type": "Axle Counters",
         "notes": "Hybrid - K-type",
-        "colour": "#fff176",
+        "colour": "#4fc3f7",
         "section": "Central"
       },
       "geometry": {
@@ -33852,7 +33852,7 @@
         "name": "4401(X)",
         "type": "Axle Counters",
         "notes": "",
-        "colour": "#fff176",
+        "colour": "#4fc3f7",
         "equipment_number": [
           {
             "number": "7896483",
@@ -34022,7 +34022,7 @@
         "name": "4406(X)",
         "type": "Axle Counters",
         "notes": "",
-        "colour": "#4fc3f7",
+        "colour": "#fff176",
         "equipment_number": [
           {
             "number": "7896465",
