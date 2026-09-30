@@ -21533,7 +21533,8 @@
           },
           {
             "number": "7895381",
-            "name": "4334/4451"
+            "name": "4334/4451",
+            "ace": "MH(UP)"
           }
         ],
         "section": "Central"
@@ -21611,44 +21612,25 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "4551(X)",
+        "name": "4451(X)",
         "type": "Axle Counters",
         "notes": "",
         "colour": "#4fc3f7",
         "equipment_number": [
           {
-            "number": "7889983",
-            "name": "4527/4551",
+            "number": "7895380",
+            "name": "4451/4552",
+            "aces": [
+              "MH(UP)
+            ]
+          },
+          {
+            "number": "7895381",
+            "name": "4334/4451",
             "aces": [
               "KH(UP)",
               "KH(DN)"
             ]
-          },
-          {
-            "number": "7896020",
-            "name": "4527/4551",
-            "aces": [
-              "KH(UP)",
-              "KH(DN)"
-            ]
-          },
-          {
-            "number": "7896338",
-            "name": "4527/4551",
-            "aces": [
-              "KH(UP)",
-              "KH(DN)"
-            ]
-          },
-          {
-            "number": "7889982",
-            "name": "4551/4552",
-            "ace": "KH(DN)"
-          },
-          {
-            "number": "7896032",
-            "name": "4551/4552",
-            "ace": "KH(DN)"
           }
         ],
         "section": "Central"
