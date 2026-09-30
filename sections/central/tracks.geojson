@@ -21408,7 +21408,8 @@
         "equipment_number": [
           {
             "number": "7887613",
-            "name": "4332"
+            "name": "4332",
+            "ace": "MH(UP)"
           },
           {
             "number": "7887614",
@@ -21527,7 +21528,8 @@
           },
           {
             "number": "7887616",
-            "name": "4334/4335"
+            "name": "4334/4335",
+            "ace": "MH(UP)"
           },
           {
             "number": "7895381",
@@ -21794,7 +21796,8 @@
         "equipment_number": [
           {
             "number": "7890089",
-            "name": "4335/4411"
+            "name": "4335/4411",
+            "ace": "MH(UP)"
           },
           {
             "number": "7890088",
@@ -21832,7 +21835,8 @@
         "equipment_number": [
           {
             "number": "7887616",
-            "name": "4334/4335"
+            "name": "4334/4335",
+            "ace": "MH(UP)"
           },
           {
             "number": "7887622",
@@ -21846,7 +21850,8 @@
           },
           {
             "number": "7890089",
-            "name": "4335/4411"
+            "name": "4335/4411",
+            "ace": "MH(UP)"
           }
         ],
         "section": "Central"
@@ -22019,7 +22024,8 @@
         "equipment_number": [
           {
             "number": "7887608",
-            "name": "4301"
+            "name": "4301",
+            "ace": "MH(DN)"
           },
           {
             "number": "7887609",
@@ -23291,7 +23297,8 @@
           },
           {
             "number": "7890359",
-            "name": "4321"
+            "name": "4321",
+            "ace": "BH(DN)"
           }
         ],
         "section": "Central"
@@ -27587,7 +27594,8 @@
           },
           {
             "number": "7890090",
-            "name": "4435"
+            "name": "4435",
+            "ace": "MH(DN)"
           }
         ],
         "section": "Central"
@@ -29918,11 +29926,13 @@
           },
           {
             "number": "7889985",
-            "name": "4486/114N"
+            "name": "4486/114N",
+            "ace": "KH(DN)"
           },
           {
             "number": "7896031",
-            "name": "4486/114N"
+            "name": "4486/114N",
+            "ace": "KH(DN)"
           },
           {
             "number": "7896034",
@@ -30578,7 +30588,8 @@
         "equipment_number": [
           {
             "number": "7896021",
-            "name": "4480"
+            "name": "4480",
+            "ace": "KH(DN)"
           },
           {
             "number": "7896022",
@@ -31194,7 +31205,8 @@
         "equipment_number": [
           {
             "number": "7896314",
-            "name": "4541"
+            "name": "4541",
+            "ace": "KH(UP)"
           },
           {
             "number": "7896315",
