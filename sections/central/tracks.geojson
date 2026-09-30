@@ -21512,7 +21512,7 @@
       "properties": {
         "name": "4334(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>671R/4334 ACE:</strong> MH(UP)",
         "colour": "#4fc3f7",
         "equipment_number": [
           {
@@ -21788,7 +21788,7 @@
       "properties": {
         "name": "4411(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4338/4411 ACE:</strong> MH(UP)",
         "colour": "#bc8f5f",
         "equipment_number": [
           {
@@ -21826,7 +21826,7 @@
       "properties": {
         "name": "4335(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>673R/4335 ACE:</strong> MH(UP)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -21896,7 +21896,7 @@
       "properties": {
         "name": "4303(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>673R/4303 ACE:</strong> MH(DN)",
         "colour": "#bc8f5f",
         "equipment_number": [
           {
@@ -21955,7 +21955,7 @@
       "properties": {
         "name": "4302(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>671R/4302 ACE:</strong> MH(DN)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -22119,7 +22119,7 @@
       "properties": {
         "name": "4337(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>681R/4337 ACE:</strong> MH(UP)",
         "colour": "#fff176",
         "equipment_number": [
           {
@@ -22186,7 +22186,7 @@
       "properties": {
         "name": "4338(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4338/4411 ACE:</strong> MH(UP)",
         "colour": "#4fc3f7",
         "equipment_number": [
           {
@@ -22248,7 +22248,7 @@
       "properties": {
         "name": "4342(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>682R/4342 ACE:</strong> MH(UP)",
         "colour": "#fff176",
         "equipment_number": [
           {
@@ -22611,7 +22611,7 @@
       "properties": {
         "name": "4307(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>681R/4307 ACE:</strong> MH(DN)",
         "colour": "#bc8f5f",
         "equipment_number": [
           {
@@ -22702,7 +22702,7 @@
       "properties": {
         "name": "4308(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4308/4311 ACE:</strong> MH(DN)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -22748,7 +22748,7 @@
       "properties": {
         "name": "4311(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4308/4311 ACE:</strong> MH(DN)<br><strong>4311/4477 ACE:</strong> MH(DN)",
         "colour": "#bc8f5f",
         "equipment_number": [
           {
@@ -23048,7 +23048,7 @@
       "properties": {
         "name": "4316(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>699R/4316 ACE:</strong> BH(DN)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -23643,7 +23643,7 @@
       "properties": {
         "name": "4348(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4348/4399 ACE:</strong> BY(UP)",
         "colour": "#4fc3f7",
         "equipment_number": [
           {
@@ -23725,7 +23725,7 @@
       "properties": {
         "name": "4351(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>69R/4351 ACE:</strong> BH(UP)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -23897,7 +23897,7 @@
       "properties": {
         "name": "4353(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>69R/4353 ACE:</strong> BH(UP)",
         "colour": "#fff176",
         "equipment_number": [
           {
@@ -24284,7 +24284,7 @@
       "properties": {
         "name": "4399(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4348/4399 ACE:</strong> BY(UP)<br><strong>4399/4401 ACE:</strong> BY(UP)",
         "colour": "#fff176",
         "section": "Central"
       },
@@ -24875,7 +24875,7 @@
       "properties": {
         "name": "4378(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4378/4601 ACE:</strong> HS(DN), BY(DN)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -25009,7 +25009,7 @@
       "properties": {
         "name": "4601(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4601/4605 ACE:</strong> HS(DN)<br><strong>4378/4601 ACE:</strong> HS(DN), BY(DN)",
         "colour": "#4fc3f7",
         "section": "Central"
       },
@@ -25124,7 +25124,7 @@
       "properties": {
         "name": "4620(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid",
+        "notes": "Hybrid<br><strong>4618/4620 ACE:</strong> HS(UP)<br><strong>4620/4622 ACE:</strong> HS(UP), HS(DN)",
         "colour": "#fff176",
         "section": "Central"
       },
@@ -25171,7 +25171,7 @@
       "properties": {
         "name": "4622(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid - K-type",
+        "notes": "Hybrid - K-type<br><strong>4620/4622 ACE:</strong> HS(UP), HS(DN)<br><strong>4621/4622 ACE:</strong> HS(DN)<br><strong>4622/4624 ACE:</strong> HS(DN)",
         "colour": "#aed581",
         "section": "Central"
       },
@@ -25234,7 +25234,7 @@
       "properties": {
         "name": "4624(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid - K-type",
+        "notes": "Hybrid - K-type<br><strong>4622/4624 ACE:</strong> HS(DN)<br><strong>4624/4626 ACE:</strong> HS(DN)",
         "colour": "#4fc3f7",
         "section": "Central"
       },
@@ -25297,7 +25297,7 @@
       "properties": {
         "name": "4626(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid - K-type",
+        "notes": "Hybrid - K-type<br><strong>4624/4626 ACE:</strong> HS(DN)<br><strong>4626/4628 ACE:</strong> HS(DN)",
         "colour": "#fff176",
         "section": "Central"
       },
@@ -25320,7 +25320,7 @@
       "properties": {
         "name": "4630(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid - K-type",
+        "notes": "Hybrid - K-type<br><strong>4628/4630 ACE:</strong> HS(DN)<br><strong>4630/4632 ACE:</strong> HS(DN)",
         "colour": "#fff176",
         "section": "Central"
       },
@@ -25343,7 +25343,7 @@
       "properties": {
         "name": "4632(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid - K-type",
+        "notes": "Hybrid - K-type<br><strong>4630/4632 ACE:</strong> HS(DN)",
         "colour": "#4fc3f7",
         "section": "Central"
       },
@@ -25366,7 +25366,7 @@
       "properties": {
         "name": "4621(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid",
+        "notes": "Hybrid<br><strong>4619/4621 ACE:</strong> HS(DN)<br><strong>4621/4622 ACE:</strong> HS(DN)",
         "colour": "#bc8f5f",
         "section": "Central"
       },
@@ -25725,7 +25725,7 @@
       "properties": {
         "name": "4374(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4374/4375 ACE:</strong> BY(DN)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -25963,7 +25963,7 @@
       "properties": {
         "name": "4375(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4374/4375 ACE:</strong> BY(DN)<br><strong>4375/4376 ACE:</strong> BY(DN)",
         "colour": "#bc8f5f",
         "equipment_number": [
           {
@@ -25992,7 +25992,7 @@
       "properties": {
         "name": "4376(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4375/4376 ACE:</strong> BY(DN)<br><strong>693R/4376 ACE:</strong> BY(DN)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -26724,7 +26724,7 @@
       "properties": {
         "name": "4422(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4339/4422 ACE:</strong> MH(UP)<br><strong>684R/4422 ACE:</strong> MH(UP)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -26787,7 +26787,7 @@
       "properties": {
         "name": "4423(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>123R/4423 ACE:</strong> CT(DN)",
         "colour": "#bc8f5f",
         "equipment_number": [
           {
@@ -27091,7 +27091,7 @@
       "properties": {
         "name": "4426(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4525/4426 ACE:</strong> CT(DN)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -28282,7 +28282,7 @@
       "properties": {
         "name": "4522(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4522/4521 ACE:</strong> PN(DN), CT(UP)<br><strong>123R/4522 ACE:</strong> CT(UP)",
         "colour": "#fff176",
         "equipment_number": [
           {
@@ -28446,7 +28446,7 @@
       "properties": {
         "name": "4525(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>126N/4525 ACE:</strong> CT(UP)<br><strong>4525/4426 ACE:</strong> CT(DN)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -28628,7 +28628,7 @@
       "properties": {
         "name": "4458(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>122R/4458 ACE:</strong> CT(UP)",
         "colour": "#fff176",
         "equipment_number": [
           {
@@ -29101,7 +29101,7 @@
       "properties": {
         "name": "4452(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4451/4452 ACE:</strong> CT(UP)",
         "colour": "#fff176",
         "equipment_number": [
           {
@@ -29559,7 +29559,7 @@
       "properties": {
         "name": "4527(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4486/4527 ACE:</strong> KH(DN)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -29653,7 +29653,7 @@
       "properties": {
         "name": "4526(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>126N/4526 ACE:</strong> CT(UP)",
         "colour": "#fff176",
         "equipment_number": [
           {
@@ -29896,7 +29896,7 @@
       "properties": {
         "name": "4486(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>113R/4486 ACE:</strong> KH(DN)<br><strong>4486/4527 ACE:</strong> KH(DN)",
         "colour": "#bc8f5f",
         "equipment_number": [
           {
@@ -30011,7 +30011,7 @@
       "properties": {
         "name": "4531(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>113R/4531 ACE:</strong> KH(UP)",
         "colour": "#fff176",
         "equipment_number": [
           {
@@ -31339,7 +31339,7 @@
       "properties": {
         "name": "4521(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4522/4521 ACE:</strong> PN(DN), CT(UP)",
         "colour": "#bc8f5f",
         "equipment_number": [
           {
@@ -31510,7 +31510,7 @@
       "properties": {
         "name": "4516(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4516/4515 ACE:</strong> PN(DN)",
         "colour": "#aed581",
         "equipment_number": [
           {
@@ -31560,7 +31560,7 @@
       "properties": {
         "name": "4515(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4516/4515 ACE:</strong> PN(DN)",
         "colour": "#bc8f5f",
         "equipment_number": [
           {
@@ -33673,7 +33673,7 @@
       "properties": {
         "name": "4607(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4607/4608 ACE:</strong> HS(UP), HS(DN)<br><strong>4605/4607 ACE:</strong> HS(DN)<br><strong>4607/4609 ACE:</strong> HS(DN)",
         "colour": "#fff176",
         "section": "Central"
       },
@@ -33748,7 +33748,7 @@
       "properties": {
         "name": "4608(X)",
         "type": "Axle Counters",
-        "notes": "K type",
+        "notes": "K type<br><strong>4607/4608 ACE:</strong> HS(UP), HS(DN)<br><strong>4608/4610 ACE:</strong> HS(UP)",
         "colour": "#4fc3f7",
         "section": "Central"
       },
@@ -33775,7 +33775,7 @@
       "properties": {
         "name": "4609(X)",
         "type": "Axle Counters",
-        "notes": "K type",
+        "notes": "K type<br><strong>4607/4609 ACE:</strong> HS(DN)<br><strong>4609/4611 ACE:</strong> HS(DN)",
         "colour": "#bc8f5f",
         "section": "Central"
       },
@@ -33802,7 +33802,7 @@
       "properties": {
         "name": "4610(X)",
         "type": "Axle Counters",
-        "notes": "K type",
+        "notes": "K type<br><strong>4608/4610 ACE:</strong> HS(UP)<br><strong>4610/4612 ACE:</strong> HS(UP)",
         "colour": "#fff176",
         "section": "Central"
       },
@@ -33841,7 +33841,7 @@
       "properties": {
         "name": "4611(X)",
         "type": "Axle Counters",
-        "notes": "K type",
+        "notes": "K type<br><strong>4609/4611 ACE:</strong> HS(DN)<br><strong>4611/4613 ACE:</strong> HS(DN)",
         "colour": "#aed581",
         "section": "Central"
       },
@@ -33880,7 +33880,7 @@
       "properties": {
         "name": "4612(X)",
         "type": "Axle Counters",
-        "notes": "K type",
+        "notes": "K type<br><strong>4610/4612 ACE:</strong> HS(UP)<br><strong>4612/4614 ACE:</strong> HS(UP)",
         "colour": "#4fc3f7",
         "section": "Central"
       },
@@ -33915,7 +33915,7 @@
       "properties": {
         "name": "4613(X)",
         "type": "Axle Counters",
-        "notes": "K type",
+        "notes": "K type<br><strong>4611/4613 ACE:</strong> HS(DN)<br><strong>4613/4615 ACE:</strong> HS(DN)",
         "colour": "#bc8f5f",
         "section": "Central"
       },
@@ -33950,7 +33950,7 @@
       "properties": {
         "name": "4614(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid",
+        "notes": "Hybrid<br><strong>4612/4614 ACE:</strong> HS(UP)<br><strong>4614/4616 ACE:</strong> HS(UP)",
         "colour": "#4fc3f7",
         "section": "Central"
       },
@@ -33993,7 +33993,7 @@
       "properties": {
         "name": "4615(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid",
+        "notes": "Hybrid<br><strong>4613/4615 ACE:</strong> HS(DN)<br><strong>4615/4617 ACE:</strong> HS(DN)",
         "colour": "#aed581",
         "section": "Central"
       },
@@ -34036,7 +34036,7 @@
       "properties": {
         "name": "4616(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid",
+        "notes": "Hybrid<br><strong>4614/4616 ACE:</strong> HS(UP)<br><strong>4616/4618 ACE:</strong> HS(UP)",
         "colour": "#fff176",
         "section": "Central"
       },
@@ -34075,7 +34075,7 @@
       "properties": {
         "name": "4617(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid",
+        "notes": "Hybrid<br><strong>4615/4617 ACE:</strong> HS(DN)<br><strong>4617/4619 ACE:</strong> HS(DN)",
         "colour": "#bc8f5f",
         "section": "Central"
       },
@@ -34106,7 +34106,7 @@
       "properties": {
         "name": "4618(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid",
+        "notes": "Hybrid<br><strong>4616/4618 ACE:</strong> HS(UP)<br><strong>4618/4620 ACE:</strong> HS(UP)",
         "colour": "#4fc3f7",
         "section": "Central"
       },
@@ -34137,7 +34137,7 @@
       "properties": {
         "name": "4619(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid",
+        "notes": "Hybrid<br><strong>4617/4619 ACE:</strong> HS(DN)<br><strong>4619/4621 ACE:</strong> HS(DN)",
         "colour": "#aed581",
         "section": "Central"
       },
@@ -34168,7 +34168,7 @@
       "properties": {
         "name": "4628(X)",
         "type": "Axle Counters",
-        "notes": "Hybrid - K-type",
+        "notes": "Hybrid - K-type<br><strong>4626/4628 ACE:</strong> HS(DN)<br><strong>4628/4630 ACE:</strong> HS(DN)",
         "colour": "#4fc3f7",
         "section": "Central"
       },
@@ -34191,7 +34191,7 @@
       "properties": {
         "name": "4401(X)",
         "type": "Axle Counters",
-        "notes": "",
+        "notes": "<strong>4399/4401 ACE:</strong> BY(UP)",
         "colour": "#4fc3f7",
         "equipment_number": [
           {
