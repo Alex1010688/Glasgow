@@ -813,7 +813,7 @@
       lng: -5.035,
       zoom: 9
     };
-    const DATA_VERSION = "2026-09-28-eke-track-colours";
+    const DATA_VERSION = "2026-09-30-ace-notes";
     const SEARCH_SUGGESTION_LIMIT = 10;
     const SECTION_NAMES = [
       CENTRAL_SECTION,
@@ -1391,15 +1391,25 @@
       entries = entries
         .map(entry => {
           if (entry && typeof entry === "object") {
+            var aceValues = [];
+
+            if (Array.isArray(entry.aces)) {
+              aceValues = entry.aces;
+            } else if (entry.ace) {
+              aceValues = [entry.ace];
+            }
+
             return {
               number: entry.number || entry.equipment_number || "",
-              name: entry.name || entry.label || ""
+              name: entry.name || entry.label || "",
+              aces: aceValues.filter(Boolean)
             };
           }
 
           return {
             number: entry,
-            name: ""
+            name: "",
+            aces: []
           };
         })
         .filter(entry => !String(entry.name).toLowerCase().includes("stretcher"));
@@ -1477,6 +1487,10 @@
             ${linkText}
           </a>
         `;
+
+        if (entry.aces.length > 0) {
+          html += `<div class="popup-row"><strong>ACE</strong>: ${entry.aces.join(", ")}</div>`;
+        }
       }
 
       return html;
