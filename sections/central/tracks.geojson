@@ -21408,8 +21408,7 @@
         "equipment_number": [
           {
             "number": "7887613",
-            "name": "4332",
-            "ace": "MH(UP)"
+            "name": "4332"
           },
           {
             "number": "7887614",
@@ -21514,7 +21513,7 @@
         "name": "4334(X)",
         "type": "Axle Counters",
         "notes": "<strong>671R/4334 ACE:</strong> MH(UP)",
-        "colour": "#4fc3f7",
+        "colour": "#bc8f5f",
         "equipment_number": [
           {
             "number": "7887615",
@@ -21528,13 +21527,11 @@
           },
           {
             "number": "7887616",
-            "name": "4334/4335",
-            "ace": "MH(UP)"
+            "name": "4334/4335"
           },
           {
             "number": "7895381",
-            "name": "4334/4451",
-            "ace": "MH(UP)"
+            "name": "4334/4451"
           }
         ],
         "section": "Central"
@@ -21620,17 +21617,12 @@
           {
             "number": "7895380",
             "name": "4451/4552",
-            "aces": [
-              "MH(UP)
-            ]
+            "ace": "MH(UP)"
           },
           {
             "number": "7895381",
             "name": "4334/4451",
-            "aces": [
-              "KH(UP)",
-              "KH(DN)"
-            ]
+            "ace": "MH(UP)"
           }
         ],
         "section": "Central"
@@ -21778,8 +21770,7 @@
         "equipment_number": [
           {
             "number": "7890089",
-            "name": "4335/4411",
-            "ace": "MH(UP)"
+            "name": "4335/4411"
           },
           {
             "number": "7890088",
@@ -21817,8 +21808,7 @@
         "equipment_number": [
           {
             "number": "7887616",
-            "name": "4334/4335",
-            "ace": "MH(UP)"
+            "name": "4334/4335"
           },
           {
             "number": "7887622",
@@ -21832,8 +21822,7 @@
           },
           {
             "number": "7890089",
-            "name": "4335/4411",
-            "ace": "MH(UP)"
+            "name": "4335/4411"
           }
         ],
         "section": "Central"
@@ -22006,8 +21995,7 @@
         "equipment_number": [
           {
             "number": "7887608",
-            "name": "4301",
-            "ace": "MH(DN)"
+            "name": "4301"
           },
           {
             "number": "7887609",
@@ -23279,8 +23267,7 @@
           },
           {
             "number": "7890359",
-            "name": "4321",
-            "ace": "BH(DN)"
+            "name": "4321"
           }
         ],
         "section": "Central"
@@ -27576,8 +27563,7 @@
           },
           {
             "number": "7890090",
-            "name": "4435",
-            "ace": "MH(DN)"
+            "name": "4435"
           }
         ],
         "section": "Central"
@@ -29908,13 +29894,11 @@
           },
           {
             "number": "7889985",
-            "name": "4486/114N",
-            "ace": "KH(DN)"
+            "name": "4486/114N"
           },
           {
             "number": "7896031",
-            "name": "4486/114N",
-            "ace": "KH(DN)"
+            "name": "4486/114N"
           },
           {
             "number": "7896034",
@@ -30570,8 +30554,7 @@
         "equipment_number": [
           {
             "number": "7896021",
-            "name": "4480",
-            "ace": "KH(DN)"
+            "name": "4480"
           },
           {
             "number": "7896022",
@@ -31187,8 +31170,7 @@
         "equipment_number": [
           {
             "number": "7896314",
-            "name": "4541",
-            "ace": "KH(UP)"
+            "name": "4541"
           },
           {
             "number": "7896315",
